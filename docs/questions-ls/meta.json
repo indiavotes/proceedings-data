@@ -1,0 +1,27 @@
+{
+  "phase": "extract",
+  "corpus": "questions-ls",
+  "houses": [
+    "ls"
+  ],
+  "generated_at": "2026-05-18T18:01:40Z",
+  "elapsed_s": 3126.9,
+  "ls_walk_stats": {
+    "new": 243275,
+    "updated": 0,
+    "kept_legacy": 0
+  },
+  "rs_walk_stats": {},
+  "ls_extracted": 0,
+  "ls_failed": 0,
+  "ls_candidates": 243275,
+  "rs_extracted": 0,
+  "rs_failed": 0,
+  "rs_candidates": 0,
+  "budget": {
+    "max_ls_extractions": 50,
+    "max_rs_extractions": 25,
+    "max_run_seconds": 900
+  },
+  "rate_limited": false
+}

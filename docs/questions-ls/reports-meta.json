@@ -1,0 +1,403 @@
+{
+  "generated_at": "2026-05-18T18:01:31Z",
+  "shard_size": 2500,
+  "totals": {
+    "ls": 243275
+  },
+  "shards": {
+    "ls": [
+      {
+        "file": "reports-ls-00.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-01.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-02.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-03.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-04.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-05.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-06.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-07.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-08.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-09.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-10.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-11.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-12.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-13.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-14.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-15.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-16.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-17.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-18.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-19.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-20.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-21.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-22.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-23.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-24.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-25.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-26.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-27.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-28.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-29.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-30.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-31.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-32.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-33.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-34.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-35.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-36.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-37.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-38.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-39.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-40.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-41.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-42.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-43.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-44.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-45.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-46.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-47.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-48.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-49.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-50.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-51.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-52.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-53.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-54.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-55.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-56.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-57.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-58.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-59.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-60.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-61.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-62.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-63.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-64.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-65.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-66.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-67.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-68.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-69.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-70.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-71.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-72.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-73.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-74.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-75.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-76.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-77.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-78.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-79.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-80.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-81.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-82.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-83.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-84.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-85.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-86.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-87.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-88.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-89.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-90.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-91.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-92.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-93.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-94.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-95.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-96.json",
+        "count": 2500
+      },
+      {
+        "file": "reports-ls-97.json",
+        "count": 775
+      }
+    ]
+  }
+}
