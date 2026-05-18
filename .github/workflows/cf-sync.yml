@@ -57,11 +57,14 @@ jobs:
           ref: main
           fetch-depth: 1
 
-      - name: Skip if subtree is empty
+      - name: Skip if no real data yet
         id: check
         run: |
-          if [ -z "$(ls -A docs/${{ matrix.split }} 2>/dev/null)" ]; then
-            echo "subtree docs/${{ matrix.split }}/ is empty — skipping deploy"
+          # Deploy when meta.json or index.html exists (real data or
+          # placeholder). Skip when the subtree only has bookkeeping
+          # files like .gitkeep so we don't burn a CF deploy on nothing.
+          if [ ! -f docs/${{ matrix.split }}/meta.json ] && [ ! -f docs/${{ matrix.split }}/index.html ]; then
+            echo "no meta.json or index.html in docs/${{ matrix.split }}/ — skipping"
             echo "skip=true" >> "$GITHUB_OUTPUT"
           else
             echo "skip=false" >> "$GITHUB_OUTPUT"

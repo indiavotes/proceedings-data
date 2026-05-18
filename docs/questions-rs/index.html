@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>proceedings-data · questions-rs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 640px; margin: 80px auto; padding: 0 24px; color: #333; line-height: 1.6; }
+    code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-size: 0.92em; }
+    a { color: #2360a5; }
+  </style>
+</head>
+<body>
+  <h1>questions-rs</h1>
+  <p>This Cloudflare Pages project will serve the <code>questions-rs</code> split of the IndiaVotes <code>proceedings-data</code> repo: Indian parliamentary <code>questions-rs</code> records (titles, metadata, derived search indexes, text bundles).</p>
+  <p>First scrape hasn't landed yet. Once it does, the production endpoints under this domain will be:</p>
+  <ul>
+    <li><code>/meta.json</code> — corpus identity + totals + freshness</li>
+    <li><code>/reports-meta.json</code> — record-shard manifest</li>
+    <li><code>/reports-questions-NN.json</code> — sharded records (newest-first)</li>
+    <li><code>/manifest.json</code>, <code>/audit.json</code>, <code>/texts-NN.json</code></li>
+  </ul>
+  <p>Source: <a href="https://github.com/indiavotes/proceedings-data">indiavotes/proceedings-data</a></p>
+</body>
+</html>
