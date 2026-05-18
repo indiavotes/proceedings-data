@@ -1,0 +1,1950 @@
+Rajya Sabha
+List of Questions for WRITTEN ANSWERS
+to be asked at a sitting of the Rajya Sabha to be held on
+Wednesday, March 25, 2026/ 4 Chaitra, 1948 (Saka)
+(Ministries : Cooperation; Education; Fisheries, Animal Husbandry and Dairying;
+Home Affairs; Panchayati Raj; Road Transport and Highways; Skill Development and
+Entrepreneurship; Social Justice and Empowerment; Tribal Affairs; Women and
+Child Development)
+Total number of questions -- 160
+Cooperative credit architecture and financial stability
+3681 Shri Ashokrao Shankarrao Chavan:
+Dr. Anil Sukhdeorao Bonde:
+Shri Kesridevsinh Jhala:
+Smt. Sangeeta Yadav:
+Smt. Seema Dwivedi:
+Shri Mithlesh Kumar:
+Shri Shambhu Sharan Patel:
+Shri Narayana Koragappa:
+Shri Mokariya Rambhai:
+Shri Subhash Barala:
+Shri S. Selvaganabathy:
+Will the Minister of Cooperation be pleased to state:
+(a) the share of cooperative institutions in total agricultural credit disbursement over the last
+five years;
+(b) whether stress-testing of cooperative banks has been undertaken in coordination with
+RBI and NABARD;
+(c) if so, the details thereof;
+(d) whether a long-term recapitalisation or consolidation strategy for enhancement of the
+cooperative credit architecture is under consideration; and
+(e) if so, the details thereof?
+Digital empowerment of Primary Agricultural Credit Societies
+3682 Shri Ujjwal Deorao Nikam:
+Shri Narhari Amin:
+Smt. Kiran Choudhry:
+Dr. Anil Sukhdeorao Bonde:
+Dr. Parmar Jashvantsinh Salamsinh:
+Shri Tejveer Singh:
+Shri Narayana Koragappa:
+Shri Masthan Rao Yadav Beedha:
+Will the Minister of Cooperation be pleased to state:
+(a) the number of Primary Agricultural Credit Societies (PACS) that have successfully
+migrated to the common Enterprise Resource Planning (ERP)-based national software as
+966
+
+of March, 2026;
+(b) the measures taken to provide broadband connectivity and hardware (biometric
+devices, printers) to PACS in remote and hilly areas to ensure that the digital divide is
+bridged;
+(c) whether the National Cooperative Database (NCD) is now fully integrated with State-
+level Registrar of Cooperative Societies (RCS) portals through the newly released ‘Push
+APIs’ to ensure real-time data synchronization; and
+(d) if so, the details of the integration thereof?
+Competition among dairy cooperatives
+3683 Shri Mallikarjun Kharge:
+Will the Minister of Cooperation be pleased to state:
+(a) whether Government has collected or compiled data on inter-State expansion of dairy
+cooperatives during the last five years, including the number of cooperatives operating in
+more than one State and the volume of milk procured outside their home States;
+(b) State-wise details of procurement volumes, market share and retail presence of such
+cooperatives;
+(c) whether any assessment has been conducted on the impact of such inter-State
+competition on the financial viability and procurement capacity of district and State-level
+cooperatives and if so, the details thereof; and
+(d) the steps taken to strengthen cooperative federalism and safeguard the interests of
+local farmer-led cooperatives?
+Digital Integration of PACS
+3684 Shri Tiruchi Siva:
+Will the Minister of Cooperation be pleased to state:
+(a) whether it is a fact that 20 per cent of the Primary Agricultural Credit Society (PACS)
+are not live on Enterprise Resource Planning (ERP) softwares; and
+(b) steps being taken to improve computerisation of PACS and training individuals for better
+utilisation of the software?
+Increase in farmer's income through cooperation
+3685 Dr. Dharmasthala Veerendra Heggade:
+Will the Minister of Cooperation be pleased to state:
+(a) steps taken by Government to increase farmers' income through "Prosperity through
+Cooperation";
+(b) the salient features and objective of the Dairy Sahakar Yojana;
+(c) the number of dairy cooperatives supported under the yojana, State-wise; and
+(d) whether any proposal has been received from the State of Karnataka under the yojana
+and if so, the amount of financial assistance disbursed to dairy cooperatives in Karnataka
+during the last three years?
+Implementation of new Multipurpose PACS
+3686 # Shri Neeraj Shekhar:
+Will the Minister of Cooperation be pleased to state:
+(a) the provisions made by the Ministry for the implementation of the scheme regarding
+setting up new Multipurpose PACS/Dairy/Fisheries Cooperative Societies in each
+Panchayat;
+(b) the role of the States/concerned agencies with regard to the said scheme; and
+(c) the amount allocated for this scheme?
+967
+
+
+Vaikunth Mehta National Institute of Cooperative Management
+3687 # Shri Neeraj Shekhar:
+Will the Minister of Cooperation be pleased to state:
+(a) whether Vaikunth Mehta National Institute of Cooperative Management, Pune is also
+focused on research and consultancy activities in addition to education and training in the
+field of cooperatives; and
+(b) if so, the research and consultancy activities undertaken during the last three years, the
+details thereof?
+Benefits to members of NCEL and BBSSL
+3688 # Shri Baburam Nishad:
+Will the Minister of Cooperation be pleased to state:
+(a) whether there is a provision within the National Cooperative Exports Limited (NCEL) to
+distribute dividends to its members;
+(b) if so, the details thereof;
+(c) the benefits, other than dividends, available to the members of the Bharatiya Beej
+Sahakari Samiti Limited (BBSSL); and
+(d) whether the BBSSL provide additional benefits to its member farmers in the form of
+incentive schemes or bonuses?
+Features and technical aspects of PACS computerization software
+3689 # Smt. Sangeeta Yadav:
+Will the Minister of Cooperation be pleased to state:
+(a) the main features of the Enterprise Resource Planning (ERP) software used in Primary
+Agricultural Credit Society (PACS) computerization;
+(b) whether this software is also available in local languages so that rural employees can
+use it easily; and
+(c) whether it has an audit trail of financial transactions to ensure transparency?
+Sahakar Taxi Cooperative Ltd.
+3690 Shri Golla Baburao:
+Will the Minister of Cooperation be pleased to state:
+(a) the aims and objectives of newly created Sahakar Taxi Cooperative Ltd (STCL);
+(b) the number of drivers/vehicles registered with STCL as of 1st March, 2026;
+(c) to what extent Bharat Taxi is different from aggregators like Uber, Ola, etc; and
+(d) the details of sharing of money earned between driver, STCL and other agencies, if
+any?
+Computerization of the Office of Registrar Cooperative Societies (RCS)
+3691 # Shri Tejveer Singh:
+Will the Minister of Cooperation be pleased to state:
+(a) whether any centralized digital platform or integrated management system has been
+developed by Government for the computerization of Office of Registrar Cooperative
+Societies (RCS) across the country, if so, the details thereof;
+(b) the total funds approved, released and spent under this scheme till January, 2026 and
+the State-wise/UT-wise, details thereof; and
+(c) the number of States/UTs where computerization of RCS offices has been completed, is
+in progress and is still pending?
+968
+
+
+World’s Largest Grain Storage Plan in Cooperative Sector in Bihar
+3692 Shri Akhilesh Prasad Singh:
+Will the Minister of Cooperation be pleased to state:
+(a) the number of PACS in Bihar selected under the Grain Storage Plan launched in the
+year 2023;
+(b) the storage capacity created or under construction in Patna district;
+(c) the total funds allocated and utilised for cooperative-level storage infrastructure in the
+State; and
+(d) whether Government has assessed the impact of decentralised storage on reducing
+post-harvest losses and improving farmer incomes in Bihar?
+Integration of ERP software with State Services
+3693 # Dr. Dinesh Sharma:
+Will the Minister of Cooperation be pleased to state:
+(a) whether there is any plan to integrate the Enterprise Resource Planning (ERP) software
+being developed under the PACS Computerisation Project with the services provided by
+various States and other portals;
+(b) if so, the names of States where from proposals have been received so far by
+Government;
+(c) the portals of Government with which the software is being integrated for this purpose;
+and
+(d) the details of the benefits likely to be derived from such integration?
+Establishment of new Multipurpose PACS, dairy and fisheries cooperatives
+3694 # Shri Aditya Prasad:
+Will the Minister of Cooperation be pleased to state:
+(a) whether Government has approved any scheme for the establishment of new
+Multipurpose PACS, dairy and fisheries cooperative societies in uncovered Panchayats;
+(b) the State-wise details of the newly formed societies across the country, including the
+State of Jharkhand; and
+(c) the steps taken to ensure the smooth implementation of the scheme?
+Exclusion of West Bengal from new national cooperative initiative
+3695 Shri Samik Bhattacharya:
+Will the Minister of Cooperation be pleased to state:
+(a) whether Government has assessed the low participation of cooperative societies from
+West Bengal in new national initiatives such as Primary Agricultural Credit Society (PACS)
+expansion into 30+ business activities, Multi-State Cooperative Societies and cooperative
+startups;
+(b) the number of PACS and other cooperatives in West Bengal that have been onboarded
+for these new activities compared to other States; and
+(c) whether specific bottlenecks at the State level have been identified that are preventing
+West Bengal cooperatives from accessing these national programmes?
+Status of Government schools
+3696 # Dr. Sandeep Kumar Pathak:
+Will the Minister of Education be pleased to state:
+(a) the total number of sanctioned posts of teachers and the current vacancies in
+969
+
+
+Government schools across the country, State-wise details thereof;
+(b) the current Pupil-Teacher Ratio (PTR) at the primary, middle and secondary levels in the
+country and whether it is in accordance with the prescribed norms; and
+(c) the current status of basic facilities in Government schools, such as separate toilets for
+boys and girls, safe drinking water, electricity and digital labs/smart classrooms, details
+thereof?
+Education budget and expenditure
+3697 # Dr. Sandeep Kumar Pathak:
+Will the Minister of Education be pleased to state:
+(a) total budgetary provision and actual expenditure for the education sector in the years
+2023-24, 2024-25 and 2025-26 and the percentage thereof in GDP;
+(b) whether any action plan has been developed to increase expenditure on education to 6
+per cent of GDP under the NEP, 2020, and if so, the details thereof;
+(c) the number of teaching posts vacant as compared to the total sanctioned posts in
+Government schools in the country and the current status of student-teacher ratio; and
+(d) the concrete steps taken by Government to fill vacant faculty posts in higher education
+institutions, including Central Universities, IITs and IIMs?
+STEM and technical education in rural Raigarh
+3698 # Shri Dhairyashil Mohan Patil:
+Will the Minister of Education be pleased to state:
+(a) whether Government is aware of the lack of advanced STEM (Science, Technology,
+Engineering and Mathematics) laboratories in secondary schools in the rural talukas of
+Mahad and Poladpur;
+(b) if so, the details of funds allocated under the Samagra Shiksha Abhiyan for upgrading
+laboratories in rural schools in Raigarh district during the last three years; and
+(c) the steps taken to bridge the digital divide for students in the seismic mountainous areas
+of the Western Ghats in the Konkan region?
+Implementation and outcome monitoring under PM USHA
+3699 # Shri Shambhu Sharan Patel:
+Shri Mithlesh Kumar:
+Shri Brij Lal:
+Shri Kesridevsinh Jhala:
+Dr. Anil Sukhdeorao Bonde:
+Shri Deepak Prakash:
+Shri Mokariya Rambhai:
+Shri Tejveer Singh:
+Dr. Medha Vishram Kulkarni:
+Shri Subhash Barala:
+Shri S. Selvaganabathy:
+Shri Sadanand Mhalu Shet Tanavade:
+Shri Narhari Amin:
+Will the Minister of Education be pleased to state:
+(a) the present status of implementation of Pradhan Mantri Uchchatar Shiksha Abhiyan (PM
+USHA), including number of States/UTs onboarded, units approved and funds sanctioned
+and released so far;
+(b) the institutional and monitoring framework established at the Central and State levels for
+appraisal, evaluation and performance-based fund release;
+970
+
+
+(c) whether specific interventions have been approved for focus districts, underserved
+regions and New Model Degree Colleges; and
+(d) if so, the details thereof, including expected impact on access, equity and quality
+indicators in higher education?
+Levy of fees in Government schools despite RTE provisions
+3700 Shri S Niranjan Reddy:
+Will the Minister of Education be pleased to state:
+(a) whether Government is aware that despite the provisions of the Right to Free and
+Compulsory Education (RTE) Act, 2009, a Comprehensive Modular Survey on Education
+conducted by the NSSO (2025) has reported that around 27 per cent of students are
+paying course fees in Government schools at different levels of education;
+(b) whether it is a fact that about 8 per cent of students enrolled in grades I to VIII pay an
+average course fee of ₹229 per year in Government schools; and
+(c) if so, the steps taken by Government to ensure strict compliance with the RTE Act?
+Progress of STRIDE scheme
+3701 # Shri Mokariya Rambhai:
+Shri Deepak Prakash:
+Dr. Anil Sukhdeorao Bonde:
+Dr. Parmar Jashvantsinh Salamsinh:
+Will the Minister of Education be pleased to state:
+(a) the current status of implementation of the Scheme for Trans-disciplinary Research for
+India’s Developing Economy (STRIDE);
+(b) whether the initial three-year cycle for the institutions selected under Component-1 has
+been completed and whether the evaluation reports have been received;
+(c) if so, the details thereof including key findings in terms of research capacity
+enhancement, innovation and collaborative research outcomes;
+(d) whether any expansion, restructuring or additional components have been included
+under STRIDE to further strengthen trans-disciplinary research in higher educational
+institutions; and
+(e) if so, the details thereof?
+Slow learning and school dropouts
+3702 Shri Satnam Singh Sandhu:
+Will the Minister of Education be pleased to state:
+(a) whether Government has assessed the prevalence of slow learning and school
+dropouts;
+(b) the socio-economic factors contributing to dropouts; and
+(c) the targeted interventions being implemented to improve learning outcomes, student
+aspirations and retention?
+Rigged NIRF rankings through patent filing
+3703 Smt. Priyanka Chaturvedi:
+Will the Minister of Education be pleased to state:
+(a) whether the Ministry has examined concerns that National Institutional Ranking
+Framework (NIRF) patent metrics may incentivise volume of filings over quality, in light of
+low grant ratios for some institutions compared to higher grant rates in IITs;
+(b) whether current reimbursement norms for patent filings create perverse incentives in the
+absence of grant or commercialisation requirements;
+971
+
+
+(c) whether large disparities in filings across institutions have been reviewed against
+national and international grant benchmarks;
+(d) the extent of commercialisation of patents counted under NIRF; and
+(e) whether reforms are proposed to align rankings with granted patents, outcomes and
+commercial impact, if so, the timeline thereof?
+100 per cent GER at all levels of school education
+3704 Shri Mukul Balkrishna Wasnik:
+Will the Minister of Education be pleased to state:
+(a) whether it is a fact that Government aims at achieving 100 per cent Gross Enrolment
+Ratio (GER) at all levels of school education;
+(b) the details of GER at the primary education level, secondary and higher secondary
+grades;
+(c) whether Government has identified the reasons for low GER especially at the
+secondary and higher secondary grades; and
+(d) if so, the details thereof and steps taken by Government to ensure 100 per cent GER
+at all levels of school education?
+Policy for foreign university campuses
+3705 Shri Vivek K. Tankha:
+Will the Minister of Education be pleased to state:
+(a) the policy rationale for permitting foreign universities to establish offshore or branch
+campuses in the country and the regulatory framework governing their approval, academic
+standards, faculty norms and student protection;
+(b) the details of budgetary and non-budgetary support, grants or incentives, if any,
+extended to such institutions, along with eligibility criteria and conditions;
+(c) the safeguards to ensure affordability, fee transparency, scholarships and equitable
+access for Indian students; and
+(d) the oversight mechanisms in place to ensure quality assurance, inclusion and alignment
+with national education priorities?
+AICTE curriculum reforms for Industry 4.0
+3706 Shri Vivek K. Tankha:
+Will the Minister of Education be pleased to state:
+(a) whether Government acknowledges the findings of various "India Skills Reports" stating
+that less than 50 per cent of Indian graduates are employable;
+(b) the concrete steps taken to revise the curriculum of AICTE-approved technical
+institutions to include "Industry 4.0" components; and
+(c) the number of "Incubation Centres" in Higher Education Institutions (HEIs) that have
+successfully produced patent-holding startups in the last three years, State-wise?
+Infrastructure of colleges and universities in Maharashtra
+3707 Smt. Rajani Ashokrao Patil:
+Will the Minister of Education be pleased to state:
+(a) whether public universities and colleges in Maharashtra face infrastructure and faculty
+shortages;
+(b) funds allocated and utilised under central higher education schemes;
+(c) challenges faced by institutions in backward regions; and
+(d) reasons why regional disparities in higher education quality persist?
+972
+
+
+AMU Malappuram Centre
+3708 Shri Haris Beeran:
+Will the Minister of Education be pleased to state:
+(a) whether it is a fact that despite the Sachar Committee's mandate to establish the AMU
+Malappuram Centre specifically for the educational upliftment of regional minorities in
+Kerala and Lakshadweep, local student representation remains disproportionately low due
+to the structural barriers of the centralised admission policy;
+(b) if so, the reasons for permitting this demographic subversion of the Centre's
+foundational objective; and
+(c) if not, the specific legal impediment preventing the Ministry from amending the AMU
+statutes to implement a dedicated domicile reservation for Malayali and Lakshadweep
+students to fulfill the Centre’s original mandate?
+Regional language in KVs in Tamil Nadu
+3709 Dr. M. Dhanapal:
+Will the Minister of Education be pleased to state:
+(a) whether Government has examined concerns that many students born and raised in
+Tamil Nadu face academic barriers in Kendriya Vidyalayas where Tamil is not the medium of
+instruction;
+(b) if so, the details of consultations held by Government with parents, students and State
+authorities; and
+(c) the steps proposed to be taken by Government to address medium-of-instruction
+concerns and improve inclusivity for regional language learners in Kendriya Vidyalayas?
+Opening of Balwadi in schools
+3710 # Dr. Bhim Singh:
+Will the Minister of Education be pleased to state:
+(a) the current status of the programme to open Balwadis in schools;
+(b) the current status of the Vidya Pravesh programme; and
+(c) the current status of the programme to make teachers adaptable to phonetic teaching?
+HESPIS scheme
+3711 Smt. Geeta alias Chandraprabha:
+Will the Minister of Education be pleased to state:
+(a) the institutional arrangements and data governance standards adopted to ensure
+accuracy, consistency and timeliness of higher education statistics generated under Higher
+Education Statistics and Public Information System (HESPIS);
+(b) the manner in which coordination is being ensured with universities, colleges and State
+authorities for regular data submission and validation; and
+(c) whether any mechanism has been laid down to ensure effective use of HESPIS data for
+policy planning, performance review and addressing regional disparities in the higher
+education sector?
+Reform of engineering education and graduate employability
+3712 Dr. Ajeet Madhavrao Gopchade:
+Will the Minister of Education be pleased to state:
+(a) whether Government has examined the growing mismatch between the large annual
+output of engineering graduates and limited demand in core economic sectors, resulting in
+low employability and under-utilisation of skilled youth;
+973
+
+
+(b) whether studies and data from AICTE and industry bodies on poor quality, outdated
+curricula, faculty shortages and closure of sub-standard engineering institutions have been
+assessed;
+(c) whether Government proposes time-bound reforms under NEP, 2020 to rationalise
+intake, upgrade curriculum and faculty quality and strengthen industry-academia linkages;
+and
+(d) whether targeted measures are being implemented to improve employability, reduce
+student distress and align engineering education with national development priorities?
+Government school in Kushinagar
+3713 Shri Ratanjit Pratap Narain Singh:
+Will the Minister of Education be pleased to state:
+(a) the total number of Government schools in Kushinagar district selected for upgradation
+under the Prime Minister's Schools for Rising India (PM SHRI) scheme;
+(b) the specific physical and digital infrastructure improvements completed in these schools
+during the last academic year;
+(c) the details of central funds allocated, released and utilized by the district administration
+for these targeted schools;
+(d) the mechanism to ensure that PM SHRI schools in the district function as mentorship
+hubs for surrounding rural schools; and
+(e) the impact of these infrastructure upgrades on local student enrolment and retention
+rates?
+Scholarships and assistance provided by the Ministry
+3714 Dr. V. Sivadasan:
+Will the Minister of Education be pleased to state:
+(a) the number of new beneficiaries added each year during the last five years, scheme-
+wise, for Central Sector Scheme of Scholarship for College and University Students,
+National Means-cum-Merit Scholarship Scheme, Prime Minister’s Special Scholarship
+Scheme for Jammu & Kashmir and Ladakh, Central Sector Interest Subsidy Scheme for
+Education Loans and PM Vidyalaxmi Education Loan Scheme;
+(b) the total funds allocated, released and actually spent under each of the above schemes
+during the last five years, year-wise; and
+(c) the amount of funds that remained unspent or lapsed, scheme-wise, during the same
+period?
+Implementation of NEP, 2020 and holistic education vision
+3715 Dr. K. Laxman:
+Will the Minister of Education be pleased to state:
+(a) how the NEP, 2020 is reshaping the learning landscape to focus on critical thinking,
+foundational literacy and holistic development;
+(b) the transformation visible in schools adopting NEP-aligned pedagogy and competency-
+based learning; and
+(c) how students in Telangana will be benefitted from the policy's emphasis on mother
+tongue instruction and flexible subject choices?
+Decline in Government school enrolment
+3716 Shri Sant Balbir Singh:
+Will the Minister of Education be pleased to state:
+(a) key reasons identified by Government for a large number of children leaving
+974
+
+
+Government schools and moving to private schools;
+(b) whether any study, survey has been conducted to analyze causes of declining enrolment
+in Government schools and the findings of such studies; and
+(c) policy responses or corrective actions planned or implemented to retain students in
+Government schools, improve confidence among parents and make public education more
+attractive and competitive?
+Honorarium for Mid-Day Meal workers in schools
+3717 Dr. John Brittas:
+Will the Minister of Education be pleased to state:
+(a) current share of the Central Government in the monthly honorarium of mid-day meal
+workers and helpers in schools under PM POSHAN;
+(b) current actual contribution of State Governments in the monthly honorarium being paid
+to mid-day meal workers and helpers in schools under PM POSHAN;
+(c) State-wise and category-wise details thereof;
+(d) whether Union Government will take steps to increase its contribution in the honorarium
+of mid-day meal workers and helpers in schools, considering that several States, including
+Kerala, have already enhanced their share of the contribution on multiple occasions; and
+(e) if not, reasons therefor and details thereof?
+PM USHA reforms in Andhra Pradesh
+3718 Shri Masthan Rao Yadav Beedha:
+Will the Minister of Education be pleased to state:
+(a) whether timeline has been fixed for fund release and commencement of works for the
+seven universities approved under PM USHA in Andhra Pradesh and the current status of
+each;
+(b) whether a monitoring mechanism exists to ensure Universities, including Vikrama
+Simhapuri University, Nellore and Sri Padmavathi Mahila Visvavidyalayam, implement NEP-
+2020–aligned multidisciplinary reforms;
+(c) whether additional PM USHA funds are proposed for Andhra Pradesh to address
+infrastructure gaps, especially in underserved districts; and
+(d) whether guidelines based on the national workshop outcome report have been issued
+and how they are being implemented by State Universities in Andhra Pradesh?
+Professor posts for SC, ST and OBC categories in Central Universities
+3719 Prof. Manoj Kumar Jha:
+Will the Minister of Education be pleased to state:
+(a) the total number of sanctioned Professor, Associate Professor and Assistant Professor
+positions for SC, ST and OBC categories in Central universities as of the latest available
+date;
+(b) the number of vacant positions in each reserved category and the percentage of
+vacancy compared to general category vacancies;
+(c) the number of complaints of caste-based discrimination filed by SC/ST/OBC students
+and faculty in Central universities during the last five years, year-wise; and
+(d) the number of such complaints where disciplinary action was taken against the accused
+and the nature of action taken?
+Student distress during various important exams
+3720 Shri Parimal Nathwani:
+Will the Minister of Education be pleased to state:
+975
+
+
+(a) whether it is a fact that there are widespread reports of student distress during various
+important exams (CBSE Class 10, various State board exams, IIT/IIM/Medical entrance
+exams etc.) leading to emotional turmoil;
+(b) what measures Government is taking to reduce exam-related stress and improve
+mental health support for various students across the country; and
+(c) the details regarding the number of student deaths due to education related stress with
+suicide or in any other form of loss of student lives in the last three years, State-wise?
+PM SHRI schools in Telangana
+3721 Shri Ravi Chandra Vaddiraju:
+Will the Minister of Education be pleased to state:
+(a) the steps taken by Government to expand PM SHRI Schools across the country;
+(b) the number of schools selected under the PM SHRI scheme in Telangana; and
+(c) the expected impact of these schools in improving quality of education, digital
+infrastructure and skill development among students?
+Recognition of ancient languages as classical languages
+3722 # Shri Govindbhai Laljibhai Dholakia:
+Will the Minister of Education be pleased to state:
+(a) the number of ancient languages ​​in India currently been granted the status of classical
+language;
+(b) whether Government is giving special emphasis to classical languages ​​that preserve the
+country's ancient cultural heritage and whether it is continuously working to grant classical
+language status to more ancient languages; and
+(c) the details of special efforts being made by Government to encourage achievements in
+the field of classical languages?
+Drop-out rate in schools
+3723 Dr. Meenakshi Jain:
+Will the Minister of Education be pleased to state:
+(a) whether there is any data on the drop-out rate for boys and girls in schools;
+(b) if so, the details thereof, State-wise; and
+(c) the steps taken by Government to reduce the drop-out rates in schools, the details
+thereof?
+Promotion of regional languages
+3724 Shri Samirul Islam:
+Will the Minister of Education be pleased to state:
+(a) the details of the funds allocated and released towards the promotion of regional
+languages listed in the Eighth Schedule of the Constitution during last five years, year-wise
+and language-wise details thereof;
+(b) the details of the funds utilised towards the promotion of regional languages listed in the
+Eighth Schedule of the Constitution during last five years, year-wise and language-wise
+details thereof; and
+(c) the number of speakers for each of the regional languages listed in the Eighth Schedule
+and the details thereof?
+976
+
+
+Teacher vacancies in Government schools of Odisha
+3725 Smt. Sulata Deo:
+Will the Minister of Education be pleased to state:
+(a) whether the Ministry has taken any step to address teacher vacancies in Government
+schools of Odisha; and
+(b) if so, the current status and future recruitment plans?
+Drop in students reading and learning abilities
+3726 Shri Ryaga Krishnaiah:
+Will the Minister of Education be pleased to state:
+(a) whether Government has funded/sponsored any survey to gather data on children's
+reading, learning and arithmetic abilities;
+(b) if so, the details thereof and if not, the reasons therefor;
+(c) whether Government has assessed the differences in private and Government schools
+pertaining to this issue; and
+(d) if so, the details thereof and if not, the reasons therefor?
+Central educational schemes in Jammu and Kashmir
+3727 Shri Gulam Ali:
+Will the Minister of Education be pleased to state:
+(a) whether various Central developmental schemes are being implemented in the Union
+Territory of Jammu and Kashmir to strengthen school and higher education sectors,
+including Samagra Shiksha, PM SHRI and PM USHA;
+(b) the total funds allocated, released and utilized under these schemes during the last five
+financial years, along with district-wise details thereof; and
+(c) the steps taken to address infrastructure gaps, teacher vacancies, digital connectivity
+challenges and monitoring mechanisms to ensure effective implementation across rural,
+tribal and border districts of the Union Territory?
+Status of vacancies in NCTE
+3728 Shri Javed Ali Khan:
+Will the Minister of Education be pleased to state:
+(a) whether Government has advertised vacancies in National Council for Teachers'
+Education (NCTE) after withdrawal of directions of Department of School Education and
+Literacy during the meeting on NEP, 2020 to stop recruitment in NCTE;
+(b) if so, the details of advertisements issued and recruitment done against permanent
+posts in NCTE during last eight months;
+(c) if no recruitment has been done so far, the reasons therefor; and
+(d) by when all vacancies in NCTE are likely to be filled up with permanent posts?
+Separate department for teaching Tamil language in Central universities
+3729 Shri R. Girirajan:
+Dr. Kanimozhi NVN Somu:
+Will the Minister of Education be pleased to state:
+(a) whether Government has taken any step to create a Chair or separate department for
+teaching Tamil Language and doing research on Tamil as a classical language in all the
+Central universities and major universities in the country, if so, the details thereof, if not, the
+reason therefor;
+(b) whether Government has allocated funds for the Tamil Studies, Research and
+977
+
+
+propagation of Tamil Literature and if so, the details thereof and the funds allocated by
+Government for propagation of Tamil language studies, research and development; and
+(c) the measures taken by Government to teach Tamil as a Subject in schools and colleges
+across the country?
+Indigenous cattle population and productivity under RGM
+3730 Shri Ujjwal Deorao Nikam:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) the increase in indigenous cattle population and productivity under the Rashtriya Gokul
+Mission(RGM);
+(b) the number of Gokul Grams established and operational State-wise/UT-wise especially
+in the State of Maharashtra;
+(c) whether milk yield per animal has improved in mission-supported districts, and;
+(d) if so, the details of such improvement; and
+(e) the status of allocation of funds by the States?
+FPPOs in the country
+3731 Dr. Dharmasthala Veerendra Heggade:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) whether Government proposes to form Fish Farmers Producer Organizations (FFPOs)
+to ensure financial support and inclusive growth of genuine fishing communities, if so, the
+details thereof;
+(b) the details of such FPPOs formed in the country; and
+(c) the steps being taken by Government for strengthening fisheries based
+entrepreneurship in Karnataka?
+Substandard cattle feed
+3732 Smt. Sagarika Ghose:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) total number of manufacturers licensed to produce compounded cattle feeds along with
+category-wise (public/private) details thereof;
+(b) year-wise number of complaints received regarding sale of substandard or uncertified
+compounded cattle feed pellets during the last five years, along with State-wise details;
+(c) the number of such complaints disposed of, those pending and actions taken including
+inspections, seizures, fines imposed and prosecutions launched; and
+(d) whether the Ministry maintains data on health impacts on cattle due to substandard
+feeds, if so, the details thereof and if not, the reasons therefor?
+Expenditure for PMMSY
+3733 Shri Haris Beeran:
+Shri Shaktisinh Gohil:
+Smt. Ranjeet Ranjan:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) the year-wise details of the budget estimates and actual expenditure for the Pradhan
+Mantri Matsya Sampada Yojana (PMMSY) since Financial Year 2021-22;
+(b) reasons for the reduction in PMMSY allocation from BE ₹ 2,465 crore to RE ₹ 1,500
+crore in Financial Year 2025-26, along with major components where cuts were made;
+(c) the year-wise quantity and amount of fisheries export since Financial Year 2021-22 till
+date and whether programme was successful in achieving its target of increasing fisheries
+export earnings to ₹ 1 lakh crore by 2024-25; and
+978
+
+
+(d) the year-wise and State-wise/UT-wise number of fishers covered under PMMSY fisher
+insurance since Financial Year 2021-22?
+FIDF in Tamil Nadu
+3734 Dr. M. Thambidurai:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) the State-wise/UT-wise details of projects approved under the Fisheries and
+Aquaculture Infrastructure Development Fund (FIDF) during the last five years, including
+those in Tamil Nadu, along with their present status;
+(b) the number of projects completed so far and the sector-wise infrastructure created
+thereunder, including in Tamil Nadu;
+(c) the details of funds sanctioned, disbursed and utilized under FIDF from 2020-21 to
+2025-26, indicating Tamil Nadu’s share;
+(d) the new infrastructure components proposed during the extended period up to 2025-26,
+including proposals from Tamil Nadu; and
+(e) how FIDF complements the Pradhan Mantri Matsya Sampada Yojana (PMMSY) in
+promoting fisheries sector growth, particularly in Tamil Nadu?
+Free animal health camps
+3735 Shri Sandosh Kumar P:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) whether Government has set up any Free Animal Health Camps for farmers, herdsman
+and shepherd, stockman etc, in the last three years;
+(b) if so, details of these camps, State-wise, along with the dates and number and type of
+animals enrolled;
+(c) if not, reasons therefor; and
+(d) details of diseases identified, treatment, medicine, vaccines and tests provided to the
+animals?
+Fodder cost burden in Erode, Tamil Nadu
+3736 Shri Anthiyur P. Selvarasu:
+Will the Minister of Fisheries, Animal Husbandry and Dairying be pleased to state:
+(a) whether Government has assessed fodder cost burden and supply constraints for dairy
+farmers in Erode district, Tamil Nadu, including Bhavani and Gobichettipalayam areas facing
+price volatility;
+(b) if so, the details of Government fodder development support, subsidy utilisation,
+distribution mechanisms, beneficiary coverage and monitoring steps undertaken in Erode
+district; and
+(c) the measures proposed to be taken by Government to establish fodder banks,
+strengthen silage support and improve dairy farmer grievance handling systems in the said
+district?
+Operational Status of Garima Grehs
+3737 Ms. Swati Maliwal:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) total number of Garima Greh shelters operational, bed capacity, year-wise occupancy
+and year-wise number of beneficiaries over last five years, shelter-wise;
+(b) funds allocated, released and utilised for each shelter, including expenditure on food,
+healthcare, counselling and skill-development programs, State-wise and year-wise;
+(c) sanctioned staff positions versus in position, with role-wise vacancies and reasons for
+979
+
+
+shortfall;
+(d) number of NGO/CBO proposals received for new shelters, number approved, rejected
+or pending and reasons for delays;
+(e) number of beneficiaries rehabilitated, placed in employment or enrolled in skill
+programs, year-wise and State-wise; and
+(f) number of complaints received regarding safety, harassment, inadequate facilities,
+State-wise, including resolution status?
+Lack of gender-sensitive prison infrastructure
+3738 Shri S Niranjan Reddy:
+Will the Minister of Home Affairs be pleased to state:
+(a) whether it is a fact that less than one-third of prisons have functional women-specific
+facilities, including crèches, trained female staff and gender-sensitive rehabilitation
+programmes;
+(b) whether Government has taken note of deficiencies in childcare, legal aid, mental health
+and reproductive healthcare services for women inmates;
+(c) the steps taken to upgrade prison infrastructure and staffing to meet the specific needs
+of women prisoners, especially mothers; and
+(d) if not, the reasons for continuing with a largely punitive custodial framework instead of
+adopting a gender-responsive correctional approach?
+Strengthening of FSL in Odisha
+3739 Shri Manas Ranjan Mangaraj:
+Will the Minister of Home Affairs be pleased to state:
+(a) whether Government is supporting strengthening of State Forensic Science Laboratory
+(SFSL) and District Forensic Units in Odisha;
+(b) the funds released and progress made; and
+(c) the steps taken to reduce pendency of forensic reports in Odisha?
+Cyber crime cases and cyber policing support in Odisha
+3740 Shri Subhasish Khuntia:
+Will the Minister of Home Affairs be pleased to state:
+(a) whether Government has compiled data on the number of cyber crime cases reported
+in the State of Odisha during the last three years and if so, the details thereof;
+(b) whether the disposal and conviction rates in such cases have been assessed and if so,
+the findings thereof;
+(c) whether specialised cyber units and cyber forensic laboratories are available in the
+State and if so, the details thereof; and
+(d) whether any central support has been extended to strengthen cyber crime investigation
+and prevention mechanisms in Odisha and if so, the details thereof?
+National standard for bomb disposal system
+3741 Shri S.R. Sivalingam:
+Will the Minister of Home Affairs be pleased to state:
+(a) whether Government has formulated and notified the first national standard for bomb
+disposal systems with the objective of strengthening internal security infrastructure and
+standardising safety benchmarks across agencies dealing with explosive threats;
+(b) if so, the details of the scope, technical parameters and testing protocols prescribed
+under the notified standard, along with the role of Government in its development and
+validation; and
+980
+
+
+(c) the manner in which Government plans to ensure adoption of this standard by
+manufacturers and security agencies and its expected impact on operational preparedness
+and public safety?
+Questionnaire for the second phase of Census
+3742 Smt. Rajathi :
+Will the Minister of Home Affairs be pleased to state:
+(a) the detailed questionnaire for the second phase of Census including questions for caste
+enumeration;
+(b) the detailed step by step procedure followed for finalisation and notification of
+questions; and
+(c) whether the Ministry has circulated the draft of the questionnaire with State
+Governments for their feedback and comments?
+Narcotic drugs seized in Gujarat
+3743 # Shri Shaktisinh Gohil:
+Will the Minister of Home Affairs be pleased to state:
+(a) the quantity of narcotic drugs seized in Gujarat during the last three years, the details of
+these drugs;
+(b) the value of the seized narcotic drugs in the international market;
+(c) the number of cases in which offenders were apprehended in connection with the seized
+narcotic drugs; and
+(d) the recipient to whom the seized drugs were intended to be delivered ultimately and the
+number of cases found authentic, the details thereof?
+Tourism infrastructure in border villages
+3744 Shri R. Dharmar:
+Will the Minister of Home Affairs be pleased to state:
+(a) the features of Vibrant Villages Programme;
+(b) whether Government has planned to facilitate tourism infrastructure and amenities in
+border villages of the country through this programme;
+(c) if so, the details thereof;
+(d) the details of the funds estimated under this programme;
+(e) the details of the target likely to set under this programme;
+(f) whether Government has identified the villages likely to be covered under this
+programme across the country;
+(g) if so, the details thereof including Tamil Nadu; and
+(h) the time by when this scheme is likely to be implemented?
+Border infrastructure development
+3745 Dr. Vikramjit Singh Sahney:
+Will the Minister of Home Affairs be pleased to state:
+(a) the progress achieved under the Border Area Development Programme (BADP);
+(b) the number of projects approved in border States including Punjab;
+(c) the sectors covered under BADP such as roads, health, education and connectivity;
+(d) whether new infrastructure projects are proposed for villages along the India-Pakistan
+border; and
+(e) the steps taken to improve livelihood opportunities in border areas?
+981
+
+
+Welfare and housing support measures for Kashmiri migrant families
+3746 Shri Sat Paul Sharma:
+Will the Minister of Home Affairs be pleased to state:
+(a) the scope of welfare measures extended to Kashmiri migrant families under the
+Security-Related Expenditure (SRE) framework and the Prime Minister’s Development
+Package (PMDP) including access to food security, pensions and educational assistance;
+(b) the number of transit accommodation units approved under these initiatives;
+(c) the progress achieved in terms of construction and allotment of such transit
+accommodations so far;
+(d) whether any proposal is under consideration to augment housing support in identified
+districts to address remaining requirements; and
+(e) if so, the details thereof?
+Prison overcrowding and undertrial ratio
+3747 Shri Saket Gokhale:
+Will the Minister of Home Affairs be pleased to state:
+(a) the reasons why the undertrial population in Indian prisons remains chronically above 75
+per cent, despite the introduction of fast-track courts and digitized bail systems;
+(b) the status of the 'Support for Poor Prisoners' scheme; and
+(c) whether Government is considering a statutory cap on prison occupancy rates?
+Tourism diversification and eco-tourism development in Union Territories
+3748 # Smt. Darshana Singh:
+Will the Minister of Home Affairs be pleased to state:
+(a) whether Government has taken any concrete step to promote new types of tourism in
+the Union Territories;
+(b) whether Government has made any effort to promote the possibilities of eco-tourism in
+the island Union Territories; and
+(c) if so, the details thereof?
+Own Source Revenue capacity of Panchayats
+3749 Shri S. Selvaganabathy:
+Dr. Parmar Jashvantsinh Salamsinh:
+Smt. Kiran Choudhry:
+Shri Naresh Bansal:
+Shri Kesridevsinh Jhala:
+Shri Deepak Prakash:
+Shri Manan Kumar Mishra:
+Dr. Medha Vishram Kulkarni:
+Shri Narayana Koragappa:
+Shri Ujjwal Deorao Nikam:
+Shri Ryaga Krishnaiah:
+Will the Minister of Panchayati Raj be pleased to state:
+(a) whether the Ministry has conducted an assessment of Panchayats’ Own Source
+Revenue (OSR) capacity;
+(b) if so, the outcomes of such assessment;
+(c) whether digital property tax collection tools have been piloted;
+(d) if so, the details thereof;
+(e) whether fiscal incentives are being considered to encourage revenue mobilisation; and
+982
+
+
+(f) if so, the details of such incentives?
+Distribution of SVAMITVA property cards
+3750 # Shri Ghanshyam Tiwari:
+Will the Minister of Panchayati Raj be pleased to state:
+(a) the number of property cards distributed so far under the Survey Of Villages And
+Mapping With Improvised Technology In Village Areas (SVAMITVA) scheme, the State-wise
+details thereof;
+(b) the steps taken to ensure complete distribution of property cards in the remaining un-
+mapped villages;
+(c) details of the villages mapped through drone technology and the timeline for achieving
+complete coverage;
+(d) the contribution of the said scheme in reducing property disputes in rural areas; and
+(e) the extent of share of women beneficiaries recognized as owner or co-owner under
+SVAMITVA?
+Functioning Government college in Tamil Nadu
+3751 Dr. M. Dhanapal:
+Will the Minister of Education be pleased to state:
+(a) whether Government has assessed the impact of the ongoing agitation by guest
+lecturers on academic functioning in Tamil Nadu Government colleges;
+(b) if so, the details of representations received from faculty members and the response of
+the State authorities regarding their demands; and
+(c) the initiatives proposed to be taken by Government to safeguard the academic interests
+of students in these institutions?
+GPDPs on eGramSwaraj portal
+3752 Shri Mohammed Nadimul Haque:
+Will the Minister of Panchayati Raj be pleased to state:
+(a) the number of Gram Panchayats that have prepared and uploaded Gram Panchayat
+Development Plans (GPDPs) on eGramSwaraj portal during the last three years; and
+(b) the percentage of approved works actually completed within the financial year?
+e-Gram Swaraj and digital empowerment of Panchayats
+3753 # Shri Pradip Kumar Varma:
+Will the Minister of Panchayati Raj be pleased to state:
+(a) whether Government has achieved the target of completely digitizing the functions,
+financial transactions and monitoring of schemes of the Gram Panchayats of the country
+through e-Gram Swaraj Portal and Panchayat Enterprise Suite (PES), if so, the State-wise
+details thereof; and
+(b) the year-wise and State-wise details of Central assistance provided to Panchayats for
+strengthening their digital infrastructure during the last three years?
+Finance commission grants to PRIs in Karnataka
+3754 Shri G.C. Chandrashekhar:
+Will the Minister of Panchayati Raj be pleased to state:
+(a) the 15th Finance Commission grants allocated, released and utilised by PRIs in
+Karnataka from Financial Year 2021-22 to Financial Year 2024-25, year-wise;
+(b) the number of Gram Panchayats with utilisation below 75 per cent; and
+983
+
+
+(c) reasons recorded for under-utilisation?
+Artificial intelligence for traffic management and curbing road accidents
+3755 Ms. Swati Maliwal:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether AI-based technologies are being deployed for traffic management, including
+reduction of congestion, enforcement of traffic rules and prevention of road accidents;
+(b) if so, details of AI-enabled systems deployed, including their nature and scope, State-
+wise and city-wise, particularly in Delhi;
+(c) whether any assessment has been conducted on impact of such interventions on traffic
+violations, congestion and road accidents and if so, details thereof;
+(d) funds allocated and utilised for such systems during last three years, State-wise; and
+(e) steps taken or proposed to expand use of AI and data analytics for road safety and
+traffic management, especially in high-density urban areas?
+Delhi-Mumbai Expressway and high-speed corridors
+3756 Shri Ashokrao Shankarrao Chavan:
+Shri Kesridevsinh Jhala:
+Shri Mithlesh Kumar:
+Smt. Seema Dwivedi:
+Shri Mayankkumar Nayak:
+Dr. Medha Vishram Kulkarni:
+Dr. Parmar Jashvantsinh Salamsinh:
+Shri Ujjwal Deorao Nikam:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether the full Delhi-Mumbai Expressway corridor is now on track for completion by
+the revised June, 2026 deadline;
+(b) how the completion of the Delhi-Vadodara stretch by May, 2026 has reduced
+commercial travel time across five States;
+(c) what specific geographical challenges delayed the three remaining packages in Gujarat
+until the 2027-28 fiscal year; and
+(d) how much of the sanctioned budget remains unutilised following the recent resolution of
+land acquisition and utility shifting issues?
+Electric mobility for last-mile connectivity in urban and rural areas
+3757 # Shri Sanjay Kumar Jha:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the steps being taken under electric mobility to ensure last-mile connectivity in urban
+and rural areas;
+(b) the manner in which Government plans to integrate Hyperloop technology into the
+existing transport infrastructure;
+(c) the provisions in place to ensure safety, affordability and public acceptance of new
+technologies such as ropeways, sky buses etc.; and
+(d) the manner in which these green mobility projects will be financed and whether the
+provision for private sector participation is proposed in its implementation?
+984
+
+
+GNSS-based tolling and digital infrastructure
+3758 Shri S. Selvaganabathy:
+Dr. Medha Vishram Kulkarni:
+Smt. Kiran Choudhry:
+Shri Deepak Prakash:
+Shri Ashokrao Shankarrao Chavan:
+Shri Narayana Koragappa:
+Shri Narhari Amin:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) how the integration of Automatic Number Plate Recognition (ANPR) with AI-enabled
+cameras has reduced toll plaza wait times;
+(b) what specific timeline has been set for the 100 per cent nationwide rollout of satellite-
+based tolling;
+(c) whether the National Highway Fee Rules have been amended to allow real-time toll
+deduction based on exact distance traveled;
+(d) if so, the details thereof; and
+(e) how much fuel savings are projected annually once physical barriers are eliminated
+across the 50,000-kilometer highway network?
+Road accidents on National Highways
+3759 Shri Derek O' Brien:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the number of accidents and fatalities on National Highways (NHs) during the last five
+years, year-wise and State-wise details thereof;
+(b) the number of cases where the National Highways Authority of India (NHAI) was held
+liable for accidents and fatalities, year wise data during the last five years; and
+(c) the compensation paid for such accidents during the last five years, year-wise details
+thereof?
+Toll plazas and public grievances in Odisha
+3760 Shri Manas Ranjan Mangaraj:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the number and location of toll plazas operational on National Highways in Odisha;
+(b) whether complaints have been received regarding overcharging, poor service roads and
+congestion; and
+(c) the action taken against concessionaires for violations?
+Expressway projects passing through Gujarat and Maharashtra
+3761 Shri Babubhai Jesangbhai Desai:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether any expressway projects passing through the States of Maharashtra and
+Gujarat are presently under survey, feasibility study or detailed project report preparation
+stage under the Bharatmala Pariyojana or any other national highway development
+programme;
+(b) if so, the details of such proposed expressway corridors, including their tentative length,
+estimated cost and the districts likely to be covered in the said States;
+(c) whether Government proposes to accord priority to these projects with a view to
+improve regional connectivity, boosting industrial growth and facilitating faster movement of
+goods and passengers; and
+(d) the likely timeline for finalisation and commencement of these projects?
+985
+
+
+Implementation of Vehicle Scrappage Policy
+3762 Shri Babubhai Jesangbhai Desai:
+Dr. Ashok Kumar Mittal:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether Government has examined concerns that Vehicle Scrappage Policy may
+disproportionately affect small and low-income transport operators by requiring the
+scrapping of older vehicles despite their roadworthiness and emission fitness;
+(b) the reasons for adopting an age-based scrappage framework instead of relying
+primarily on stringent computerized emission and fitness testing;
+(c) the present status and State-wise availability of Automated Testing Stations and the
+compensation or incentives offered to vehicle owners;
+(d) whether Government has assessed the financial burden on small operators who are
+unable to immediately replace vehicles; and
+(e) the corrective steps proposed to ensure fairness and sustainability?
+Contributions by State Governments to NHAI
+3763 Dr. Kanimozhi NVN Somu:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the State-wise details of contribution made by State Governments to the National
+Highways Authority of India (NHAI) during the last five years, including financial
+contributions, land or right-of-way support, cost-sharing and other in-kind inputs, year-wise;
+and
+(b) the details of any reimbursement, adjustment or settlement made by the Ministry in
+respect of such contribution, State-wise?
+Grievance redressal mechanisms for E-challan
+3764 Shri K.R. Suresh Reddy:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the details of the number of e-challans that have been issued by traffic cameras during
+the last three years, year-wise, State-wise;
+(b) the details of the number of e-challans that have been issued manually by officers
+during the last three years, year-wise, State-wise;
+(c) steps taken to avoid arbitrary and excessive abuse of power by officers who might
+issue ‘unjust’ e-challans;
+(d) whether there exists any grievance redressal mechanisms for contesting unjust and
+unfair challans outside of courts;
+(e) if so, details thereof and the details of the number of complaints filed in the last three
+years, year-wise; and
+(f) if not, reasons therefor?
+Amendments in Motor Vehicle (Amendment) Act, 2019
+3765 # Shri Neeraj Dangi:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether Government is planning to make any amendment to the Motor Vehicle
+(Amendment) Act, 2019 to improve road safety in the country;
+(b) if so, the details thereof;
+(c) whether Government has received any suggestion from stakeholders on the published
+draft;
+(d) whether any amendment has been made in the Section 112 which deals with limits of
+986
+
+
+speed; and
+(e) if so, the details thereof?
+Launching of National Road Safety Board
+3766 # Shri Neeraj Dangi:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether in 2023, the Ministry published the final notification for constituting the National
+Road Safety Board and Government notified the National Road Safety Board Rules, 2025
+under GSR 795(E) on 27 October, 2025;
+(b) if so, by when this National Road Safety Board would become fully operational; and
+(c) the details thereof?
+Bharatmala Pariyojana
+3767 Shri Bhubaneswar Kalita:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) how the new four-lane highway (Package-II) between Dimapur and Kohima in Nagaland
+will improve connectivity between these two districts;
+(b) the details of other major commercial centres in the State;
+(c) the expected completion date for this stretch and the standards agreed upon; and
+(d) the measures which are being implemented to ensure that the project meets quality
+cost effectiveness and sustainability standards?
+Status of key roads, tunnels and highways in Jammu and Kashmir
+3768 Shri Sajjad Ahmad Kichloo:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the present status, DPR, tendring, land acquisition, environment and security
+clearances, funds sanctioned and released, work awarded and timeline fixed for each
+project with reference to the Sudhmahdev-Chennai Tunnel, Singhpora-Vailoo Tunnel, Peer-
+ki-Gali Tunnel, Chanjer-Bonda tunnel, Chaidraman-Warwan Tunnel, Padder- Zanskar Road
+and Doda-Dessa-Kapran road projects; and
+(b) the reasons for delay in widening the Batote-Doda-Kishtwar National Highway, including
+issues of land acquisition, slope stabilization, retaining walls, contractor performance and
+weather constraints and the corrective measures taken along with revised completion
+schedules?
+Sadhna pass (Tangdhar–Karnah) tunnel project
+3769 Shri Chowdry Mohammad Ramzan:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the status of the Sadhna Pass (Tangdhar–Karnah) tunnel project aimed at ensuring
+uninterrupted road access to Tangdhar and Karnah regions of Kupwara district, where
+winter isolation severely affects healthcare, education, trade and security; and
+(b) the timelines for completion under the Bharatmala Pariyojana or other infrastructure
+schemes to mitigate hardship faced by border communities?
+Highway infrastructure development in Haryana
+3770 Smt. Rekha Sharma:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether the Delhi-Mumbai Expressway corridor, a major national infrastructure project
+passing through Haryana, is on track for completion by the revised June, 2026 deadline;
+987
+
+
+(b) the extent to which the operationalisation of key stretches passing through Haryana has
+reduced travel time, logistics costs and congestion for commuters and commercial
+transport in the State;
+(c) the expected economic benefits for industrial clusters, logistics parks and agricultural
+supply chains in Haryana; and
+(d) the details of the Central Government investment in highway infrastructure development
+in Haryana during the last three years?
+Use of rear seat belt in four wheelers
+3771 Shri C. Ve. Shanmugam:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether it is a fact that the rear seat belt usage in four wheelers is woefully low;
+(b) if so, the details thereof;
+(c) whether the rules are in existence about the use of rear seat belts;
+(d) if so, the details thereof and the status of implementation of such a rule across the
+country;
+(e) whether Government proposes to create awareness about the use of rear seat belts;
+(f) if so, the details thereof; and
+(g) action taken by Government in this regard?
+Maintenance and quality audits of National Highway
+3772 Shri A. D. Singh:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether regular audits are conducted to ensure the quality of highways and bridges;
+(b) the details of any deficieny detected and actions taken against defaulting contractors;
+and
+(c) whether Government propose to introduce new technologies such as drones or sensors
+for quality monitoring?
+Pending road projects in Tamil Nadu
+3773 Shri P. Wilson:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the current progress, original cost, revised cost and expected date of completion of the
+Arakkonam–Kancheepuram (Package-III) and Kancheepuram–Sriperumbudur (Package-IV)
+stretches of the Bengaluru–Chennai Expressway, Mamallapuram–Mugaiyur (Package-I)
+and Mugaiyur–Marakkanam (Package-II) on NH-332A, Sattanathapuram–Nagapattinam on
+NH-45A, Walajahpet/Ranipet–TN/AP Border on NH-40 and Chennai Port–Maduravoyal
+Elevated Corridor;
+(b) the reasons for delay, including land acquisition, environmental/statutory clearances,
+technical or financial constraints of concessionaires; and
+(c) whether project costs have been revised due to delays and the quantum of escalation
+and the steps taken to resolve bottlenecks, fix accountability and ensure time-bound
+completion?
+Maintenance of road quality
+3774 Dr. Laxmikant Bajpayee:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether the bad condition of road is due to a combination of poor construction quality,
+inadequate maintenance and corruption;
+(b) whether it is also a fact that contractors are cutting corners on materials i.e. using low-
+988
+
+
+grade material/bitumen, there are inadequate drainage systems, situation of over-loaded
+vehicles and frequent uncoordinated utility trenching; and
+(c) if so, in what manner Government propose to eliminate these factors and improve
+quality of Indian roads to make them long lasting?
+Toll-free roads and toll policy
+3775 Shri I.S. Inbadurai:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether Government has undertaken any assessment of the number and length of
+National Highways and expressways that are currently toll-free across the country, if so,
+State-wise details thereof;
+(b) whether Government has any proposal to increase the number of toll-free road
+stretches, particularly in rural and semi-urban areas, to reduce travel costs and improve
+connectivity for local commuters, if so, details thereof; and
+(c) whether guidelines exist regarding conditions under which toll plazas may be removed or
+toll collection discontinued after recovery of project costs from road users, if so, details of
+such policy provisions?
+Registration of new vehicles and resultant pollution in Delhi-NCR
+3776 # Shri Ramji Lal Suman:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the number of new vehicles registered in Delhi-NCR during the last three years and the
+quantum of pollution being caused by them in Delhi-NCR; and
+(b) whether Government propose to introduce a separate policy for vehicle registration in
+Delhi-NCR to help in controlling pollution?
+Cashless treatment for road accident victims
+3777 Shri K.R.N. Rajeshkumar:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the current operational status of PM-RAHAT (Road Accident Victims’ Hospitalisation and
+Assured Treatment) scheme across National Highways;
+(b) the total number of accident victims who have benefited from the ₹1.5 lakh cashless
+treatment facility since its nationwide rollout in February, 2026;
+(c) the details of the "Grievance Redressal Officers" appointed at the district level to
+ensure that hospitals do not deny treatment under this scheme; and
+(d) the budgetary allocation for the Motor Vehicle Accident Fund (MVAF) to cover "Hit and
+Run" cases where the offending vehicle remains unidentified?
+National Highway projects in Uttarakhand
+3778 # Shri Mahendra Bhatt:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether Government is preparing any special time-bound plan to expedite the
+completion of incomplete National Highway projects such as NH-135C in the mountainous
+regions of Uttarakhand; and
+(b) if so, the details thereof?
+Regulation on honking and vehicle horn standards
+3779 Shri Abdul Wahab:
+Will the Minister of Road Transport and Highways be pleased to state:
+989
+
+
+(a) whether Government has taken cognisance of the growing problem of excessive and
+unnecessary honking in urban areas and its impact on noise pollution and public health;
+(b) the existing legal decibel limits prescribed for vehicle horns and the enforcement
+mechanism in place;
+(c) whether any assessment has been conducted on compliance by vehicle manufacturers
+with prescribed horn standards;
+(d) whether Government proposes stricter penalties for misuse of horns; and
+(e) whether mandatory low-decibel or smart horn systems will be introduced to curb noise
+pollution at source?
+Construction of new National Highways in Bihar
+3780 # Shri Sanjay Yadav:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether as compared to rest of country, expansion of National Highways (NHs) in Bihar
+is progressing at nearly half the pace and per one lakh population, the length of National
+Highways in Bihar is only 4.54 kilometers, significantly lower than national average;
+(b) reasons for growth of NHs in Bihar being only 36 percent during last five years;
+(c) reasons for significantly lower length of NHs in Bihar compared to national average; and
+(d) whether any special action plan and timeline has been fixed for Bihar for construction of
+more than 6,300 kilometers of new NHs required to meet national average?
+Transparency and public disclosure of toll concession agreements and collections
+3781 Shri Sanjay Raut:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) whether Government will place in the public domain, all concession agreements
+executed with private toll operators, including project cost, concession period, traffic
+projections, rate escalation formula, revenue-sharing terms and penalty clauses;
+(b) the project-wise details of cumulative toll collected vis-à-vis sanctioned project cost and
+approved return and whether any toll plazas continue to collect toll beyond recovery of cost
+and agreed returns;
+(c) the number of contract renegotiations undertaken during the last five years and their
+financial implications; and
+(d) whether independent audits of toll collections have been conducted and if so, whether
+such audit reports will be made public?
+Road infrastructure development and connectivity enhancement in Goa
+3782 Shri Sadanand Mhalu Shet Tanavade:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the details of all National Highway and major road infrastructure-projects sanctioned,
+underway or completed by the Ministry in Goa during last five years, including total project
+lengths, objectives and year-wise commencement and completion;
+(b) the budgetary allocation and actual expenditure for each of these projects during the
+above period, with a head-wise breakup of funds released under successive Union Budgets
+and Centrally Sponsored Schemes; and
+(c) whether the Ministry has considered innovative interventions such as ring roads,
+bypasses, grade-separated interchanges or eco-sensitive alignments to further enhance
+connectivity, reduce travel time and minimize environmental impact in sensitive-areas of the
+State, if so, the details thereof?
+990
+
+
+Land acquisition and compensation under Bharatmala Pariyojana
+3783 Smt. Phulo Devi Netam:
+Will the Minister of Road Transport and Highways be pleased to state:
+(a) the total land required and land acquired for projects under Bharatmala Pariyojana
+during last five years, State-wise and project-wise, as on date;
+(b) State-wise and year-wise total compensation assessed and disbursed for such land
+acquisition;
+(c) the number of cases where compensation or rehabilitation and resettlement payments
+remain pending beyond statutory timelines under the Right to Fair Compensation and
+Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013; and
+(d) whether any review has been conducted on cost escalation in Bharatmala projects due
+to delays in land acquisition and the project-wise extent of such escalation?
+Regulatory standards for private affiliated training partners
+3784 # Shri Sanjay Kumar Jha:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the steps taken to ensure uniform regulatory standards for private training partners
+affiliated with the National Skill Development Corporation (NSDC);
+(b) the manner in which the Ministry monitors the authenticity of placement data submitted
+by private skill centres under various Government schemes;
+(c) the quality assurance protocols in place to verify the credibility of skill certificates issued
+by private partners; and
+(d) the Ministry's proposals to expand the monitoring mechanism to prevent malpractices in
+private skill institutions?
+Emerging skills integration under PMKVY 4.0 in Bihar
+3785 # Shri Shambhu Sharan Patel:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the current status of implementation of Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+4.0, including details of sectoral coverage and geographical expansion;
+(b) the provisions made under the scheme to include customised and future skill-based job
+roles in emerging sectors;
+(c) the details of the institutional mechanism supporting PMKVY 4.0, including the details of
+participation and utilisation of funds;
+(d) whether convergence with other national flagship schemes has been implemented to
+align skill development with regional priorities; and
+(e) if so, the details thereof?
+Entrepreneurship training and self-employment
+3786 # Shri Pradip Kumar Varma:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the number of youths benefited from entrepreneurship development programs;
+(b) the percentage of trained beneficiaries who have started self-employment;
+(c) the amount of central assistance provided for entrepreneurship training; and
+(d) the targets for expanding self-employment and startup skills in future?
+Skill training and global employability
+3787 Dr. Sikander Kumar:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+991
+
+
+(a) whether the Directorate General of Training has signed Flexi-MoU with Bajaj Auto Ltd.
+for advanced automotive manufacturing training and if so, the details thereof;
+(b) the steps taken to ensure that training in Mechatronics and Advanced Welding aligns
+with National Skills Qualification Framework to enhance global employability;
+(c) the measures taken to address infrastructural challenges in setting modern skilling
+centres in high-altitude areas of Himachal Pradesh; and
+(d) the steps taken to support women entrepreneurs through newly announced initiative to
+ensure market access for Himachal’s traditional handicrafts and textile clusters?
+AI training for youth
+3788 Shri Rajeev Shukla:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) whether Government has undertaken any research regarding the need for AI related
+technology training for youth in the country, if so, the details thereof;
+(b) details of specific AI programmes launched along with total number of youth enrolled
+during the last five years in the country, year-wise/State-wise, particularly from
+Chhattisgarh;
+(c) details regarding the funds allocated and utilized for AI and programmes during the last
+five years, State-wise, especially in Chhattisgarh; and
+(d) details regarding the steps undertaken to ensure that training programmes are aligned
+with industry needs and provide employable skills for youth in the AI and tech sectors?
+Regulations on OJT for ITI trainees
+3789 Shri Jaggesh:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) whether Government has recently notified new norms under the Craftsmen Training
+Scheme (CTS) requiring ITI trainees to complete 150 hours of On-the-Job Training (OJT)
+as part of their course;
+(b) whether these norms direct State Governments and Union Territories to arrange or
+facilitate transport and accommodation support for trainees undergoing OJT outside their
+institutes;
+(c) whether the Ministry’s guidelines advise institutes or State directorates to provide
+accidental insurance or safety coverage to trainees during the OJT period; and
+(d) whether the revised CTS guidelines have reduced classroom training hours from 1,500
+to 1,200 hours while introducing mandatory practical industry exposure?
+Skill training in the State of Rajasthan
+3790 # Shri Rajendra Gehlot:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) whether Government possesses any data regarding the total number of individuals who
+received skill training under various Central and Centrally Sponsored Schemes in the State
+of Rajasthan during the last three years and the current financial year, if so, the district-
+wise details thereof;
+(b) the district-wise details of the number of individuals securing employment out of those
+trained under the the said schemes; and
+(c) the district-wise details regarding the amount of financial assistance provided under the
+said schemes in the State of Rajasthan during the said period?
+992
+
+
+ITI in Belagavi
+3791 Shri Iranna Kadadi:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the progress in upgrading the infrastructure and curriculum of Industrial Training
+Institutes (ITIs) in Belagavi;
+(b) whether the introduction of new-age courses in machining, foundry operations and IoT
+has increased student enrolment;
+(c) the details of central funds utilized to equip these ITIs with modern laboratories in 2025-
+26;
+(d) the positive impact of mandatory industry tie-ups on improving campus placement rates
+for ITI graduates; and
+(e) the steps taken to promote dual-system training where students divide learning between
+the ITI and the factory floor?
+Drone skill development and training initiatives
+3792 Shri Sujeet Kumar:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) whether the Ministry, in collaboration with the Ministry of Civil Aviation, has initiated any
+specialised programmes for drone pilot training and related skills under initiatives such as
+Drone Shakti and Namo Drone Didi;
+(b) whether Government has sent any target for certified drone pilots and technicians to be
+trained by 2025 and the current progress made towards achieving these targets; and
+(c) the steps taken to ensure affordable access to drone training for rural and semi-urban
+youth, including financial assistance or incentives?
+Craftsmen Training Scheme
+3793 Dr. Sumer Singh Solanki:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) whether the Craftsmen Training Scheme (CTS) has been strengthened during the last
+three years to improve enrolment, course completion and placement outcomes of trainees
+in Industrial Training Institutes (ITIs);
+(b) whether the introduction of New Age trades under the ITI framework is aligned with
+emerging skill requirements in areas such as artificial intelligence, telecommunications,
+drones, cybersecurity, semiconductors and green energy;
+(c) the steps taken to augment institutional and trainer capacity, including ITI upgradation
+and instructor certification; and
+(d) whether Government proposes to further expand ITI capacity or introduce additional
+future-oriented trades and if so, the details thereof?
+Status of PM-SETU pilot project
+3794 Shri Rajinder Gupta:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the current status of PM-SETU pilot project approved in Financial Year 2025–26,
+including number of hub and spoke centres sanctioned, constructed and operational;
+(b) States and UTs where pilot project has been implemented, along with details of districts
+and centres covered;
+(c) number of beneficiaries trained under the pilot project, State-wise/UT-wise, district-wise
+and course-wise;
+(d) funds allocated, released and utilised for pilot project, along with reasons for any
+underutilisation of funds; and
+993
+
+
+(e) key learnings and challenges identified from the pilot project and steps being considered
+for scaling up PM-SETU nationally in subsequent years, including any proposed
+modifications based on pilot outcomes?
+Implementation of Pradhan Mantri Kaushal Vikas Yojana
+3795 Smt. Jebi Mather Hisham:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) year-wise details of total expenditure under the Pradhan Mantri Kaushal Vikas Yojana
+(PMKVY) during last five years, including central assistance and utilisation;
+(b) State-wise/UT-wise data for the last five years on candidates trained, certified and
+those who received the ₹500 Direct Benefit Transfer (DBT) under the scheme;
+(c) whether all eligible candidates have received DBT benefits under PMKVY, the number of
+pending cases and the expected timeline for completion;
+(d) whether Government has conducted district or sector-level skill gap assessments to
+guide training programmes under PMKVY; and
+(e) details of mechanisms to track employment outcomes of candidates trained under
+PMKVY?
+Labour market demand and low industry participation
+3796 Smt. Renuka Chowdhury:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) whether Government has assessed the mismatch between sectors where training is
+provided under Pradhan Mantri Kaushal Vikas Yojana (PMKVY) and sectors where actual
+labour demand exists, in view of projections that over 60 per cent of job demand is in
+sectors such as construction, logistics and hospitality;
+(b) whether the apparel sector alone accounts for about 28.4 per cent of total certifications
+under PMKVY despite relatively weak job growth in that sector;
+(c) the sector-wise number of persons trained, certified and placed in jobs under PMKVY
+during the last five years; and
+(d) whether limited industry participation in curriculum design, financing and certification has
+affected employability outcomes?
+Implementation of PM-SETU for modernization of ITIs
+3797 # Shri Brij Lal:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the current status of the implementation of Pradhan Mantri Skilling and Employability
+Transformation through Upgraded ITIs (PM-SETU), including details of the phased
+implementation and the coverage of selected Government Industrial Training Institutes
+(ITIs) under the Hub and Spoke model;
+(b) the details of the institutional framework adopted for the establishment and
+operationalization of Special Purpose Vehicles (SPVs) with anchor industry partners for the
+co-management of ITI clusters; and
+(c) the methodology adopted for curriculum restructuring and the introduction of new trades
+in alignment with labour market demands and the regional potential of the States?
+NAMASTE scheme in Konkan
+3798 # Shri Dhairyashil Mohan Patil:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) the district-wise number of total deaths during sanitation work in the Konkan region of
+Maharashtra during the last five years;
+994
+
+
+(b) the district-wise details of funds sanctioned and released under the "National Action for
+Mechanised Sanitation Ecosystem (NAMASTE)" scheme during the last five years for the
+Konkan region;
+(c) the total number of persons trained in mechanized sanitation during last five years, the
+district-wise details for the Konkan region; and
+(d) the district-wise details of the total number of Personal Protective Equipment (PPE) kits
+distributed in the Konkan region?
+Tribunals under MWPSC Act, 2007
+3799 Shri Mallikarjun Kharge:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) the number of Tribunals and Appellate Tribunals set up at Sub-Division and District
+levels under the Maintenance and Welfare of Parents and Senior Citizens Act, State-wise
+and year-wise during the last five years;
+(b) the number of cases brought forward, cases filed, cases disposed and cases pending
+during the same period, State-wise and year-wise; and
+(c) out of the total settled cases, the number of petitioners actually receiving allowances on
+time as per the orders of the Tribunals, State-wise and year-wise during the last five
+years?
+Implementation of the SMILE scheme
+3800 Shri Derek O' Brien:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) number of individuals targeted, identified and rehabilitated under the Support for
+Marginalized Individuals for Livelihood and Enterprise (SMILE) scheme as on date, State-
+wise/UT-wise;
+(b) the number of identified persons engaged in begging; and
+(c) whether a review is underway to strengthen outreach, implementation and fund
+utilisation under the scheme?
+Post-Matric scholarship scheme
+3801 Shri Satnam Singh Sandhu:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) the funds allocated and released annually under the Post-Matric scholarship scheme for
+SC students;
+(b) the number of beneficiaries covered in the last five years, State-wise; and
+(c) the steps taken to ensure timely disbursal and prevent delays or exclusions?
+PM-AJAY Scheme
+3802 Dr. Kavita Patidar:
+Dr. Sumer Singh Solanki:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether the Ministry has assessed the progress made under the PM-AJAY across its
+three components;
+(b) if so, details of the State-wise allocation and utilisation of funds under the scheme;
+(c) the total number of SC-dominated villages developed as Adarsh Gram;
+(d) whether the Ministry has assessed poverty reduction in SC communities, improvement
+in school enrolment and livelihood gains in aspirational districts and SC-dominated blocks;
+(e) if so, the details thereof; and
+(f) the roadmap to expand coverage with enhanced grants-in-aid for comprehensive
+995
+
+
+livelihood projects and infrastructure development?
+DNT as a separate category in Census 2027
+3803 Shri Sanjay Singh:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether it is a fact that Denotified, Nomadic and Semi-nomadic tribes (DNTs/NTs/SNTs)
+have never been separately enumerated in any decennial Census of the country;
+(b) whether Government proposes to include DNTs as a separate enumerated category in
+the forthcoming Census 2027, so as to generate reliable data on population, education,
+housing and livelihood; and
+(c) if not, the reasons for denying DNTs the data-based governance that forms the
+foundation of welfare planning and affirmative action?
+Constitutional classification of DNTs/NTs/SNTs
+3804 Shri Sanjay Singh:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether it is a fact that Denotified, Nomadic and Semi-Nomadic Tribes (DNTs/NTs/SNTs)
+are presently not recognized as a separate constitutional category under Articles 15(4),
+15(5) and 16(4) of the Constitution of India, despite being historically stigmatized under the
+Criminal Tribes Acts;
+(b) whether Government admits that the continued forced dispersion of DNTs across SC,
+ST, OBC and open categories has resulted in systemic exclusion, denial of representation
+and erosion of targeted welfare; and
+(c) if so, the legal justification for not creating a distinct and exclusive classification for
+DNTs, despite repeated recommendations of national commissions and judicial
+observations on substantive equality?
+SEED scheme
+3805 Smt. Ranjeet Ranjan:
+Shri Shaktisinh Gohil:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) the year-wise, State-wise/UT-wise and component-wise details of the number of
+applications received, approved and rejected under the Scheme for Economic
+Empowerment of De-notified, Nomadic and Semi-Nomadic Tribes (SEED) during last five
+years;
+(b) the year-wise details of the total budget allocated, funds released and funds utilised
+under the SEED scheme during last five years; and
+(c) whether Government has identified De-notified (DNT), Nomadic (NT) and Semi-Nomadic
+communities (SNT) that are not included in any of the Scheduled Castes, Scheduled Tribes
+or Other Backward Classes lists and if so, the details thereof, including the number of such
+communities and their State-wise distribution?
+Pradhan Mantri Kaushal Vikas Yojana (PMKVY) in Tamil Nadu
+3806 Dr. Kanimozhi NVN Somu:
+Will the Minister of Skill Development and Entrepreneurship be pleased to state:
+(a) the total number of youth who have been trained under the Pradhan Mantri Kaushal
+Vikas Yojana (PMKVY), State-wise, particularly in Tamil Nadu;
+(b) whether Government has proposed new skill training centres for emerging sectors like
+IT and green technologies in Tamil Nadu, if so, district-wise details thereof;
+(c) the steps being taken by Government to enhance industry participation in skill
+996
+
+
+development initiatives; and
+(d) the details of the measures introduced by Government to promote self-employment and
+entrepreneurship among youth?
+Rehabilitation of manual scavengers
+3807 Smt. Rajani Ashokrao Patil:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether Government has reviewed the current status of manual scavenging in the
+country;
+(b) the number of manual scavengers identified in recent years, including district-wise data;
+(c) the rehabilitation measures provided to such workers, including skill development,
+alternate livelihood opportunities and social support;
+(d) the compensation paid in cases of deaths and injuries sustained during sewer and
+septic tank cleaning, including the timelines and adequacy of such payments; and
+(e) the reasons why manual scavenging continues to persist despite legal prohibition under
+the Prohibition of Employment as Manual Scavengers and Rehabilitation Act, 2013 and the
+steps proposed to completely eradicate the practice?
+Approval rate of UDID
+3808 Smt. Sagarika Ghose:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether Government is cognisant of the fact that applications under the Unique
+Disability ID (UDID) scheme are facing an average processing delay of nearly 200 days;
+(b) the reasons for such prolonged delays in processing applications and the corrective
+measures undertaken or proposed to expedite approvals;
+(c) whether Government has conducted awareness drives or registration camps to ensure
+maximum coverage of eligible persons with disabilities under the UDID scheme; and
+(d) State-wise details of the total number of UDID applications received and approved,
+along with the corresponding number of Persons with Disabilities (PwDs), as per the latest
+available data?
+Digital exclusion and access to social justice welfare schemes
+3809 Shri Raghav Chadha:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether the beneficiaries particularly SCs, OBCs and PwDs face challenges in
+accessing welfare schemes due to digital literacy and connectivity constraints and if so, the
+details thereof;
+(b) details of grievances received relating to Aadhaar authentication failures, digital
+application processes and access to online beneficiary portals under Government schemes
+in the last five years, year-wise;
+(c) what measures are being undertaken to provide alternative access mechanisms and
+assisted application support for digitally excluded populations; and
+(d) steps taken by Government to enhance digital literacy and improve accessibility of
+welfare platforms for beneficiaries residing in rural and remote areas?
+Release of scholarship to SC students
+3810 Shri Imran Pratapgarhi:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether there has been any delay in the disbursement of scholarships to SC students
+across the country;
+997
+
+
+(b) if so, the details thereof, during the last three years, year-wise and State-wise/UT-wise,
+particularly for Punjab;
+(c) the reasons for such delays in release of funds and the number of beneficiaries
+adversely affected;
+(d) whether Government has assessed the impact of these delays on continuation of higher
+education among SC students; and
+(e) the remedial and additional measures being undertaken to ensure timely release of
+scholarships and effective upliftment of SC students?
+Implementation of Rights of Persons with Disabilities Act (RPwD)
+3811 # Smt. Seema Dwivedi:
+Shri Madan Rathore:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) the list of States that have notified rules under the Rights of Persons with Disabilities
+(RPwD) Act;
+(b) the status of implementation of reservation in Government employment;
+(c) whether accessibility audits of public buildings have been completed;
+(d) if so, the details thereof;
+(e) whether the Unique Disability ID (UDID) system is fully operational nationwide; and
+(f) if so, the details of the operationalisation thereof?
+Boycott of meals cooked by Dalit in Odisha's Anganwadi
+3812 Shri P. P. Suneer:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether Government’s attention has been drawn to an incident related to boycotting of
+meals cooked by Dalit, by parents of children in Odisha's Anganwadi which is a stark
+reminder of prevailing caste prejudice in the society; and
+(b) if so, the details thereof and Government’s reaction thereto?
+Atrocities against Scheduled Castes
+3813 Dr. Sasmit Patra:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) the number of cases registered under the Scheduled Castes and Scheduled Tribes
+(Prevention of Atrocities) Act, 1989 during the last five years, State-wise, along with the
+number of cases resulting in conviction, acquittal and pending trials;
+(b) whether Government has assessed the reasons for low conviction rates and prolonged
+trials in such cases and the details thereof;
+(c) the number of districts where Special Courts and Exclusive Special Courts mandated
+under the Act are functional, State-wise; and
+(d) the steps taken to ensure timely investigation, protection of victims and witnesses and
+effective implementation of the Act?
+Development Action Plan for Scheduled Castes (DAPSC)
+3814 Shri Chandrakant Damodar Handore:
+Will the Minister of Social Justice and Empowerment be pleased to state:
+(a) whether it is a fact that as per NITI Aayog’s guidelines, 14.6 per cent of the total budget
+has to be spent on Development Action Plan for Scheduled Castes (DAPSC), if so, the
+details thereof;
+(b) the details of amount earmarked by Government towards DAPSC as per the said
+guidelines during the last five years, year wise;
+998
+
+
+(c) whether Government has been allocating the funds for DAPSC as per the guidelines;
+and
+(d) if so, the details thereof and if not, the reasons for no allocation?
+Property rights for tribal women
+3815 Shri Tiruchi Siva:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) whether Government has taken cognizance of the Supreme Court ruling stating that the
+Hindu Succession Act does not apply to tribal communities;
+(b) if so, steps being taken to ensure that tribal women have equal access to property;
+(c) whether Government plans on introducing a Bill that focuses on inheritance rights for
+tribal communities, especially women; and
+(d) if so, details thereof?
+Welfare schemes under CSR for tribals
+3816 Shri Pramod Tiwari:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) whether companies are undertaking/performing welfare activities for tribals as per the
+guidelines of Corporate Social Responsibility (CSR);
+(b) if so, the details thereof and if not, the reasons therefor;
+(c) the amount spent by the corporate sector on CSR for welfare of tribals during the last
+three financial years;
+(d) whether some companies undertake welfare activities apparently for promoting their
+brand names; and
+(e) if so, the strategy to be adopted by Government for effective utilisation of CSR
+investments?
+Implementation of PESA Act, 1996 in Odisha
+3817 Shri Niranjan Bishi:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) the present status of implementation of the provisions of the Panchayats (Extension to
+Scheduled Areas) Act, 1996 (PESA) in the Fifth Schedule Areas of Odisha;
+(b) whether all mandatory powers relating to gram sabhas, minor forest produce, land
+acquisition and natural resource management have been devolved in letter and spirit; and
+(c) the measures taken by Union Government to monitor compliance by the State
+Government of Odisha?
+Gaps in Enforcement of PESA in Odisha
+3818 Shri Niranjan Bishi:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) whether any gap or deficiency has been identified in the enforcement of the Panchayat
+(Extension to Scheduled Areas) Act, 1996 (PESA) in the Scheduled Areas of Odisha;
+(b) the specific challenges faced in ensuring effective functioning of Gram Sabhas under the
+Act; and
+(c) the corrective steps proposed to address such shortcomings within a defined
+timeframe?
+999
+
+
+Tribal art, culture and ‘living roots’ 2026
+3819 # Shri Deepak Prakash:
+Shri Ashokrao Shankarrao Chavan:
+Dr. Anil Sukhdeorao Bonde:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) how the ‘Living Roots’ festival has repositioned tribal music as a contemporary and
+economically viable force;
+(b) what specific market linkages were established during the 14-day National Business
+Conclave for Tribal Entrepreneurs in 2026;
+(c) whether the Ministry has successfully documented participating artists in the official
+Tribal Art Fest (TAF) Catalogue for international gallery exposure and if so, the details
+thereof; and
+(d) how the Bharat Tribes Fest 2026 has successfully integrated over 1,000 artisans into
+the global value chain?
+Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan
+3820 Shri Harsh Mahajan:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) the major works and infrastructural facilities that have so far been approved/initiated
+under the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN) for the
+holistic development of Particularly Vulnerable Tribal Groups (PVTGs) across the country;
+(b) the details of the projects approved, funds released and the number of beneficiary
+families under the said mission, State-wise and particularly in Himachal Pradesh; and
+(c) whether Government has set up any special mechanism or time-bound targets for the
+effective implementation and monitoring of this mission, if so, the details thereof?
+Delays in disbursal of national fellowship to ST Ph.D scholars
+3821 Dr. Fauzia Khan:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) whether the Ministry is aware that ST Ph.D scholars across the country have faced
+month-long delays in receiving funds under the National Fellowship for Higher Education of
+Scheduled Tribe Students (NFST), with the January-June, 2025 dues still pending as of
+September, 2025;
+(b) if so, the reasons for repeated disruptions in fellowship disbursement and measures
+taken to resolve funding bottlenecks and speed up payments to affected beneficiaries;
+(c) whether the Ministry has set up a digital grievance redressal mechanism for tracking
+status and resolving complaints related to the NFST scheme; and
+(d) if so, the details thereof and if not, reasons therefor?
+Improvement in tribal health and nutrition
+3822 Smt. S. Phangnon Konyak:
+Will the Minister of Tribal Affairs be pleased to state:
+(a) the health and nutrition programmes implemented in tribal-dominated districts in the last
+three years; and
+(b) whether recent data indicates changes in anaemia, malnutrition or maternal health
+indicators among tribal populations?
+1000
+
+
+Mission Saksham Anganwadi and POSHAN 2.0 Palna scheme in Bihar
+3823 # Shri Mokariya Rambhai:
+Shri Shambhu Sharan Patel:
+Smt. Kiran Choudhry:
+Shri Ashokrao Shankarrao Chavan:
+Shri Manan Kumar Mishra:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether the number of Anganwadi centres equipped with advanced LED screens and
+better infrastructure has reached one lakh;
+(b) the manner in which the integration of Facial Recognition System (FRS) has increased
+transparency in the distribution of Take Home Ration(THR);
+(c) the outcomes of the “Poshan Bhi Padhai Bhi” training programme provided to 10 lakh
+Anganwadi workers;
+(d) whether the POSHAN Tracker application is now successfully monitoring the growth of
+more than 8 crore children every month; and
+(e) the number of Anganwadi-cum-creche centres being operational across the country by
+March, 2026?
+Staggering numbers of online child abuse
+3824 Smt. Priyanka Chaturvedi:
+Will the Minister of Women and Child Development be pleased to state:
+(a) Government's action following the Children's Rights Network identifying 73,000+ online
+child sexual abuse cases in the January-September (2025) period, and whether it indicates
+alarming scale;
+(b) breakdown of the cases into: age groups targeted, platforms where abuse occurred,
+prosecutions initiated, convictions secured, children rescued and rehabilitated;
+(c) whether the IT Rules, 2021 requiring intermediaries removing child sexual abuse
+material within 24 hours have been enforced or whether platforms are delaying compliance;
+(d) measures ensuring encryption doesn't shield offenders while protecting privacy; and
+(e) whether dedicated fast-track courts have been established for online child abuse cases
+with specialised prosecutors, judges trained in digital evidence?
+Early Detection and Management of PCOS
+3825 Smt. Sudha Murty:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether Government has taken note of studies indicating a high prevalence of
+Polycystic Ovary Syndrome (PCOS) among adolescent girls in the country and the
+associated long-term metabolic, reproductive and mental health risks;
+(b) whether any national guideline exist for the diagnosis and management of PCOS in
+adolescents, and if not, whether such guidelines are under consideration; and
+(c) whether any mechanism is in place under existing adolescent health programmes for
+early screening, counselling and lifestyle guidance related to PCOS?
+Merger of Swadhar Greh and Ujjawala into Shakti Sadan
+3826 Dr. Kavita Patidar:
+Shri Babubhai Jesangbhai Desai:
+Dr. Medha Vishram Kulkarni:
+Smt. Rekha Sharma:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether the merger of Swadhar Greh and Ujjawala under Mission Shakti into Shakti
+1001
+
+
+Sadan has improved service delivery and rehabilitation outcomes for women in distress;
+(b) whether the Ministry has conducted any assessment of the adequacy of existing
+functional Shakti Sadans in meeting the demand across States/UTs;
+(c) whether Government maintains any data on the number of women rehabilitated and
+successfully reintegrated under the scheme;
+(d) if so, details and status thereof; and
+(e) whether any monitoring mechanism is in place to ensure that vocational training and
+social security linkages are effectively implemented for residents?
+Third party audit of performance of One Stop Centres (OSC)
+3827 Shri Anil Kumar Yadav Mandadi:
+Will the Minister of Women and Child Development be pleased to state:
+(a) details of One Stop Centres (OSCs) that have been established across the country,
+State-wise;
+(b) details of the third party audit, if any, conducted regarding the status/performance of
+these Centres in order to ascertain their performance; and
+(c) whether no third party audit is undertaken so far, if so, reasons therefor?
+Expansion of One Stop Centres and workplace safety initiatives
+3828 Smt. Kiran Choudhry:
+Shri Narhari Amin:
+Shri Ryaga Krishnaiah:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the number of One Stop Centres (OSCs) that have been made fully operational across
+the country;
+(b) how the new appointment booking feature on the Mission Shakti app has improved
+accessibility for women in distress;
+(c) what specific outcomes were achieved during the National Workshop on Workplace
+Safety held in New Delhi in February, 2026;
+(d) whether the Women Helpline (181) has been successfully integrated with the ERSS-112
+across all 35 States and UTs;
+(e) if so, the details thereof; and
+(f) how many Internal Committees (ICs) have successfully on-boarded the new digital portal
+for monitoring workplace sexual harassment complaints?
+Protection of Women from Domestic Violence Act
+3829 Shri Mohammed Nadimul Haque:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the number of cases registered under the Protection of Women from Domestic Violence
+Act during the last five years; and
+(b) the number of Protection Officers appointed and in position?
+Children’s access to social media and AI
+3830 Smt. Ranjeet Ranjan:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether Government is considering a ban on social media for children, if so, the details
+thereof, if not, the reasons therefor;
+(b) whether the Ministry has held any consultation with experts and stakeholders across
+other Ministries to develop frameworks for children’s online safety, if so, details thereof;
+(c) whether the Ministry is exploring collaborations with the Ministry of Education to
+1002
+
+
+address rising digital addiction among children, if so, details thereof, if not, the reasons
+therefor; and
+(d) the year-wise and State-wise/UT-wise number of child suicides recorded due to digital
+addiction since 2020?
+POSH Act for lawyers
+3831 Shri K.R. Suresh Reddy:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether it is a fact that ‘independent professionals’ like lawyers are excluded from the
+ambit of the POSH Act due to the lack of a legal obligation for BAR councils to set up an
+Internal Complaint Committee (ICC);
+(b) if so, the details thereof;
+(c) whether a regulatory organization like BAR Council is eligible for constituting an ICC
+under the POSH Act;
+(d) if not, reasons therefor;
+(e) details of the number and constitution of ICC within National and State Bar
+Councils/Associations; and
+(f) steps taken to address this structural gap in the protection of women lawyers by the
+statutory framework?
+Mission Saksham Anganwadi
+3832 # Ms. Indu Bala Goswami:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether Anganwadi workers are being trained for face recognition under the Mission
+Saksham Anganwadi and Poshan scheme;
+(b) the number of beneficiaries receiving Take-Home Rations (THR) who have undergone
+the process of face capturing and e-KYC by July 2025; and
+(c) whether there are complaints that people who are not registered are also coming to the
+Anganwadi centres to collect food grains?
+Remuneration of Anganwadi Workers
+3833 # Smt. Maya Naroliya:
+Will the Minister of Women and Child Development be pleased to state:
+(a) whether Government has reviewed the adequacy of the remuneration structure of
+Anganwadi workers;
+(b) the level of wage disparity among approximately 14.33 lakh Anganwadi workers
+working in the State of Madhya Pradesh;
+(c) the difficulties being faced in the payment of incentive amounts for work related to the
+supplementary nutrition programme; and
+(d) whether any revision of the minimum remuneration has been considered in view of 8.69
+crore beneficiaries under Mission Poshan 2.0, if so, State-wise details thereof?
+Welffare of Anganwadi workers
+3834 Dr. Ashok Kumar Mittal:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the reasons for not classifying Anganwadi workers and helpers as permanent
+Government employees despite their essential frontline roles;
+(b) whether the current honorarium system fails to provide a living wage and basic social
+security benefits;
+(c) the details of nationwide protests by these workers demanding pensions and health
+1003
+
+
+insurance;
+(d) the burden placed on these workers through the assignment of non-ICDS administrative
+and election duties by State Governments; and
+(e) the legislative steps taken to formalize their employment status and establish a
+respectable pay scale?
+Child Care Institutions
+3835 Shri Sanjay Seth:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the nationwide progress achieved in securing the absolute safety and rehabilitation of
+vulnerable children under Mission Vatsalya;
+(b) whether the successful implementation of the revamped sponsorship and foster care
+guidelines has effectively kept children within family-based non-institutional care;
+(c) the details of funds successfully utilized to upgrade Child Care Institutions (CCIs) to
+world-class standards over the last four months;
+(d) the highly effective coordination frameworks established with State police forces to
+rapidly trace and rescue missing children; and
+(e) the steps taken to integrate robust mental health and trauma counseling services
+permanently into all juvenile justice systems?
+Discontinuation of TA and DA for Anganwadi workers
+3836 Shri A. A. Rahim:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the details of funds allocated and released for providing TA and DA to Anganwadi
+workers and helpers for attending monthly review meetings during the last five years, year-
+wise;
+(b) whether the provision for payment of TA and DA to Anganwadi workers and helpers has
+been discontinued by Government and, if so, the reasons therefor;
+(c) whether Government has received any representations from States, Anganwadi
+workers or their organisations regarding the discontinuation of TA and DA; and
+(d) whether Government is ready to review the decision and restore the provision of TA and
+DA for Anganwadi workers and helpers?
+Measures to enhance Female Labour Force Participation Rate
+3837 Shri Sana Sathish Babu:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the steps taken by Government to enhance the Female Labour Force Participation Rate
+in country during last five years;
+(b) the details of schemes being implemented by the Ministry aimed at promoting women’s
+economic participation, along with scheme-wise funds allocated, released and utilised in
+Andhra Pradesh during last five years;
+(c) the details of infrastructure and support facilities such as crèches, skill development
+centres, and working women hostels created under these schemes, including their locations
+in Andhra Pradesh; and
+(d) the measurable outcomes achieved, including women beneficiaries and increase in
+female labour force participation under these initiatives?
+SHe-Box Portal
+3838 Shri Prakash Chik Baraik:
+Will the Minister of Women and Child Development be pleased to state:
+1004
+
+
+(a) the total number of Union Government Ministries, Departments and Bodies onboarded
+on the SHe-Box portal till date;
+(b) the number of Government Ministries/Departments onboarded on the portal that have
+updated their Internal Complaint Committee details; and
+(c) Ministries and Departments under the Union Government that have not been onboarded
+on the portal and the details thereof?
+Women’s safety and health awareness
+3839 # Shri Madan Rathore:
+Will the Minister of Women and Child Development be pleased to state:
+(a) the major schemes being implemented by the Central Government for the
+empowerment and safety of women;
+(b) the number of women beneficiaries in Rajasthan under these schemes during the last
+three years;
+(c) whether Government is formulating any plan to further expand programmes relating to
+women’s safety and health awareness; and
+(d) if so, the details thereof?
+Prevention of violence and protection of women and children in Maharashtra
+3840 Shri Dhananjay Bhimrao Mahadik:
+Will the Minister of Women and Child Development be pleased to state:
+(a) details regarding measures to prevent violence and protect women and children in
+Maharashtra over the last five years;
+(b) how many support centres, helplines and rehabilitation programs have been
+established for victims of domestic violence, trafficking and child abuse;
+(c) what steps are being taken to ensure awareness, legal support and timely intervention;
+and
+(d) how does the Ministry coordinate with Maharashtra State authorities to strengthen
+community outreach, monitoring mechanisms and enforcement of laws, thereby
+safeguarding the rights, safety and well-being of women and children while promoting
+social justice and protection across the State?
+New Delhi 
+The 18th March, 2026
+27 Phalguna, 1947 (Saka)
+P. C. Mody,
+Secretary-General.
+# Original notice of the question received in Hindi.
+1005
+
+INDEX
+(Ministry-Wise)
+Cooperation :
+3681, 3682, 3683, 3684, 3685, 3686, 3687,
+3688, 3689, 3690, 3691, 3692, 3693, 3694,
+3695
+Education :
+3696, 3697, 3698, 3699, 3700, 3701, 3702,
+3703, 3704, 3705, 3706, 3707, 3708, 3709,
+3710, 3711, 3712, 3713, 3714, 3715, 3716,
+3717, 3718, 3719, 3720, 3721, 3722, 3723,
+3724, 3725, 3726, 3727, 3728, 3729, 3751
+Fisheries, Animal Husbandry and Dairying : 3730, 3731, 3732, 3733, 3734, 3735, 3736
+Home Affairs : 3738, 3739, 3740, 3741, 3742, 3743, 3744,
+3745, 3746, 3747, 3748
+Panchayati Raj : 3749, 3750, 3752, 3753, 3754
+Road Transport and Highways :
+3755, 3756, 3757, 3758, 3759, 3760, 3761,
+3762, 3763, 3764, 3765, 3766, 3767, 3768,
+3769, 3770, 3771, 3772, 3773, 3774, 3775,
+3776, 3777, 3778, 3779, 3780, 3781, 3782,
+3783
+Skill Development and Entrepreneurship :
+3784, 3785, 3786, 3787, 3788, 3789, 3790,
+3791, 3792, 3793, 3794, 3795, 3796, 3797,
+3806
+Social Justice and Empowerment :
+3737, 3798, 3799, 3800, 3801, 3802, 3803,
+3804, 3805, 3807, 3808, 3809, 3810, 3811,
+3812, 3813, 3814
+Tribal Affairs : 3815, 3816, 3817, 3818, 3819, 3820, 3821,
+3822
+Women and Child Development :
+3823, 3824, 3825, 3826, 3827, 3828, 3829,
+3830, 3831, 3832, 3833, 3834, 3835, 3836,
+3837, 3838, 3839, 3840
+1006
