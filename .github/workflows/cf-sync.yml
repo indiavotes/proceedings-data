@@ -1,0 +1,77 @@
+name: CF deploy (wrangler, 4h cadence)
+
+# Every 4 hours, deploy each of the four docs subtrees to its own
+# Cloudflare Pages project via wrangler. Each split is independent;
+# a failure on one (e.g. RS during heavy backfill) doesn't block the
+# other three.
+#
+# This is the same pattern as parliamentwatch-data + sansadsaar-gazettes
+# in the sibling repos — wrangler-action with deploy, project name set
+# per-matrix-entry, asset directory set to docs/<split>/.
+#
+# Required repo secrets:
+#   CLOUDFLARE_API_TOKEN   (Workers Scripts: Edit + Workers R2 Storage: Edit)
+#   CLOUDFLARE_ACCOUNT_ID
+#
+# Required CF dashboard state: each of the 4 Pages projects must already
+# exist (created via dashboard or `wrangler pages project create`), and
+# its GitHub-integration setting must be disconnected so this workflow
+# is the only source of deploys. Project names below default to:
+#   proceedings-debates-ls
+#   proceedings-debates-rs
+#   proceedings-questions-ls
+#   proceedings-questions-rs
+# Override per-split by editing the matrix.project values.
+
+on:
+  schedule:
+    - cron: '5 0,4,8,12,16,20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cf-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - split: debates-ls
+            project: proceedings-debates-ls
+          - split: debates-rs
+            project: proceedings-debates-rs
+          - split: questions-ls
+            project: proceedings-questions-ls
+          - split: questions-rs
+            project: proceedings-questions-rs
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Skip if subtree is empty
+        id: check
+        run: |
+          if [ -z "$(ls -A docs/${{ matrix.split }} 2>/dev/null)" ]; then
+            echo "subtree docs/${{ matrix.split }}/ is empty — skipping deploy"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy ${{ matrix.split }} to ${{ matrix.project }}
+        if: steps.check.outputs.skip == 'false'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken:  ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: '4'
+          command: pages deploy docs/${{ matrix.split }} --project-name=${{ matrix.project }} --branch=main --commit-dirty=true

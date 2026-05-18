@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# transient PDF working files (fetch-extract-delete model)
+docs/debates-rs/pdfs/
+docs/debates-ls/pdfs/
+docs/questions-rs/pdfs/
+docs/questions-ls/pdfs/
+
+# OS
+.DS_Store

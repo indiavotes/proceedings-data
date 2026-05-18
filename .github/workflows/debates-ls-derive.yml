@@ -1,0 +1,51 @@
+name: Debates LS derive (manifest + bundle + index + meta)
+
+# Builds docs/debates-ls/{manifest,audit,meta}.json + sharded text bundles +
+# sharded search index. Triggered by the LS scrape (workflow_run) and
+# backstopped by a 30-min cron in case workflow_run events get dropped
+# by GH Actions.
+
+on:
+  workflow_run:
+    workflows:
+      - "Debates LS scrape and publish"
+    types: [completed]
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proceedings-data-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Build derived files (manifest + bundle + index + meta)
+        env:
+          BUILD_PHASE: 'derive'
+        run: python build_debates_ls.py
+
+      - name: Commit and push derived changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/debates-ls/
+          git diff --cached --quiet && echo "no derived changes" && exit 0
+          git commit -m "Auto-rebuild debates-ls derived files [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git pull --rebase origin main
+          git push

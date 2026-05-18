@@ -1,0 +1,71 @@
+name: Debates RS scrape and publish
+
+# Rajya Sabha debates scraper. 12×/day cron at :43 every 2 hours
+# (offset from LS at :23 to balance upstream load). Wraps _debates_core.py
+# via build_debates_rs.py — writes to docs/debates-rs/.
+#
+# Initial backfill: dispatch this workflow manually with `rs_sessions: all`
+# once to walk every session the API exposes (~72 sessions, ~1700 metadata
+# calls). After that, the recurring cron uses the `recent-2` default.
+
+on:
+  schedule:
+    - cron: '43 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      rs_sessions:
+        description: 'RS sessions to walk: "all" | "<csv>" | "" (default = recent-2)'
+        default: ''
+      max_rs_extractions:
+        description: 'Max RS PDFs to extract this run'
+        default: '25'
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '1500'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proceedings-data-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-flight checkpoint commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Build debates-rs primary data (extract phase only)
+        env:
+          BUILD_PHASE:                'extract'
+          RS_SESSIONS:                ${{ inputs.rs_sessions        || '' }}
+          MAX_RS_EXTRACTIONS_PER_RUN: ${{ inputs.max_rs_extractions || '25' }}
+          MAX_RUN_SECONDS:            ${{ inputs.max_run_seconds    || '1500' }}
+          EXTRACT_WORKERS:            '4'
+          JITTER_MIN_MS:              '250'
+          JITTER_MAX_MS:              '500'
+        run: python build_debates_rs.py
+
+      - name: Commit and push primary changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/debates-rs/
+          git diff --cached --quiet && echo "no primary changes" && exit 0
+          git commit -m "Auto-update debates-rs primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git pull --rebase origin main
+          git push

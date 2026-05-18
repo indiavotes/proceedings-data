@@ -1,0 +1,71 @@
+name: Questions LS scrape and publish
+
+# Lok Sabha questions scraper. 12×/day cron at :13 every 2 hours.
+# Wraps _questions_core.py via build_questions_ls.py — writes to
+# docs/questions-ls/.
+
+on:
+  schedule:
+    - cron: '13 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      lok_sabhas:
+        description: 'LS terms (CSV; default = scraper DEFAULT_LOK_SABHAS)'
+        default: ''
+      ls_sessions:
+        description: 'Session range "a-b" or CSV (default = scraper default)'
+        default: ''
+      max_extractions:
+        description: 'Max LS records to extract this run'
+        default: '50'
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '900'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proceedings-data-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Build questions-ls primary data (extract phase only)
+        env:
+          BUILD_PHASE:             'extract'
+          LOK_SABHAS:              ${{ inputs.lok_sabhas      || '' }}
+          LS_SESSIONS:             ${{ inputs.ls_sessions     || '' }}
+          MAX_EXTRACTIONS_PER_RUN: ${{ inputs.max_extractions || '50' }}
+          MAX_RUN_SECONDS:         ${{ inputs.max_run_seconds || '900' }}
+          EXTRACT_WORKERS:         '4'
+          JITTER_MIN_MS:           '250'
+          JITTER_MAX_MS:           '500'
+        run: python build_questions_ls.py
+
+      - name: Commit and push primary changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/questions-ls/
+          git diff --cached --quiet && echo "no primary changes" && exit 0
+          git commit -m "Auto-update questions-ls primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git pull --rebase origin main
+          git push
