@@ -4,6 +4,732 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 10,
+      "db_slno": 9674,
+      "title": "Need to take steps to strengthen\r\ntelecommunication services in Rajgarh Parliamentary Constituency.",
+      "debate_date": "05/12/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Rodmal Nagar",
+          "mp_code": 4702,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9673,
+      "title": "Need to allocate funds for setting up of more fire stations in the country.",
+      "debate_date": "05/12/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Baijayant \"Jay\" Panda",
+          "mp_code": 4422,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Sharad Tripathi",
+          "mp_code": 4712,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Dr. Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": [
+        "Fire Control",
+        "Fire Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9672,
+      "title": "Need to set up a new Railway Zone with \r\nheadquarters at Visakhapatnam in Andhra Pradesh.",
+      "debate_date": "05/12/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Muthamsetti Srinivasa Rao (Avnthi)",
+          "mp_code": 4740,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9671,
+      "title": "Need to take steps for the welfare of \r\nchild labour in the country.",
+      "debate_date": "05/12/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Smt. Riti Pathak",
+          "mp_code": 4711,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Sharad Tripathi",
+          "mp_code": 4712,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": [
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9670,
+      "title": "Demand for mandatory hallmark \r\ncertification for gold jewellery.",
+      "debate_date": "05/12/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ajay (Teni) Misra",
+          "mp_code": 4696,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Raghav Lakhanpal",
+          "mp_code": 4785,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Rodmal Nagar",
+          "mp_code": 4702,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Sharad Tripathi",
+          "mp_code": 4712,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Dr. Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 8
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9669,
+      "title": "Need to give ownership rights to landless \r\npeople who were allotted plots in 1983-84.",
+      "debate_date": "05/12/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ramesh Bidhuri",
+          "mp_code": 4854,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Rodmal Nagar",
+          "mp_code": 4702,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Sharad Tripathi",
+          "mp_code": 4712,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 6
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9668,
+      "title": "Regarding impact of \r\ndemonetisation of 500 and 1000 currency notes in the country.",
+      "debate_date": "05/12/2016",
+      "debate_type": 52,
+      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Mallikarjun Kharge",
+          "mp_code": 4315,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Sudip Bandyopadhyay",
+          "mp_code": 38,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Jay Prakash Narayan Yadav",
+          "mp_code": 4095,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri A.P. Jithender Reddy",
+          "mp_code": 380,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Mulayam Singh Yadav",
+          "mp_code": 530,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Rajnath Singh",
+          "mp_code": 4268,
+          "mp_part_code": 6
+        }
+      ],
+      "keywords": [
+        "Adjournment Motions",
+        "Black Money",
+        "Rule 184",
+        "Economy",
+        "Rule 56",
+        "Demonetisation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9667,
+      "title": "Election of the two members from Lok Sabha\r\nto the Council of National Institutes of Technology, Science Education and\r\nResearch Act, 2007.",
+      "debate_date": "05/12/2016",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri Prakash Javadekar",
+          "mp_code": 10002,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Sumitra Mahajan (Tai)",
+          "mp_code": 220,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9666,
+      "title": "The Minister of State (Independent Charge) \r\nof the Ministry of Culture and Minister of State of the Ministry of Tourism\r\nlaid a statement regarding status of implementation of the recommendations\r\ncontained in the 232<sup>nd </sup>Report of the Standing Committee on\r\nTransport, Tourism and Culture on Demands for Grants (2016-17), pertaining to\r\nthe Ministry of Tourism.",
+      "debate_date": "05/12/2016",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. Mahesh Sharma",
+          "mp_code": 4642,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9665,
+      "title": "The Minister of State (Independent Charge)\r\n of the Ministry of Commerce and Industry laid a statement regarding status of\r\n implementation of the recommendations contained in the 124<sup>th </sup> and 125<sup>th </sup>Reports \r\nof the Standing Committee on Commerce on Demands for Grants (2016-17) (Demand\r\nNo. 11), pertaining to the Department of Commerce, Ministry of Commerce and\r\nIndustry.",
+      "debate_date": "05/12/2016",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "SMT. NIRMALA SITHARAMAN",
+          "mp_code": 10006,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9664,
+      "title": "Presentation of the 25th \r\nReport of the Standing Committee on Coal and Steel on Action Taken by the \r\nGovernment on the recommendations contained in 19th Report of the Committee on\r\n''Demands for Grants (2016-17)\", pertaining to the Ministry of Mines.",
+      "debate_date": "05/12/2016",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Rakesh Singh",
+          "mp_code": 3987,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9663,
+      "title": "Papers laid on the Table\r\n of the House by Ministers/members.",
+      "debate_date": "05/12/2016",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Jual Oram",
+          "mp_code": 279,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bandaru Dattatreya",
+          "mp_code": 105,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "SHRI PIYUSH GOYAL",
+          "mp_code": 10009,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "SMT. NIRMALA SITHARAMAN",
+          "mp_code": 10006,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Haribhai Parthibhai Chaudhary",
+          "mp_code": 76,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Upendra Kushwaha",
+          "mp_code": 4645,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Vishnu Deo Sai",
+          "mp_code": 389,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Upendra Kushwaha",
+          "mp_code": 4645,
+          "mp_part_code": 8
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9662,
+      "title": "Ruling regarding notices\r\n of Adjournment Motion.",
+      "debate_date": "05/12/2016",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Sumitra Mahajan (Tai)",
+          "mp_code": 220,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9661,
+      "title": "The Speaker on behalf of the house Congratulated the  Indian Women Cricket Team\r\nfor winning Asia Cup Title after beating Pakistan in the final at Bangkok,\r\nThailand on 4 December, 2016.",
+      "debate_date": "05/12/2016",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Sumitra Mahajan (Tai)",
+          "mp_code": 220,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9660,
+      "title": "Regarding discussion on \r\ndemonetisation of 500 &amp; 1000 currency notes under Rule 184.",
+      "debate_date": "05/12/2016",
+      "debate_type": 52,
+      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Mallikarjun Kharge",
+          "mp_code": 4315,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Sudip Bandyopadhyay",
+          "mp_code": 38,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri P. Karunakaran",
+          "mp_code": 4178,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri  Ananth Kumar",
+          "mp_code": 20,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Sumitra Mahajan (Tai)",
+          "mp_code": 220,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": [
+        "Adjournment Motions",
+        "Black Money",
+        "Parliament Proceedings",
+        "Short Duration Discussion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9659,
+      "title": "Need to construct rail\r\noverbridge/under pass/flyover at Mayyanad Railway Station in Kerala.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9658,
+      "title": "Early\r\n completion of Satluj Yamuna Link Canal Project.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Dushyant Chautala",
+          "mp_code": 4624,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Irrigation Development",
+        "Irrigation Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9657,
+      "title": "Need to run various trains \r\nthrough rail bridge on Ganga river in Munger district, Bihar.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jay Prakash Narayan Yadav",
+          "mp_code": 4095,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Crossings",
+        "Railway Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9656,
+      "title": "Need to set up a National \r\nInstitute of Fashion Technology at Mangalagiri in Andhra Pradesh.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jayadev Galla",
+          "mp_code": 4770,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9655,
+      "title": "Need to construct Ram Temple at Ayodhya, Uttar \r\nPradesh.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Chandrakant Bhaurao Khaire",
+          "mp_code": 189,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Hinduism",
+        "Religion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9654,
+      "title": "Need to release balance\r\nfunds under Annual Work Programme  of 2016-17 for creation of new forest and\r\nmaintenance of plantation areas in Odisha.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Kulamani Samal",
+          "mp_code": 4820,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Forest Conservation",
+        "Forestry Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9653,
+      "title": "Need to construct a level \r\ncrossing and a Reservation  Counter at Pundooah Railway Station in West Bengal.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. (Smt.) Ratna De(Nag)",
+          "mp_code": 4499,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Crossings",
+        "Railway Reservation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9652,
+      "title": "Need to\r\n amend the Representation of Peoples Act.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Election Commission"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9651,
+      "title": "Need to provide railway \r\ncrossing and upgrade Kowlande Railway Station in Chamarajanagar Parliamentary\r\nConstituency of Karnataka.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rangaswamy Dhruvanarayana",
+          "mp_code": 4342,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Projects",
+        "Railway Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9650,
+      "title": "Need to revive Cachar Paper \r\nMill and Nagaon Paper Mill in Assam.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Km. Sushmita Dev",
+          "mp_code": 4784,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Modernisation",
+        "Industrial Revival"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9649,
+      "title": "Need to set\r\nup AIIMS like institute at Harohalli in Karnataka.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Doddaalahalli Kempegowda Suresh",
+          "mp_code": 4585,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Medical Facilities",
+        "Medical Treatment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
+      "db_slno": 9648,
+      "title": "Need to \r\nestablish a new FM Radio Station at Nadiad, Gujarat.",
+      "debate_date": "15/12/2016",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Devusinh Jesingbhai Chauhan",
+          "mp_code": 4858,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 10,
       "db_slno": 9647,
       "title": "Need to facilitate smooth implementation \r\nof Pradhan Mantri Mudra Yojana in the country.",
       "debate_date": "15/12/2016",
@@ -72350,955 +73076,6 @@
       "keywords": [
         "Rural Development",
         "Rural Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9500,
-      "title": "Regarding safety of ''Samadhi'' of saint \r\nAdwaityanand located in Pakistan.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Janardan Singh Sigriwal",
-          "mp_code": 4638,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Sharad Tripathi",
-          "mp_code": 4712,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Rajendra Agrawal",
-          "mp_code": 4267,
-          "mp_part_code": 5
-        }
-      ],
-      "keywords": [
-        "Temples"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9499,
-      "title": "Regarding promotion of tourism in Gujarat.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. Jayshreeben Patel",
-          "mp_code": 4442,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Tourism Development",
-        "Tourism Promotion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9498,
-      "title": "Regarding cleaning of river Pawana in \r\nMaharashtra.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Chandu  Barne Shrirang",
-          "mp_code": 4781,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "River Pollution",
-        "River Cleaning"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9497,
-      "title": "Regarding problems faced by poor patients\r\n in getting medical treatment.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Sushil Kumar Singh",
-          "mp_code": 3928,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Chandra Prakash Joshi",
-          "mp_code": 4671,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Rodmal Nagar",
-          "mp_code": 4702,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Sudheer Gupta",
-          "mp_code": 4615,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Rajendra Agrawal",
-          "mp_code": 4267,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Ashwini Kumar Choubey",
-          "mp_code": 4650,
-          "mp_part_code": 7
-        }
-      ],
-      "keywords": [
-        "Medical Facilities",
-        "Health Care",
-        "Medical Hospitals"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9496,
-      "title": "Regarding activities of inter-state\r\n vehicle thefts in Meerut Parliamentary constituency.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Rajendra Agrawal",
-          "mp_code": 4267,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Chandra Prakash Joshi",
-          "mp_code": 4671,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Rodmal Nagar",
-          "mp_code": 4702,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Sudheer Gupta",
-          "mp_code": 4615,
-          "mp_part_code": 6
-        }
-      ],
-      "keywords": [
-        "Crime Control"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9495,
-      "title": "Regarding missing of Indian Air Force AN-32 \r\ntransport aircraft.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Bhartruhari Mahtab",
-          "mp_code": 225,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Dushyant Chautala",
-          "mp_code": 4624,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri P. Kumar",
-          "mp_code": 4546,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Rabindra Kumar Jena",
-          "mp_code": 4795,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Rodmal Nagar",
-          "mp_code": 4702,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Sudheer Gupta",
-          "mp_code": 4615,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Sharad Tripathi",
-          "mp_code": 4712,
-          "mp_part_code": 9
-        }
-      ],
-      "keywords": [
-        "Air Accidents"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9494,
-      "title": "Need to include Sabarimala shrine in\r\n Kerala under the PRASAD Scheme.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Anto Antony",
-          "mp_code": 4571,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri M. K. Raghavan",
-          "mp_code": 4560,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Jose K. Mani",
-          "mp_code": 4566,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri (Adv.) Joice George",
-          "mp_code": 4686,
-          "mp_part_code": 5
-        }
-      ],
-      "keywords": [
-        "Cultural Heritage"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9493,
-      "title": "Need to establish a special cell in \r\nMaharashtra to monitor the activities of ISIS network.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Chandra Prakash Joshi",
-          "mp_code": 4671,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Rodmal Nagar",
-          "mp_code": 4702,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Sudheer Gupta",
-          "mp_code": 4615,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Arvind Ganpat Sawant",
-          "mp_code": 4713,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Prof. Ravindra Vishwanath Gaikwad",
-          "mp_code": 4766,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Chandu  Barne Shrirang",
-          "mp_code": 4781,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Dr. Shrikant Eknath Shinde",
-          "mp_code": 4659,
-          "mp_part_code": 9
-        },
-        {
-          "mp_name": "Shri Sharad Tripathi",
-          "mp_code": 4712,
-          "mp_part_code": 10
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 11
-        }
-      ],
-      "keywords": [
-        "Terrorism",
-        "Terrorists"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9492,
-      "title": "Need to convert Shitalpur-Dhala unmanned\r\n railway level crossing in Samastipur in Bihar to manned railway level crossing.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Sanjay Jaiswal",
-          "mp_code": 4455,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Sharad Tripathi",
-          "mp_code": 4712,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Sudheer Gupta",
-          "mp_code": 4615,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Rodmal Nagar",
-          "mp_code": 4702,
-          "mp_part_code": 6
-        }
-      ],
-      "keywords": [
-        "Railway Crossings",
-        "Railway Passenger Amenities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9491,
-      "title": "Need to construct check dams on the rivers \r\nflowing through Sabarkantha in Gujarat.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Dipsinh Shankarsinh Rathod",
-          "mp_code": 4691,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Rodmal Nagar",
-          "mp_code": 4702,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": [
-        "Irrigation Development",
-        "Water Resources"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9490,
-      "title": "Regarding inclusion of ''HO'' language\r\n (Jharkhand Region) in the Eighth Schedule to the Constitution.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Laxman Giluwa",
-          "mp_code": 140,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Language Promotion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9489,
-      "title": "Need to complete the construction of Chipi \r\nAirport in Ratnagiri-Sindhudurg Parliamentary Constituency of Maharashtra.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Vinayak Bhaurao Raut",
-          "mp_code": 4765,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Arvind Ganpat Sawant",
-          "mp_code": 4713,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Dr. Heena Vijaykumar Gavit",
-          "mp_code": 4787,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Chandu  Barne Shrirang",
-          "mp_code": 4781,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Rajan Baburao Vichare",
-          "mp_code": 4663,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 7
-        }
-      ],
-      "keywords": [
-        "Airports",
-        "Tourism Development",
-        "Air Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9488,
-      "title": "Regarding alleged obstruction by Defence authorities for construction of Greater\r\n Hyderabad Municipal Corporation building in Telangana.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Ch. Malla Reddy",
-          "mp_code": 4773,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Building Construction"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9487,
-      "title": "Need to set up a steel industry by SAIL in\r\n Bayyaram region of Khammam district of Telangana.",
-      "debate_date": "28/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Prof. Seetaram Ajmeera Naik",
-          "mp_code": 4874,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Steel Industry",
-        "Tribal Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9486,
-      "title": "Further discussion on the \r\nresolution regarding steps to ensure welfare of  Employees Provident Fund Pensioners \r\nmoved by Shri N.K. Premchandran on 11th December,  2015 (Discussion concluded).",
-      "debate_date": "29/07/2016",
-      "debate_type": 40,
-      "debate_type_desc": "PRIVATE MEMBERS' RESOLUTIONS",
-      "members": [
-        {
-          "mp_name": "Prof. Saugata Roy",
-          "mp_code": 2554,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Ramesh Bidhuri",
-          "mp_code": 4854,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Jagdambika Pal",
-          "mp_code": 4295,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Sankar Prasad Datta",
-          "mp_code": 4822,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Nishikant Dubey",
-          "mp_code": 4324,
-          "mp_part_code": 5
-        }
-      ],
-      "keywords": [
-        "Government Employees",
-        "Housing Schemes",
-        "Labour Welfare",
-        "Medical Facilities",
-        "Minimum Wage",
-        "Pension Schemes",
-        "Social Security",
-        "Unemployed",
-        "Welfare Economics",
-        "Insurgency",
-        "Public Sector Undertakings",
-        "Unorganised Workers",
-        "Price Rise",
-        "Crude Oil",
-        "Unorganised Sector",
-        "Foreign Direct Investment (FDI)",
-        "Senior Citizens",
-        "Self Employment",
-        "International Oil Price",
-        "Nationalized Bank",
-        "Aadhar Card",
-        "Direct Benefit Transfer",
-        "MUDRA Scheme"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9485,
-      "title": "Motion regarding 22nd to 24th \r\nReports of Committee on Private Members’ Bills And Resolutions (Motion Adopted).",
-      "debate_date": "29/07/2016",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Rattan Lal Kataria",
-          "mp_code": 183,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9484,
-      "title": "Discussion on Resolution \r\nregarding Approval of First Report of Railway Convention Committee appointed to review the rate \r\nof dividend payable by the Railway Undertaking to General Revenues and other ancillary \r\nmatters, which was presented to both the Houses of Parliament on 22<sup>nd</sup>\r\nDecember, 2015 moved by Shri Suresh Prabhu.",
-      "debate_date": "29/07/2016",
-      "debate_type": 16,
-      "debate_type_desc": "GOVERNMENT RESOLUTIONS",
-      "members": [
-        {
-          "mp_name": "SHRI SURESH PRABHU",
-          "mp_code": 10011,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri K.H. Muniyappa",
-          "mp_code": 261,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Ganesh Singh",
-          "mp_code": 3986,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri K. Ashok Kumar",
-          "mp_code": 4850,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": [
-        "Economic Growth",
-        "Pensioners",
-        "Planning Commission",
-        "Railway Crossings",
-        "Railway Electrification",
-        "Railway Freight",
-        "Railway Network",
-        "Railway Passenger Amenities",
-        "Railway Projects",
-        "Railway Station",
-        "Water Supply",
-        "Modernisation",
-        "Financial Assistance",
-        "Express Trains",
-        "Konkan Railway Corporation",
-        "Railway Overbridges"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9482,
-      "title": "Regarding \r\nnot accepting to the demand of Food Corporation of India depot, Mumbai MD of transferring\r\n the permanent employees of the depot.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Gajanan Chandrakant Kirtikar",
-          "mp_code": 4922,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Food Storage",
-        "Food Supply",
-        "Warehouses"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9478,
-      "title": "Regarding \r\nsafety of the cows and other animals.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Tathagata Satpathy",
-          "mp_code": 3918,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Animal Protection",
-        "Wild Animals"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9477,
-      "title": "Regarding \r\nproviding job to the families of employees on compassionate ground at Bhabha Atomic\r\n Research Centre.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Rahul Ramesh Shewale",
-          "mp_code": 4903,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Job Opportunities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9476,
-      "title": "Regarding\r\n opening a CGHS centre in Kozikhode.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Ramachandran Mullappally",
-          "mp_code": 3085,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Health Centres",
-        "Public Health"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9475,
-      "title": "Regarding \r\nstarting air services from Kota, Rajasthan.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Om Birla",
-          "mp_code": 4716,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Air Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9474,
-      "title": "Regarding \r\nconducting survey to find out that how many Post Offices don''t have their own building\r\n and are running from private houses.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. Pratima Mondal",
-          "mp_code": 4871,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Postal Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9473,
-      "title": "Regarding\r\n identifying folk artists, poets and artists by the government and help them.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Tamradhwaj Sahu",
-          "mp_code": 4614,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Pension",
-        "Financial Assistance"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9472,
-      "title": "Regarding \r\nquality control of flyover being built by Damodar Valley Corporation in Bokaro Thermal\r\n and providing houses under government schemes to the people displaced.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Ravindra Kumar Pandey",
-          "mp_code": 285,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Rehabilitation",
-        "Below Poverty Line"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9471,
-      "title": "Regarding\r\n taking steps to monitor cyber space through which recruitment of Indian youth are\r\n taking place in ISIS.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "PROF. RICHARD HAY",
-          "mp_code": 4932,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Youth Development",
-        "Internet Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 9470,
-      "title": "Regarding\r\n granting more funds for crop insurance in Tamil Nadu.",
-      "debate_date": "29/07/2016",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. K. Maragatham",
-          "mp_code": 4835,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agricultural Insurance",
-        "Subsidy",
-        "Farmers' Welfare"
       ]
     }
   ],
