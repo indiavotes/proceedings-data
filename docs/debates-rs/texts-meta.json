@@ -3,15 +3,62 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 0,
-    "shards": 0,
+    "records_with_text": 25,
+    "shards": 4,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 12928106,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 0,
-    "txt_files_removed": 0
+    "txt_files_removed": 25
   },
-  "shards": [],
-  "record_to_shard": {}
+  "shards": [
+    {
+      "file": "texts-00.json",
+      "count": 20,
+      "bytes": 3874436
+    },
+    {
+      "file": "texts-01.json",
+      "count": 2,
+      "bytes": 3664933
+    },
+    {
+      "file": "texts-02.json",
+      "count": 1,
+      "bytes": 2508278
+    },
+    {
+      "file": "texts-03.json",
+      "count": 2,
+      "bytes": 3113844
+    }
+  ],
+  "record_to_shard": {
+    "rs|RS268_2025-07-24|floor": 0,
+    "rs|RS268_2025-07-25|floor": 0,
+    "rs|RS268_2025-07-28|floor": 0,
+    "rs|RS268_2025-07-29|floor": 0,
+    "rs|RS268_2025-07-30|floor": 0,
+    "rs|RS268_2025-07-31|floor": 0,
+    "rs|RS268_2025-08-01|floor": 0,
+    "rs|RS268_2025-08-04|floor": 0,
+    "rs|RS268_2025-08-05|floor": 0,
+    "rs|RS268_2025-08-06|floor": 0,
+    "rs|RS268_2025-08-07|floor": 0,
+    "rs|RS268_2025-08-08|floor": 0,
+    "rs|RS268_2025-08-11|floor": 0,
+    "rs|RS268_2025-08-12|floor": 0,
+    "rs|RS268_2025-08-18|floor": 0,
+    "rs|RS268_2025-08-19|floor": 0,
+    "rs|RS268_2025-08-20|floor": 0,
+    "rs|RS268_2025-08-21|floor": 0,
+    "rs|RS269_2025-12-02|floor": 0,
+    "rs|RS269_2025-12-03|floor": 0,
+    "rs|RS269_2025-12-03|part1": 1,
+    "rs|RS269_2025-12-04|floor": 1,
+    "rs|RS269_2025-12-04|part1": 2,
+    "rs|RS269_2025-12-09|part1": 3,
+    "rs|RS269_2025-12-11|floor": 3
+  }
 }
