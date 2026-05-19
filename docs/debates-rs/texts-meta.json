@@ -3,62 +3,177 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 25,
-    "shards": 4,
+    "records_with_text": 50,
+    "shards": 22,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 54388324,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 25,
-    "txt_files_removed": 0
+    "txt_files_removed": 25
   },
   "shards": [
     {
       "file": "texts-00.json",
-      "count": 20,
-      "bytes": 3874436
+      "count": 5,
+      "bytes": 3097511
     },
     {
       "file": "texts-01.json",
       "count": 2,
-      "bytes": 3664933
+      "bytes": 2530921
     },
     {
       "file": "texts-02.json",
-      "count": 1,
-      "bytes": 2508278
+      "count": 2,
+      "bytes": 3254977
     },
     {
       "file": "texts-03.json",
       "count": 2,
-      "bytes": 3113844
+      "bytes": 2491246
+    },
+    {
+      "file": "texts-04.json",
+      "count": 2,
+      "bytes": 2896747
+    },
+    {
+      "file": "texts-05.json",
+      "count": 2,
+      "bytes": 3356811
+    },
+    {
+      "file": "texts-06.json",
+      "count": 3,
+      "bytes": 3990020
+    },
+    {
+      "file": "texts-07.json",
+      "count": 2,
+      "bytes": 3041670
+    },
+    {
+      "file": "texts-08.json",
+      "count": 3,
+      "bytes": 2804494
+    },
+    {
+      "file": "texts-09.json",
+      "count": 1,
+      "bytes": 5368956
+    },
+    {
+      "file": "texts-10.json",
+      "count": 3,
+      "bytes": 2850004
+    },
+    {
+      "file": "texts-11.json",
+      "count": 3,
+      "bytes": 2904699
+    },
+    {
+      "file": "texts-12.json",
+      "count": 2,
+      "bytes": 2821084
+    },
+    {
+      "file": "texts-13.json",
+      "count": 2,
+      "bytes": 2602359
+    },
+    {
+      "file": "texts-14.json",
+      "count": 2,
+      "bytes": 2814225
+    },
+    {
+      "file": "texts-15.json",
+      "count": 2,
+      "bytes": 2542866
+    },
+    {
+      "file": "texts-16.json",
+      "count": 2,
+      "bytes": 3447890
+    },
+    {
+      "file": "texts-17.json",
+      "count": 3,
+      "bytes": 3337329
+    },
+    {
+      "file": "texts-18.json",
+      "count": 2,
+      "bytes": 3664934
+    },
+    {
+      "file": "texts-19.json",
+      "count": 1,
+      "bytes": 2508279
+    },
+    {
+      "file": "texts-20.json",
+      "count": 2,
+      "bytes": 3113845
+    },
+    {
+      "file": "texts-21.json",
+      "count": 2,
+      "bytes": 3144053
     }
   ],
   "record_to_shard": {
-    "rs|RS268_2025-07-24|floor": 0,
-    "rs|RS268_2025-07-25|floor": 0,
-    "rs|RS268_2025-07-28|floor": 0,
-    "rs|RS268_2025-07-29|floor": 0,
-    "rs|RS268_2025-07-30|floor": 0,
-    "rs|RS268_2025-07-31|floor": 0,
-    "rs|RS268_2025-08-01|floor": 0,
-    "rs|RS268_2025-08-04|floor": 0,
-    "rs|RS268_2025-08-05|floor": 0,
-    "rs|RS268_2025-08-06|floor": 0,
-    "rs|RS268_2025-08-07|floor": 0,
-    "rs|RS268_2025-08-08|floor": 0,
-    "rs|RS268_2025-08-11|floor": 0,
-    "rs|RS268_2025-08-12|floor": 0,
-    "rs|RS268_2025-08-18|floor": 0,
-    "rs|RS268_2025-08-19|floor": 0,
-    "rs|RS268_2025-08-20|floor": 0,
-    "rs|RS268_2025-08-21|floor": 0,
-    "rs|RS269_2025-12-02|floor": 0,
-    "rs|RS269_2025-12-03|floor": 0,
-    "rs|RS269_2025-12-03|part1": 1,
-    "rs|RS269_2025-12-04|floor": 1,
-    "rs|RS269_2025-12-04|part1": 2,
-    "rs|RS269_2025-12-09|part1": 3,
-    "rs|RS269_2025-12-11|floor": 3
+    "rs|RS267_2025-04-02|floor": 0,
+    "rs|RS267_2025-04-04|floor": 0,
+    "rs|RS268_2025-07-21|floor": 0,
+    "rs|RS268_2025-07-21|part1": 0,
+    "rs|RS268_2025-07-22|floor": 0,
+    "rs|RS268_2025-07-22|part1": 1,
+    "rs|RS268_2025-07-23|floor": 1,
+    "rs|RS268_2025-07-23|part1": 2,
+    "rs|RS268_2025-07-24|floor": 2,
+    "rs|RS268_2025-07-24|part1": 3,
+    "rs|RS268_2025-07-25|floor": 3,
+    "rs|RS268_2025-07-25|part1": 4,
+    "rs|RS268_2025-07-28|floor": 4,
+    "rs|RS268_2025-07-28|part1": 5,
+    "rs|RS268_2025-07-29|floor": 5,
+    "rs|RS268_2025-07-29|part1": 6,
+    "rs|RS268_2025-07-30|floor": 6,
+    "rs|RS268_2025-07-31|floor": 6,
+    "rs|RS268_2025-07-31|part1": 7,
+    "rs|RS268_2025-08-01|floor": 7,
+    "rs|RS268_2025-08-01|part1": 8,
+    "rs|RS268_2025-08-04|floor": 8,
+    "rs|RS268_2025-08-05|floor": 8,
+    "rs|RS268_2025-08-05|part1": 9,
+    "rs|RS268_2025-08-06|floor": 10,
+    "rs|RS268_2025-08-06|part1": 10,
+    "rs|RS268_2025-08-07|floor": 10,
+    "rs|RS268_2025-08-07|part1": 11,
+    "rs|RS268_2025-08-08|floor": 11,
+    "rs|RS268_2025-08-11|floor": 11,
+    "rs|RS268_2025-08-11|part1": 12,
+    "rs|RS268_2025-08-12|floor": 12,
+    "rs|RS268_2025-08-12|part1": 13,
+    "rs|RS268_2025-08-18|floor": 13,
+    "rs|RS268_2025-08-18|part1": 14,
+    "rs|RS268_2025-08-19|floor": 14,
+    "rs|RS268_2025-08-19|part1": 15,
+    "rs|RS268_2025-08-20|floor": 15,
+    "rs|RS268_2025-08-20|part1": 16,
+    "rs|RS268_2025-08-21|floor": 16,
+    "rs|RS268_2025-08-21|part1": 17,
+    "rs|RS269_2025-12-02|floor": 17,
+    "rs|RS269_2025-12-03|floor": 17,
+    "rs|RS269_2025-12-03|part1": 18,
+    "rs|RS269_2025-12-04|floor": 18,
+    "rs|RS269_2025-12-04|part1": 19,
+    "rs|RS269_2025-12-09|part1": 20,
+    "rs|RS269_2025-12-11|floor": 20,
+    "rs|RS269_2025-12-11|part1": 21,
+    "rs|RS269_2025-12-12|floor": 21
   }
 }
