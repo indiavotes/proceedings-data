@@ -1,3 +1,156 @@
 {
-  "texts": {}
+  "texts": {
+    "rs": {
+      "RS267_2025-01-31": {
+        "floor": {
+          "size": 163674,
+          "url": "text/rs/RS267_2025-01-31_floor.txt"
+        }
+      },
+      "RS267_2025-02-01": {
+        "floor": {
+          "size": 6876,
+          "url": "text/rs/RS267_2025-02-01_floor.txt"
+        }
+      },
+      "RS267_2025-02-03": {
+        "floor": {
+          "size": 625064,
+          "url": "text/rs/RS267_2025-02-03_floor.txt"
+        }
+      },
+      "RS267_2025-02-04": {
+        "floor": {
+          "size": 833777,
+          "url": "text/rs/RS267_2025-02-04_floor.txt"
+        }
+      },
+      "RS267_2025-02-06": {
+        "floor": {
+          "size": 414138,
+          "url": "text/rs/RS267_2025-02-06_floor.txt"
+        }
+      },
+      "RS267_2025-02-07": {
+        "floor": {
+          "size": 384922,
+          "url": "text/rs/RS267_2025-02-07_floor.txt"
+        }
+      },
+      "RS267_2025-02-10": {
+        "floor": {
+          "size": 646588,
+          "url": "text/rs/RS267_2025-02-10_floor.txt"
+        }
+      },
+      "RS267_2025-02-11": {
+        "floor": {
+          "size": 815302,
+          "url": "text/rs/RS267_2025-02-11_floor.txt"
+        }
+      },
+      "RS267_2025-02-13": {
+        "floor": {
+          "size": 586979,
+          "url": "text/rs/RS267_2025-02-13_floor.txt"
+        }
+      },
+      "RS267_2025-03-10": {
+        "floor": {
+          "size": 573673,
+          "url": "text/rs/RS267_2025-03-10_floor.txt"
+        }
+      },
+      "RS267_2025-03-11": {
+        "floor": {
+          "size": 731083,
+          "url": "text/rs/RS267_2025-03-11_floor.txt"
+        }
+      },
+      "RS267_2025-03-12": {
+        "floor": {
+          "size": 466127,
+          "url": "text/rs/RS267_2025-03-12_floor.txt"
+        }
+      },
+      "RS267_2025-03-17": {
+        "floor": {
+          "size": 708041,
+          "url": "text/rs/RS267_2025-03-17_floor.txt"
+        }
+      },
+      "RS267_2025-03-18": {
+        "floor": {
+          "size": 573029,
+          "url": "text/rs/RS267_2025-03-18_floor.txt"
+        }
+      },
+      "RS267_2025-03-19": {
+        "floor": {
+          "size": 502116,
+          "url": "text/rs/RS267_2025-03-19_floor.txt"
+        }
+      },
+      "RS267_2025-03-20": {
+        "floor": {
+          "size": 31364,
+          "url": "text/rs/RS267_2025-03-20_floor.txt"
+        }
+      },
+      "RS267_2025-03-21": {
+        "floor": {
+          "size": 519351,
+          "url": "text/rs/RS267_2025-03-21_floor.txt"
+        }
+      },
+      "RS267_2025-03-24": {
+        "floor": {
+          "size": 45669,
+          "url": "text/rs/RS267_2025-03-24_floor.txt"
+        }
+      },
+      "RS267_2025-03-25": {
+        "floor": {
+          "size": 553439,
+          "url": "text/rs/RS267_2025-03-25_floor.txt"
+        }
+      },
+      "RS267_2025-03-26": {
+        "floor": {
+          "size": 569310,
+          "url": "text/rs/RS267_2025-03-26_floor.txt"
+        }
+      },
+      "RS267_2025-03-27": {
+        "floor": {
+          "size": 571569,
+          "url": "text/rs/RS267_2025-03-27_floor.txt"
+        }
+      },
+      "RS267_2025-03-28": {
+        "floor": {
+          "size": 480265,
+          "url": "text/rs/RS267_2025-03-28_floor.txt"
+        }
+      },
+      "RS267_2025-04-01": {
+        "floor": {
+          "size": 668240,
+          "url": "text/rs/RS267_2025-04-01_floor.txt"
+        }
+      },
+      "RS267_2025-04-03": {
+        "part1": {
+          "size": 2296394,
+          "url": "text/rs/RS267_2025-04-03_part1.txt"
+        }
+      },
+      "RS267_2025-04-04": {
+        "part1": {
+          "size": 2728029,
+          "url": "text/rs/RS267_2025-04-04_part1.txt"
+        }
+      }
+    }
+  }
 }
