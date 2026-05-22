@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "corpus": "debates-rs",
-  "generated_at": "2026-05-22T13:29:45Z",
+  "generated_at": "2026-05-22T15:32:50Z",
   "total_records": 327,
-  "total_with_text": 20,
+  "total_with_text": 0,
   "houses": [
     "rs"
   ],
