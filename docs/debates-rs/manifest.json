@@ -1,142 +1,148 @@
 {
   "texts": {
     "rs": {
-      "RS262_2023-12-04": {
+      "RS260_2023-08-01": {
         "floor": {
-          "size": 470776,
-          "url": "text/rs/RS262_2023-12-04_floor.txt"
+          "size": 608702,
+          "url": "text/rs/RS260_2023-08-01_floor.txt"
+        }
+      },
+      "RS260_2023-08-02": {
+        "floor": {
+          "size": 644457,
+          "url": "text/rs/RS260_2023-08-02_floor.txt"
+        }
+      },
+      "RS260_2023-08-03": {
+        "floor": {
+          "size": 529824,
+          "url": "text/rs/RS260_2023-08-03_floor.txt"
+        }
+      },
+      "RS260_2023-08-04": {
+        "floor": {
+          "size": 56757,
+          "url": "text/rs/RS260_2023-08-04_floor.txt"
+        }
+      },
+      "RS260_2023-08-07": {
+        "floor": {
+          "size": 650934,
+          "url": "text/rs/RS260_2023-08-07_floor.txt"
+        }
+      },
+      "RS260_2023-08-08": {
+        "floor": {
+          "size": 369623,
+          "url": "text/rs/RS260_2023-08-08_floor.txt"
+        }
+      },
+      "RS260_2023-08-09": {
+        "floor": {
+          "size": 315887,
+          "url": "text/rs/RS260_2023-08-09_floor.txt"
+        }
+      },
+      "RS260_2023-08-10": {
+        "floor": {
+          "size": 105747,
+          "url": "text/rs/RS260_2023-08-10_floor.txt"
+        }
+      },
+      "RS260_2023-08-11": {
+        "floor": {
+          "size": 219861,
+          "url": "text/rs/RS260_2023-08-11_floor.txt"
+        }
+      },
+      "RS261_2023-09-18": {
+        "floor": {
+          "size": 521195,
+          "url": "text/rs/RS261_2023-09-18_floor.txt"
+        }
+      },
+      "RS261_2023-09-19": {
+        "floor": {
+          "size": 78023,
+          "url": "text/rs/RS261_2023-09-19_floor.txt"
+        }
+      },
+      "RS261_2023-09-20": {
+        "floor": {
+          "size": 452089,
+          "url": "text/rs/RS261_2023-09-20_floor.txt"
+        }
+      },
+      "RS261_2023-09-21": {
+        "floor": {
+          "size": 894994,
+          "url": "text/rs/RS261_2023-09-21_floor.txt"
+        }
+      },
+      "RS262_2023-12-04": {
+        "part1": {
+          "size": 2204407,
+          "url": "text/rs/RS262_2023-12-04_part1.txt"
         }
       },
       "RS262_2023-12-05": {
-        "floor": {
-          "size": 489425,
-          "url": "text/rs/RS262_2023-12-05_floor.txt"
+        "part1": {
+          "size": 2547491,
+          "url": "text/rs/RS262_2023-12-05_part1.txt"
         }
       },
       "RS262_2023-12-06": {
-        "floor": {
-          "size": 486747,
-          "url": "text/rs/RS262_2023-12-06_floor.txt"
+        "part1": {
+          "size": 3017570,
+          "url": "text/rs/RS262_2023-12-06_part1.txt"
         }
       },
       "RS262_2023-12-07": {
-        "floor": {
-          "size": 569943,
-          "url": "text/rs/RS262_2023-12-07_floor.txt"
+        "part1": {
+          "size": 3891804,
+          "url": "text/rs/RS262_2023-12-07_part1.txt"
         }
       },
       "RS262_2023-12-08": {
-        "floor": {
-          "size": 467466,
-          "url": "text/rs/RS262_2023-12-08_floor.txt"
+        "part1": {
+          "size": 2574911,
+          "url": "text/rs/RS262_2023-12-08_part1.txt"
         }
       },
       "RS262_2023-12-11": {
-        "floor": {
-          "size": 727302,
-          "url": "text/rs/RS262_2023-12-11_floor.txt"
+        "part1": {
+          "size": 2642593,
+          "url": "text/rs/RS262_2023-12-11_part1.txt"
         }
       },
       "RS262_2023-12-12": {
-        "floor": {
-          "size": 538664,
-          "url": "text/rs/RS262_2023-12-12_floor.txt"
+        "part1": {
+          "size": 2441896,
+          "url": "text/rs/RS262_2023-12-12_part1.txt"
         }
       },
       "RS262_2023-12-13": {
-        "floor": {
-          "size": 441525,
-          "url": "text/rs/RS262_2023-12-13_floor.txt"
+        "part1": {
+          "size": 2634689,
+          "url": "text/rs/RS262_2023-12-13_part1.txt"
         }
       },
       "RS262_2023-12-14": {
-        "floor": {
-          "size": 72187,
-          "url": "text/rs/RS262_2023-12-14_floor.txt"
+        "part1": {
+          "size": 2335437,
+          "url": "text/rs/RS262_2023-12-14_part1.txt"
         }
       },
       "RS262_2023-12-15": {
-        "floor": {
-          "size": 51155,
-          "url": "text/rs/RS262_2023-12-15_floor.txt"
+        "part1": {
+          "size": 1998723,
+          "url": "text/rs/RS262_2023-12-15_part1.txt"
         }
       },
       "RS262_2023-12-18": {
-        "floor": {
-          "size": 88132,
-          "url": "text/rs/RS262_2023-12-18_floor.txt"
-        }
-      },
-      "RS262_2023-12-19": {
-        "floor": {
-          "size": 170363,
-          "url": "text/rs/RS262_2023-12-19_floor.txt"
-        },
         "part1": {
-          "size": 1709234,
-          "url": "text/rs/RS262_2023-12-19_part1.txt"
-        }
-      },
-      "RS262_2023-12-20": {
-        "floor": {
-          "size": 574067,
-          "url": "text/rs/RS262_2023-12-20_floor.txt"
-        },
-        "part1": {
-          "size": 2126056,
-          "url": "text/rs/RS262_2023-12-20_part1.txt"
-        }
-      },
-      "RS262_2023-12-21": {
-        "floor": {
-          "size": 891948,
-          "url": "text/rs/RS262_2023-12-21_floor.txt"
-        },
-        "part1": {
-          "size": 2136702,
-          "url": "text/rs/RS262_2023-12-21_part1.txt"
-        }
-      },
-      "RS263_2024-02-02": {
-        "part1": {
-          "size": 2403064,
-          "url": "text/rs/RS263_2024-02-02_part1.txt"
-        }
-      },
-      "RS263_2024-02-05": {
-        "part1": {
-          "size": 2091113,
-          "url": "text/rs/RS263_2024-02-05_part1.txt"
-        }
-      },
-      "RS263_2024-02-06": {
-        "part1": {
-          "size": 2946774,
-          "url": "text/rs/RS263_2024-02-06_part1.txt"
-        }
-      },
-      "RS263_2024-02-07": {
-        "part1": {
-          "size": 2668913,
-          "url": "text/rs/RS263_2024-02-07_part1.txt"
-        }
-      },
-      "RS263_2024-02-08": {
-        "part1": {
-          "size": 2889595,
-          "url": "text/rs/RS263_2024-02-08_part1.txt"
-        }
-      },
-      "RS263_2024-02-09": {
-        "part1": {
-          "size": 2492804,
-          "url": "text/rs/RS263_2024-02-09_part1.txt"
-        }
-      },
-      "RS269_2025-12-12": {
-        "part1": {
-          "size": 2928705,
-          "url": "text/rs/RS269_2025-12-12_part1.txt"
+          "size": 2404776,
+          "url": "text/rs/RS262_2023-12-18_part1.txt"
         }
       }
     }
