@@ -3,569 +3,643 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 172,
-    "shards": 76,
+    "records_with_text": 196,
+    "shards": 86,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 30432660,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 172,
-    "txt_files_removed": 0
+    "txt_files_removed": 24
   },
   "shards": [
     {
       "file": "texts-00.json",
-      "count": 8,
-      "bytes": 4429885
+      "count": 11,
+      "bytes": 4462591
     },
     {
       "file": "texts-01.json",
-      "count": 9,
-      "bytes": 3515722
+      "count": 3,
+      "bytes": 2489661
     },
     {
       "file": "texts-02.json",
       "count": 2,
-      "bytes": 3637206
+      "bytes": 3060442
     },
     {
       "file": "texts-03.json",
-      "count": 2,
-      "bytes": 3255472
+      "count": 4,
+      "bytes": 2979823
     },
     {
       "file": "texts-04.json",
       "count": 2,
-      "bytes": 3379305
+      "bytes": 3101263
     },
     {
       "file": "texts-05.json",
       "count": 2,
-      "bytes": 3561703
+      "bytes": 2979457
     },
     {
       "file": "texts-06.json",
-      "count": 3,
-      "bytes": 3877794
+      "count": 2,
+      "bytes": 3865696
     },
     {
       "file": "texts-07.json",
       "count": 2,
-      "bytes": 3379228
+      "bytes": 3291644
     },
     {
       "file": "texts-08.json",
       "count": 2,
-      "bytes": 2818317
+      "bytes": 3657260
     },
     {
       "file": "texts-09.json",
-      "count": 2,
-      "bytes": 3118397
+      "count": 5,
+      "bytes": 4150507
     },
     {
       "file": "texts-10.json",
-      "count": 2,
-      "bytes": 3227912
+      "count": 5,
+      "bytes": 1895554
     },
     {
       "file": "texts-11.json",
       "count": 2,
-      "bytes": 2982465
+      "bytes": 3637207
     },
     {
       "file": "texts-12.json",
       "count": 2,
-      "bytes": 3800333
+      "bytes": 3255473
     },
     {
       "file": "texts-13.json",
       "count": 2,
-      "bytes": 2516733
+      "bytes": 3379306
     },
     {
       "file": "texts-14.json",
       "count": 2,
-      "bytes": 2684051
+      "bytes": 3561704
     },
     {
       "file": "texts-15.json",
-      "count": 4,
-      "bytes": 4293814
+      "count": 3,
+      "bytes": 3877795
     },
     {
       "file": "texts-16.json",
-      "count": 1,
-      "bytes": 4610145
+      "count": 2,
+      "bytes": 3379229
     },
     {
       "file": "texts-17.json",
-      "count": 3,
-      "bytes": 2484788
+      "count": 2,
+      "bytes": 2818318
     },
     {
       "file": "texts-18.json",
-      "count": 1,
-      "bytes": 4513542
+      "count": 2,
+      "bytes": 3118398
     },
     {
       "file": "texts-19.json",
-      "count": 3,
-      "bytes": 3663302
+      "count": 2,
+      "bytes": 3227912
     },
     {
       "file": "texts-20.json",
       "count": 2,
-      "bytes": 3467375
+      "bytes": 2982465
     },
     {
       "file": "texts-21.json",
       "count": 2,
-      "bytes": 2493155
+      "bytes": 3800333
     },
     {
       "file": "texts-22.json",
       "count": 2,
-      "bytes": 2320327
+      "bytes": 2516733
     },
     {
       "file": "texts-23.json",
       "count": 2,
-      "bytes": 2736786
+      "bytes": 2684051
     },
     {
       "file": "texts-24.json",
-      "count": 2,
-      "bytes": 2693796
+      "count": 4,
+      "bytes": 4293814
     },
     {
       "file": "texts-25.json",
-      "count": 2,
-      "bytes": 2709329
+      "count": 1,
+      "bytes": 4610145
     },
     {
       "file": "texts-26.json",
       "count": 3,
-      "bytes": 4394754
+      "bytes": 2484788
     },
     {
       "file": "texts-27.json",
       "count": 1,
-      "bytes": 5405968
+      "bytes": 4513542
     },
     {
       "file": "texts-28.json",
-      "count": 2,
-      "bytes": 2366933
+      "count": 3,
+      "bytes": 3663302
     },
     {
       "file": "texts-29.json",
-      "count": 1,
-      "bytes": 2337306
+      "count": 2,
+      "bytes": 3467375
     },
     {
       "file": "texts-30.json",
-      "count": 4,
-      "bytes": 3412038
+      "count": 2,
+      "bytes": 2493155
     },
     {
       "file": "texts-31.json",
       "count": 2,
-      "bytes": 3607665
+      "bytes": 2320327
     },
     {
       "file": "texts-32.json",
       "count": 2,
-      "bytes": 3425614
+      "bytes": 2736786
     },
     {
       "file": "texts-33.json",
       "count": 2,
-      "bytes": 2981983
+      "bytes": 2693796
     },
     {
       "file": "texts-34.json",
       "count": 2,
-      "bytes": 3077401
+      "bytes": 2709329
     },
     {
       "file": "texts-35.json",
-      "count": 2,
-      "bytes": 3296210
+      "count": 3,
+      "bytes": 4394754
     },
     {
       "file": "texts-36.json",
-      "count": 2,
-      "bytes": 3126167
+      "count": 1,
+      "bytes": 5405968
     },
     {
       "file": "texts-37.json",
       "count": 2,
-      "bytes": 2996376
+      "bytes": 2366933
     },
     {
       "file": "texts-38.json",
-      "count": 4,
-      "bytes": 4461739
+      "count": 1,
+      "bytes": 2337306
     },
     {
       "file": "texts-39.json",
-      "count": 1,
-      "bytes": 4832078
+      "count": 4,
+      "bytes": 3412038
     },
     {
       "file": "texts-40.json",
-      "count": 3,
-      "bytes": 3599151
+      "count": 2,
+      "bytes": 3607665
     },
     {
       "file": "texts-41.json",
       "count": 2,
-      "bytes": 2639310
+      "bytes": 3425614
     },
     {
       "file": "texts-42.json",
       "count": 2,
-      "bytes": 3774154
+      "bytes": 2981983
     },
     {
       "file": "texts-43.json",
       "count": 2,
-      "bytes": 2297719
+      "bytes": 3077401
     },
     {
       "file": "texts-44.json",
       "count": 2,
-      "bytes": 2912676
+      "bytes": 3296210
     },
     {
       "file": "texts-45.json",
       "count": 2,
-      "bytes": 3271517
+      "bytes": 3126167
     },
     {
       "file": "texts-46.json",
       "count": 2,
-      "bytes": 3237778
+      "bytes": 2996376
     },
     {
       "file": "texts-47.json",
-      "count": 3,
-      "bytes": 3758100
+      "count": 4,
+      "bytes": 4461739
     },
     {
       "file": "texts-48.json",
-      "count": 2,
-      "bytes": 3298475
+      "count": 1,
+      "bytes": 4832078
     },
     {
       "file": "texts-49.json",
-      "count": 1,
-      "bytes": 3020844
+      "count": 3,
+      "bytes": 3599151
     },
     {
       "file": "texts-50.json",
       "count": 2,
-      "bytes": 2408801
+      "bytes": 2639310
     },
     {
       "file": "texts-51.json",
       "count": 2,
-      "bytes": 3018118
+      "bytes": 3774154
     },
     {
       "file": "texts-52.json",
       "count": 2,
-      "bytes": 2244603
+      "bytes": 2297719
     },
     {
       "file": "texts-53.json",
       "count": 2,
-      "bytes": 2530922
+      "bytes": 2912676
     },
     {
       "file": "texts-54.json",
       "count": 2,
-      "bytes": 3254978
+      "bytes": 3271517
     },
     {
       "file": "texts-55.json",
       "count": 2,
-      "bytes": 2491247
+      "bytes": 3237778
     },
     {
       "file": "texts-56.json",
-      "count": 2,
-      "bytes": 2896748
+      "count": 3,
+      "bytes": 3758100
     },
     {
       "file": "texts-57.json",
       "count": 2,
-      "bytes": 3356812
+      "bytes": 3298475
     },
     {
       "file": "texts-58.json",
-      "count": 3,
-      "bytes": 3990021
+      "count": 1,
+      "bytes": 3020844
     },
     {
       "file": "texts-59.json",
       "count": 2,
-      "bytes": 3041671
+      "bytes": 2408801
     },
     {
       "file": "texts-60.json",
-      "count": 3,
-      "bytes": 2804495
+      "count": 2,
+      "bytes": 3018118
     },
     {
       "file": "texts-61.json",
-      "count": 1,
-      "bytes": 5368957
+      "count": 2,
+      "bytes": 2244603
     },
     {
       "file": "texts-62.json",
-      "count": 3,
-      "bytes": 2850004
+      "count": 2,
+      "bytes": 2530922
     },
     {
       "file": "texts-63.json",
-      "count": 3,
-      "bytes": 2904699
+      "count": 2,
+      "bytes": 3254978
     },
     {
       "file": "texts-64.json",
       "count": 2,
-      "bytes": 2821084
+      "bytes": 2491247
     },
     {
       "file": "texts-65.json",
       "count": 2,
-      "bytes": 2602359
+      "bytes": 2896748
     },
     {
       "file": "texts-66.json",
       "count": 2,
-      "bytes": 2814225
+      "bytes": 3356812
     },
     {
       "file": "texts-67.json",
-      "count": 2,
-      "bytes": 2542866
+      "count": 3,
+      "bytes": 3990021
     },
     {
       "file": "texts-68.json",
       "count": 2,
-      "bytes": 3447890
+      "bytes": 3041671
     },
     {
       "file": "texts-69.json",
-      "count": 1,
-      "bytes": 2655030
+      "count": 3,
+      "bytes": 2804495
     },
     {
       "file": "texts-70.json",
-      "count": 3,
-      "bytes": 2850061
+      "count": 1,
+      "bytes": 5368957
     },
     {
       "file": "texts-71.json",
-      "count": 2,
-      "bytes": 3664934
+      "count": 3,
+      "bytes": 2850004
     },
     {
       "file": "texts-72.json",
-      "count": 1,
-      "bytes": 2508279
+      "count": 3,
+      "bytes": 2904699
     },
     {
       "file": "texts-73.json",
-      "count": 1,
-      "bytes": 2622789
+      "count": 2,
+      "bytes": 2821084
     },
     {
       "file": "texts-74.json",
       "count": 2,
-      "bytes": 3551766
+      "bytes": 2602359
     },
     {
       "file": "texts-75.json",
       "count": 2,
+      "bytes": 2814225
+    },
+    {
+      "file": "texts-76.json",
+      "count": 2,
+      "bytes": 2542866
+    },
+    {
+      "file": "texts-77.json",
+      "count": 2,
+      "bytes": 3447890
+    },
+    {
+      "file": "texts-78.json",
+      "count": 1,
+      "bytes": 2655030
+    },
+    {
+      "file": "texts-79.json",
+      "count": 3,
+      "bytes": 2850061
+    },
+    {
+      "file": "texts-80.json",
+      "count": 2,
+      "bytes": 3664934
+    },
+    {
+      "file": "texts-81.json",
+      "count": 1,
+      "bytes": 2508279
+    },
+    {
+      "file": "texts-82.json",
+      "count": 1,
+      "bytes": 2622789
+    },
+    {
+      "file": "texts-83.json",
+      "count": 2,
+      "bytes": 3551766
+    },
+    {
+      "file": "texts-84.json",
+      "count": 2,
       "bytes": 3144053
+    },
+    {
+      "file": "texts-85.json",
+      "count": 1,
+      "bytes": 2969333
     }
   ],
   "record_to_shard": {
-    "rs|RS263_2024-01-31|floor": 0,
-    "rs|RS263_2024-02-01|floor": 0,
-    "rs|RS263_2024-02-02|floor": 0,
-    "rs|RS263_2024-02-05|floor": 0,
-    "rs|RS263_2024-02-06|floor": 0,
-    "rs|RS263_2024-02-07|floor": 0,
-    "rs|RS263_2024-02-08|floor": 0,
-    "rs|RS263_2024-02-09|floor": 0,
-    "rs|RS263_2024-02-10|floor": 1,
-    "rs|RS264_2024-06-27|floor": 1,
-    "rs|RS264_2024-06-28|floor": 1,
-    "rs|RS264_2024-07-01|floor": 1,
-    "rs|RS264_2024-07-02|floor": 1,
-    "rs|RS264_2024-07-03|floor": 1,
-    "rs|RS265_2024-07-22|floor": 1,
-    "rs|RS265_2024-07-23|floor": 1,
-    "rs|RS265_2024-07-24|floor": 1,
-    "rs|RS265_2024-07-24|part1": 2,
-    "rs|RS265_2024-07-25|floor": 2,
-    "rs|RS265_2024-07-25|part1": 3,
-    "rs|RS265_2024-07-26|floor": 3,
-    "rs|RS265_2024-07-26|part1": 4,
-    "rs|RS265_2024-07-29|floor": 4,
-    "rs|RS265_2024-07-29|part1": 5,
-    "rs|RS265_2024-07-30|floor": 5,
-    "rs|RS265_2024-07-30|part1": 6,
-    "rs|RS265_2024-07-31|english": 6,
-    "rs|RS265_2024-07-31|floor": 6,
-    "rs|RS265_2024-07-31|part1": 7,
-    "rs|RS265_2024-08-01|floor": 7,
-    "rs|RS265_2024-08-01|part1": 8,
-    "rs|RS265_2024-08-02|floor": 8,
-    "rs|RS265_2024-08-02|part1": 9,
-    "rs|RS265_2024-08-05|floor": 9,
-    "rs|RS265_2024-08-05|part1": 10,
-    "rs|RS265_2024-08-06|floor": 10,
-    "rs|RS265_2024-08-06|part1": 11,
-    "rs|RS265_2024-08-07|floor": 11,
-    "rs|RS265_2024-08-07|part1": 12,
-    "rs|RS265_2024-08-08|floor": 12,
-    "rs|RS265_2024-08-08|part1": 13,
-    "rs|RS265_2024-08-09|floor": 13,
-    "rs|RS265_2024-08-09|part1": 14,
-    "rs|RS266_2024-11-25|floor": 14,
-    "rs|RS266_2024-11-25|part1": 15,
-    "rs|RS266_2024-11-27|floor": 15,
-    "rs|RS266_2024-11-27|part1": 15,
-    "rs|RS266_2024-11-28|floor": 15,
-    "rs|RS266_2024-11-28|part1": 16,
-    "rs|RS266_2024-11-29|floor": 17,
-    "rs|RS266_2024-11-29|part1": 17,
-    "rs|RS266_2024-12-02|floor": 17,
-    "rs|RS266_2024-12-02|part1": 18,
-    "rs|RS266_2024-12-03|floor": 19,
-    "rs|RS266_2024-12-03|part1": 19,
-    "rs|RS266_2024-12-04|floor": 19,
-    "rs|RS266_2024-12-04|part1": 20,
-    "rs|RS266_2024-12-05|floor": 20,
-    "rs|RS266_2024-12-05|part1": 21,
-    "rs|RS266_2024-12-06|floor": 21,
-    "rs|RS266_2024-12-06|part1": 22,
-    "rs|RS266_2024-12-09|floor": 22,
-    "rs|RS266_2024-12-09|part1": 23,
-    "rs|RS266_2024-12-10|floor": 23,
-    "rs|RS266_2024-12-10|part1": 24,
-    "rs|RS266_2024-12-11|floor": 24,
-    "rs|RS266_2024-12-11|part1": 25,
-    "rs|RS266_2024-12-12|floor": 25,
-    "rs|RS266_2024-12-12|part1": 26,
-    "rs|RS266_2024-12-13|floor": 26,
-    "rs|RS266_2024-12-16|floor": 26,
-    "rs|RS266_2024-12-16|part1": 27,
-    "rs|RS266_2024-12-17|part1": 28,
-    "rs|RS266_2024-12-18|floor": 28,
-    "rs|RS266_2024-12-19|part1": 29,
-    "rs|RS266_2024-12-20|part1": 30,
-    "rs|RS267_2025-01-31|floor": 30,
-    "rs|RS267_2025-02-01|floor": 30,
-    "rs|RS267_2025-02-03|floor": 30,
-    "rs|RS267_2025-02-03|part1": 31,
-    "rs|RS267_2025-02-04|floor": 31,
-    "rs|RS267_2025-02-04|part1": 32,
-    "rs|RS267_2025-02-06|floor": 32,
-    "rs|RS267_2025-02-06|part1": 33,
-    "rs|RS267_2025-02-07|floor": 33,
-    "rs|RS267_2025-02-07|part1": 34,
-    "rs|RS267_2025-02-10|floor": 34,
-    "rs|RS267_2025-02-10|part1": 35,
-    "rs|RS267_2025-02-11|floor": 35,
-    "rs|RS267_2025-02-11|part1": 36,
-    "rs|RS267_2025-02-13|floor": 36,
-    "rs|RS267_2025-02-13|part1": 37,
-    "rs|RS267_2025-03-10|floor": 37,
-    "rs|RS267_2025-03-10|part1": 38,
-    "rs|RS267_2025-03-11|floor": 38,
-    "rs|RS267_2025-03-12|floor": 38,
-    "rs|RS267_2025-03-17|floor": 38,
-    "rs|RS267_2025-03-17|part1": 39,
-    "rs|RS267_2025-03-18|floor": 40,
-    "rs|RS267_2025-03-18|part1": 40,
-    "rs|RS267_2025-03-19|floor": 40,
-    "rs|RS267_2025-03-19|part1": 41,
-    "rs|RS267_2025-03-20|floor": 41,
-    "rs|RS267_2025-03-20|part1": 42,
-    "rs|RS267_2025-03-21|floor": 42,
-    "rs|RS267_2025-03-21|part1": 43,
-    "rs|RS267_2025-03-24|floor": 43,
-    "rs|RS267_2025-03-24|part1": 44,
-    "rs|RS267_2025-03-25|floor": 44,
-    "rs|RS267_2025-03-25|part1": 45,
-    "rs|RS267_2025-03-26|floor": 45,
-    "rs|RS267_2025-03-26|part1": 46,
-    "rs|RS267_2025-03-27|floor": 46,
-    "rs|RS267_2025-03-27|part1": 47,
-    "rs|RS267_2025-03-28|floor": 47,
-    "rs|RS267_2025-04-01|floor": 47,
-    "rs|RS267_2025-04-01|part1": 48,
-    "rs|RS267_2025-04-02|floor": 48,
-    "rs|RS267_2025-04-02|part1": 49,
-    "rs|RS267_2025-04-03|part1": 50,
-    "rs|RS267_2025-04-04|floor": 50,
-    "rs|RS267_2025-04-04|part1": 51,
-    "rs|RS268_2025-07-21|floor": 51,
-    "rs|RS268_2025-07-21|part1": 52,
-    "rs|RS268_2025-07-22|floor": 52,
-    "rs|RS268_2025-07-22|part1": 53,
-    "rs|RS268_2025-07-23|floor": 53,
-    "rs|RS268_2025-07-23|part1": 54,
-    "rs|RS268_2025-07-24|floor": 54,
-    "rs|RS268_2025-07-24|part1": 55,
-    "rs|RS268_2025-07-25|floor": 55,
-    "rs|RS268_2025-07-25|part1": 56,
-    "rs|RS268_2025-07-28|floor": 56,
-    "rs|RS268_2025-07-28|part1": 57,
-    "rs|RS268_2025-07-29|floor": 57,
-    "rs|RS268_2025-07-29|part1": 58,
-    "rs|RS268_2025-07-30|floor": 58,
-    "rs|RS268_2025-07-31|floor": 58,
-    "rs|RS268_2025-07-31|part1": 59,
-    "rs|RS268_2025-08-01|floor": 59,
-    "rs|RS268_2025-08-01|part1": 60,
-    "rs|RS268_2025-08-04|floor": 60,
-    "rs|RS268_2025-08-05|floor": 60,
-    "rs|RS268_2025-08-05|part1": 61,
-    "rs|RS268_2025-08-06|floor": 62,
-    "rs|RS268_2025-08-06|part1": 62,
-    "rs|RS268_2025-08-07|floor": 62,
-    "rs|RS268_2025-08-07|part1": 63,
-    "rs|RS268_2025-08-08|floor": 63,
-    "rs|RS268_2025-08-11|floor": 63,
-    "rs|RS268_2025-08-11|part1": 64,
-    "rs|RS268_2025-08-12|floor": 64,
-    "rs|RS268_2025-08-12|part1": 65,
-    "rs|RS268_2025-08-18|floor": 65,
-    "rs|RS268_2025-08-18|part1": 66,
-    "rs|RS268_2025-08-19|floor": 66,
-    "rs|RS268_2025-08-19|part1": 67,
-    "rs|RS268_2025-08-20|floor": 67,
-    "rs|RS268_2025-08-20|part1": 68,
-    "rs|RS268_2025-08-21|floor": 68,
-    "rs|RS268_2025-08-21|part1": 69,
-    "rs|RS269_2025-12-01|part1": 70,
-    "rs|RS269_2025-12-02|floor": 70,
-    "rs|RS269_2025-12-03|floor": 70,
-    "rs|RS269_2025-12-03|part1": 71,
-    "rs|RS269_2025-12-04|floor": 71,
-    "rs|RS269_2025-12-04|part1": 72,
-    "rs|RS269_2025-12-09|part1": 73,
-    "rs|RS269_2025-12-10|part1": 74,
-    "rs|RS269_2025-12-11|floor": 74,
-    "rs|RS269_2025-12-11|part1": 75,
-    "rs|RS269_2025-12-12|floor": 75
+    "rs|RS262_2023-12-04|floor": 0,
+    "rs|RS262_2023-12-05|floor": 0,
+    "rs|RS262_2023-12-06|floor": 0,
+    "rs|RS262_2023-12-07|floor": 0,
+    "rs|RS262_2023-12-08|floor": 0,
+    "rs|RS262_2023-12-11|floor": 0,
+    "rs|RS262_2023-12-12|floor": 0,
+    "rs|RS262_2023-12-13|floor": 0,
+    "rs|RS262_2023-12-14|floor": 0,
+    "rs|RS262_2023-12-15|floor": 0,
+    "rs|RS262_2023-12-18|floor": 0,
+    "rs|RS262_2023-12-19|floor": 1,
+    "rs|RS262_2023-12-19|part1": 1,
+    "rs|RS262_2023-12-20|floor": 1,
+    "rs|RS262_2023-12-20|part1": 2,
+    "rs|RS262_2023-12-21|floor": 2,
+    "rs|RS262_2023-12-21|part1": 3,
+    "rs|RS263_2024-01-31|floor": 3,
+    "rs|RS263_2024-02-01|floor": 3,
+    "rs|RS263_2024-02-02|floor": 3,
+    "rs|RS263_2024-02-02|part1": 4,
+    "rs|RS263_2024-02-05|floor": 4,
+    "rs|RS263_2024-02-05|part1": 5,
+    "rs|RS263_2024-02-06|floor": 5,
+    "rs|RS263_2024-02-06|part1": 6,
+    "rs|RS263_2024-02-07|floor": 6,
+    "rs|RS263_2024-02-07|part1": 7,
+    "rs|RS263_2024-02-08|floor": 7,
+    "rs|RS263_2024-02-08|part1": 8,
+    "rs|RS263_2024-02-09|floor": 8,
+    "rs|RS263_2024-02-09|part1": 9,
+    "rs|RS263_2024-02-10|floor": 9,
+    "rs|RS264_2024-06-27|floor": 9,
+    "rs|RS264_2024-06-28|floor": 9,
+    "rs|RS264_2024-07-01|floor": 9,
+    "rs|RS264_2024-07-02|floor": 10,
+    "rs|RS264_2024-07-03|floor": 10,
+    "rs|RS265_2024-07-22|floor": 10,
+    "rs|RS265_2024-07-23|floor": 10,
+    "rs|RS265_2024-07-24|floor": 10,
+    "rs|RS265_2024-07-24|part1": 11,
+    "rs|RS265_2024-07-25|floor": 11,
+    "rs|RS265_2024-07-25|part1": 12,
+    "rs|RS265_2024-07-26|floor": 12,
+    "rs|RS265_2024-07-26|part1": 13,
+    "rs|RS265_2024-07-29|floor": 13,
+    "rs|RS265_2024-07-29|part1": 14,
+    "rs|RS265_2024-07-30|floor": 14,
+    "rs|RS265_2024-07-30|part1": 15,
+    "rs|RS265_2024-07-31|english": 15,
+    "rs|RS265_2024-07-31|floor": 15,
+    "rs|RS265_2024-07-31|part1": 16,
+    "rs|RS265_2024-08-01|floor": 16,
+    "rs|RS265_2024-08-01|part1": 17,
+    "rs|RS265_2024-08-02|floor": 17,
+    "rs|RS265_2024-08-02|part1": 18,
+    "rs|RS265_2024-08-05|floor": 18,
+    "rs|RS265_2024-08-05|part1": 19,
+    "rs|RS265_2024-08-06|floor": 19,
+    "rs|RS265_2024-08-06|part1": 20,
+    "rs|RS265_2024-08-07|floor": 20,
+    "rs|RS265_2024-08-07|part1": 21,
+    "rs|RS265_2024-08-08|floor": 21,
+    "rs|RS265_2024-08-08|part1": 22,
+    "rs|RS265_2024-08-09|floor": 22,
+    "rs|RS265_2024-08-09|part1": 23,
+    "rs|RS266_2024-11-25|floor": 23,
+    "rs|RS266_2024-11-25|part1": 24,
+    "rs|RS266_2024-11-27|floor": 24,
+    "rs|RS266_2024-11-27|part1": 24,
+    "rs|RS266_2024-11-28|floor": 24,
+    "rs|RS266_2024-11-28|part1": 25,
+    "rs|RS266_2024-11-29|floor": 26,
+    "rs|RS266_2024-11-29|part1": 26,
+    "rs|RS266_2024-12-02|floor": 26,
+    "rs|RS266_2024-12-02|part1": 27,
+    "rs|RS266_2024-12-03|floor": 28,
+    "rs|RS266_2024-12-03|part1": 28,
+    "rs|RS266_2024-12-04|floor": 28,
+    "rs|RS266_2024-12-04|part1": 29,
+    "rs|RS266_2024-12-05|floor": 29,
+    "rs|RS266_2024-12-05|part1": 30,
+    "rs|RS266_2024-12-06|floor": 30,
+    "rs|RS266_2024-12-06|part1": 31,
+    "rs|RS266_2024-12-09|floor": 31,
+    "rs|RS266_2024-12-09|part1": 32,
+    "rs|RS266_2024-12-10|floor": 32,
+    "rs|RS266_2024-12-10|part1": 33,
+    "rs|RS266_2024-12-11|floor": 33,
+    "rs|RS266_2024-12-11|part1": 34,
+    "rs|RS266_2024-12-12|floor": 34,
+    "rs|RS266_2024-12-12|part1": 35,
+    "rs|RS266_2024-12-13|floor": 35,
+    "rs|RS266_2024-12-16|floor": 35,
+    "rs|RS266_2024-12-16|part1": 36,
+    "rs|RS266_2024-12-17|part1": 37,
+    "rs|RS266_2024-12-18|floor": 37,
+    "rs|RS266_2024-12-19|part1": 38,
+    "rs|RS266_2024-12-20|part1": 39,
+    "rs|RS267_2025-01-31|floor": 39,
+    "rs|RS267_2025-02-01|floor": 39,
+    "rs|RS267_2025-02-03|floor": 39,
+    "rs|RS267_2025-02-03|part1": 40,
+    "rs|RS267_2025-02-04|floor": 40,
+    "rs|RS267_2025-02-04|part1": 41,
+    "rs|RS267_2025-02-06|floor": 41,
+    "rs|RS267_2025-02-06|part1": 42,
+    "rs|RS267_2025-02-07|floor": 42,
+    "rs|RS267_2025-02-07|part1": 43,
+    "rs|RS267_2025-02-10|floor": 43,
+    "rs|RS267_2025-02-10|part1": 44,
+    "rs|RS267_2025-02-11|floor": 44,
+    "rs|RS267_2025-02-11|part1": 45,
+    "rs|RS267_2025-02-13|floor": 45,
+    "rs|RS267_2025-02-13|part1": 46,
+    "rs|RS267_2025-03-10|floor": 46,
+    "rs|RS267_2025-03-10|part1": 47,
+    "rs|RS267_2025-03-11|floor": 47,
+    "rs|RS267_2025-03-12|floor": 47,
+    "rs|RS267_2025-03-17|floor": 47,
+    "rs|RS267_2025-03-17|part1": 48,
+    "rs|RS267_2025-03-18|floor": 49,
+    "rs|RS267_2025-03-18|part1": 49,
+    "rs|RS267_2025-03-19|floor": 49,
+    "rs|RS267_2025-03-19|part1": 50,
+    "rs|RS267_2025-03-20|floor": 50,
+    "rs|RS267_2025-03-20|part1": 51,
+    "rs|RS267_2025-03-21|floor": 51,
+    "rs|RS267_2025-03-21|part1": 52,
+    "rs|RS267_2025-03-24|floor": 52,
+    "rs|RS267_2025-03-24|part1": 53,
+    "rs|RS267_2025-03-25|floor": 53,
+    "rs|RS267_2025-03-25|part1": 54,
+    "rs|RS267_2025-03-26|floor": 54,
+    "rs|RS267_2025-03-26|part1": 55,
+    "rs|RS267_2025-03-27|floor": 55,
+    "rs|RS267_2025-03-27|part1": 56,
+    "rs|RS267_2025-03-28|floor": 56,
+    "rs|RS267_2025-04-01|floor": 56,
+    "rs|RS267_2025-04-01|part1": 57,
+    "rs|RS267_2025-04-02|floor": 57,
+    "rs|RS267_2025-04-02|part1": 58,
+    "rs|RS267_2025-04-03|part1": 59,
+    "rs|RS267_2025-04-04|floor": 59,
+    "rs|RS267_2025-04-04|part1": 60,
+    "rs|RS268_2025-07-21|floor": 60,
+    "rs|RS268_2025-07-21|part1": 61,
+    "rs|RS268_2025-07-22|floor": 61,
+    "rs|RS268_2025-07-22|part1": 62,
+    "rs|RS268_2025-07-23|floor": 62,
+    "rs|RS268_2025-07-23|part1": 63,
+    "rs|RS268_2025-07-24|floor": 63,
+    "rs|RS268_2025-07-24|part1": 64,
+    "rs|RS268_2025-07-25|floor": 64,
+    "rs|RS268_2025-07-25|part1": 65,
+    "rs|RS268_2025-07-28|floor": 65,
+    "rs|RS268_2025-07-28|part1": 66,
+    "rs|RS268_2025-07-29|floor": 66,
+    "rs|RS268_2025-07-29|part1": 67,
+    "rs|RS268_2025-07-30|floor": 67,
+    "rs|RS268_2025-07-31|floor": 67,
+    "rs|RS268_2025-07-31|part1": 68,
+    "rs|RS268_2025-08-01|floor": 68,
+    "rs|RS268_2025-08-01|part1": 69,
+    "rs|RS268_2025-08-04|floor": 69,
+    "rs|RS268_2025-08-05|floor": 69,
+    "rs|RS268_2025-08-05|part1": 70,
+    "rs|RS268_2025-08-06|floor": 71,
+    "rs|RS268_2025-08-06|part1": 71,
+    "rs|RS268_2025-08-07|floor": 71,
+    "rs|RS268_2025-08-07|part1": 72,
+    "rs|RS268_2025-08-08|floor": 72,
+    "rs|RS268_2025-08-11|floor": 72,
+    "rs|RS268_2025-08-11|part1": 73,
+    "rs|RS268_2025-08-12|floor": 73,
+    "rs|RS268_2025-08-12|part1": 74,
+    "rs|RS268_2025-08-18|floor": 74,
+    "rs|RS268_2025-08-18|part1": 75,
+    "rs|RS268_2025-08-19|floor": 75,
+    "rs|RS268_2025-08-19|part1": 76,
+    "rs|RS268_2025-08-20|floor": 76,
+    "rs|RS268_2025-08-20|part1": 77,
+    "rs|RS268_2025-08-21|floor": 77,
+    "rs|RS268_2025-08-21|part1": 78,
+    "rs|RS269_2025-12-01|part1": 79,
+    "rs|RS269_2025-12-02|floor": 79,
+    "rs|RS269_2025-12-03|floor": 79,
+    "rs|RS269_2025-12-03|part1": 80,
+    "rs|RS269_2025-12-04|floor": 80,
+    "rs|RS269_2025-12-04|part1": 81,
+    "rs|RS269_2025-12-09|part1": 82,
+    "rs|RS269_2025-12-10|part1": 83,
+    "rs|RS269_2025-12-11|floor": 83,
+    "rs|RS269_2025-12-11|part1": 84,
+    "rs|RS269_2025-12-12|floor": 84,
+    "rs|RS269_2025-12-12|part1": 85
   }
 }
