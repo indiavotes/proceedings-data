@@ -1,0 +1,1879 @@
+Rajya Sabha
+List of Questions for WRITTEN ANSWERS
+to be asked at a sitting of the Rajya Sabha to be held on
+Thursday, August 7, 2025/ 16 Sravana , 1947 (Saka)
+(Ministries : Prime Minister; Atomic Energy; Communications; Culture; Development
+of North Eastern Region; Earth Sciences; Environment, Forest and Climate Change;
+External Affairs; Labour and Employment; Law and Justice; Personnel, Public
+Grievances and Pensions; Science and Technology; Space; Tourism; Youth Affairs
+and Sports)
+Total number of questions -- 160
+Advanced Reactor Development
+2081 Shri Ayodhya Rami Reddy Alla:
+Will the PRIME MINISTER be pleased to state:
+(a) the manner in which the advanced reactor designs, such as Small Modular Reactors
+(SMRs) and Generation IV reactors, address safety and security concerns, including
+potential cyber threats, and the measures taken to ensure the secure operation of these
+reactors; and
+(b) the manner in which the advanced reactors integrate multi-physics coupling,
+incorporating neutronics, thermal-hydraulics, and structural mechanics, to optimize design
+and operation, and what numerical methods will be employed to ensure accurate
+simulations?
+Promotion of Cancer Research and innovation
+2082 Dr. Kavita Patidar:
+Smt. Dharmshila Gupta:
+Shri Kesridevsinh Jhala:
+Smt. Maya Naroliya:
+Dr. Medha Vishram Kulkarni:
+Will the PRIME MINISTER be pleased to state:
+(a) whether Department of Atomic Energy, through its grant-in-aid institution, Tata Memorial
+Centre, has collaborated with Wipro GE Healthcare to promote cancer research and
+innovation in India;
+(b) whether this collaboration involves development and implementation of Artificial
+Intelligence (AI) based applications for medical imaging, clinical workflow and advanced
+visualization tools in the field of oncology; and
+(c) if so, the details thereof?
+521
+
+Projects Under Nuclear Power Corporation of India
+2083 # Dr. Dinesh Sharma:
+Shri Lahar Singh Siroya:
+Shri Subhash Barala:
+Shri Mayankkumar Nayak:
+Shri Narayana Koragappa:
+Smt. Maya Naroliya:
+Shri Rameswar Teli:
+Shri Baburam Nishad:
+Will the PRIME MINISTER be pleased to state:
+(a) the total number of nuclear power plants operational in the country and their total
+capacity thereof;
+(b) the details of the projects which are under the various stages of construction; and
+(c) the total installed capacity (in MW) which is envisaged to reach after the completion of
+the above projects?
+Progress in Atomic Research and Nuclear Safety
+2084 Shri Akhilesh Prasad Singh:
+Will the PRIME MINISTER be pleased to state:
+(a) the details of significant scientific or technological milestones which have been achieved
+in India's indigenous atomic research programs during the current year;
+(b) the details of global collaborations or partnerships which are currently in place to
+improve nuclear safety protocols, enhance research capabilities and facilitate technology
+exchange; and
+(c) the details of the preparedness and emergency response systems which have been
+developed to safeguard civilian populations living near atomic energy sites?
+Establishment of one nuclear plant in each State
+2085 Dr. Sikander Kumar:
+Will the PRIME MINISTER be pleased to state:
+(a) whether Government proposes to set up one nuclear power plant in every State that
+does not fall under the Seismic Zone 5;
+(b) if so, the details thereof;
+(c) whether Government plans to reduce the turnaround time for setting up nuclear power
+plant, if so, the efforts taken in this regard; and
+(d) the steps taken by Government to build nuclear power plants on 'fleet mode' and to
+foster global collaborations and technological advancements for faster capacity across the
+country?
+Production of nuclear energy vis-à-vis total energy
+2086 Shri C. Ve. Shanmugam:
+Will the PRIME MINISTER be pleased to state:
+(a) whether it is a fact that the production of nuclear energy vis-à-vis the total energy
+production in the country is minimal;
+(b) if so, the details thereof;
+(c) steps taken by Government to augment nuclear energy production in the country;
+(d) whether Government is considering to set up some more nuclear power plants in the
+country, especially in Tamil Nadu;
+(e) if so, the details thereof; and
+(f) steps taken by Government in this regard?
+522
+
+
+Uranium Oxide resource in the country
+2087 Smt. Sangeeta Yadav:
+Shri Kesridevsinh Jhala:
+Shri Brij Lal:
+Shri Subhash Barala:
+Will the PRIME MINISTER be pleased to state:
+(a) the augmentation in the Uranium Oxide resource in the country through the efforts of the
+Atomic Minerals Directorate (AMD) for Exploration and Research;
+(b) the total quantity of uranium oxide available in the country (in tonnes);
+(c) whether the discovery of new deposits in the Jaduguda Mines will result in increasing
+the life of the mine; and
+(d) if so, the details thereof?
+Role of Global Centre for Nuclear Energy Partnership
+2088 Shri Milind Murli Deora:
+Will the PRIME MINISTER be pleased to state:
+(a) the role of the Global Centre for Nuclear Energy Partnership (GCNEP) in India’s nuclear
+energy program;
+(b) whether any international collaborations or training programs are being undertaken at
+GCNEP; and
+(c) the current projects and research activities being carried out at the Centre?
+Deployment of compact nuclear reactors for remote regions
+2089 Shri Sanjay Raut:
+Will the PRIME MINISTER be pleased to state:
+(a) whether Government is aware of Japan’s successful deployment of the Yoroi compact
+nuclear reactor that generates 1 MW of clean energy using molten salt and low-enriched
+uranium;
+(b) if so, whether India is developing or planning to develop similar small modular reactors
+(SMRs) for remote, border or island regions;
+(c) whether Government is exploring international collaborations or private sector
+participation in next-gen nuclear technology; and
+(d) whether the Atomic Energy Regulatory Board has initiated any regulatory framework for
+safe deployment of such reactors in India?
+Status of electricity generation through nuclear energy
+2090 Dr. M. Thambidurai:
+Will the PRIME MINISTER be pleased to state:
+(a) the present electricity generation capacity of the country through nuclear energy;
+(b) the total energy demand of the country vis-a-vis atomic energy;
+(c) the details of shortage of electricity generation in the country;
+(d) whether Government is working on any indigenously developed technology to generate
+electricity through atomic energy;
+(e) if so, the details thereof;
+(f) whether it is a fact that there is dearth of fuel for producing atomic energy in nuclear
+power plants, if so, the details thereof; and
+(g) whether Government is considering to increase supplies of fuel for atomic energy
+plants, if so, the details thereof?
+523
+
+
+Internet shutdowns in the country
+2091 Shri Jose K. Mani:
+Will the Minister of Communications be pleased to state:
+(a) whether Government has the data regarding the number of Internet shutdowns in the
+country over the last three years;
+(b) if so, the details thereof;
+(c) the manner in which Government ensures that these shutdowns do not
+disproportionately impact businesses, students and emergency services; and
+(d) whether Government will consider legal reforms to regulate and limit the arbitrary use of
+internet shutdowns?
+Telecom expansion in rural and semi-urban areas
+2092 Shri Ratanjit Pratap Narain Singh:
+Will the Minister of Communications be pleased to state:
+(a) whether Government is implementing policies to accelerate rural telecom penetration
+and expand 5G services across the country, if so, the details thereof;
+(b) the manner in which these initiatives are expected to enhance digital connectivity,
+service quality, and economic participation in rural and semi-urban areas;
+(c) whether steps are being taken to ensure that affordable mobile services remain
+accessible to low-income users despite rising demand and technological upgrades, if so,
+the details thereof; and
+(d) the manner in which the growth in mobile services is being leveraged to promote digital
+inclusion, financial access, and employment opportunities for the common man?
+Telecom-related cyber frauds and safety measures
+2093 Shri Babubhai Jesangbhai Desai:
+Dr. Medha Vishram Kulkarni:
+Will the Minister of Communications be pleased to state:
+(a) the number of telecom-related cyber fraud and phishing cases reported in the last three
+years;
+(b) the steps taken to prevent misuse of mobile SIMs and fake identities; and
+(c) whether Government plans to implement mandatory caller ID verification and stronger
+KYC norms to prevent financial fraud and digital scams?
+Poor BSNL services
+2094 Shri G.C. Chandrashekhar:
+Will the Minister of Communications be pleased to state:
+(a) whether mobile, landline, and internet services of BSNL remain poor in rural, remote,
+and hilly areas of various States, and if so, the details thereof;
+(b) the quality benchmarks prescribed and actual service levels achieved;
+(c) the State-wise details of the most affected districts with poor BSNL network;
+(d) the steps taken to improve services in such areas;
+(e) the State-wise number of proposed base tower stations in inaccessible regions; and
+(f) whether many existing towers face outages due to lack or theft of diesel and the
+corrective measures taken in this regard?
+Universal Service Obligation Fund
+2095 Shri Samirul Islam:
+Will the Minister of Communications be pleased to state:
+524
+
+
+(a) the number of mobile towers installed under Universal Service Obligation Fund since
+2020;
+(b) the details of internet penetration in rural areas;
+(c) the status of BharatNet projects across the country; and
+(d) the details of telecom coverage expansion in West Bengal compared to national
+average in the last three financial years?
+BharatNet Phase‑III in Uttarakhand
+2096 # Dr. Kalpana Saini:
+Will the Minister of Communications be pleased to state:
+(a) the number of Gram Panchayats and villages that will be connected under BharatNet
+Phase-III and the State-wise details thereof;
+(b) the number of villages and Gram Panchayats of Uttarakhand State that will be
+connected under this scheme;
+(c) whether Uttarakhand will also get special benefits in 5G/6G services and capacity
+enhancement of mobile towers from this project; and
+(d) the technical or administrative challenges identified to ensure connectivity in hilly and
+remote areas under the project and the measures being taken to resolve them?
+BharatNet Phase-II and Phase-III projects
+2097 Shri Haris Beeran:
+Will the Minister of Communications be pleased to state:
+(a) the current status of BharatNet Phase-II and Phase-III projects across all States and
+UTs, as of June 2025;
+(b) the number of Gram Panchayats where optical fibre connectivity is live and functional,
+and targets thereof; and
+(c) the reasons for delays or cost overruns, if any, including the performance of State-level
+implementing agencies?
+Operational challenges under DPDP framework
+2098 Dr. Fauzia Khan:
+Will the Minister of Communications be pleased to state:
+(a) whether Government has considered the operational challenges reportedly faced by
+small telecom operators in complying with the Digital Personal Data Protection (DPDP)
+framework, particularly in light of the February 2025 compliance deadline;
+(b) whether it is a fact that these operators are facing substantial technological and
+financial hurdles in updating their systems to meet the new requirements while maintaining
+robust data security standards; and
+(c) if so, details of the measures being planned to assist small telecom operators, including
+the forms of technical assistance, financial support, and capacity-building initiatives being
+proposed or implemented to facilitate compliance without compromising data security?
+Financial support to telecom sector
+2099 Shri Raghav Chadha:
+Will the Minister of Communications be pleased to state:
+(a) whether Government has provided any form of financial assistance or relief to private
+telecom service providers in last five years;
+(b) if so, the nature and extent of such assistance including the names of companies and
+the conditions, if any, attached to it;
+(c) whether such support was provided based on a structured policy framework or on a
+525
+
+
+case-by-case basis;
+(d) whether consultations were held with regulatory bodies or expert institutions before
+extending such assistance; and
+(e) the expected outcomes or indicators being used to assess the effectiveness of such
+interventions?
+Financial assessment and risk evaluation prior to sectoral support
+2100 Shri Raghav Chadha:
+Will the Minister of Communications be pleased to state:
+(a) whether any financial or operational assessment is undertaken by the Government
+before extending support to private sector companies in the telecom sector;
+(b) the criteria used to evaluate the viability and need for such support;
+(c) whether Government has identified risks to public funds in such cases;
+(d) the safeguards or oversight mechanisms put in place to mitigate such risks; and
+(e) whether there is any review mechanism to periodically assess the performance of
+recipient entities?
+Expansion of mobile network to villages
+2101 Shri Anil Kumar Yadav Mandadi:
+Will the Minister of Communications be pleased to state:
+(a) whether it is a fact that as many as 19,882 villages in the country are not having any
+mobile coverage;
+(b) if so, the details thereof;
+(c) whether Government has drawn any comprehensive plan to provide mobile coverage to
+those villages; and
+(d) if so, the details thereof?
+Status of BharatNet project in Bihar
+2102 Shri Manoj Kumar Jha:
+Will the Minister of Communications be pleased to state:
+(a) the number of Gram Panchayats in Bihar that have been connected under BharatNet
+Phase I, II, and III as of July 2025;
+(b) whether Government has identified reasons for delays in achieving full rural broadband
+coverage in Bihar, and if not, the reasons therefor; and
+(c) the steps being taken to expedite completion of BharatNet and ensure reliable
+broadband connectivity in all rural areas of Bihar within a fixed timeframe?
+Telecom connectivity infrastructure in Uttar Pradesh
+2103 # Dr. Laxmikant Bajpayee:
+Will the Minister of Communications be pleased to state:
+(a) the various schemes and measures undertaken by Government to strengthen
+telecommunication connectivity and infrastructure in Uttar Pradesh;
+(b) the details of steps taken by Government in this regard in Uttar Pradesh during the last
+five years, district-wise; and
+(c) the budget amount allocated and spent for this purpose in Uttar Pradesh during the last
+five years, year-wise details thereof?
+526
+
+
+Financial Fraud Risk Indicator
+2104 Shri Narayana Koragappa:
+Smt. Kiran Choudhry:
+Shri Kesridevsinh Jhala:
+Shri Baburam Nishad:
+Shri Lahar Singh Siroya:
+Shri Rameswar Teli:
+Will the Minister of Communications be pleased to state:
+(a) the classification method adopted under the Financial Fraud Risk Indicator (FRI) for risk
+detection;
+(b) the number of UPI platforms, that have begun integrating FRI alerts into their systems;
+(c) the number of financial fraud cases that have been prevented due to the integration of
+FRI with UPI platforms to date; and
+(d) the Ministry's budget allocation for developing the Digital Intelligence Platform and FRI?
+Progress and implementation of BharatNet project in Tamil Nadu
+2105 Shri R. Dharmar:
+Will the Minister of Communications be pleased to state:
+(a) the current status of the BharatNet Project implementation in Tamil Nadu, including the
+number of Gram Panchayats connected so far;
+(b) the timeline set for completing the broadband connectivity to all Gram Panchayats in
+Tamil Nadu under the BharatNet scheme;
+(c) the challenges faced in the deployment of high-speed broadband infrastructure in rural
+areas of Tamil Nadu and the steps taken to overcome them;
+(d) the budget allocation and expenditure incurred so far under BharatNet in Tamil Nadu;
+and
+(e) the expected impact of BharatNet on rural development, education, healthcare, and
+digital services in Tamil Nadu?
+Quality assessment under BharatNet
+2106 Shri Sujeet Kumar:
+Will the Minister of Communications be pleased to state:
+(a) whether Government has estimated the percentage or number of the additional 3.8 lakh
+non-Gram Panchayat villages proposed to be connected under the BharatNet project during
+the financial year 2025–26, if so, the details thereof including State-wise targets; and
+(b) whether any independent third-party audit or evaluation has been undertaken to assess
+the quality of network infrastructure and levels of user adoption in areas where BharatNet
+has already been implemented, and if so, the key findings thereof?
+4G network connectivity in tribal Odisha
+2107 Shri Manas Ranjan Mangaraj:
+Will the Minister of Communications be pleased to state:
+(a) the status of mobile tower installation in tribal regions of Odisha;
+(b) the number of villages still unconnected;
+(c) the role of BSNL and private operators;
+(d) the timeline for 100 per cent coverage; and
+(e) whether special funds have been used?
+527
+
+
+Rising rate of spam calls in the country
+2108 Shri Masthan Rao Yadav Beedha:
+Will the Minister of Communications be pleased to state:
+(a) whether Government is taking appropriate measures to bring down the spam call rates
+in the country considering that India was fourth worst hit country in terms of spam calls in
+the year 2021;
+(b) if so, the details thereof;
+(c) if not, the reasons therefor; and
+(d) whether awareness raising initiatives to bring down the spam call rates in the country
+among the users are being made compulsory for the service providers, if so, the details
+thereof, and if not, the reasons therefor?
+Integration of DIGIPIN system with Ministries and States
+2109 # Shri Mayankkumar Nayak:
+Smt. Ramilaben Becharbhai Bara:
+Will the Minister of Communications be pleased to state:
+(a) the details of the major steps taken to integrate Digital Postal Index Number (DIGIPIN)
+system with various Ministries and States;
+(b) the manner in which this initiative will prove helpful in efficient and timely delivery of
+services especially in remote areas; and
+(c) the manner in which transparency, efficiency and accountability can be ensured in
+governance, especially in rural areas, through geotagged addresses?
+Introduction of Starlink services in the country
+2110 Smt. Priyanka Chaturvedi:
+Will the Minister of Communications be pleased to state:
+(a) whether Government has made a preliminary analysis of the security implications once
+Starlink is introduced in India, if so, the details thereof;
+(b) whether Government had decided the Terms of Reference (TOR) on which spectrum
+will be allocated to StarLink and other domestic players, if so, the details thereof;
+(c) whether the data, traffic and other details accumulated by Starlink will be stored in India
+or other foreign databases; and
+(d) whether Government had predicted the number of domestic jobs that would be
+generated through the introduction of Starlink services in India, if so, the details thereof?
+Number Validation System to enhance cybersecurity
+2111 Shri Jaggesh:
+Will the Minister of Communications be pleased to state:
+(a) whether it is a fact that the Department of Telecommunications (DoT) proposed a
+Number Validation System to enhance cybersecurity;
+(b) the manner in which Government defines the scope and objectives of this system and
+whether it will only verify mobile numbers or also includes landlines, VoIP, etc;
+(c) whether the technical mechanism of number validation involves integration with Aadhaar
+or KYC databases;
+(d) whether safeguards are being put in place to prevent misuse of the collected data,
+either by private entities or Government agencies; and
+(e) if so, the details thereof and by when it will be implemented?
+528
+
+
+Tourist footfall and vacancies at Victoria Memorial
+2112 Shri Samik Bhattacharya:
+Will the Minister of Culture be pleased to state:
+(a) number of visitors and ticket sales at Victoria Memorial Hall and Victoria Memorial
+Garden over the last five years, with a breakdown of foreign visitor numbers;
+(b) reasons why annual visitor count at Victoria Memorial has remained stagnant at
+approximately 36 lakh from 2017-18 to 2023-24;
+(c) measures taken to increase visitor footfall at Victoria Memorial, including promotional
+campaigns and infrastructural improvements;
+(d) total number of sanctioned posts and vacancies at Victoria Memorial, with details of
+vacant posts across various categories; and
+(e) reasons why Government has not granted permission to fill these vacancies and
+whether any steps are being taken to expedite recruitment?
+Observance of Samvidhan Hatya Diwas
+2113 Dr. Anil Sukhdeorao Bonde:
+Shri Brij Lal:
+Shri Narayana Koragappa:
+Dr. Medha Vishram Kulkarni:
+Smt. Maya Naroliya:
+Shri Amar Pal Maurya:
+Will the Minister of Culture be pleased to state:
+(a) the manner in which Government proposes to coordinate with State Governments and
+Union Territories for the year-long observance of Samvidhan Hatya Diwas;
+(b) the anticipated reach and impact of the initiative and any pre-identified metrics for
+gauging public engagement; and
+(c) the specific measures being taken to raise public awareness among students and youth
+across the country?
+Kala Sanskriti Vikas Yojana
+2114 # Shri Madan Rathore:
+Smt. Mamata Mohanta:
+Shri Mithlesh Kumar:
+Smt. Sangeeta Yadav:
+Shri Ryaga Krishnaiah:
+Will the Minister of Culture be pleased to state:
+(a) the total amount disbursed under Kala Sanskriti Vikas (KSVY) Yojana over the last five
+financial years, with annual figure along with the number of schemes and projects
+supported each year for the State of Odisha;
+(b) the number of sub-schemes currently operational under KSVY and the funding allocated
+across them; and
+(c) the volume of financial assistance provided in the current cycle to voluntary Buddhist and
+Tibetan organisations under the specific KSVY component?
+Preservation and promotion of India’s tangible and intangible cultural heritage
+2115 Dr. Medha Vishram Kulkarni:
+Shri Babubhai Jesangbhai Desai:
+Will the Minister of Culture be pleased to state:
+(a) the steps taken by Government to preserve and promote India’s tangible and intangible
+529
+
+
+cultural heritage, including monuments, folk arts and traditional knowledge systems in the
+past three years;
+(b) whether any assessment has been conducted on the impact of climate change and
+urbanization on protected heritage sites;
+(c) the current status of digitization of manuscripts, rare books and archival records; and
+(d) the measures undertaken to engage youth and local communities in cultural preservation
+and to promote regional languages and traditions through Government-supported platforms
+and events?
+Rules for payment of gratuity for past service
+2116 Smt. Sumitra Balmik:
+Will the PRIME MINISTER be pleased to state:
+(a) the details of rule position which allows an NPS employee, who moved from
+autonomous body to Government with proper permission and technical resignation, to opt
+not to have past service rendered in autonomous body counted in Central Government and
+to receive payment of gratuity for past service;
+(b) the rule prescribing payment of interest towards delayed disbursal of gratuity by
+autonomous body where an NPS employee moves to Government and has opted to receive
+gratuity for past service; and
+(c) the details of rule position or judicial decisions that define whether a service duration of
+4 years 9 months qualifies for gratuity payment?
+Scheme for conservation of Intangible Cultural Heritage and Diverse Cultural
+Traditions of India
+2117 # Smt. Sunetra Ajit Pawar:
+Will the Minister of Culture be pleased to state:
+(a) the progress made under Scheme for Conservation of Intangible Cultural Heritage and
+Diverse Cultural Traditions of India since its inception, particularly in identification,
+documentation and promotion of endangered forms of intangible cultural heritage;
+(b) the number of specific intangible cultural heritage forms formally recognized and
+supported under the scheme and the geographical distribution of these initiatives; and
+(c) Government's strategy to ensure the direct participation of local communities and
+artists, especially in Maharashtra, in safeguarding and nurturing their traditional cultural
+practices?
+Development of cultural tourism through rich heritage and religious places
+2118 # Shri Harsh Mahajan:
+Will the Minister of Culture be pleased to state:
+(a) whether Government is aware that Chamba (Himachal Pradesh) is famous for its rich
+cultural heritage, ancient temples and religious places like Chamunda Temple, Lakhan Devi
+Temple, Chaurasi Temple Complex (Bharmour), Manimahesh Yatra and Bhuri Singh
+Museum;
+(b) whether any special scheme/project has been initiated by Government to promote
+cultural and religious tourism in Chamba, if so, details thereof; and
+(c) whether any special efforts are being made to bring these places on the
+national/international tourist map and whether any financial assistance being provided to the
+State Government for their basic development in these religious places for pilgrims, if so,
+details thereof?
+530
+
+
+Intelligence sharing with international partners
+2119 Shri Kapil Sibal:
+Will the Minister of External Affairs be pleased to state:
+(a) the countries which have been engaged for intelligence-sharing following the all-party
+delegation;
+(b) the protocols being implemented to secure shared intelligence with international
+partners; and
+(c) the manner in which the Ministry will assess the benefits of global intelligence
+cooperation in 2025 and beyond?
+Regulatory framework for preservation of heritage art and culture
+2120 Dr. Ajeet Madhavrao Gopchade:
+Will the Minister of Culture be pleased to state:
+the actions undertaken by Government regarding the representation that was previously
+submitted to analyze the legislation of the Kenyan and Seychelles Governments related to
+the preservation of their heritage art and culture as this study seeks to collect insights from
+their laws that could be applied in our country to safeguard our own heritage art and
+culture, particularly given that we currently lack any regulatory framework in this area?
+Indigenous language
+2121 Dr. Dharmasthala Veerendra Heggade:
+Will the Minister of Culture be pleased to state:
+(a) whether Government is actively engaged in promoting and preserving India's indigenous
+languages and cultural heritage and if so, the details thereof; and
+(b) whether Government collaborates with State-level institutions to organize local and
+regional programmes, including seminars and workshops to promote indigenous languages
+and literature and if so, the details thereof?
+Budget allocation to strengthen cultural infrastructure
+2122 Shri Sanjay Seth:
+Will the Minister of Culture be pleased to state:
+(a) whether Government has increased the Ministry’s budget allocation to ₹3,360.96 crore
+for Financial Year 2025–26 to strengthen cultural infrastructure, if so, the details thereof;
+(b) the enhanced funding provided to institutions such as the Archaeological Survey of India,
+museums, libraries and missions like those on Manuscripts and Cultural Mapping;
+(c) the manner in which this increased investment supports heritage preservation, research
+and public accessibility to cultural resources; and
+(d) whether specific provisions have been made to engage youth, scholars and local
+communities through these initiatives at the grassroots level, if so, the details thereof?
+Protection of Odia manuscripts and artifacts
+2123 Shri Muzibulla Khan:
+Will the Minister of Culture be pleased to state:
+(a) the details of inventory of ancient Odia texts, techniques adopted for preservation and
+efforts for its digitization; and
+(b) the grants to museums and future roadmap?
+531
+
+
+Border trade at Nathula Pass
+2124 Shri Dorjee Tshering Lepcha:
+Will the Minister of External Affairs be pleased to state:
+(a) whether Government has taken any measures for resumption of the Nathu La border
+trade;
+(b) whether Government intends to introduce new protocols and emergency response
+systems to further bolster security in this region;
+(c) the steps taken by Government towards resumption of the Nathu La border trade; and
+(d) whether Government is formulating any policy for better management of trade, and
+effective support for economically weaker class of traders resided in remote border village
+of Indo- China Border ?
+Natural calamities in the coastal areas
+2125 Shri G.C. Chandrashekhar:
+Will the Minister of Earth Sciences be pleased to state:
+(a) the details of advanced technologies and instruments, including AI/ML-based systems,
+deployed for predicting natural calamities in the coastal areas;
+(b) the success rate of these systems in forecasting cyclones, storm surges and tsunamis
+in recent years;
+(c) the steps taken to strengthen early warning dissemination and local-level preparedness
+in coastal States; and
+(d) whether Government has assessed the impact of climate change on the frequency and
+intensity of such events and if so, the details thereof?
+Heatwave-related deaths and mitigation measures in Maharashtra
+2126 Dr. Fauzia Khan:
+Will the Minister of Earth Sciences be pleased to state:
+(a) whether any data is available on the number of deaths caused by heatwaves in the
+State of Maharashtra over the last five years, district-wise details, particularly for the
+Marathwada and Vidarbha regions;
+(b) whether compensation has been provided to the families of those who succumbed to
+heatwaves, and if so, the total amount disbursed and the details of the beneficiaries; and
+(c) the measures undertaken to mitigate the impact of heatwaves in heatwave-prone
+districts, with a specific focus on Vidarbha and Marathwada as identified in the latest
+Heatwave Action Plan?
+PRV for Arctic Research
+2127 Shri Randeep Singh Surjewala:
+Will the Minister of Earth Sciences be pleased to state:
+(a) whether Government has approved the procurement of a Polar Research Vessel (PRV)
+to support India's polar expeditions and research activities;
+(b) if so, the timeline and estimated cost initially approved for the project;
+(c) the current status of the PRV procurement and the reasons for the prolonged delay in
+its acquisition;
+(d) whether the delay has affected India’s research capabilities in the Antarctic and Arctic
+regions; and
+(e) the revised timeline, if any, for commissioning the vessel and the measures being taken
+to expedite the process?
+532
+
+
+Deep Ocean Mission
+2128 # Shri Tejveer Singh:
+Will the Minister of Earth Sciences be pleased to state:
+(a) names of the regional oceans in which mineral exploration or biodiversity study has
+been carried out under the Deep Ocean Mission;
+(b) whether any continuous evaluation framework has developed for conservation of marine
+ecosystem under this mission;
+(c) whether any scheme has been implemented for participation of private sector/academic
+institutions in ocean research; and
+(d) whether Government has created any open access portal for sharing the data obtained
+from the mission with the public/research institutions?
+Marine ecosystem studies on Odisha coast
+2129 Shri Subhasish Khuntia:
+Shri Muzibulla Khan:
+Will the Minister of Earth Sciences be pleased to state:
+(a) the number of institutes involved in marine research;
+(b) the details of sea level and salinity data and biodiversity observations and its impact on
+fisheries; and
+(c) the details of research collaborations?
+India-EU collaboration
+2130 Shri Bhubaneswar Kalita:
+Will the Minister of Science and Technology be pleased to state:
+(a) the manner in which the recent discussions between India and European Union will
+strengthen collaboration in science, technology and innovation;
+(b) the key focus areas identified for India-EU cooperation in scientific research and
+technological advancements;
+(c) the role India’s newly launched Bio-economy (BioE3) policy does play in fostering
+research partnerships with the EU; and
+(d) the manner in which Government envisions India-EU collaboration in climate change
+mitigation, particularly in offshore wind and solar energy projects?
+Challenges in developing India’s Blue Economy
+2131 Dr. Bhagwat Karad:
+Will the Minister of Earth Sciences be pleased to state:
+(a) whether Government has identified key challenges affecting India's Blue Economy, such
+as weak coastal infrastructure, limited marine research, resource overuse and livelihood
+risks for the coastal communities;
+(b) if so, the measures taken in line with the National Blue Economy Policy, SDG-14 and the
+UN Decade of Ocean Science;
+(c) whether any steps are being taken to promote ocean governance, private sector
+participation and regional cooperation; and
+(d) if so, the details thereof and how coastal States and stakeholders are being engaged in
+implementation and planning?
+Bharat Forecast System
+2132 # Shri Mahendra Bhatt:
+Will the Minister of Earth Sciences be pleased to state:
+533
+
+
+(a) the key features and objectives of the recently launched Bharat Forecast System and
+the manner in which this system strengthen India's weather forecasting capability;
+(b) the manner in which Bharat Forecast System is contributing to reducing crop losses and
+improving disaster management, especially in the context of climate change; and
+(c) the manner in which the indigenously developed forecast system is significant and the
+manner in which it is in line with the goals of Aatmanirbhar Bharat and Make in India?
+Seismic monitoring and microzonation
+2133 # Shri Aditya Prasad:
+Shri Lahar Singh Siroya:
+Will the Minister of Earth Sciences be pleased to state:
+(a) the extent to which the National Seismic Network has grown since 2020;
+(b) the total number of earthquake reported by the Ministry since 2020;
+(c) whether the Ministry has initiated the process of determining seismic microzonation of
+various cities; and
+(d) if so, the details thereof and the number of cities that have undergone microzonation
+since 2020 in the country and especially in State of Jharkhand, year-wise and city-wise?
+Conservation of Santragachi Jheel
+2134 Shri Samik Bhattacharya:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the measures taken by Government and South Eastern Railway to address pollution in
+Santragachi Jheel, particularly regarding sewage treatment plants and prevention of
+sewage inflow;
+(b) steps being taken to restore and maintain Santragachi Jheel’s biodiversity, especially
+since its water quality has become unfit for wildlife and fish;
+(c) whether Government has initiated any formal process to nominate Santragachi Jheel as
+a Ramsar Site, if so, the current status and supporting criteria; and
+(d) the details of actions taken by authorities on NGT's direction and the manner in which
+the efforts are being monitored to ensure ecological health?
+Support to State Governments in dealing with plastic waste
+2135 Shri Chandrakant Damodar Handore:
+Shri Harsh Mahajan:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government has any scheme(s)/programme(s) to assist State Governments
+financially/technically in dealing with plastic waste; and
+(b) if so, the details of such scheme(s)/programme(s) initiated in the last five years;
+State-wise?
+National Action Plan on Climate Change
+2136 Shri Tiruchi Siva:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the current status of India’s commitments under the National Action Plan on Climate
+Change, and the manner in which the budget allocation align with these goals;
+(b) the number of projects approved and funded under CAMPA in the last three years, and
+measures taken to ensure afforestation efforts are ecologically viable and not just
+compensatory; and
+(c) the status of the National Clean Air Programme’s implementation, particularly in cities
+that have consistently failed to meet air quality standards?
+534
+
+
+Wildlife crime cases
+2137 Shri Parimal Nathwani:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the number of wildlife crime cases registered in the last three years, particularly
+involving lions, tigers, elephants and leopards;
+(b) the conviction rate in such cases; and
+(c) the steps taken to strengthen anti-poaching units and surveillance in protected areas?
+Wildlife Conservation
+2138 Shri Parimal Nathwani:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government collaborates with NGOs, scientific institutions and community
+organizations for wildlife conservation;
+(b) the number of active collaborations under wildlife conservation projects in the last three
+years; and
+(c) the criteria used to select and fund such partners?
+National Plastic Waste Reporting Portal
+2139 Dr. Kavita Patidar:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether the Ministry plans to make the National Plastic Waste Reporting Portal
+mandatory for all local bodies and Panchayats;
+(b) if so, the details thereof;
+(c) the targets set under the initiative and the expected timeline for their achievement;
+(d) the measurable impact of the plastic ban and recycling efforts since the introduction of
+Extended Producer Responsibility (EPR) Guidelines;
+(e) whether there is any penalty mechanism for non-compliance; and
+(f) if so, the details thereof?
+Afforestation and emission reduction
+2140 Shri Samirul Islam:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the total forest cover added since 2020;
+(b) the projects cleared under Forest Clearance;
+(c) the emission reduction progress under National Action Plan on Climate Change; and
+(d) the afforestation schemes in West Bengal vs national average?
+World Environment Day 2025
+2141 Smt. Mamata Mohanta:
+Dr. K. Laxman:
+Shri Subhash Barala:
+Dr. Dinesh Sharma:
+Shri Brij Lal:
+Shri Amar Pal Maurya:
+Smt. Sangeeta Yadav:
+Smt. Maya Naroliya:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+535
+
+
+(a) the key components of the national campaign to end plastic pollution launched on World
+Environment Day 2025;
+(b) the significance of the National Plastic Waste Reporting Portal launched on World
+Environment Day 2025; and
+(c) the manner in which the campaign align with Swachhta Hi Sewa and Mission LiFE
+objectives?
+Ecological and Tribal impact of the Great Nicobar Trunk Infrastructure Road Project
+2142 Shri Narain Dass Gupta:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the total area of forest, tribal reserve and private land proposed to be diverted for the
+Great Nicobar Trunk Infrastructure Road project;
+(b) the number of trees proposed to be felled and whether any ecological compensation
+measures are in place;
+(c) whether free, prior and informed consent of the Shompen and Nicobarese communities
+was obtained in compliance with the Forest Rights Act and the Andaman & Nicobar
+(Protection of Aboriginal Tribes) Regulation; and
+(d) the steps taken to mitigate long-term ecological and cultural impacts on these
+vulnerable communities?
+Depletion of forest cover in various States
+2143 Shri A. D. Singh:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government is aware of the continuous depletion of forest cover in various
+States, as repoted in recent assessments;
+(b) if so, the key reasons identified for such depletion;
+(c) whether specific measures are being undertaken to arrest forest loss, restore degraded
+forest areas and enhance afforestation efforts under national or State-level programs; and
+(d) if so, the details thereof and the timeline for effective implementation and monitoring of
+these measures?
+Compensation to human-animal conflict victims
+2144 Shri Sandosh Kumar P:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the number of people attacked by wild animals during the last three years, State-wise;
+(b) the number of people who died in attacks by wild animals during the last five years,
+State-wise; and
+(c) the details of compensation given by Government to the families of the victims of
+attacks by wild animals, State-wise?
+Threat to Gangetic Dolphins
+2145 Shri Pramod Tiwari:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether, as per the study of the Wildlife Institute of India published in the journal
+‘Heliyon’, alarming levels of toxic chemicals have been found in the Ganga river, threatening
+the health and survival of the endangered Gangetic dolphins;
+(b) if so, the details thereof including the sources of contamination;
+(c) whether there is poor enforcement of environmental regulations in the Ganga basin;
+(d) if so, the percentage of decline in dolphin population over the years; and
+(e) the steps proposed to be taken to assess and regulate chemical contamination in
+536
+
+
+Ganga river ecosystem?
+Guidelines for management of hazardous waste in the country
+2146 Dr. Kanimozhi NVN Somu:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government is implementing any policy or set any guidelines for management
+of hazardous waste in the country;
+(b) if so, the details thereof;
+(c) the number of defaulters penalised/punished till now for not complying with such
+guidelines, State-wise;
+(d) whether Government has any data regarding the number of hazardous/contaminated
+sites, present in the country and if so, the details thereof; and
+(e) the corrective measures taken/being taken by Government to decontaminate the said
+sites?
+Urban Air Quality Monitoring in Gujarat’s Industrial Corridors
+2147 Dr. Parmar Jashvantsinh Salamsinh:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether the Ministry has data indicating PM2.5 and PM10 levels in industrial clusters
+such as Vapi, Ankleshwar and Naroda Industrial Estate;
+(b) whether any city-specific action plans have been sanctioned under the National Clean
+Air Programme for Gujarat’s urban centres with consistently moderate to poor air quality
+index; and
+(c) the funds allocated for air pollution mitigation measures in the State for Financial Year
+2024–25?
+Felling of Indigenous Trees in Rajasthan for Solar Energy Projects
+2148 Shri Randeep Singh Surjewala:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government is aware of large-scale felling of indigenous tree species, including
+the protected Khejri tree, for solar projects in arid and semi-arid zones of Rajasthan;
+(b) whether any reports have been received from Rajasthan or other agencies regarding
+violations of environmental norms or lack of clearances;
+(c) whether Government plans to strengthen guidelines to regulate tree felling and enforce
+stricter safeguards for solar and infrastructure projects on non-forest land; and
+(d) whether stronger legal protection and revised afforestation policies are being
+considered for ecologically sensitive arid regions?
+Long-Billed Bush Warbler
+2149 Shri Ashokrao Shankarrao Chavan:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether long-billed bush warbler(Locustella major), a rare and elusive bird species seen
+recently by a team of rare bird researchers after a gap of 46 years in Ladakhs’s Suru
+Valley as part of a mission to find county’s “long lost birds”, if so, details thereof;
+(b) the ecological significance of sighting of long-billed bush warbler in the context of
+biodiversity conservation and habitat assessment in country;
+(c) whether Government has initiated/proposes to initiate any studies or conservation
+measures or programmes for near threatened birds species like long-billed bush warbler;
+and
+(d) if so, the details and steps taken in this regard?
+537
+
+
+Climate-resilient forestry
+2150 Smt. Sulata Deo:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether the Ministry assists Odisha in implementing climate-resilient forestry and
+livelihood models in coastal and flood-prone areas under the National Action Plan on
+Climate Change/NAPCC+ framework; and
+(b) if so, the details thereof, if not, the reasons therefor?
+National Clean Air Programme
+2151 # Shri Mithlesh Kumar:
+Shri Rameswar Teli:
+Smt. Kiran Choudhry:
+Shri Baburam Nishad:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the impact of the National Clean Air Programme so far;
+(b) whether the Ministry plans to expand this programme beyond the 130 cities currently
+covered under this programme;
+(c) if so, the number of cities to which this programme will be expanded and the financial
+year by which this target is being planned to be achieved; and
+(d) whether any specific scheme is being implemented to improve the Air Quality Index
+(AQI) of the National Capital Territory of Delhi?
+Forest fires
+2152 Dr. Ashok Kumar Mittal:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government has a comprehensive update on the national strategy in place to
+combat forest fires, if so, details thereof, if not, reasons for the same;
+(b) the steps being taken to improve coordination between Central and State agencies in
+tackling forest fires;
+(c) the reasons for continued widespread devastation by forest fires and the specific
+challenges that hinder effective prevention and control efforts at the ground level; and
+(d) whether Government has assessed the financial, ecological and social costs of forest
+fires over the years, if so, details thereof and if not, reasons therefor?
+Protected forest reserves
+2153 # Shri Rajendra Gehlot:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the sanctuary-wise annual number of lions, tigers, leopards during the last three years
+with the number of protected forest reserves across the country and the details thereof;
+(b) the sanctuary-wise and species-wise details of the total number of lions, tigers and
+leopards killed by poachers per-year during the last three years; and
+(c) the species-wise, State-wise and sanctuary-wise details of the deaths of lions, tigers
+and leopards due to natural and unexplained causes, road and rail accidents every year
+during the last three years?
+Measures taken to protect marine life and ocean eco systems
+2154 Smt. Sagarika Ghose:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+538
+
+
+(a) whether any steps are being taken to preserve the protection of marine eco systems
+particularly in high tourism areas of coasts and beaches, if so, the details thereof, if not, the
+reasons therefor;
+(b) the manner in which the livelihoods of fishing communities being balanced with the
+needs of marine protection; and
+(c) the manner in which the sustainable ocean-based tourism is being developed when it
+comes to ocean eco systems, if so, the details thereof?
+Plastic waste
+2155 Shri Derek O' Brien:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the details of quantity of plastic waste generated during the last five years, year-wise;
+(b) the number of fully operational Plastic Waste Management Units (PWMUs) in the
+country;
+(c) the percentage of total plastic waste generated is recycled;
+(d) whether Government has done any assessment on the impact of increasing use of
+plastic bottles and bags on mountain ecosystem; and
+(e) if so, details thereof and if not, the reasons therefor?
+CAMPA fund and forest land in Gujarat
+2156 Shri Shaktisinh Gohil:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the details of the Net Present Value deposited in CAMPA fund as on 31st March, 2025
+by the State of Gujarat during the last five years;
+(b) the quantum of amount that was demanded by the State of Gujarat;
+(c) the quantum of amount that was allocated to Gujarat;
+(d) the scale of forest land as on 31st March, 2025 converted into non-forest land in
+Gujarat during the last five years, to whom, when and how much land was allocated for
+which project; and
+(e) the details of entities encroaching forest land illegally in Gujarat as on 31st March 2025
+and steps taken by Government?
+"LiFE" mission and change in environmental behavior
+2157 # Shri Tejveer Singh:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) number of citizens/institutions which have taken voluntary pledge so far under the
+recently launched "Lifestyle for Environment (LiFE)" mission;
+(b) whether any behavioural change monitoring system or evaluation index has been
+developed for this campaign;
+(c) whether any funding or resources are being provided to schools, universities and urban
+bodies for activities under the LiFE Mission; and
+(d) whether the LiFE mission has been presented to any international collaboration for
+Climate Finance?
+Rising heatwave incidents in Telangana
+2158 Smt. Renuka Chowdhury:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) the cities/districts in Telangana that have recorded temperatures exceeding 44°C in
+recent weeks, posing severe health and environmental risks;
+(b) whether Government has identified the reasons for the frequent and intensifying
+539
+
+
+heatwave conditions in Telangana, including geographical and environmental factors;
+(c) whether Government has conducted any studies or assessments regarding
+deforestation, soil conditions and the lack of irrigation in exacerbating heatwave effects;
+(d) the financial support provided to the State Government to mitigate the impact of
+heatwaves in the State; and
+(e) whether Government is collaborating with State Government, research institutions to
+strengthen heatwave resilience, if so, the details thereof?
+Mega plantation drives "Ek ped Maa ke naam"
+2159 Smt. Kiran Choudhry:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether the Dharashiv record plantation of 15 lakh saplings in a day under “Ek Pedh
+Maa Ke Naam” as a part of the Prime Minister’s plantation drive has been evaluated for
+survival rate and biodiversity impact;
+(b) whether similar large-scale schemes are planned nationwide in fiscal 2025–26; and
+(c) the role of the Green Credit Programme in financing and monitoring such initiatives?
+Schemes for relocation of villagers from protected forest areas
+2160 # Shri Banshilal Gurjar:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether Government is running any special scheme for the relocation of villagers from
+protected forest areas;
+(b) if so, the financial assistance provided to State of Madhya Pradesh for this relocation;
+and
+(c) whether Government, keeping in view the need of additional assistance for the people
+relocated from the protected areas, proposes to provide central assistance or additional
+funds?
+Forest degradation in India
+2161 Shri Saket Gokhale:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether it is a fact that the India State of Forest Report (ISFR) 2023 cites the Forest
+Rights Act i.e. the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of
+Forest Rights) Act, 2006 as one of the reasons responsible for negative changes in forest
+cover or degradation of forests in India; and
+(b) if so, the details of this claim that links FRA to forest degradation?
+Coastal erosion & mitigation strategies in Gujarat
+2162 Shri Narhari Amin:
+Will the Minister of Environment, Forest and Climate Change be pleased to state:
+(a) whether the Ministry is aware that over 25 lakh square metres of coastal area in
+Gujarat, including significant segments of Dandi, Shivrajpur, Suvali, Tithal, and Dabhari
+beaches, has eroded, according to a study by the National Centre for Sustainable Coastal
+Management (NCSCM); and
+(b) whether Government is aware of the current status of coastal erosion along Gujarat’s
+coastline, if so, the details thereof, district-wise?
+540
+
+
+Easing visa rules for Indian students
+2163 # Shri Madan Rathore:
+Shri Ryaga Krishnaiah:
+Shri Brij Lal:
+Shri Amar Pal Maurya:
+Shri Baburam Nishad:
+Shri Subhash Barala:
+Smt. Ramilaben Becharbhai Bara:
+Will the Minister of External Affairs be pleased to state:
+(a) whether the Ministry is in talks with the American counterpart for easing visa rules for
+Indian students;
+(b) the manner in which Government can help the poor students who have already secured
+admission in US universities; and
+(c) the role of the initiative to provide a platform for the students to access opportunities
+available for useful interventions abroad?
+Think tank diplomacy to strengthen India’s global intellectual footprint
+2164 Shri Satnam Singh Sandhu:
+Will the Minister of External Affairs be pleased to state:
+(a) whether the Ministry has initiated any think tank diplomacy programmes to strengthen
+India’s global intellectual footprint;
+(b) the list of think tanks or academic forums supported by Government for foreign policy
+dialogue;
+(c) whether partnerships have been established with international think tanks for India-
+centric research; and
+(d) the plans to institutionalize annual strategic dialogues led by Indian institutions abroad?
+Odisha Pravasi Bharatiya Divas
+2165 Shri Niranjan Bishi:
+Will the Minister of External Affairs be pleased to state:
+(a) whether the Ministry will support Odisha’s proposal to organize an Odisha Pravasi
+Bharatiya Divas in countries with significant Odia diaspora, such as UAE, UK and the USA;
+and
+(b) if so, the details thereof, if not, the reasons therefor?
+Inclusion of Odisha in global trade fairs and exhibitions
+2166 Shri Niranjan Bishi:
+Will the Minister of External Affairs be pleased to state:
+(a) whether the Ministry will include Odisha-based exporters, handicraft artisans, and
+startups in its global trade fairs and exhibitions under the India@75 or TradeConnect
+initiatives; and
+(b) if so, the details thereof, if not, the reasons therefor?
+China’s mega hydropower project on Brahmaputra river
+2167 Shri Mukul Balkrishna Wasnik:
+Shri Ritabrata Banerjee:
+Will the Minister of External Affairs be pleased to state:
+(a) whether it is a fact that China has commenced construction of a massive hydropower
+project on the Brahmaputra River, near Arunachal Pradesh;
+541
+
+
+(b) whether China’s mega-dam poses a serious threat to India’s interests and could
+endanger local tribes and livelihoods in Arunachal Pradesh;
+(c) if so, whether Government has taken up the issue with China to ensure that its
+upstream activities do not negatively affect the interests of downstream nations; and
+(d) if so, the details thereof?
+Strengthening India's foreign relations and global presence
+2168 Shri Akhilesh Prasad Singh:
+Will the Minister of External Affairs be pleased to state:
+(a) the details of high-level bilateral or multilateral visits that are planned for the upcoming
+quarter and how are these expected to advance India’s diplomatic priorities;
+(b) the role India is currently playing in regional platforms such as BIMSTEC, SCO, and
+G20 in terms of security, trade, and climate cooperation; and
+(c) the support mechanisms in place to assist the Indian diaspora living in conflict-affected
+or politically unstable regions abroad?
+SCO final statement
+2169 Shri Golla Baburao:
+Will the Minister of External Affairs be pleased to state:
+(a) whether it is a fact that the main purpose of Shanghai Cooperation Organistion (SCO) is
+to deal with terrorism;
+(b) if so, Government's response to the SCO final statement;
+(c) the reasons that Pahalgam terror attack has not been included in the statement while
+train hijacking of Balochistan was mentioned in the statement as terrorist act;
+(d) whether India is not a part of the draft preparation;
+(e) how could Pakistan succeed to mention Balochistan train hijack and India failed to
+mention Pahalgam; and
+(f) whether the final statement was released by SCO and if so, the details thereof?
+Death of Indians in Canada
+2170 Shri Sant Balbir Singh:
+Will the Minister of External Affairs be pleased to state:
+(a) the number of Indian citizens died in Canada over the last five years and the causes of
+these deaths as per official records;
+(b) whether Government maintains city-wise or province-wise data on these deaths and the
+circumstances surrounding them;
+(c) the number of bodies of deceased Indians that have been successfully brought back to
+India with embassy assistance; and
+(d) the arrangements provided by the Ministry to support the families of deceased Indian
+nationals abroad, especially in arranging repatriation?
+Welfare of Indian migrant workers stationed abroad
+2171 Smt. Jebi Mather Hisham:
+Will the Minister of External Affairs be pleased to state:
+(a) steps taken to ensure the welfare of Indian migrant workers stationed abroad;
+(b) whether Government will revise and expand minimum referral wages in line with rising
+living costs, inflation, and migration expenses;
+(c) whether timely issuance of Non-Objection and experience certificates for Indian nurses
+abroad be ensured post-resignation;
+(d) whether monthly jail visits will be initiated to monitor Indian prisoners abroad and
+542
+
+
+prevent human rights violations, including denial of legal aid; and
+(e) whether the Emigration Bill, 2021, will be expedited and whether regular consular visits
+to the Caribbean Islands will be initiated to address issues faced by Indians in countries
+without resident missions?
+Status and timeline of e-passport rollout
+2172 Shri Kartikeya Sharma:
+Will the Minister of External Affairs be pleased to state:
+(a) the status and timeline of e-passport rollout under Passport Seva Programme 2.0,
+including the number of Passport Seva Kendras and Post Office Passport Seva Kendras
+issuing chip-enabled passports;
+(b) whether additional security features like extended access control, enhanced biometric
+storage, or updated Public Key Infrastructure protocols are being added to meet
+International Civil Aviation Organisation (ICAO) standards; and
+(c) whether global partners or border control agencies are engaged for e-gate
+interoperability, with a roadmap for automatic immigration at airports?
+Protection of religious minorities in neighbouring countries
+2173 Ms. Sushmita Dev:
+Will the Minister of External Affairs be pleased to state:
+(a) the incidents of violence, persecution or systemic discrimination against religious
+minorities in neighbouring countries in the last five years;
+(b) the details of any formal diplomatic communications, protests, or démarches issued by
+India in response to such incidents;
+(c) whether Government has urged these countries to uphold international obligations for
+the protection of minority communities, in line with the UN Declaration on the Rights of
+Persons Belonging to National or Ethnic, Religious and Linguistic Minorities (1992), if so,
+the details thereof; and
+(d) the institutional or bilateral mechanisms in place to address issues of minority safety
+and religious freedom with neighbouring countries?
+Recruitment of Indian labourers in Israel
+2174 Dr. John Brittas:
+Will the Minister of External Affairs be pleased to state:
+(a) the total number of labourers recruited from India by Israel consequent to the outbreak
+of Israel-Hamas conflict till date;
+(b) the details of the agreements executed with Israel regarding the recruitment of
+labourers;
+(c) the total number of workers to be recruited as per the agreements between India and
+Israel;
+(d) the number of the recruited labourers repatriated by Israel being deemed unfit for the
+job;
+(e) the details of Indian labourers killed or injured in Israel during the ongoing conflicts; and
+(f) the steps taken to ensure the safety of Indian labourers recruited to Israel?
+Schemes for employment generation
+2175 Shri Neeraj Shekhar:
+Will the Minister of Labour and Employment be pleased to state:
+(a) the details of scheme being run for employment generation in the country;
+(b) the details of fund allocated and utilized for the same during 2024-25 and 2025-26 till
+543
+
+
+date, scheme-wise and year-wise; and
+(c) the details of number of employment generated under above schemes, scheme-wise
+and year-wise for the year 2024-25 and 2025-26?
+NCS Portal
+2176 Shri Pramod Tiwari:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether Government and Swiggy Platform signed a Memorandum of Understanding
+(MoU);
+(b) if so, the salient points of the MoU; and
+(c) the steps taken for making National Career Service (NCS) a non-stop solution for
+improving employment across sectors, skilling and counselling?
+Transformative reforms for workers
+2177 # Smt. Ramilaben Becharbhai Bara:
+Shri Narhari Amin:
+Shri Ryaga Krishnaiah:
+Will the Minister of Labour and Employment be pleased to state:
+(a) the key components of the Ministry’s 11-year-long “transformative reforms,” including
+specific initiatives for labour welfare, social security and public healthcare services;
+(b) the quantitative outcomes achieved under these reforms;
+(c) the manner in which digital interventions have improved efficiency, reduced delays, and
+enhanced access for workers, along with the parameters used by the Ministry to assess
+these reforms; and
+(d) whether these reforms have led to an expansion in the coverage of social security
+schemes with specific numbers on how many workers under EPFO and ESIC during the
+five years?
+Welfare measures for Inter-State migrant workers
+2178 Shri Imran Pratapgarhi:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether Government has instituted any new mechanisms post the COVID-19 pandemic
+for the welfare, tracking and support of Inter-State migrant labourers;
+(b) if so, the details of such mechanisms including digital or physical infrastructure
+established for their benefit;
+(c) whether any national-level database has been created for migrant workers and if so,
+the number of workers registered on it;
+(d) the steps taken to ensure access to social security, health insurance and portability of
+benefits for migrant workers across States; and
+(e) the allocation made by the Ministry for welfare schemes specifically targeted at migrant
+labourers since 2021?
+Rate of unemployment
+2179 Shri Anil Kumar Yadav Mandadi:
+Shri Haris Beeran:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether Government is aware of the fact that the rate of unemployment is increasing
+day by day and have become a matter of grave concern to one and all particularly to the
+youths of the country;
+(b) if so, the details thereof;
+544
+
+
+(c) whether Government has formulated any mechanism in this regard so that the adequate
+employment is given to the youth of the country;
+(d) if so, the details thereof; and
+(e) if not, the reasons therefor?
+Effectiveness and utilisation of the e-Shram Portal
+2180 Smt. Ranjeet Ranjan:
+Will the Minister of Labour and Employment be pleased to state:
+(a) the number of unique users who accessed the e-Shram portal each month since
+January 2025 and the total cumulative number of users till June 2025, year-wise;
+(b) whether Government has conducted any evaluation of the portal’s effectiveness in
+improving access to social security schemes for informal workers;
+(c) the number of registered workers who have successfully availed benefits under the 12
+schemes mapped to the e-Shram portal, scheme-wise and State-wise; and
+(d) whether Government agrees that despite registering over 30 crore workers, the e-
+Shram portal has primarily functioned as a data collection exercise with limited integration
+into welfare delivery systems?
+Measures taken for ELI Scheme
+2181 Shri K.R.N. Rajeshkumar:
+Will the Minister of Labour and Employment be pleased to state:
+(a) the preparatory measures undertaken for the Employment Linked Incentive (ELI)
+Scheme, set to commence on August 1, 2025, with details of anticipated initial
+registrations, projected job creation and expected beneficiaries under Parts A and B as of
+July 15, 2025; and
+(b) the specific steps being implemented to integrate informal and gig workers into formal
+workforce under ELI objectives, and the progress has been made in providing them social
+security benefits via the e-Shram portal, identity cards, and PM Jan Arogya Yojana?
+Work-life balance of employees
+2182 Shri A. A. Rahim:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether Government has conducted or commissioned any study on the work–life
+balance of employees in India, particularly in the private sector, during the last five years;
+(b) if so, the key findings of such studies;
+(c) if not, whether Government is ready to conduct a study; and
+(d) the number of complaints or labour disputes have been registered in relation to violation
+of work-hour norms, especially in high-intensity sectors like IT, finance and gig work?
+Labour rights of gig workers
+2183 Dr. V. Sivadasan:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether Government has any specific schemes or measures to ensure labour rights and
+social security protection for gig and platform workers in the country;
+(b) the details of such schemes or measures, if any; and
+(c) the steps being taken to improve the working conditions and social security coverage of
+gig workers?
+545
+
+
+Claim assessment under ABVKY
+2184 Dr. Syed Naseer Hussain:
+Will the Minister of Labour and Employment be pleased to state:
+(a) the current eligibility criteria under Atal Beemit Vyakti Kalyan Yojana (ABVKY) and the
+frequency of review of these criteria to accommodate the changing nature of employment in
+various industries;
+(b) the number of claims resolved and rejected under ABVKY to date and the main reasons
+for these rejections; and
+(c) whether Government has conducted any assessment on the adequacy of the financial
+assistance provided under ABVKY, especially in high-cost urban areas?
+Reducing the unemployment rate
+2185 # Shri Neeraj Dangi:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether the unemployment rate is increasing in the country and young people are facing
+(a) whether the unemployment rate is increasing in the country and young people are facing
+difficulties in getting employment;
+(b) if so, whether there are any statistics related to the number of unemployed youth in the
+country;
+(c) whether Government has any information about youth migrating from different parts of
+the country in search of employment, if so, the details thereof, especially regarding the
+State of Rajasthan; and
+(d) the concrete strategy being adopted by Government to reduce the unemployment rate
+among youth in the future and the details thereof?
+Convening of the Indian Labour Conference
+2186 Shri Ritabrata Banerjee:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether it is a fact that a number of trade unions are constantly asking the Union
+Government to organise the Indian Labour Conference which has not been organised for
+more than ten years;
+(b) if so, the details thereof and the reasons therefor; and
+(c) by when Government is planning to organise the Indian Labour Conference?
+Implementation of the Code of Social Security
+2187 Shri K.R. Suresh Reddy:
+Will the Minister of Labour and Employment be pleased to state:
+(a) whether the provisions made by the Code of Social Security 2020 have been
+implemented in all the States/UTs;
+(b) if not, the reasons therefor the continued delay, including the issues raised during inter-
+governmental consultations;
+(c) the details of funds allocated and disbursed for the implementation of the code over the
+last five years;
+(d) the steps taken to facilitate overcoming the aforementioned hurdles towards efficiently
+implementing the provisions under the code; and
+(e) the revised timeline, if any, proposed by the Ministry for the nationwide implementation
+of the Code on Social Security?
+546
+
+
+Vacancies of judges in High Courts
+2188 Shri Haris Beeran:
+Will the Minister of Law and Justice be pleased to state:
+(a) the details of present number of vacancies of judges in High Courts and details of the
+recommendation by the Supreme Court collegium pending before Government and the
+reasons for pendency;
+(b) whether Government has evaluated the impact of the vacancies on a large number of
+pending cases in the country;
+(c) if so, the details thereof; and
+(d) the details of steps taken by Government to fill these vacancies in various courts?
+Pendency of civil and criminal cases
+2189 Shri Neeraj Shekhar:
+Will the Minister of Law and Justice be pleased to state:
+(a) the details of civil and criminal cases pending for more than 50 years, 40 years,30
+years and 20 years, respectively in various HIgh Courts and district courts in the country, as
+on date, State-wise; and
+(b) the details of increase/decrease in such cases during the last one year, State-wise?
+Notary portal and digital legal modernization
+2190 # Smt. Ramilaben Becharbhai Bara:
+Shri Mayankkumar Nayak:
+Shri Madan Rathore:
+Shri Narayana Koragappa:
+Smt. Maya Naroliya:
+Will the Minister of Law and Justice be pleased to state:
+(a) the key objectives of the new Notary portal;
+(b) whether this portal provides paperless application and digital certificate download
+facility; and
+(c) the number of notaries that have been connected through this new online system so far?
+Uniform policy for AI in Judiciary
+2191 Shri S Niranjan Reddy:
+Will the Minister of Law and Justice be pleased to state:
+(a) whether Government is considering a uniform policy for the use of Artificial Intelligence
+(AI) by the judiciary across the Supreme Court, High Courts and subordinate courts;
+(b) if so, the details of the proposed framework and timeline;
+(c) whether the policy will address concerns related to ethical safeguards, algorithmic bias
+and data privacy; and
+(d) whether Government has held consultations with judicial authorities, legal experts or
+technology institutions in this regard and if so, the details thereof?
+Working of Collegium system
+2192 Dr. Sasmit Patra:
+Will the Minister of Law and Justice be pleased to state:
+(a) the number of recommendations made by the Supreme Court Collegium in 2023–24
+which are still pending with Government, and for how long;
+(b) the reason for lack of the Collegium system about any formal mechanism for public
+consultation, diversity tracking or grievance redressal;
+547
+
+
+(c) the criteria Government applies in selectively withholding or returning Collegium
+recommendations; and
+(d) whether Government has proposed any reforms to improve accountability, such as
+publishing reasons for rejection or delay of Collegium proposals?
+Plan to set up Tribunals
+2193 Shri R. Girirajan:
+Will the Minister of Law and Justice be pleased to state:
+(a) whether Government has any plans to do away with Tribunals set up to address
+disputes in various Ministries and Departments and if so, the details thereof and reasons
+therefor;
+(b) whether it is a fact that the Courts in the country are badly affected by the high
+pendency of criminal and civil cases;
+(c) if so, the details thereof and the total number of pending criminal and civil cases in SC,
+HCs and District courts and the reasons therefor; and
+(d) the steps taken by Government to establish a of permanent bench of Supreme
+Court at Chennai?
+Backlog of cases in courts
+2194 # Shri Ramji Lal Suman:
+Will the Minister of Law and Justice be pleased to state:
+(a) the status of special courts for cases registered under special laws;
+(b) whether it is a fact that there are less resources than required to hear such cases, due
+to which there are difficulties in hearing the cases; and
+(c) the number of special courts established in the last three years, State-wise?
+Gram Nyayalayas
+2195 # Shri Sanjay Singh:
+Will the Minister of Law and Justice be pleased to state:
+(a) the number of Gram Nyayalayas established across the country to date and the number
+of Gram Nyayalayas actively functioning, the State-wise details thereof;
+(b) whether there is any monitoring mechanism to regularly monitor the performance and
+functioning of Gram Nyayalayas, if so, the details thereof;
+(c) whether there is any report available on the number of cases disposed of by Gram
+Nyayalayas and their success rate, if so, the details thereof; and
+(d) the amount allocated by Government for Gram Nyayalayas in the last three years, the
+State-wise details thereof?
+Rising footfall at tourist destinations across the country
+2196 # Dr. Bhim Singh:
+Dr. Laxmikant Bajpayee:
+Will the Minister of Tourism be pleased to state:
+(a) whether Government is aware of the fact that the tourist destinations across the country
+are becoming increasingly overcrowded and difficult to manage every day with heavy influx
+of tourists causing numerous issues both at these sites and on the roads leading to them;
+(b) whether Government has conducted any study and survey in this regard, if so, the
+increase in the number of tourists in the last five years, State wise details of major places;
+and
+(c) the plans/policies of Government to effectively manage the growing tourist inflow at
+tourist destinations across the country?
+548
+
+
+Redressal of public grievances
+2197 Dr. Medha Vishram Kulkarni:
+Shri Babubhai Jesangbhai Desai:
+Will the PRIME MINISTER be pleased to state:
+(a) the measures being taken to ensure timely redressal of public grievances received
+through CPGRAMS and other platforms;
+(b) whether the Ministry has conducted any performance audit of grievance redressal
+mechanisms in key Ministries and Departments;
+(c) the steps taken to enhance transparency, accountability and citizen satisfaction in public
+service delivery; and
+(d) whether there are any plans to strengthen civil services reforms, digital governance and
+capacity building for faster and more efficient Government response systems?
+SC, ST, OBC and PwD in Central Government Services
+2198 Shri Mukul Balkrishna Wasnik:
+Will the PRIME MINISTER be pleased to state:
+(a) the percentage of persons employed from the Scheduled Castes (SCs), Scheduled
+Tribes (STs), Other Backward Classes (OBCs) and Persons with Disabilities (PwDs) in
+Central Government services and CPSUs;
+(b) whether it is a fact that there still exists a backlog in employment of persons from the
+reserved categories;
+(c) if so, the details thereof;
+(d) whether any steps have been taken by Government to fill up the backlog; and
+(e) if so, the details thereof?
+Opportunities for unsuccessful UPSC Candidates
+2199 Shri Ryaga Krishnaiah:
+Will the PRIME MINISTER be pleased to state:
+(a) whether there is any proposal to initiate a decent employment opportunity platform at
+public and private Industry for the unsuccessful UPSC aspirants who reached the interview
+level;
+(b) the number of students who appeared for the UPSC interview during the last five years;
+and
+(c) the number of aspirants not selected during the last five years?
+Initiatives for promoting traditional knowledge, rural techniques and local
+innovations in Bihar
+2200 # Dr. Bhim Singh:
+Will the Minister of Science and Technology be pleased to state:
+(a) whether Government has taken any concrete and effective initiatives for the
+identification and promotion of traditional knowledge, rural technologies and local
+innovations in Bihar;
+(b) whether it is a fact that the process of patenting rural innovations in Bihar and providing
+technical support by NIF or other institutions has been limited and sluggish; and
+(c) if not, the districts in Bihar whom innovations have been identified with the number of
+districts out of these which have received patents, financial assistance or commercial
+support during the last five years and the details thereof?
+549
+
+
+Sankalp Initiative
+2201 Dr. Anil Sukhdeorao Bonde:
+Will the PRIME MINISTER be pleased to state:
+(a) the role of the Sankalp initiative to provide a platform for the pensioners to access
+opportunities available for useful interventions in the society;
+(b) the number of organisations/associations with which the Ministry has collaborated;
+(c) the number of pensioners which have voluntarily registered to access opportunities; and
+(d) the details of the pre-retirement counselling workshop conducted and the number of
+participants thereof?
+PPP under the RDI scheme
+2202 Shri Satnam Singh Sandhu:
+Will the Minister of Science and Technology be pleased to state:
+(a) the extent of collaboration envisaged between public sector research institutions and
+private companies under the Research, Development and Innovation (RDI) scheme and the
+types of support being provided to these institutions;
+(b) the initiatives taken to promote a robust innovation ecosystem, including capacity
+building, regulatory reforms and incentives for research in emerging technologies; and
+(c) the measures adopted to ensure that R&D benefits are equitably distributed across
+various States, regions and socio-economic groups?
+R&D investment in India
+2203 Smt. Rajani Ashokrao Patil:
+Will the Minister of Science and Technology be pleased to state:
+(a) the total Research and Development (R&D) expenditure as a percentage of GDP for
+the years 2021–22, 2022–23, and 2023–24;
+(b) whether India's R&D investment remains below global average and well behind
+countries like China, South Korea and US;
+(c) the amount of budgetary allocation and utilisation under major DST-funded schemes for
+scientific innovation and research institutions;
+(d) whether public research institutions are facing delays in grant disbursements or project
+approvals; and
+(e) the steps taken to promote scientific research in State universities and improve funding
+mechanisms?
+Vigyan Dhara Scheme
+2204 Dr. K. Laxman:
+Smt. Darshana Singh:
+Shri Madan Rathore:
+Shri Amar Pal Maurya:
+Shri Mithlesh Kumar:
+Dr. Anil Sukhdeorao Bonde:
+Shri Kesridevsinh Jhala:
+Shri Aditya Prasad:
+Will the Minister of Science and Technology be pleased to state:
+(a) the number of beneficiaries under the Vigyan Dhara scheme since its inception, State-
+wise;
+(b) the number of startups and research institutions supported under Vigyan Dhara across
+States and the criteria for their selection; and
+(c) the fund allocation and utilization under the Vigyan Dhara scheme, State-wise?
+550
+
+
+India's Chandrayaan-4 mission
+2205 Shri Ayodhya Rami Reddy Alla:
+Will the PRIME MINISTER be pleased to state:
+(a) the manner in which the Chandrayaan-4 mission would ensure the safe handling and
+storage of lunar samples to prevent contamination and the protocols in place to preserve
+the integrity of the samples for scientific analysis; and
+(b) the specific technological advancements and innovations which the Chandrayaan-4
+mission would employ to overcome the challenges of lunar sample return and the manner in
+which the mission's complexity will be managed to ensure successful execution?
+NavIC
+2206 Shri Yerram Venkata Subba Reddy:
+Will the PRIME MINISTER be pleased to state:
+(a) whether it is a fact that 15 lakh public and commercial vehicles have been targeted
+tracking in real-time with Navigation with Indian Constellation;
+(b) if so, the number of models developed and certified and the number of vehicles fitted
+with the devices;
+(c) whether it is also a fact that 7 satellites have been put in orbit, but some of them are not
+functioning;
+(d) if so, the details thereof and reasons therefor; and
+(e) by when NVS-03, NVS-04 and NVS-05 are going to be set in the orbit?
+Property management and use of Bhuvan GIS platform
+2207 # Shri Pradip Kumar Varma:
+Will the PRIME MINISTER be pleased to state:
+(a) whether Government is using ISRO's Bhuvan Panchayat portal for monitoring of forests,
+mining and land use in the State of Jharkhand;
+(b) the names of the State departments (such as Revenue, Forest, Rural Development)
+that have been provided with regular access to satellite-based geo-spatial data;
+(c) whether the Gram Panchayats have been linked to satellite imagery or mobile GIS
+services for property recording and monitoring; and
+(d) if so, the details thereof?
+Status of Gaganyaan mission
+2208 # Shri Subhash Barala:
+Will the PRIME MINISTER be pleased to state:
+(a) the current status of the Gaganyaan mission, its technological progress and the
+economic benefits arising from it, the details thereof;
+(b) the progress of training of the Indian Air Force pilots selected for the mission; and
+(c) the expected timeline for the second test vehicle mission and unmanned orbital flights
+under the Gaganyaan mission?
+Scheme of Financial Assistance for Institutes
+2209 Shri Ratanjit Pratap Narain Singh:
+Will the Minister of Tourism be pleased to state:
+(a) the details of the objectives of the Scheme of Financial Assistance for Institutes and the
+institutes which are eligible for it;
+(b) the types of projects that are eligible for funding under this scheme, and the key criteria
+551
+
+
+for approval;
+(c) the details of funds allocated for the setting up, expansion and upgrading of institutes
+under this scheme in the past year; and
+(d) the manner in which the Ministry ensure proper utilization of the financial assistance
+provided to the institutes under this scheme?
+Capacity Building for Service Providers Scheme
+2210 # Dr. Kalpana Saini:
+Will the Minister of Tourism be pleased to state:
+(a) the number of persons provided training in tourism sector under Capacity Building for
+Service Providers (CBSP) Scheme since the inception of the scheme particularly in the
+State of Uttarakhand;
+(b) the number of such trained persons who have got employment or have started rural
+tourism, home-stay or other self-employment activities;
+(c) whether women and youth from backward, hilly and tribal areas of Uttarakhand are
+being provided adequate access to these training programmes; and
+(d) if so, the details thereof?
+Need for Regulation in Adventure Tourism Sector
+2211 Shri A. D. Singh:
+Will the Minister of Tourism be pleased to state:
+(a) whether Government is aware of increasing instances of deaths and serious injuries in
+adventure tourism and sports activities across the country;
+(b) whether concerns have been raised about the largely unregulated nature of this industry,
+including untrained instructors, lack of safety equipment and absence of registration;
+(c) whether any national-level regulatory framework is being considered to ensure safety
+standards and compulsory licensing of operators; and
+(d) if so, the timeline and key provisions proposed to ensure safer adventure tourism
+experiences?
+Dekho Apna Desh Campaign
+2212 Smt. Rekha Sharma:
+Shri Tejveer Singh:
+Will the Minister of Tourism be pleased to state:
+(a) the digital platforms launched or upgraded by the Ministry under the ‘Dekho Apna Desh’
+initiative;
+(b) the steps taken to enhance virtual tourism experiences, destination discoverability and
+citizen engagement;
+(c) the outreach achieved in terms of user base, tourist footfall and regional promotion; and
+(d) whether any scheme is being implemented to empower local communities, women and
+tribal groups economically through tourism?
+Foreign tourists arrivals and Indians visiting abroad
+2213 Shri Ashok Singh:
+Will the Minister of Tourism be pleased to state:
+(a) the total number of foreign tourists that visited India in 2019, 2022, 2023, 2024,
+country-wise; and
+(b) the total number of Indian citizens who went to other countries as tourists in 2019,
+2022, 2023, 2024, country-wise?
+552
+
+
+Revenue from domestic tourists
+2214 Shri Yerram Venkata Subba Reddy:
+Will the Minister of Tourism be pleased to state:
+(a) whether it is a fact that India’s 95 per cent tourism revenue comes from domestic
+tourists;
+(b) if so, the manner in which the Ministry can achieve US$ 3 trillion tourism economy by
+2047;
+(c) whether it is also a fact that cleanliness, hygiene and tourist security are the major
+concerns grappling the tourism sector; and
+(d) if so, the special efforts made by Government to increase visits of foreign tourists?
+IDPMS for tourism in Konkan
+2215 # Shri Dhairyashil Mohan Patil:
+Will the Minister of Tourism be pleased to state:
+(a) whether Government proposes to implement an Integrated Digital Project Management
+System (IDPMS) for coastal tourism projects in the Konkan region of Maharashtra;
+(b) if not, the platforms presently available for real-time monitoring of tourism initiatives in
+Konkan, including beach development, coastal heritage sites and marine tourism facilities;
+and
+(c) the steps proposed by Government to expedite pending tourism initiatives in the
+ecologically sensitive Konkan coastal region and to ensure optimal utilisation of funds?
+Adventure Tourism
+2216 Ms. Swati Maliwal:
+Will the Minister of Tourism be pleased to state:
+(a) the number of accidents, injuries, or deaths reported in the adventure tourism sector in
+the last five years, activity-wise and State/UT-wise;
+(b) whether any investigations or safety audits were conducted in these cases and the
+findings thereof including corrective measures taken;
+(c) whether the Ministry has circulated a Model Law on Adventure Tourism to States and
+Union Territories, and if so, the status of adoption and implementation of the Model Law by
+each State/UT; and
+(d) the steps being taken to ensure mandatory registration, safety audits, and insurance
+coverage by adventure tourism operators nationwide?
+Eco-tourism in Himachal Pradesh
+2217 # Ms. Indu Bala Goswami:
+Will the Minister of Tourism be pleased to state:
+(a) whether Government has any proposal to identify new centers for eco-tourism in
+Himachal Pradesh;
+(b) if so, the details thereof;
+(c) whether any efforts have been made by Government in collaboration with the local
+community for tourism development in Himachal Pradesh; and
+(d) if so, the details thereof?
+Initiatives for promotion of heritage tourism in Karnataka
+2218 Shri Lahar Singh Siroya:
+Will the Minister of Tourism be pleased to state:
+(a) the initiatives taken by Government to promote heritage tourism in sites such as Hampi,
+553
+
+
+Badami and Pattadakal in Karnataka;
+(b) whether these sites are being developed under the Swadesh Darshan or PRASAD
+schemes; and
+(c) the tourist footfall and revenue generation recorded from these destinations in the last
+three years?
+Medical Tourism
+2219 Shri Kesridevsinh Jhala:
+Shri Narayana Koragappa:
+Smt. Ramilaben Becharbhai Bara:
+Shri Baburam Nishad:
+Shri Aditya Prasad:
+Dr. Anil Sukhdeorao Bonde:
+Shri Madan Rathore:
+Smt. Kiran Choudhry:
+Will the Minister of Tourism be pleased to state:
+(a) the total number of medical tourists landed in India in 2025;
+(b) the top source countries accounting for medical tourists in the last five years;
+(c) the steps undertaken to improve India’s rank in global wellness tourism markets;
+(d) the role of “Heal in India” initiative in capacity building and easing visa norms;
+(e) whether the Ministry has collaborated with any private entity so far under the initiative;
+(f) if so, the details thereof, State-wise including Jharkhand;
+(g) the manner in which Gujarat collaborate with regional wellness retreats; and
+(h) the manner in which Gujarat’s medical outreach strengthen India's health diplomacy?
+Restoration and Promotion of Rural Heritage Sites
+2220 Smt. Geeta alias Chandraprabha:
+Will the Minister of Tourism be pleased to state:
+(a) whether Government plans to support restoration and promotion of lesser-known
+temple clusters and heritage sites across India;
+(b) the details of initiatives in Uttar Pradesh to link such sites to state cultural tourism
+circuits, including support for home-stays and craft stalls managed by women Self Help
+Groups; and
+(c) whether Government will promote restoration and tourism around Auraiya’s Badi Devi
+and Mahadev temples and support women-led home-stays and craft stalls at these sites?
+‘Paryatan Mitra’ and ‘Paryatan Didi’ initiatives in UP
+2221 # Smt. Darshana Singh:
+Will the Minister of Tourism be pleased to state:
+(a) the number of people selected and trained so far under the ‘Paryatan Mitra’ and
+‘Paryatan Didi’ initiatives in Uttar Pradesh and the main responsibilities assigned to them;
+(b) the places of historical, freedom struggle or military importance in the State of Uttar
+Pradesh that have been included under the ‘Bharat Rannbhoomi Darshan’ initiative; and
+(c) the names of the districts of Uttar Pradesh where female guides have been trained
+under the ‘Paryatan Didi’ initiative and their current number thereof?
+Swadesh Darshan Scheme
+2222 Shri Iranna Kadadi:
+Will the Minister of Tourism be pleased to state:
+554
+
+
+(a) the details of the tourist circuits sanctioned and developed in Karnataka under the
+Swadesh Darshan scheme;
+(b) the total funds allocated and utilized for these circuits;
+(c) whether there is a proposal to develop a specific heritage circuit connecting the
+historical sites of Northern Karnataka, including Belgaum, Badami, Aihole and Pattadakal;
+and
+(d) the steps taken to promote these circuits in domestic and international markets?
+Implementation of Bharat Rannbhoomi Darshan
+2223 # Shri Amar Pal Maurya:
+Shri Aditya Prasad:
+Shri Mithlesh Kumar:
+Shri Mayankkumar Nayak:
+Will the Minister of Tourism be pleased to state:
+(a) the details of of 'Paryatan Mitra' and 'Paryatan Didi' initiatives launched at national level
+in the year 2024; and
+(b) the increase in the number of visitors, security mechanism and local participation due to
+the implementation of 'Bharat Rannbhoomi Darshan' initiative?
+Sports infrastructure projects in Gujarat
+2224 Shri Babubhai Jesangbhai Desai:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the current status of various sports infrastructure projects in the State of Gujarat,
+including stadiums, training centres and sports complexes;
+(b) the total funds allocated and utilized for these developments during the last five years,
+State-wise;
+(c) the steps taken by Government to ensure accessibility of such sports facilities to both
+rural and urban youth in Gujarat; and
+(d) whether there are any plans to upgrade the existing sports infrastructure in the State to
+meet international standards and if so, the details thereof and if not, the reasons therefor?
+Revised Scheme of Assistance to NSFs
+2225 Shri Sadanand Mhalu Shet Tanavade:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the key features of the Revised Scheme of Assistance to National Sports Federations
+(NSFs) and how it addresses the needs of athletes, coaches and support-staff, particularly
+in terms of training infrastructure, financial aid, and exposure;
+(b) the list of sports disciplines identified for focused promotion of league culture and the
+selection criteria used;
+(c) the funds allocated and released under the revised scheme in the last three years; and
+(d) whether Government considers this scheme a strategic step towards India’s vision of
+becoming a global sporting hub and a potential host of the 2036 Olympic Games, and if so,
+the roadmap envisaged?
+Holistic Welfare and infrastructure support for sportspersons
+2226 Shri Sadanand Mhalu Shet Tanavade:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the key schemes and initiatives currently in place to promote the welfare of Indian-
+sportspersons, including financial-support, modern training infrastructure, insurance and
+mental-health counselling;
+555
+
+
+(b) the budgetary allocation and expenditure under major athlete welfare schemes such as
+the Target Olympic Podium Scheme (TOPS), Khelo India and the Pandit Deendayal
+Upadhyay National Welfare Fund for Sportspersons during the last five years;
+(c) the mechanisms adopted to ensure timely and transparent disbursal of incentives,
+pensions and assistance to sportspersons at national and grassroots levels; and
+(d) whether Government is considering a centralised digital portal for tracking athlete
+entitlements and grievances and if so, the status thereof?
+Mental health programmes for youths
+2227 Smt. Rajani Ashokrao Patil:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) whether the Ministry has initiated or supported any youth-focused mental health
+programmes in colleges, sports academies or rural communities;
+(b) whether studies have been conducted to assess the incidence of depression, anxiety or
+substance abuse among youth aged 15–29;
+(c) the number of youth wellness centres operational under the National Youth Policy or in
+collaboration with the Ministry of Health;
+(d) whether any partnership has been made with civil society or digital platforms for youth
+counselling; and
+(e) the new preventive and awareness initiatives launched since 2023 for youth wellbeing?
+Implementation of National Youth Policy, 2025
+2228 Smt. Rekha Sharma:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the key strategies outlined under the National Youth Policy, 2025 for enhancing
+employability among youth;
+(b) the initiatives taken to implement these strategies, particularly in rural and semi-urban
+regions; and
+(c) whether the Ministry has collaborated with the Ministry of Skill Development and
+Entrepreneurship to integrate skill development programmes under this policy, and if so, the
+details thereof?
+Harassment cases in sports institutions
+2229 Shri Sandosh Kumar P:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the State-wise list of sexual, physical, and mental harassment cases reported from the
+sports institutions in our country during the last five years;
+(b) the State-wise list of sexual, physical, and mental harassment cases in which the
+culprits were convicted and punished during the last five years;
+(c) whether Government is concerned about the increasing cases of harassment reported
+from the sports field;
+(d) if so, whether Government has any plan to initiate pragmatic measures to end the
+cases of harassment in the sports fields; and
+(e) if so, the details thereof?
+Proposal to open Khelo India Centres across Tamil Nadu
+2230 Dr. Kanimozhi NVN Somu:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) whether Government has any proposal to open Khelo India Centres (KICs) with latest
+and advanced training facilities across Tamil Nadu, Chennai in particular;
+556
+
+
+(b) if so, the details thereof and if not, the reasons therefor;
+(c) the details of funds allocated and utilized for the establishment/creation, operation and
+upgradation of sports infrastructure in these centres during the last five years and the
+current year; and
+(d) whether Government is planning to enhance the scope of the scheme, if so, the details
+thereof?
+Rise in cases of anti-doping rule violations
+2231 Shri Imran Pratapgarhi:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) whether Government is aware of the rising number of anti-doping rule violations
+involving Indian athletes in recent years;
+(b) number of athletes who tested positive for banned substances in the years 2021 to
+2024, year-wise and sport-wise;
+(c) whether any review or audit conducted regarding functioning and effectiveness of
+National Anti-Doping Agency (NADA) in light of repeated violations;
+(d) measures being taken to strengthen anti-doping awareness, testing infrastructure and
+enforcement mechanisms, particularly at grassroots and junior levels; and
+(e) whether Government proposes to collaborate with international bodies like WADA for
+capacity building and technical upgradation of NADA, if so, the details thereof?
+Youth Spiritual Summit
+2232 Shri Ashokrao Shankarrao Chavan:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) whether Government has organized a 'Youth Spiritual Summit' in Varanasi recently and if
+so, details thereof;
+(b) the aims and objectives of said Summit;
+(c) the number of youth delegates participated in said Summit and criteria adopted for their
+selection;
+(d) whether substance abuse remains the gravest threats confronting our youth posing a
+challenge to national progress;
+(e) if so, specific sessions and activities planned during summit to address and ensure
+implementation of the strategies discussed during the summit on the issue of drug
+addiction; and
+(f) the details of any follow-up actions or programmes planned post-summit to sustain the
+momentum against drug addiction?
+Allocation and utilization of funds for development and promotion of sports
+2233 Shri Abdul Wahab:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the allocation and utilization, year-wise, State-wise for each sport separately such as
+football, cricket, athletics, volleyball, indigenous sports, etc, including Khelo India, Rajiv
+Gandhi Khel Abhiyan, Urban Sports Infrastructure Scheme (USIS);
+(b) the details of major infrastructure projects, hostels, stadiums and league-specific
+spends by type of sport and district in the last eleven years;
+(c) the current status of ongoing projects and reasons for underutilization or project delays,
+if any; and
+(d) the audit findings and steps taken by Government to ensure optimal and equitable use
+of sports funds across all disciplines and regions in India?
+557
+
+
+Functioning of NSS in the country
+2234 Shri S. Selvaganabathy:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the number of students in the country enrolled in National Service Scheme as on date;
+(b) whether Government is insisting all the secondary school, colleges and universities level
+students to join NSS;
+(c) if so, the action taken by Government for not participating in the NSS; and
+(d) the number of States/UTs that have been benefitted under the National Service Scheme
+award so far and the details thereof?
+Certification and training of adventure sports
+2235 Shri Vivek K. Tankha:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) whether there exists a national certification system for adventure sports instructors and
+operators in the country;
+(b) if so, the number of certified instructors across various adventure sports available in the
+country;
+(c) whether any training institutes have been established for adventure sports; and
+(d) the steps taken to ensure quality training and skill development in this sector?
+Development of sports infrastructure in Maharashtra
+2236 Shri Dhananjay Bhimrao Mahadik:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the current status of sports infrastructure projects in Maharashtra, including stadiums,
+training centres, and sports complexes;
+(b) the funds allocated and utilized for these developments in the last three years;
+(c) the measures taken to ensure accessibility for rural and urban youth; and
+(d) the plans to upgrade existing facilities to international standards?
+Manpower and resources for sports institutions
+2237 Shri Digvijaya Singh:
+Smt. Ranjeet Ranjan:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the total number of sanctioned posts and positions filled in Department of Youth Affairs,
+Nehru Yuva Kendra Sangathan, National Service Scheme, Sports Authority of India and
+National Anti-Doping Agency as of June 2025;
+(b) the number of districts without a District Youth Officer or National Service
+Scheme/National Service Scheme equivalent representation, State-wise;
+(c) the total expenditure and fund utilization rate under Khelo India and NYKS-sponsored
+youth engagement programmes during FY 2021–22 to 2024-25, State-wise and scheme-
+wise; and
+(d) the proportion of Khelo India Centres and NYKS initiatives located in rural and tribal
+areas and their year-wise details since 2021?
+Status of Khelo India projects in Andhra Pradesh
+2238 Shri Sana Sathish Babu:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the total number of Khelo India projects sanctioned for Andhra Pradesh, and how many
+have been completed till date;
+558
+
+
+(b) the details regarding the financial allocations and actual fund releases for these
+projects; and
+(c) whether the Ministry has set timelines for the completion of pending projects, including
+the eight lane synthetic athletic track at Jawaharlal Nehru Technological University (JNTU),
+Kakinada and the steps being taken to expedite project execution and ensure timely
+release of funds to support the development of sports infrastructure in the State?
+Draft National Code Against Age Fraud in Sports, 2025
+2239 Dr. Sumer Singh Solanki:
+Dr. Dinesh Sharma:
+Shri Brij Lal:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) the current status of the Draft National Code Against Age Fraud in Sports (NCAAFS),
+2025; and
+(b) the main reforms proposed under these draft policies to enhance good governance and
+athlete rights in the Indian sports ecosystem?
+Welfare and support schemes for sportspersons in North Eastern Region
+2240 Shri Ajit Kumar Bhuyan:
+Will the Minister of Youth Affairs and Sports be pleased to state:
+(a) whether it is a fact that there are many sportspersons coming from North Eastern
+Region for many international competitions without proper amenities;
+(b) if so, the details thereof;
+(c) whether any initiatives have been taken to enhance the financial security, training
+infrastructure and mental wellness support for the Sportspersons;
+(d) if so, the details thereof; and
+(e) the steps taken by Government to ensure the timely disbursal of financial assistance
+and incentives to sportspersons under various schemes?
+New Delhi 
+The July 31, 2025
+9,Sravana,1947(Saka)
+P. C. Mody,
+Secretary-General.
+# Original notice of the question received in Hindi.
+559
+
+INDEX
+(Ministry-Wise)
+Prime Minister : --
+Atomic Energy : 2081, 2082, 2083, 2084, 2085, 2086, 2087,
+2088, 2089, 2090
+Communications : 2091, 2092, 2093, 2094, 2095, 2096, 2097,
+2098, 2099, 2100, 2101, 2102, 2103, 2104,
+2105, 2106, 2107, 2108, 2109, 2110, 2111
+Culture : 2112, 2113, 2114, 2115, 2117, 2118, 2120,
+2121, 2122, 2123
+Development of North Eastern Region : --
+Earth Sciences : 2125, 2126, 2127, 2128, 2129, 2131, 2132,
+2133
+Environment, Forest and Climate Change : 2134, 2135, 2136, 2137, 2138, 2139, 2140,
+2141, 2142, 2143, 2144, 2145, 2146, 2147,
+2148, 2149, 2150, 2151, 2152, 2153, 2154,
+2155, 2156, 2157, 2158, 2159, 2160, 2161,
+2162
+External Affairs : 2163, 2164, 2165, 2166, 2167, 2168, 2124,
+2119, 2169, 2170, 2171, 2172, 2173, 2174
+Labour and Employment : 2175, 2176, 2177, 2178, 2179, 2180, 2181,
+2182, 2183, 2184, 2185, 2186, 2187
+Law and Justice : 2188, 2189, 2190, 2191, 2192, 2193, 2194,
+2195
+Personnel, Public Grievances and Pensions : 2201, 2197, 2198, 2116, 2199
+Science and Technology : 2200, 2202, 2203, 2130, 2204
+Space : 2205, 2206, 2207, 2208
+Tourism : 2196, 2209, 2210, 2211, 2212, 2213, 2214,
+2215, 2216, 2217, 2218, 2219, 2220, 2221,
+2222, 2223
+Youth Affairs and Sports : 2224, 2225, 2226, 2227, 2228, 2229, 2230,
+2231, 2232, 2233, 2234, 2235, 2236, 2237,
+2238, 2239, 2240
+560
