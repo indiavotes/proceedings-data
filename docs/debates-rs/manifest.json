@@ -1,138 +1,70 @@
 {
   "texts": {
     "rs": {
-      "RS254_2021-07-28": {
+      "RS252_2020-09-15": {
+        "part1": {
+          "size": 247964,
+          "url": "text/rs/RS252_2020-09-15_part1.txt"
+        }
+      },
+      "RS252_2020-09-16": {
+        "part1": {
+          "size": 35487,
+          "url": "text/rs/RS252_2020-09-16_part1.txt"
+        }
+      },
+      "RS252_2020-09-17": {
+        "part1": {
+          "size": 89528,
+          "url": "text/rs/RS252_2020-09-17_part1.txt"
+        }
+      },
+      "RS252_2020-09-18": {
+        "part1": {
+          "size": 123323,
+          "url": "text/rs/RS252_2020-09-18_part1.txt"
+        }
+      },
+      "RS252_2020-09-19": {
+        "part1": {
+          "size": 113339,
+          "url": "text/rs/RS252_2020-09-19_part1.txt"
+        }
+      },
+      "RS252_2020-09-20": {
+        "part1": {
+          "size": 485652,
+          "url": "text/rs/RS252_2020-09-20_part1.txt"
+        }
+      },
+      "RS252_2020-09-21": {
+        "part1": {
+          "size": 61718,
+          "url": "text/rs/RS252_2020-09-21_part1.txt"
+        }
+      },
+      "RS252_2020-09-22": {
+        "part1": {
+          "size": 210789,
+          "url": "text/rs/RS252_2020-09-22_part1.txt"
+        }
+      },
+      "RS252_2020-09-23": {
+        "part1": {
+          "size": 103243,
+          "url": "text/rs/RS252_2020-09-23_part1.txt"
+        }
+      },
+      "RS254_2021-07-23": {
         "english": {
-          "size": 121700,
-          "url": "text/rs/RS254_2021-07-28_english.txt"
+          "size": 38330,
+          "url": "text/rs/RS254_2021-07-23_english.txt"
         }
       },
-      "RS255_2021-11-30": {
-        "part1": {
-          "size": 1622354,
-          "url": "text/rs/RS255_2021-11-30_part1.txt"
-        }
-      },
-      "RS255_2021-12-01": {
-        "part1": {
-          "size": 1654697,
-          "url": "text/rs/RS255_2021-12-01_part1.txt"
-        }
-      },
-      "RS255_2021-12-02": {
-        "part1": {
-          "size": 2244621,
-          "url": "text/rs/RS255_2021-12-02_part1.txt"
-        }
-      },
-      "RS255_2021-12-03": {
-        "part1": {
-          "size": 1865304,
-          "url": "text/rs/RS255_2021-12-03_part1.txt"
-        }
-      },
-      "RS255_2021-12-06": {
-        "part1": {
-          "size": 1082617,
-          "url": "text/rs/RS255_2021-12-06_part1.txt"
-        }
-      },
-      "RS255_2021-12-08": {
-        "part1": {
-          "size": 1968261,
-          "url": "text/rs/RS255_2021-12-08_part1.txt"
-        }
-      },
-      "RS255_2021-12-09": {
-        "part1": {
-          "size": 2777674,
-          "url": "text/rs/RS255_2021-12-09_part1.txt"
-        }
-      },
-      "RS255_2021-12-10": {
+      "RS254_2021-07-27": {
         "english": {
-          "size": 323983,
-          "url": "text/rs/RS255_2021-12-10_english.txt"
-        },
-        "part1": {
-          "size": 1823060,
-          "url": "text/rs/RS255_2021-12-10_part1.txt"
-        }
-      },
-      "RS255_2021-12-13": {
-        "part1": {
-          "size": 0,
-          "url": "text/rs/RS255_2021-12-13_part1.txt"
-        }
-      },
-      "RS255_2021-12-14": {
-        "part1": {
-          "size": 1609169,
-          "url": "text/rs/RS255_2021-12-14_part1.txt"
-        }
-      },
-      "RS255_2021-12-15": {
-        "part1": {
-          "size": 1714091,
-          "url": "text/rs/RS255_2021-12-15_part1.txt"
-        }
-      },
-      "RS255_2021-12-16": {
-        "part1": {
-          "size": 2188504,
-          "url": "text/rs/RS255_2021-12-16_part1.txt"
-        }
-      },
-      "RS255_2021-12-17": {
-        "english": {
-          "size": 56665,
-          "url": "text/rs/RS255_2021-12-17_english.txt"
-        },
-        "part1": {
-          "size": 1811117,
-          "url": "text/rs/RS255_2021-12-17_part1.txt"
-        }
-      },
-      "RS255_2021-12-20": {
-        "part1": {
-          "size": 1806835,
-          "url": "text/rs/RS255_2021-12-20_part1.txt"
-        }
-      },
-      "RS255_2021-12-21": {
-        "part1": {
-          "size": 1646716,
-          "url": "text/rs/RS255_2021-12-21_part1.txt"
-        }
-      },
-      "RS255_2021-12-22": {
-        "part1": {
-          "size": 1983798,
-          "url": "text/rs/RS255_2021-12-22_part1.txt"
-        }
-      },
-      "RS256_2022-01-31": {
-        "part1": {
-          "size": 139,
-          "url": "text/rs/RS256_2022-01-31_part1.txt"
-        }
-      },
-      "RS256_2022-02-01": {
-        "part1": {
-          "size": 139,
-          "url": "text/rs/RS256_2022-02-01_part1.txt"
-        }
-      },
-      "RS256_2022-02-02": {
-        "part1": {
-          "size": 2235487,
-          "url": "text/rs/RS256_2022-02-02_part1.txt"
-        }
-      },
-      "RS256_2022-02-04": {
-        "part1": {
-          "size": 2198576,
-          "url": "text/rs/RS256_2022-02-04_part1.txt"
+          "size": 78286,
+          "url": "text/rs/RS254_2021-07-27_english.txt"
         }
       }
     }
