@@ -3,35 +3,35 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 374,
+    "records_with_text": 383,
     "shards": 159,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 1819081,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 374,
-    "txt_files_removed": 0
+    "txt_files_removed": 9
   },
   "shards": [
     {
       "file": "texts-00.json",
-      "count": 13,
-      "bytes": 3443132
+      "count": 21,
+      "bytes": 3708276
     },
     {
       "file": "texts-01.json",
       "count": 2,
-      "bytes": 3977053
+      "bytes": 3347182
     },
     {
       "file": "texts-02.json",
       "count": 2,
-      "bytes": 3124609
+      "bytes": 4277650
     },
     {
       "file": "texts-03.json",
-      "count": 1,
-      "bytes": 2016106
+      "count": 2,
+      "bytes": 3143831
     },
     {
       "file": "texts-04.json",
@@ -810,6 +810,15 @@
     }
   ],
   "record_to_shard": {
+    "rs|RS251_2020-03-12|part1": 0,
+    "rs|RS251_2020-03-13|part1": 0,
+    "rs|RS251_2020-03-16|part1": 0,
+    "rs|RS251_2020-03-17|part1": 0,
+    "rs|RS251_2020-03-18|part1": 0,
+    "rs|RS251_2020-03-19|part1": 0,
+    "rs|RS251_2020-03-20|part1": 0,
+    "rs|RS251_2020-03-23|part1": 0,
+    "rs|RS252_2020-09-14|part1": 0,
     "rs|RS252_2020-09-15|part1": 0,
     "rs|RS252_2020-09-16|part1": 0,
     "rs|RS252_2020-09-17|part1": 0,
@@ -822,11 +831,11 @@
     "rs|RS254_2021-07-23|english": 0,
     "rs|RS254_2021-07-27|english": 0,
     "rs|RS254_2021-07-28|english": 0,
-    "rs|RS255_2021-11-30|part1": 0,
+    "rs|RS255_2021-11-30|part1": 1,
     "rs|RS255_2021-12-01|part1": 1,
-    "rs|RS255_2021-12-02|part1": 1,
+    "rs|RS255_2021-12-02|part1": 2,
     "rs|RS255_2021-12-03|part1": 2,
-    "rs|RS255_2021-12-06|part1": 2,
+    "rs|RS255_2021-12-06|part1": 3,
     "rs|RS255_2021-12-08|part1": 3,
     "rs|RS255_2021-12-09|part1": 4,
     "rs|RS255_2021-12-10|english": 4,
