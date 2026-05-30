@@ -1,3 +1,114 @@
 {
-  "texts": {}
+  "texts": {
+    "rs": {
+      "RS249_2019-07-12": {
+        "part1": {
+          "size": 97364,
+          "url": "text/rs/RS249_2019-07-12_part1.txt"
+        }
+      },
+      "RS249_2019-07-15": {
+        "part1": {
+          "size": 113755,
+          "url": "text/rs/RS249_2019-07-15_part1.txt"
+        }
+      },
+      "RS249_2019-07-16": {
+        "part1": {
+          "size": 578948,
+          "url": "text/rs/RS249_2019-07-16_part1.txt"
+        }
+      },
+      "RS249_2019-07-17": {
+        "part1": {
+          "size": 68301,
+          "url": "text/rs/RS249_2019-07-17_part1.txt"
+        }
+      },
+      "RS249_2019-07-18": {
+        "part1": {
+          "size": 149249,
+          "url": "text/rs/RS249_2019-07-18_part1.txt"
+        }
+      },
+      "RS249_2019-07-19": {
+        "part1": {
+          "size": 301211,
+          "url": "text/rs/RS249_2019-07-19_part1.txt"
+        }
+      },
+      "RS249_2019-07-22": {
+        "part1": {
+          "size": 75375,
+          "url": "text/rs/RS249_2019-07-22_part1.txt"
+        }
+      },
+      "RS249_2019-07-23": {
+        "part1": {
+          "size": 518316,
+          "url": "text/rs/RS249_2019-07-23_part1.txt"
+        }
+      },
+      "RS249_2019-07-24": {
+        "part1": {
+          "size": 82779,
+          "url": "text/rs/RS249_2019-07-24_part1.txt"
+        }
+      },
+      "RS249_2019-07-25": {
+        "part1": {
+          "size": 176631,
+          "url": "text/rs/RS249_2019-07-25_part1.txt"
+        }
+      },
+      "RS249_2019-07-26": {
+        "part1": {
+          "size": 128492,
+          "url": "text/rs/RS249_2019-07-26_part1.txt"
+        }
+      },
+      "RS249_2019-07-29": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-07-29_part1.txt"
+        }
+      },
+      "RS249_2019-07-30": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-07-30_part1.txt"
+        }
+      },
+      "RS249_2019-07-31": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-07-31_part1.txt"
+        }
+      },
+      "RS249_2019-08-01": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-08-01_part1.txt"
+        }
+      },
+      "RS249_2019-08-02": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-08-02_part1.txt"
+        }
+      },
+      "RS249_2019-08-05": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-08-05_part1.txt"
+        }
+      },
+      "RS249_2019-08-06": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-08-06_part1.txt"
+        }
+      }
+    }
+  }
 }
