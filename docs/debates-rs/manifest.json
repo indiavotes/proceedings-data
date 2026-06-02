@@ -1,3 +1,36 @@
 {
-  "texts": {}
+  "texts": {
+    "rs": {
+      "RS248_2019-01-31": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS248_2019-01-31_part1.txt"
+        }
+      },
+      "RS248_2019-02-01": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS248_2019-02-01_part1.txt"
+        }
+      },
+      "RS249_2019-06-20": {
+        "part1": {
+          "size": 94,
+          "url": "text/rs/RS249_2019-06-20_part1.txt"
+        }
+      },
+      "RS249_2019-06-21": {
+        "part1": {
+          "size": 171264,
+          "url": "text/rs/RS249_2019-06-21_part1.txt"
+        }
+      },
+      "RS249_2019-06-24": {
+        "part1": {
+          "size": 58079,
+          "url": "text/rs/RS249_2019-06-24_part1.txt"
+        }
+      }
+    }
+  }
 }
