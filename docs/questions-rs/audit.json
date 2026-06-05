@@ -1,5 +1,5 @@
 {
-  "audited_at": "2026-05-27T19:21:49Z",
+  "audited_at": "2026-06-05T16:18:19Z",
   "totals": {
     "ls_records": 0,
     "ls_with_text": 0,
@@ -8,10 +8,10 @@
     "ls_ocr_failed_permanent": 0,
     "ls_never_attempted": 0,
     "rs_records": 2771,
-    "rs_with_text": 125,
+    "rs_with_text": 150,
     "rs_pypdf_empty_awaiting_ocr": 0,
     "rs_pypdf_error_retryable": 0,
     "rs_ocr_failed_permanent": 0,
-    "rs_never_attempted": 2646
+    "rs_never_attempted": 2621
   }
 }
