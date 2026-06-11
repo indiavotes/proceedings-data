@@ -4,6 +4,1164 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 9,
+      "db_slno": 6018,
+      "title": "Secretary-General reported a\r\nmessage from Rajya Sabha that Rajya Sabha at its sitting, concurred in the\r\nrecommendation of the Lok Sabha to nominate one member from Rajya Sabha to\r\nassociate with the Committee on the Welfare of Scheduled Castes and Scheduled\r\nTribes.",
+      "debate_date": "19/12/2011",
+      "debate_type": 24,
+      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1002,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6017,
+      "title": "Papers laid on\r\nthe Table of the House by Ministers/members.",
+      "debate_date": "19/12/2011",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Mallikarjun Kharge",
+          "mp_code": 4315,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Anand Sharma",
+          "mp_code": 10020,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Pawan Kumar Bansal",
+          "mp_code": 42,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Beni Prasad Verma",
+          "mp_code": 509,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shrimati Jayanthi Natarajan",
+          "mp_code": 10033,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Anand Sharma",
+          "mp_code": 10020,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Smt. Lakshmi Panabaka",
+          "mp_code": 3740,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Mallipudi Raju Pallam Mangapati",
+          "mp_code": 3375,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Dr. Tusharbhai Amarsinhbhai Chaudhari",
+          "mp_code": 4039,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Smt. Lakshmi Panabaka",
+          "mp_code": 3740,
+          "mp_part_code": 10
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6016,
+      "title": "Submission on the Golden Jubilee of the liberation of\r\nthe State of Goa and Union Territory of Daman and Diu.",
+      "debate_date": "19/12/2011",
+      "debate_type": 52,
+      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Francisco Sardinha",
+          "mp_code": 3914,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Shripad Yesso Naik",
+          "mp_code": 273,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Pranab Mukherjee",
+          "mp_code": 4195,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Smt. Sushma Swaraj",
+          "mp_code": 3812,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Mulayam Singh Yadav",
+          "mp_code": 530,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri M. Thambidurai",
+          "mp_code": 4545,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Dr. Ram Chandra Dome",
+          "mp_code": 115,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Sharad Yadav",
+          "mp_code": 532,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Dara Singh Chauhan",
+          "mp_code": 4304,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri  Lalu Prasad",
+          "mp_code": 2439,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Dr. Sanjeev Ganesh Naik",
+          "mp_code": 4394,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Dr. Ratna De",
+          "mp_code": 4499,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri T.K.S. Elangovan",
+          "mp_code": 4533,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Anandrao Vithoba Adsul",
+          "mp_code": 8,
+          "mp_part_code": 15
+        }
+      ],
+      "keywords": [
+        "Freedom Fighters",
+        "Pension",
+        "Freedom Movement"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6015,
+      "title": "Madam\r\nSpeaker made reference on the Golden Jubilee of Liberation of the State of Goa\r\nand the Union Terriroty of Daman and Diu.",
+      "debate_date": "19/12/2011",
+      "debate_type": 42,
+      "debate_type_desc": "REFERENCES IN THE HOUSE",
+      "members": [
+        {
+          "mp_name": "Smt. Meira Kumar",
+          "mp_code": 3066,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Freedom Fighters"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6014,
+      "title": "Need to open Akashvani Kendra and FM Radio\r\nStation in Giridih district, Jharkhand.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ravindra Kumar Pandey",
+          "mp_code": 285,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Dilip Kumar Mansukhlal Gandhi",
+          "mp_code": 128,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Telecommunication Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6013,
+      "title": "Need to open hospitals in eatern Uttar\r\nPradesh for eradication of Excephalities.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ramashankar Rajbhar",
+          "mp_code": 4305,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6012,
+      "title": "Need to give commission to postal saving agents.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Dilip Kumar Mansukhlal Gandhi",
+          "mp_code": 128,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Ravindra Kumar Pandey",
+          "mp_code": 285,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Unemployment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6011,
+      "title": "Regarding enhancement of pension of employees of the Andhra Pradesh Co-optex.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Smt. Jhansi Botcha Lakshmi",
+          "mp_code": 4218,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Pension Schemes",
+        "Textile Industry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6010,
+      "title": "Need to set up the Dera Baba Nanak-Kartarpur Corridor.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Partap Singh Bajwa",
+          "mp_code": 4427,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Pilgrims",
+        "Indo-Pak Relation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6009,
+      "title": "Need to provide covered wagons for carrying coal from Mundra, Kandla and\r\nNarlakhi ports.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Jat Poonamben Veljibhai",
+          "mp_code": 4439,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Wagons"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6008,
+      "title": "Need to name the newly constructed airport\r\nin Gaya district of Bihar as Lord Buddha Airport.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Hari Manjhi",
+          "mp_code": 4474,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6007,
+      "title": "Need to construct a new bridge over river Sone at Kailavar in Bihar to facilitate smooth traffic movement.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Jagada Nand Singh",
+          "mp_code": 4470,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Traffic Congestion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6006,
+      "title": "Need to safeguard the interest of pensioners in the\r\ncountry.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Suresh Kodikunnil",
+          "mp_code": 477,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Employees Provident Fund",
+        "Pension Schemes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6005,
+      "title": "Problems being faced by farmers of\r\nKalahandi and Nuapada of Odisha due to non-acceptance of declaration forms and\r\npremium by Agriculture Insurance Company of India Limited.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bhakta Charan Das",
+          "mp_code": 3264,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Crop Insurance ",
+        "Farmers' Welfare"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6004,
+      "title": "Need to implement the commitment for\r\nsetting up a Petro-Chemical factory in Barauni, Bihar.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bhola Singh",
+          "mp_code": 4475,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Oil Refineries"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6003,
+      "title": "Need to conduct a high\r\nlevel enquiry into the work related to repair and construction of dams in\r\nBahraich district of Uttar Pradesh and to take action against persons\r\nresponsible for any kind of mismanagement.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Kamal Kishor",
+          "mp_code": 4294,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Maintenance and Repair",
+        "Inquiry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6002,
+      "title": "Need to equip all oil\r\ndepots in the country with fire extinguishing equipments to prevent fire\r\naccidents.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Dilip Kumar Mansukhlal Gandhi",
+          "mp_code": 128,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Bishnu Pada Ray",
+          "mp_code": 371,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Fire Services",
+        "Compensations"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6001,
+      "title": "Need to expedite the\r\nconstruction of roads in Dewas Parliamentary Constituency in Madhya Pradesh\r\nwhich have been put on hold by the State Government.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Sajjan Singh Verma",
+          "mp_code": 4517,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Construction"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 6000,
+      "title": "Need to link the import-export of\r\nagriculture produce with the crop cycle.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Smt. Jayshreeben Patel",
+          "mp_code": 4442,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agricultural Production",
+        "Exports",
+        "Import"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5999,
+      "title": "Need to fix the interest rate on\r\nstudent loans at 5% and provide interest subsidy on loans taken by students\r\nsince 2001.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri M. I. Shanavas",
+          "mp_code": 4559,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Subsidies",
+        "Educational Loan"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5998,
+      "title": "Need to amend the Andaman and Nicobar\r\nGazette Notification No. 165 dated 15.09.2004 through Special Gram Sabha Resolution.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bishnu Pada Ray",
+          "mp_code": 371,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5997,
+      "title": "Need to construct double line from Purulia to Kotshila under Adra Railway\r\nDivision of South Eastern Railway.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Narahari Mahato",
+          "mp_code": 4214,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Lines"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5996,
+      "title": "Need to expedite the construction of two\r\nrail over-bridges in Bharatpur Parliamentary Constituency of Rajasthan.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ratan Singh",
+          "mp_code": 4404,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5995,
+      "title": "Need to include Tiruchirapalli City under Jawaharlal Nehru National Urban Renewal Mission (JNNURM) scheme.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri P. Kumar",
+          "mp_code": 4546,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Urban Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5994,
+      "title": "Need to augment medical infrastructure facilities in the country to address the shortage of doctors in rural areas of the country.",
+      "debate_date": "08/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Dr. Jyoti Mirdha",
+          "mp_code": 4408,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P.C. Chacko",
+          "mp_code": 3477,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Annu Tandon",
+          "mp_code": 4282,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Smt. Jhansi Botcha Lakshmi",
+          "mp_code": 4218,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Sajjan Singh Verma",
+          "mp_code": 4517,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Dhananjay Singh",
+          "mp_code": 4306,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Kamal Kishor",
+          "mp_code": 4294,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Jat Poonamben Veljibhai",
+          "mp_code": 4439,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Gorakh Nath Pandey",
+          "mp_code": 4308,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Smt. Jayshreeben Patel",
+          "mp_code": 4442,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri P. Venugopal",
+          "mp_code": 4532,
+          "mp_part_code": 12
+        }
+      ],
+      "keywords": [
+        "Medical Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5993,
+      "title": "Shri Gurudas Dasgupta raised a discussion\r\non the statement laid on the Table on 22 November 2011 by the Minister of\r\nFinance regarding the inflation situation in India.",
+      "debate_date": "08/12/2011",
+      "debate_type": 45,
+      "debate_type_desc": "SHORT DURATION DISCUSSIONS (RULE-193)",
+      "members": [
+        {
+          "mp_name": "Shri Gurudas Das Gupta",
+          "mp_code": 4088,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P.C. Chacko",
+          "mp_code": 3477,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Smt. Sushma Swaraj",
+          "mp_code": 3812,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Kunwar Rewati Raman Singh",
+          "mp_code": 4172,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Dara Singh Chauhan",
+          "mp_code": 4304,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Jose K. Mani",
+          "mp_code": 4566,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Sharad Yadav",
+          "mp_code": 532,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Devji Patel",
+          "mp_code": 4411,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Kalyan Banerjee",
+          "mp_code": 4498,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Dr. Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Ravindra Kumar Pandey",
+          "mp_code": 285,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Satpal Maharaj",
+          "mp_code": 3717,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Kachhadia Naranbhai",
+          "mp_code": 4448,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Shailendra Kumar",
+          "mp_code": 3870,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Mahendrasinh P. Chauhan",
+          "mp_code": 4443,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri A. Ganeshamurthi",
+          "mp_code": 3857,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri  Premdas",
+          "mp_code": 4284,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri T.K.S. Elangovan",
+          "mp_code": 4533,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Ramashankar Rajbhar",
+          "mp_code": 4305,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Basudeb Acharia",
+          "mp_code": 4,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Partap Singh Bajwa",
+          "mp_code": 4427,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Virender Kashyap",
+          "mp_code": 4298,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Prem Das Rai",
+          "mp_code": 4347,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Smt. Darshana Vikram Jardosh",
+          "mp_code": 4451,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Dr. Charles Dias",
+          "mp_code": 4573,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri S.S. Ramasubbu",
+          "mp_code": 4556,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri P. Karunakaran",
+          "mp_code": 4178,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Shri Anandrao Vithoba Adsul",
+          "mp_code": 8,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Smt. Jayshreeben Patel",
+          "mp_code": 4442,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Shri Anto Antony",
+          "mp_code": 4571,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Shri K. Sugumar",
+          "mp_code": 4544,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Supriya Sule",
+          "mp_code": 4392,
+          "mp_part_code": 34
+        },
+        {
+          "mp_name": "Shri P. Kumar",
+          "mp_code": 4546,
+          "mp_part_code": 35
+        },
+        {
+          "mp_name": "Shri M. Thambidurai",
+          "mp_code": 4545,
+          "mp_part_code": 36
+        },
+        {
+          "mp_name": "Dr. Arvind Kumar Sharma",
+          "mp_code": 3785,
+          "mp_part_code": 37
+        },
+        {
+          "mp_name": "Shri Nama Nageswara Rao",
+          "mp_code": 4323,
+          "mp_part_code": 38
+        },
+        {
+          "mp_name": "Dr. Raghuvansh Prasad Singh",
+          "mp_code": 430,
+          "mp_part_code": 39
+        },
+        {
+          "mp_name": "Shri S. Semmalai",
+          "mp_code": 4541,
+          "mp_part_code": 40
+        },
+        {
+          "mp_name": "Meenakshi Natrajan",
+          "mp_code": 4518,
+          "mp_part_code": 41
+        },
+        {
+          "mp_name": "Shri Ram Singh Kaswan",
+          "mp_code": 181,
+          "mp_part_code": 42
+        },
+        {
+          "mp_name": "Shri Hukamdeo Narayan Yadav",
+          "mp_code": 528,
+          "mp_part_code": 43
+        },
+        {
+          "mp_name": "Shri Narahari Mahato",
+          "mp_code": 4214,
+          "mp_part_code": 44
+        },
+        {
+          "mp_name": "Shri P. T. Thomas",
+          "mp_code": 4565,
+          "mp_part_code": 45
+        },
+        {
+          "mp_name": "Smt. Putul Kumari",
+          "mp_code": 4575,
+          "mp_part_code": 46
+        },
+        {
+          "mp_name": "Shri Kameshwar Baitha",
+          "mp_code": 4330,
+          "mp_part_code": 47
+        },
+        {
+          "mp_name": "Dr. Ratna De",
+          "mp_code": 4499,
+          "mp_part_code": 48
+        }
+      ],
+      "keywords": [
+        "Agricultural Production",
+        "Agricultural Sector",
+        "Black Market",
+        "Black Money",
+        "Chemical Fertilizers",
+        "Cold Storage",
+        "Economic Discrimination",
+        "Economic Policy",
+        "Economic Recession",
+        "Excise Duty",
+        "Forward Trade",
+        "Gross Domestic Product",
+        "Hoarding",
+        "Inflation",
+        "Interest Rate",
+        "Investments",
+        "Petroleum Products",
+        "Retail Trade",
+        "Subsidies",
+        "Taxation",
+        "Public Distribution System (PDS)",
+        "Corruption",
+        "Remunerative Prices",
+        "Price Rise",
+        "Reserve Bank of India (RBI)",
+        "Food Corporation of India (FCI)",
+        "Middleman",
+        "Monitoring Mechanism",
+        "Minimum Support  Prices (MSP)",
+        "Crop Insurance ",
+        "Employment Generation",
+        "Unorganised Sector",
+        "Foreign Direct Investment (FDI)",
+        "Foodgrains",
+        "Wholesale Price Index",
+        "Below Poverty Line",
+        "Farmers' Suicide",
+        "Import Policy",
+        "Demand and Supply",
+        "Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA)",
+        "Repo Rate"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5992,
+      "title": "Need to resolve the\r\nMullaperiyar dam issue.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jose K. Mani",
+          "mp_code": 4566,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5991,
+      "title": "Need to ensure adequate supply of fertilizers in\r\nWest Bengal and also enhance Minimum Support Price of various agro-produce.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Prabodh Panda",
+          "mp_code": 563,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Chemical Fertilizers"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5990,
+      "title": "Need to run Mumbai-Nagercoil-Mumbai\r\nTrain (No. 26339-40) daily.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri P. Kumar",
+          "mp_code": 4546,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Service"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5989,
+      "title": "Need to\r\naccord environmental clearance to the proposal for development of green field\r\nairport at Navi Mumbai in Maharashtra.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Sanjeev Ganesh Naik",
+          "mp_code": 4394,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Civil Aviation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5988,
+      "title": "Need to accelerate the pace of rural\r\nelectrification under Rajiv Gandhi Gramin Vidyutikaran Yojana in Odisha.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rudramadhab Ray",
+          "mp_code": 4421,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5987,
+      "title": "Need to provide a special package\r\nfor traditional industries especially to handloom and beedi workers in Kerala.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri P. Karunakaran",
+          "mp_code": 4178,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Beedi Industry",
+        "Handloom Weavers",
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5986,
+      "title": "Need to take steps to control the high\r\nrate of infant mortality rate due to diarrhoeal diseases in the country.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Seema Upadhyay",
+          "mp_code": 4275,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Diarrhoea",
+        "Disease Eradication",
+        "Vaccination"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
+      "db_slno": 5985,
+      "title": "Need to undertake construction of roads\r\nunder Pradhan Mantri Gram Sadak Yojana as per specified norms in district\r\nChandauli, Uttar Pradesh.",
+      "debate_date": "08/12/2011",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri  Ramkishun",
+          "mp_code": 4346,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Construction",
+        "Prime Minister Gram Sadak Yojana (PMGSY)"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
       "db_slno": 5984,
       "title": "Need to provide land under Defence\r\nAuthority for setting up of water treatment plant at Belgaum, Karnataka for\r\nsupply of water to residents of the city.",
       "debate_date": "08/12/2011",
@@ -63195,725 +64353,6 @@
       ],
       "keywords": [
         "Financial Aid"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3517,
-      "title": "Need to provide\r\nstoppage to New Jalpaiguri Super Fast Express (train Nos. 2523/2524) at\r\nHasanpur Road Railway Station in Bihar.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Dinesh Chandra Yadav",
-          "mp_code": 527,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Halts"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3516,
-      "title": "Need to make functional\r\nall four ticket counters at Khurja Junction in Gautam Budha Nagar Parliamentary\r\nConstituency, Uttar Pradesh and also to undertake modernization &amp;\r\naugmentation of railway facilities at the Station.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Surendra Singh Nagar",
-          "mp_code": 4269,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3515,
-      "title": "Need to provide\r\nelectricity to villages surrounding NTPC Power Plant at Dibiyapur, district\r\nAuraiya, Uttar Pradesh.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri  Premdas",
-          "mp_code": 4284,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Power Supply"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3514,
-      "title": "Need to provide\r\nstoppage to Gujarat Express and Jamnagar Intercity Express at Palej Railway\r\nStation in Bharuch Parliamentary Constituency, Gujarat and also to undertake\r\nmodernization and augmentation of railway facilities at the station.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Mansukhbhai D. Vasava",
-          "mp_code": 501,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Halts"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3513,
-      "title": "Need to construct Railway over-bridges at manned\r\nrailway crossings near Sadulpur and Ratangarh railway stations under North\r\nWestern Railway Zone.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ram Singh Kaswan",
-          "mp_code": 181,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Projects",
-        "Railway Over Bridge"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3512,
-      "title": "Need to treat\r\nvillage instead of Taluk as the criteria for giving compensation under National\r\nCrop Insurance Scheme.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ijyaraj Singh",
-          "mp_code": 4415,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agricultural Insurance",
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3511,
-      "title": "Need to provide reservation to students of\r\nAnglo-Indian community in professional courses in Central Universities.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Charles Dias",
-          "mp_code": 4573,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Education",
-        "Reservation Policy"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3510,
-      "title": "Need to construct an alternative broad gauge railway line\r\nfrom Chandranathpur via Lanka and Jagi Road to Guwahati in Assam.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Lalit  Mohan Suklabaidya",
-          "mp_code": 4029,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Projects"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3509,
-      "title": "Need to take\r\nnecessary steps for expansion and modernization of Tuticorin Airport in Tamil\r\nNadu.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri S.S. Ramasubbu",
-          "mp_code": 4556,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Civil Aviation",
-        "Fund Allocation",
-        "Air Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3508,
-      "title": "Need to expedite the process of land acquisition by\r\nWest Central Railways for construction of railway line between Ramganjmandi and\r\nBhopal.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Narayan Singh Amlabe",
-          "mp_code": 4253,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Projects"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3507,
-      "title": "Need to set up a National Sports University in\r\nHaryana.",
-      "debate_date": "22/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Deepender Singh Hooda",
-          "mp_code": 4207,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Sports Promotion",
-        "Universities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3506,
-      "title": "The Minister of Parliamentary Affairs laid a statement\r\nregarding Government Business for the week commencing the 22<sup>nd</sup>\r\nNovember, 2010.",
-      "debate_date": "22/11/2010",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Pawan Kumar Bansal",
-          "mp_code": 42,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3505,
-      "title": "The Minister of Labour and Employment laid\r\na statement regarding statement regarding status of implementation of\r\nrecommendations in 10th Report of Standing Committee on Labour on Demands for\r\nGrants (2010-2011), pertaining to the Ministry of Labour and Employment.",
-      "debate_date": "22/11/2010",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Mallikarjun Kharge",
-          "mp_code": 4315,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3504,
-      "title": "Presentation of the 7<sup>th</sup>, 8<sup>th</sup> and 9<sup>th</sup> Reports\r\nof the Committee on Estimates.",
-      "debate_date": "22/11/2010",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Bhakta Charan Das",
-          "mp_code": 3264,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3503,
-      "title": "Papers laid on the Table of the House by\r\nMinisters/members.",
-      "debate_date": "22/11/2010",
-      "debate_type": 34,
-      "debate_type_desc": "PAPERS LAID ON THE TABLE",
-      "members": [
-        {
-          "mp_name": "Shri G. K. Vasan",
-          "mp_code": 10029,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Jyotiraditya Madhavrao Scindia",
-          "mp_code": 3958,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Harish Chandra Singh Rawat",
-          "mp_code": 2864,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3502,
-      "title": "The Speaker made references to the passing away of Dr. Vasant Pawar, member,\r\n10<sup>th</sup> Lok Sabha and Shri Amar Pal Singh, member, 10<sup>th</sup>, 11<sup>th</sup>\r\nand 12<sup>th</sup> Lok Sabhas.<span style=\"mso-spacerun: yes\">  </span>Madam\r\nSpeaker also made reference to collapse of a multi-storey building in Lalita\r\npark of East Delhi’s Laxmi Nagar on 15<sup>th</sup> November, 2010 in which about\r\n70 people were killed and 82 were injured.",
-      "debate_date": "22/11/2010",
-      "debate_type": 42,
-      "debate_type_desc": "REFERENCES IN THE HOUSE",
-      "members": [
-        {
-          "mp_name": "Smt. Meira Kumar",
-          "mp_code": 3066,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3501,
-      "title": "Introduction of the State Bank of India (Subsidiary Banks) Amendment Bill, 2010.",
-      "debate_date": "19/11/2010",
-      "debate_type": 14,
-      "debate_type_desc": "GOVERNMENT BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Pranab Mukherjee",
-          "mp_code": 4195,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3500,
-      "title": "Election of two\r\nmembers from Lok Sabha to the National\r\nJute Board.",
-      "debate_date": "19/11/2010",
-      "debate_type": 59,
-      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
-      "members": [
-        {
-          "mp_name": "Smt. Lakshmi Panabaka",
-          "mp_code": 3740,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3499,
-      "title": "The Minister of\r\nCommerce and Industry laid a statement regarding “Export of non-basmati rice to\r\nsome countries”.",
-      "debate_date": "19/11/2010",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Anand Sharma",
-          "mp_code": 10020,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Public Distribution System (PDS)",
-        "Price Rise",
-        "Agricultural Exports",
-        "Enquiry",
-        "Foodgrains"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3498,
-      "title": "The minister of External Affairs laid the statement regarding recent visits\r\nabroad by Hon. Prime Minister.",
-      "debate_date": "19/11/2010",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri S.M. Krishna",
-          "mp_code": 10025,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Bilateral Relations",
-        "Foreign Relations",
-        "Investments",
-        "Japan",
-        "Malaysia",
-        "Nuclear Energy",
-        "Nuclear Power",
-        "UN Security Council",
-        "Vocational Training",
-        "Infrastructure Development",
-        "Food Security",
-        "Climate Change"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3497,
-      "title": "The Minister of External Affairs laid a statement regarding visit to India\r\nby the President of the United States of America Hon’ble Barack H. Obama.",
-      "debate_date": "19/11/2010",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri S.M. Krishna",
-          "mp_code": 10025,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Foreign Policy",
-        "Foreign Relations",
-        "Higher Education",
-        "Investments",
-        "Nuclear Energy",
-        "Terrorism",
-        "UN Security Council",
-        "Indo-US relations"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3496,
-      "title": "Papers laid on the Table of the House by Ministers/members.",
-      "debate_date": "19/11/2010",
-      "debate_type": 34,
-      "debate_type_desc": "PAPERS LAID ON THE TABLE",
-      "members": [
-        {
-          "mp_name": "Shri Namo Narain Meena",
-          "mp_code": 4060,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Sultan Ahmed",
-          "mp_code": 4497,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Dinesh Trivedi",
-          "mp_code": 4487,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3495,
-      "title": "Need\r\nto provide stoppages to Guruvayur Express (Train No. 6127/28) and Kanyakumari\r\nExpress (Train No. 2633/34) at Ichengadu in Chidambaram Parliamentary\r\nConstituency, Tamil Nadu.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Thirumaavalavan Thol",
-          "mp_code": 4549,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Halts"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3494,
-      "title": "Need\r\nto provide a manned railway crossing for movement of pedestrian and vehicular\r\ntraffic at Saeen village between Pipraha and Nariyan railway stations on\r\nMujaffarpur-Motihari section in Bihar.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Raghuvansh Prasad Singh",
-          "mp_code": 430,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Projects"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3493,
-      "title": "Need\r\nto withdraw the draft Coastal Regulation Zone Notification 2010 keeping in view\r\nthe welfare of the fishing communities of the country.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Prabodh Panda",
-          "mp_code": 563,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fishermen Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3492,
-      "title": "Need\r\nto check the recurring incidents of ill treatment meted out to Indian fishermen\r\nnear the shores of Nagapattinam by Sri Lankan Army.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri A.K.S. Vijayan",
-          "mp_code": 514,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Maritime Law",
-        "Fishermen Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3491,
-      "title": "Need\r\nto undertake mass production and deployment of the drone, RUSTOM, the Medium\r\nAltitude Long Endurance Unmanned Aerial Vehicle in the country.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Kaushalendra Kumar",
-          "mp_code": 4467,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Equipment",
-        "National Security"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3490,
-      "title": "Need\r\nto provide stoppage to Swaran Shatabdi Express at Tundla Junction in Uttar\r\nPradesh.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Seema Upadhyay",
-          "mp_code": 4275,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Halts"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3489,
-      "title": "Need\r\nto construct Railway Over Bridges at level crossings in Chandauli Town Area and\r\nat Matkutta on Alinagar-Sakaldeeha railway line in Uttar Pradesh.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri  Ramkishun",
-          "mp_code": 4346,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Crossings"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3488,
-      "title": "Need\r\nfor conversion of Jhansi-Chhatarpur Section of National Highway No. 75 covering\r\nKhajuraho, Panna, Satna, Rewa into a four-lane Express Highway.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri  Virendra Kumar",
-          "mp_code": 515,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Development",
-        "Tourism Promotion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3487,
-      "title": "Need\r\nto provide alternate passage to pedestrian traffic due to closure of VIP Gate\r\nat Chandrapura Dhanbad and reopen Phusro Railway Crossing in Jharkhand.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ravindra Kumar Pandey",
-          "mp_code": 285,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3486,
-      "title": "Need to ensure adequate supply of LPG\r\nin Idukki Parliamentary Constituency, Kerala.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri P. T. Thomas",
-          "mp_code": 4565,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Gas Cylinders",
-        "Liquified Petroleum Gas (LPG)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3485,
-      "title": "Need\r\nto ensure proper utilization of funds under Background Region Grant Fund and\r\ncheck their diversion to other schemes in Madhya Pradesh.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Narayan Singh Amlabe",
-          "mp_code": 4253,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Utilization"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3484,
-      "title": "Need to send a central team of medical\r\nexperts to find out causes of prevalence of sickle cell anaemia disease among\r\ntribal people in Wayanad district, Kerala.",
-      "debate_date": "16/11/2010",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri M. I. Shanavas",
-          "mp_code": 4559,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Malnutrition",
-        "Centrally Sponsored Schemes"
       ]
     }
   ],
