@@ -22,6 +22,10 @@
         {
           "version": "floor",
           "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/269/16122025/16122025.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/269/16122025/20251216.pdf"
         }
       ],
       "title": "Rajya Sabha · Session 269 · 16/12/2025"
@@ -85,6 +89,19 @@
         }
       ],
       "title": "Rajya Sabha · Session 269 · 09/12/2025"
+    },
+    {
+      "house": "rs",
+      "session": 269,
+      "date": "08/12/2025",
+      "date_iso": "2025-12-08",
+      "file_versions": [
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/269/8122025/08122025.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 269 · 08/12/2025"
     },
     {
       "house": "rs",
@@ -4802,7 +4819,7 @@
       "title": "Rajya Sabha · Session 248 · 31/01/2019"
     }
   ],
-  "count": 329,
+  "count": 330,
   "house": "rs",
   "shard_index": 0
 }
