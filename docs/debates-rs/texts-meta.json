@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 460,
-    "shards": 170,
+    "records_with_text": 461,
+    "shards": 171,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 2179522,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 460,
-    "txt_files_removed": 0
+    "txt_files_removed": 1
   },
   "shards": [
     {
@@ -836,30 +836,35 @@
     {
       "file": "texts-164.json",
       "count": 1,
-      "bytes": 2622790
+      "bytes": 2251679
     },
     {
       "file": "texts-165.json",
-      "count": 2,
-      "bytes": 3551767
+      "count": 1,
+      "bytes": 2622790
     },
     {
       "file": "texts-166.json",
       "count": 2,
-      "bytes": 3144054
+      "bytes": 3551767
     },
     {
       "file": "texts-167.json",
       "count": 2,
-      "bytes": 3609545
+      "bytes": 3144054
     },
     {
       "file": "texts-168.json",
+      "count": 2,
+      "bytes": 3609545
+    },
+    {
+      "file": "texts-169.json",
       "count": 1,
       "bytes": 2625077
     },
     {
-      "file": "texts-169.json",
+      "file": "texts-170.json",
       "count": 1,
       "bytes": 3146216
     }
@@ -1316,14 +1321,15 @@
     "rs|RS269_2025-12-03|part1": 162,
     "rs|RS269_2025-12-04|floor": 162,
     "rs|RS269_2025-12-04|part1": 163,
-    "rs|RS269_2025-12-09|part1": 164,
-    "rs|RS269_2025-12-10|part1": 165,
-    "rs|RS269_2025-12-11|floor": 165,
-    "rs|RS269_2025-12-11|part1": 166,
-    "rs|RS269_2025-12-12|floor": 166,
-    "rs|RS269_2025-12-12|part1": 167,
-    "rs|RS269_2025-12-16|floor": 167,
-    "rs|RS269_2025-12-16|part1": 168,
-    "rs|RS269_2025-12-19|part1": 169
+    "rs|RS269_2025-12-08|part1": 164,
+    "rs|RS269_2025-12-09|part1": 165,
+    "rs|RS269_2025-12-10|part1": 166,
+    "rs|RS269_2025-12-11|floor": 166,
+    "rs|RS269_2025-12-11|part1": 167,
+    "rs|RS269_2025-12-12|floor": 167,
+    "rs|RS269_2025-12-12|part1": 168,
+    "rs|RS269_2025-12-16|floor": 168,
+    "rs|RS269_2025-12-16|part1": 169,
+    "rs|RS269_2025-12-19|part1": 170
   }
 }
