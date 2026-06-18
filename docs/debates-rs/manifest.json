@@ -1,38 +1,3 @@
 {
-  "texts": {
-    "rs": {
-      "RS269_2025-12-05": {
-        "floor": {
-          "size": 432147,
-          "url": "text/rs/RS269_2025-12-05_floor.txt"
-        },
-        "part1": {
-          "size": 3023446,
-          "url": "text/rs/RS269_2025-12-05_part1.txt"
-        }
-      },
-      "RS269_2025-12-08": {
-        "floor": {
-          "size": 590339,
-          "url": "text/rs/RS269_2025-12-08_floor.txt"
-        }
-      },
-      "RS269_2025-12-15": {
-        "floor": {
-          "size": 640503,
-          "url": "text/rs/RS269_2025-12-15_floor.txt"
-        },
-        "part1": {
-          "size": 2508245,
-          "url": "text/rs/RS269_2025-12-15_part1.txt"
-        }
-      },
-      "RS269_2025-12-19": {
-        "floor": {
-          "size": 61857,
-          "url": "text/rs/RS269_2025-12-19_floor.txt"
-        }
-      }
-    }
-  }
+  "texts": {}
 }
