@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 461,
-    "shards": 171,
+    "records_with_text": 467,
+    "shards": 173,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 7256537,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 461,
-    "txt_files_removed": 0
+    "txt_files_removed": 6
   },
   "shards": [
     {
@@ -830,41 +830,51 @@
     },
     {
       "file": "texts-163.json",
-      "count": 1,
-      "bytes": 2508280
+      "count": 2,
+      "bytes": 2945679
     },
     {
       "file": "texts-164.json",
-      "count": 1,
-      "bytes": 2251679
+      "count": 2,
+      "bytes": 3664848
     },
     {
       "file": "texts-165.json",
       "count": 1,
-      "bytes": 2622790
+      "bytes": 2251679
     },
     {
       "file": "texts-166.json",
-      "count": 2,
-      "bytes": 3551767
+      "count": 1,
+      "bytes": 2622790
     },
     {
       "file": "texts-167.json",
       "count": 2,
-      "bytes": 3144054
+      "bytes": 3551767
     },
     {
       "file": "texts-168.json",
       "count": 2,
-      "bytes": 3609545
+      "bytes": 3144054
     },
     {
       "file": "texts-169.json",
-      "count": 1,
-      "bytes": 2625077
+      "count": 2,
+      "bytes": 3616936
     },
     {
       "file": "texts-170.json",
+      "count": 2,
+      "bytes": 3239069
+    },
+    {
+      "file": "texts-171.json",
+      "count": 2,
+      "bytes": 2688250
+    },
+    {
+      "file": "texts-172.json",
       "count": 1,
       "bytes": 3146216
     }
@@ -1321,15 +1331,21 @@
     "rs|RS269_2025-12-03|part1": 162,
     "rs|RS269_2025-12-04|floor": 162,
     "rs|RS269_2025-12-04|part1": 163,
-    "rs|RS269_2025-12-08|part1": 164,
-    "rs|RS269_2025-12-09|part1": 165,
-    "rs|RS269_2025-12-10|part1": 166,
-    "rs|RS269_2025-12-11|floor": 166,
-    "rs|RS269_2025-12-11|part1": 167,
-    "rs|RS269_2025-12-12|floor": 167,
-    "rs|RS269_2025-12-12|part1": 168,
-    "rs|RS269_2025-12-16|floor": 168,
-    "rs|RS269_2025-12-16|part1": 169,
-    "rs|RS269_2025-12-19|part1": 170
+    "rs|RS269_2025-12-05|floor": 163,
+    "rs|RS269_2025-12-05|part1": 164,
+    "rs|RS269_2025-12-08|floor": 164,
+    "rs|RS269_2025-12-08|part1": 165,
+    "rs|RS269_2025-12-09|part1": 166,
+    "rs|RS269_2025-12-10|part1": 167,
+    "rs|RS269_2025-12-11|floor": 167,
+    "rs|RS269_2025-12-11|part1": 168,
+    "rs|RS269_2025-12-12|floor": 168,
+    "rs|RS269_2025-12-12|part1": 169,
+    "rs|RS269_2025-12-15|floor": 169,
+    "rs|RS269_2025-12-15|part1": 170,
+    "rs|RS269_2025-12-16|floor": 170,
+    "rs|RS269_2025-12-16|part1": 171,
+    "rs|RS269_2025-12-19|floor": 171,
+    "rs|RS269_2025-12-19|part1": 172
   }
 }
