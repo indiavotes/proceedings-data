@@ -20,6 +20,19 @@
     {
       "house": "rs",
       "session": 269,
+      "date": "18/12/2025",
+      "date_iso": "2025-12-18",
+      "file_versions": [
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/269/18122025/18122025.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 269 · 18/12/2025"
+    },
+    {
+      "house": "rs",
+      "session": 269,
       "date": "16/12/2025",
       "date_iso": "2025-12-16",
       "file_versions": [
@@ -4861,7 +4874,7 @@
       "title": "Rajya Sabha · Session 248 · 31/01/2019"
     }
   ],
-  "count": 332,
+  "count": 333,
   "house": "rs",
   "shard_index": 0
 }
