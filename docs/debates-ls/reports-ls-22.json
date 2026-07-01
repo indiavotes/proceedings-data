@@ -4,6 +4,26 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 4,
+      "db_slno": 2343,
+      "title": "Regarding need to run local train between Patna\r\nJunction and City Ghat<b> </b>for the benefit of local people.</span><span\r\nstyle='mso-ansi-language:EN-US'>",
+      "debate_date": "11/05/2005",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ram Kripal Yadav",
+          "mp_code": 3832,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railways"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 4,
       "db_slno": 2342,
       "title": "Regarding need to provide small shops to unemployed\r\nyouths by Urban<b> </b>Development Agencies throughout the country with a view\r\nto solving unemployment problem.</span><span style='mso-ansi-language:EN-US'>",
       "debate_date": "11/05/2005",
@@ -62855,7 +62875,7 @@
       "keywords": []
     }
   ],
-  "count": 2250,
+  "count": 2251,
   "house": "ls",
   "shard_index": 22
 }

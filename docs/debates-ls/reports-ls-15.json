@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 12,
+      "db_slno": 8753,
+      "title": "Need to construct \r\nan over-bridge near Tankupa Railway Station under East-central Railway in Gaya \r\nParliamentary Constituency of Bihar.",
+      "debate_date": "13/12/2012",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Hari Manjhi",
+          "mp_code": 4474,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Facilities",
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 12,
       "db_slno": 8752,
       "title": "Need to review the\r\ndecision regarding implementation of Madhav Gadgil Committee recommendations in\r\nrespect of Western Ghat in Kerala.",
       "debate_date": "13/12/2012",
@@ -66504,27 +66525,6 @@
         "Indo-China Relation",
         "Road Construction",
         "Infrastructure Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 9,
-      "db_slno": 6245,
-      "title": "Need to address the problems being faced by the small savings agents in the\r\ncountry.",
-      "debate_date": "22/12/2011",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri S. Semmalai",
-          "mp_code": 4541,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Commission",
-        "Small Saving Schemes"
       ]
     }
   ],

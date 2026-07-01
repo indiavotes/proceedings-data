@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 3,
+      "db_slno": 1225,
+      "title": "Need to open branches of nationalised banks at Pipra Block in Supaul Parliamentary Constituency in\r\nBihar.",
+      "debate_date": "18/12/2009",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Vishwa Mohan Kumar",
+          "mp_code": 4458,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Bank Branches",
+        "Banking Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 3,
       "db_slno": 1224,
       "title": "Need to expedite the construction\r\nof railway line from Ramganjmandi to Bhopal via Jhalawar.",
       "debate_date": "18/12/2009",
@@ -68103,34 +68124,6 @@
         "Civil Aviation",
         "Airports Authority Of India",
         "Privatisation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 13,
-      "db_slno": 10004,
-      "title": "Alleged violation of security guidelines by an M.P. and office functionary during his\r\nvisit to Orissa.",
-      "debate_date": "13/03/2008",
-      "debate_type": 52,
-      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
-      "members": [
-        {
-          "mp_name": "Shri Braja Kishore Tripathy",
-          "mp_code": 494,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Law Violation",
-        "Security Measures",
-        "Special Protection Group",
-        "Security Lapses"
       ]
     }
   ],

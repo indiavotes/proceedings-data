@@ -4,6 +4,26 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 5,
+      "db_slno": 4390,
+      "title": "Introduction of the Constitution (Amendment) Bill, 2015. (amendment of \r\nArticle 51A).",
+      "debate_date": "07/08/2015",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri P.P. Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compulsory Voting"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 5,
       "db_slno": 4389,
       "title": "Introduction of the Rainwater (Compulsory Harvesting) Bill, 2015.",
       "debate_date": "07/08/2015",
@@ -70329,27 +70349,6 @@
       ],
       "keywords": [
         "Fund Allocation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 3,
-      "db_slno": 2523,
-      "title": "Need to allocate fund for Chennai Peripheral Ring Road (CPRR).",
-      "debate_date": "22/12/2014",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Jayakumar Jayavardhan",
-          "mp_code": 4873,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Allocation",
-        "Road Development"
       ]
     }
   ],

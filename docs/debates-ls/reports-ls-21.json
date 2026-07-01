@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 7,
+      "db_slno": 4964,
+      "title": "Presentation of 178<sup>th</sup>Report of the Standing Committee on Industry\r\non “Unlocking of surplus assets of CPSEs to generate resources for revival and\r\nthe status of ancillary units of CPSE”.",
+      "debate_date": "13/03/2006",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Manvendra Singh",
+          "mp_code": 4197,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 7,
       "db_slno": 4963,
       "title": "Papers laid on the Table of the House by members/Ministers.",
       "debate_date": "13/03/2006",
@@ -66441,26 +66459,6 @@
         }
       ],
       "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 4,
-      "db_slno": 2343,
-      "title": "Regarding need to run local train between Patna\r\nJunction and City Ghat<b> </b>for the benefit of local people.</span><span\r\nstyle='mso-ansi-language:EN-US'>",
-      "debate_date": "11/05/2005",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ram Kripal Yadav",
-          "mp_code": 3832,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railways"
-      ]
     }
   ],
   "count": 2500,

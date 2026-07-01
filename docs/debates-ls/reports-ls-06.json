@@ -4,6 +4,29 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 3,
+      "db_slno": 4214,
+      "title": "Regarding Need to fix the MSP of Arandi and milk in Gujarat-laid.",
+      "debate_date": "16/03/2020",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Shardaben Anilbhai Patel",
+          "mp_code": 5022,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agricultural Income",
+        "Agricultural Products",
+        "Farmers",
+        "Dairy Products"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 3,
       "db_slno": 4213,
       "title": "Regarding acquisition of land of Swadeshi Mining\r\nand Manufacturing Company Limited in Maharajganj Parliamentary Constituency,\r\nUttar Pradesh-laid.",
       "debate_date": "16/03/2020",
@@ -65264,28 +65287,6 @@
         "Financial Aid",
         "Special Category States",
         "Employment Generation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 1,
-      "db_slno": 1697,
-      "title": "Regarding promoting generic medicines in the \r\ncountry -laid.",
-      "debate_date": "15/07/2019",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Krupal Balaji Tumane",
-          "mp_code": 4734,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Drug Industry",
-        "Price Policy",
-        "Below Poverty Line"
       ]
     }
   ],

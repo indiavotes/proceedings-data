@@ -4,6 +4,26 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 7,
+      "db_slno": 7154,
+      "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2016. (Amendment of the Eighth Schedule).",
+      "debate_date": "11/03/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Language Promotion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 7,
       "db_slno": 7153,
       "title": "Introduction of the Destitute Children (Rehabilitation and Welfare) Bill, \r\n2016.",
       "debate_date": "11/03/2016",
@@ -71933,26 +71953,6 @@
       "keywords": [
         "Judges",
         "Retirement Age"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 5,
-      "db_slno": 4390,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015. (amendment of \r\nArticle 51A).",
-      "debate_date": "07/08/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri P.P. Chaudhary",
-          "mp_code": 4597,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Compulsory Voting"
       ]
     }
   ],

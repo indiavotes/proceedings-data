@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 9,
+      "db_slno": 9022,
+      "title": "Presentation of the 51st and 52nd \r\nReports of the Public Accounts Committee.",
+      "debate_date": "20/07/2022",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Dr. Satya Pal Singh",
+          "mp_code": 4600,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 9,
       "db_slno": 9021,
       "title": "Papers laid on the table of the House by \r\nMinisters/Members.",
       "debate_date": "20/07/2022",
@@ -56787,28 +56805,6 @@
         }
       ],
       "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 6,
-      "db_slno": 6515,
-      "title": "Regarding\r\n enhancing construction cost for constructing homes under Prime Minister Awas\r\nYojana-laid.",
-      "debate_date": "27/07/2021",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Smt. Goddeti Madhavi",
-          "mp_code": 5088,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Allocation",
-        "Housing Needs",
-        "Basic Amenities"
-      ]
     }
   ],
   "count": 2500,

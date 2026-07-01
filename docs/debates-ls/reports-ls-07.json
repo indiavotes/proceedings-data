@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 1,
+      "db_slno": 1697,
+      "title": "Regarding promoting generic medicines in the \r\ncountry -laid.",
+      "debate_date": "15/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Krupal Balaji Tumane",
+          "mp_code": 4734,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drug Industry",
+        "Price Policy",
+        "Below Poverty Line"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
       "db_slno": 1696,
       "title": "Regarding safety and security of women in \r\nDelhi -laid.",
       "debate_date": "15/07/2019",
@@ -71955,28 +71977,6 @@
         "Disease Eradication",
         "Primary Health Centres",
         "Tobacco"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 14962,
-      "title": "Introduction of the Right to Disconnect Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Smt. Supriya Sadanand Sule",
-          "mp_code": 4392,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Employees",
-        "Digital Connectivity",
-        "Personal Life"
       ]
     }
   ],

@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 16,
+      "db_slno": 14962,
+      "title": "Introduction of the Right to Disconnect Bill, 2018.",
+      "debate_date": "28/12/2018",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Supriya Sadanand Sule",
+          "mp_code": 4392,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Employees",
+        "Digital Connectivity",
+        "Personal Life"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 16,
       "db_slno": 14961,
       "title": "Introduction of the Indian Penal\r\nCode (Amendment) Bill, 2017 <i>(Amendment of section 358)</i>.",
       "debate_date": "28/12/2018",
@@ -68715,24 +68737,6 @@
         "Agricultural Growth",
         "Farmers' Welfare"
       ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 13,
-      "db_slno": 12461,
-      "title": "The Speaker made an announcement that, as decided by the Business Advisory Committee in their meeting, there would be no sitting of the house on Monday, the 1st January 2018",
-      "debate_date": "29/12/2017",
-      "debate_type": 2,
-      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
-      "members": [
-        {
-          "mp_name": "Sumitra Mahajan (Tai)",
-          "mp_code": 220,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
     }
   ],
   "count": 2500,

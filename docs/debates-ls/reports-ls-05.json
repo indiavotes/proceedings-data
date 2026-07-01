@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 6,
+      "db_slno": 6515,
+      "title": "Regarding\r\n enhancing construction cost for constructing homes under Prime Minister Awas\r\nYojana-laid.",
+      "debate_date": "27/07/2021",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Goddeti Madhavi",
+          "mp_code": 5088,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "Housing Needs",
+        "Basic Amenities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 6,
       "db_slno": 6514,
       "title": "Need to construct a railway line between Tarapur and Arnej-laid.",
       "debate_date": "27/07/2021",
@@ -64273,29 +64295,6 @@
         "Railway Service",
         "Express Trains",
         "Railway Halts"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 3,
-      "db_slno": 4214,
-      "title": "Regarding Need to fix the MSP of Arandi and milk in Gujarat-laid.",
-      "debate_date": "16/03/2020",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Smt. Shardaben Anilbhai Patel",
-          "mp_code": 5022,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agricultural Income",
-        "Agricultural Products",
-        "Farmers",
-        "Dairy Products"
       ]
     }
   ],

@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 1,
+      "db_slno": 9,
+      "title": "Newly elected members of 16<sup>th</sup>\r\nLok Sabha took the oath or made the affirmation, signed the Roll of members and\r\ntook their seats in the House.",
+      "debate_date": "05/06/2014",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri  Kamal Nath",
+          "mp_code": 175,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 1,
       "db_slno": 8,
       "title": "Announcement \r\nregarding making and subscribing an oath or affirmation.",
       "debate_date": "05/06/2014",
@@ -65412,27 +65430,6 @@
       "keywords": [
         "Ayurveda",
         "Medical Treatment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 12,
-      "db_slno": 8753,
-      "title": "Need to construct \r\nan over-bridge near Tankupa Railway Station under East-central Railway in Gaya \r\nParliamentary Constituency of Bihar.",
-      "debate_date": "13/12/2012",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Hari Manjhi",
-          "mp_code": 4474,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Facilities",
-        "Railway Over Bridge"
       ]
     }
   ],

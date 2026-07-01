@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 7,
+      "db_slno": 5963,
+      "title": "Regarding Need to ensure scientific and technologically sound construction of elevated highway on NH 66 in Kollam Parliamentary Constituency, Kerela-Laid -Laid",
+      "debate_date": "09/03/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Accidents",
+        "Construction Quality"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 7,
       "db_slno": 5962,
       "title": "Regarding alleged bogus claims under Fasal Bima Scheme in Churu district, Rajasthan -Laid",
       "debate_date": "09/03/2026",
@@ -57954,26 +57975,6 @@
         "Railway Reservation",
         "Railway Facilities",
         "Indian Army"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 5,
-      "db_slno": 3460,
-      "title": "Regarding need to upgrade railway infrastructure in Tamil Nadu and other parts of the country to ensure safety of railway passengers and property-Laid",
-      "debate_date": "23/07/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sasikanth Senthil",
-          "mp_code": 5681,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Development"
       ]
     }
   ],

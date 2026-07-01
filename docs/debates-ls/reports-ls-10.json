@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 11,
+      "db_slno": 10014,
+      "title": "Introduction of the Finance Bill, 2017.",
+      "debate_date": "01/02/2017",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "SHRI ARUN JAITLEY",
+          "mp_code": 10004,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 11,
       "db_slno": 10013,
       "title": "Statements laid on the Table under the Fiscal Responsibility and Budget\r\n Management Act, 2003.",
       "debate_date": "01/02/2017",
@@ -73979,26 +73997,6 @@
         }
       ],
       "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 7,
-      "db_slno": 7154,
-      "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2016. (Amendment of the Eighth Schedule).",
-      "debate_date": "11/03/2016",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Language Promotion"
-      ]
     }
   ],
   "count": 2500,

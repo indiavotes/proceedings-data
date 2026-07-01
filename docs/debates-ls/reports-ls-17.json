@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 6,
+      "db_slno": 3744,
+      "title": "Presentation of the </span><span style=''font-size:13.0pt;font-family:AryanUnicode''>Minutes\r\nof the 10<sup>th</sup> to 12<sup>th</sup> sittings of the Committee on Private\r\nMembers’ Bills and Resolutions held during the current session.",
+      "debate_date": "10/12/2010",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Inder Singh Namdhari",
+          "mp_code": 4325,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 6,
       "db_slno": 3743,
       "title": "Regarding grant of leave of absence from the sittings of the\r\nHouse to the members namely Shri Baliram Kashyap, Shri Kameshwar Baitha and\r\nShrimati Kaiser Jahan.",
       "debate_date": "10/12/2010",
@@ -66430,27 +66448,6 @@
       "keywords": [
         "Erosion Control",
         "Soil Erosion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 3,
-      "db_slno": 1225,
-      "title": "Need to open branches of nationalised banks at Pipra Block in Supaul Parliamentary Constituency in\r\nBihar.",
-      "debate_date": "18/12/2009",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Vishwa Mohan Kumar",
-          "mp_code": 4458,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Bank Branches",
-        "Banking Facilities"
       ]
     }
   ],

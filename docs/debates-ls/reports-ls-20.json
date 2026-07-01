@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 10,
+      "db_slno": 7450,
+      "title": "Need for speedy implementation of pending power-projects in Rajasthan under ''Rajiv Gandhi Gramin Vidhutikaran Yojana'' -Laid.",
+      "debate_date": "12/03/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mahaveer Bhagora",
+          "mp_code": 4007,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rural Electrification",
+        "Villages",
+        "Power Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 10,
       "db_slno": 7449,
       "title": "Need to give a comprehensive package to Arunachal Pradesh for promotion of tourism in the region -Laid.",
       "debate_date": "12/03/2007",
@@ -69146,24 +69168,6 @@
         {
           "mp_name": "Shri Sharad Chandra Govindrao Pawar",
           "mp_code": 327,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 7,
-      "db_slno": 4964,
-      "title": "Presentation of 178<sup>th</sup>Report of the Standing Committee on Industry\r\non “Unlocking of surplus assets of CPSEs to generate resources for revival and\r\nthe status of ancillary units of CPSE”.",
-      "debate_date": "13/03/2006",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Manvendra Singh",
-          "mp_code": 4197,
           "mp_part_code": 1
         }
       ],

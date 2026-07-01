@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 13,
+      "db_slno": 12461,
+      "title": "The Speaker made an announcement that, as decided by the Business Advisory Committee in their meeting, there would be no sitting of the house on Monday, the 1st January 2018",
+      "debate_date": "29/12/2017",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Sumitra Mahajan (Tai)",
+          "mp_code": 220,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 13,
       "db_slno": 12460,
       "title": "Combined discussion on disapproval of Insolvency and Bankruptcy Code (Amendment)  Ordinance, 2017 and the Insolvency and Bankruptcy Code (Amendment) Bill, 2017-(Bill passed",
       "debate_date": "29/12/2017",
@@ -75257,24 +75275,6 @@
         {
           "mp_name": "Sumitra Mahajan (Tai)",
           "mp_code": 220,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 11,
-      "db_slno": 10014,
-      "title": "Introduction of the Finance Bill, 2017.",
-      "debate_date": "01/02/2017",
-      "debate_type": 14,
-      "debate_type_desc": "GOVERNMENT BILLS",
-      "members": [
-        {
-          "mp_name": "SHRI ARUN JAITLEY",
-          "mp_code": 10004,
           "mp_part_code": 1
         }
       ],

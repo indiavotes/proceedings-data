@@ -4,6 +4,34 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 13,
+      "db_slno": 10004,
+      "title": "Alleged violation of security guidelines by an M.P. and office functionary during his\r\nvisit to Orissa.",
+      "debate_date": "13/03/2008",
+      "debate_type": 52,
+      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Braja Kishore Tripathy",
+          "mp_code": 494,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Priya Ranjan Dasmunsi",
+          "mp_code": 104,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Law Violation",
+        "Security Measures",
+        "Special Protection Group",
+        "Security Lapses"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 13,
       "db_slno": 10003,
       "title": "Regarding dharna at Jantar Mantar by the farmers of Pubjab.",
       "debate_date": "13/03/2008",
@@ -67267,28 +67295,6 @@
       "keywords": [
         "Power Supply",
         "Electricity Shortage"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 10,
-      "db_slno": 7450,
-      "title": "Need for speedy implementation of pending power-projects in Rajasthan under ''Rajiv Gandhi Gramin Vidhutikaran Yojana'' -Laid.",
-      "debate_date": "12/03/2007",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Mahaveer Bhagora",
-          "mp_code": 4007,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Rural Electrification",
-        "Villages",
-        "Power Projects"
       ]
     }
   ],
