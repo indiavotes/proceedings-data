@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 9,
+      "db_slno": 6246,
+      "title": "Reported construction of roads, building and airfields\r\nby China along the border areas of Arunachal Pradesh.",
+      "debate_date": "22/12/2011",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Smt. Bijoya Chakravarty",
+          "mp_code": 69,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Indo-China Relation",
+        "Road Construction",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 9,
       "db_slno": 6245,
       "title": "Need to address the problems being faced by the small savings agents in the\r\ncountry.",
       "debate_date": "22/12/2011",
@@ -65494,24 +65516,6 @@
         {
           "mp_name": "Shri Arjun Charan Sethi",
           "mp_code": 411,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 6,
-      "db_slno": 3745,
-      "title": "Presentation of\r\nthe minutes of the 3<sup>rd</sup> sitting of the Committee on Absence of\r\nMembers from the sittings of the House held on 8 December, 2010.",
-      "debate_date": "10/12/2010",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Dr.  Bali Ram",
-          "mp_code": 36,
           "mp_part_code": 1
         }
       ],

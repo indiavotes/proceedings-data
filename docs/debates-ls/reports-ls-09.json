@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 13,
+      "db_slno": 12462,
+      "title": "Introduction of the Payment of Subsistence Allowance to Farmers and Agricultural Labourers Bill, 2016",
+      "debate_date": "29/12/2017",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Bhola Singh",
+          "mp_code": 4475,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agricultural Sector",
+        "Agricultural Growth",
+        "Farmers' Welfare"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 13,
       "db_slno": 12461,
       "title": "The Speaker made an announcement that, as decided by the Business Advisory Committee in their meeting, there would be no sitting of the house on Monday, the 1st January 2018",
       "debate_date": "29/12/2017",
@@ -75253,24 +75275,6 @@
       "debate_date": "09/03/2017",
       "debate_type": 13,
       "debate_type_desc": "FELICITATIONS",
-      "members": [
-        {
-          "mp_name": "Sumitra Mahajan (Tai)",
-          "mp_code": 220,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 11,
-      "db_slno": 10015,
-      "title": "The Speaker made references to the passing away of Shri Rabi Ray, former Speaker, 9th Lok Sabha and member, 4th, 9th and 10th Lok Sabhas; Shri Jambuwant Dhote, member, 5th and 7th Lok Sabhas; Shri P. Shiv Shankar, member, 6th, 7th and 12th Lok Sabhas; and Shri Syed Shahabuddin, member, 8th and 10th Lok Sabhas.",
-      "debate_date": "09/03/2017",
-      "debate_type": 32,
-      "debate_type_desc": "OBITUARY REFERENCE",
       "members": [
         {
           "mp_name": "Sumitra Mahajan (Tai)",

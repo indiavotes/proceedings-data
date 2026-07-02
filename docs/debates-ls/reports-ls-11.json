@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 7,
+      "db_slno": 7155,
+      "title": "Introduction of the Constitution\r\n (Amendment) Bill, 2016. (Amendment of article 1).",
+      "debate_date": "11/03/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 7,
       "db_slno": 7154,
       "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2016. (Amendment of the Eighth Schedule).",
       "debate_date": "11/03/2016",
@@ -71932,27 +71950,6 @@
       "keywords": [
         "Judges",
         "Appointement"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 5,
-      "db_slno": 4391,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015. (amendment\r\nof article 124).",
-      "debate_date": "07/08/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri P.P. Chaudhary",
-          "mp_code": 4597,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Judges",
-        "Retirement Age"
       ]
     }
   ],

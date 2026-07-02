@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 2,
+      "db_slno": 908,
+      "title": "Food Safety and Standards (Amendment) Bill, 2024 (Amendment of Section 3, etc.) (Introduced)",
+      "debate_date": "09/08/2024",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Thiru D M Kathir Anand",
+          "mp_code": 5528,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 2,
       "db_slno": 907,
       "title": "Micro, Small and Medium Enterprises development (Amendment) Bill, 2024 (Insertion of New Sections 10A and 10B) (Introduced)",
       "debate_date": "09/08/2024",
@@ -67376,24 +67394,6 @@
         {
           "mp_name": "Shri Rajesh Verma",
           "mp_code": 510,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 12,
-      "db_slno": 11835,
-      "title": "The Cinematograph (Amendment) Bill, 2023 passed by the Rajya Sabha - laid",
-      "debate_date": "28/07/2023",
-      "debate_type": 24,
-      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
-      "members": [
-        {
-          "mp_name": "Secretary-General",
-          "mp_code": 1002,
           "mp_part_code": 1
         }
       ],

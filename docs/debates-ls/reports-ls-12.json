@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 5,
+      "db_slno": 4391,
+      "title": "Introduction of the Constitution (Amendment) Bill, 2015. (amendment\r\nof article 124).",
+      "debate_date": "07/08/2015",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri P.P. Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Judges",
+        "Retirement Age"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 5,
       "db_slno": 4390,
       "title": "Introduction of the Constitution (Amendment) Bill, 2015. (amendment of \r\nArticle 51A).",
       "debate_date": "07/08/2015",
@@ -70329,26 +70350,6 @@
       ],
       "keywords": [
         "Fishermen Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 3,
-      "db_slno": 2524,
-      "title": "Need to release the funds for reviving the funds-starved Cooperative Societies \r\nin Tamil Nadu.",
-      "debate_date": "22/12/2014",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri PR. Senthilnathan",
-          "mp_code": 4838,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Allocation"
       ]
     }
   ],

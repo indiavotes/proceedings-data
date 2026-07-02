@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 9,
+      "db_slno": 9023,
+      "title": "Laid a Statement \r\nregarding the status of implementation of the recommendations contained in the \r\n357th Report of the Department-related Parliamentary Standing \r\nCommittee on Science and Technology, Environment, Forests and Climate Change on \r\nDemands for Grants (2021-22) pertaining to the Ministry of Earth Sciences.",
+      "debate_date": "20/07/2022",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. Jitendra Singh",
+          "mp_code": 4718,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 9,
       "db_slno": 9022,
       "title": "Presentation of the 51st and 52nd \r\nReports of the Public Accounts Committee.",
       "debate_date": "20/07/2022",
@@ -56787,24 +56805,6 @@
         "Health Care",
         "Water Wastage"
       ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 6,
-      "db_slno": 6516,
-      "title": "Need to revive the Rajendra Kushth Sewa Ashram, Siwan in Bihar-laid.",
-      "debate_date": "27/07/2021",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Smt. Kavita Singh",
-          "mp_code": 5221,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
     }
   ],
   "count": 2500,

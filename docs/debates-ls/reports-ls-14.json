@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 1,
+      "db_slno": 10,
+      "title": "Newly elected members of 16<sup>th</sup> Lok Sabha took the oath\r\nor made the affirmation, signed the Roll of members and took their seats in the\r\nHouse.",
+      "debate_date": "06/06/2014",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri  Kamal Nath",
+          "mp_code": 175,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 1,
       "db_slno": 9,
       "title": "Newly elected members of 16<sup>th</sup>\r\nLok Sabha took the oath or made the affirmation, signed the Roll of members and\r\ntook their seats in the House.",
       "debate_date": "05/06/2014",
@@ -65404,32 +65422,6 @@
       ],
       "keywords": [
         "Slum Dwellers"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 12,
-      "db_slno": 8754,
-      "title": "Need to declare \r\nAyurvedic Medicinal System as National Medicinal System.",
-      "debate_date": "13/12/2012",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Rajendra Agarwal",
-          "mp_code": 4267,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Pralhad Venkatesh Joshi",
-          "mp_code": 3982,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Ayurveda",
-        "Medical Treatment"
       ]
     }
   ],

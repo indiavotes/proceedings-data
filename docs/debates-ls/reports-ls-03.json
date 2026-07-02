@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 12,
+      "db_slno": 11835,
+      "title": "The Cinematograph (Amendment) Bill, 2023 passed by the Rajya Sabha - laid",
+      "debate_date": "28/07/2023",
+      "debate_type": 24,
+      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1002,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
       "db_slno": 11834,
       "title": "Papers Laid on the Table by Ministers/Members",
       "debate_date": "28/07/2023",
@@ -59385,24 +59403,6 @@
         {
           "mp_name": "Shri Arjun Ram Meghwal",
           "mp_code": 4399,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9023,
-      "title": "Laid a Statement \r\nregarding the status of implementation of the recommendations contained in the \r\n357th Report of the Department-related Parliamentary Standing \r\nCommittee on Science and Technology, Environment, Forests and Climate Change on \r\nDemands for Grants (2021-22) pertaining to the Ministry of Earth Sciences.",
-      "debate_date": "20/07/2022",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Dr. Jitendra Singh",
-          "mp_code": 4718,
           "mp_part_code": 1
         }
       ],

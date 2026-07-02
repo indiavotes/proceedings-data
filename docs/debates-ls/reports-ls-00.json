@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 7,
+      "db_slno": 5964,
+      "title": "Regarding Need to ensure construction of school building for Kendriya Vidyalaya No. 2, Dhanbad, Jharkhand in a time bound manner-Laid",
+      "debate_date": "09/03/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Dulu Mahato",
+          "mp_code": 5664,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "School Buildings",
+        "Basic Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 7,
       "db_slno": 5963,
       "title": "Regarding Need to ensure scientific and technologically sound construction of elevated highway on NH 66 in Kollam Parliamentary Constituency, Kerela-Laid -Laid",
       "debate_date": "09/03/2026",
@@ -57952,29 +57973,6 @@
         "Indians Abroad",
         "Safety",
         "Protocols"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 5,
-      "db_slno": 3461,
-      "title": "Regarding need to reserve a separate railway coach for Army personnel-Laid",
-      "debate_date": "23/07/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sanatan Pandey",
-          "mp_code": 5580,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Coaches",
-        "Railway Reservation",
-        "Railway Facilities",
-        "Indian Army"
       ]
     }
   ],

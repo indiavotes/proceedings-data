@@ -4,6 +4,28 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 16,
+      "db_slno": 14963,
+      "title": "Introduction of the Tuberculosis \r\n(Prevention and Eradication) Bill, 2018.",
+      "debate_date": "28/12/2018",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Supriya Sadanand Sule",
+          "mp_code": 4392,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Disease Eradication",
+        "Primary Health Centres",
+        "Tobacco"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 16,
       "db_slno": 14962,
       "title": "Introduction of the Right to Disconnect Bill, 2018.",
       "debate_date": "28/12/2018",
@@ -68714,28 +68736,6 @@
       "keywords": [
         "Rehabilitation",
         "Financial Assistance"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 13,
-      "db_slno": 12462,
-      "title": "Introduction of the Payment of Subsistence Allowance to Farmers and Agricultural Labourers Bill, 2016",
-      "debate_date": "29/12/2017",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Bhola Singh",
-          "mp_code": 4475,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agricultural Sector",
-        "Agricultural Growth",
-        "Farmers' Welfare"
       ]
     }
   ],

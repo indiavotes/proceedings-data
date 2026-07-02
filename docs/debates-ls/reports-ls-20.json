@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 10,
+      "db_slno": 7451,
+      "title": "Need to restore the allotted quota of power supply to Chhattisgarh from the Central Pool -Laid.",
+      "debate_date": "12/03/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Punnulal Mohale",
+          "mp_code": 251,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Power Supply",
+        "Electricity Shortage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 10,
       "db_slno": 7450,
       "title": "Need for speedy implementation of pending power-projects in Rajasthan under ''Rajiv Gandhi Gramin Vidhutikaran Yojana'' -Laid.",
       "debate_date": "12/03/2007",
@@ -69150,24 +69171,6 @@
         {
           "mp_name": "Shri Bijoy Krishna Handique",
           "mp_code": 149,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 7,
-      "db_slno": 4965,
-      "title": "Statement regarding status of implementation of recommendations contained in the 7<sup>th</sup>\r\nReport of Standing Committee on Consumer Affairs, Food and Public Distribution.",
-      "debate_date": "13/03/2006",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
-          "mp_code": 327,
           "mp_part_code": 1
         }
       ],

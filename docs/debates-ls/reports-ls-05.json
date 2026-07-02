@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 6,
+      "db_slno": 6516,
+      "title": "Need to revive the Rajendra Kushth Sewa Ashram, Siwan in Bihar-laid.",
+      "debate_date": "27/07/2021",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Kavita Singh",
+          "mp_code": 5221,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 6,
       "db_slno": 6515,
       "title": "Regarding\r\n enhancing construction cost for constructing homes under Prime Minister Awas\r\nYojana-laid.",
       "debate_date": "27/07/2021",
@@ -64273,28 +64291,6 @@
         "Financial Aid",
         "Equality",
         "Women Empowerment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 3,
-      "db_slno": 4215,
-      "title": "Regarding Need to provide\r\n stoppage of various trains at Anand Railway Junction in Gujarat-laid.",
-      "debate_date": "16/03/2020",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Mitesh Rameshbhai (Bakabhai) Patel",
-          "mp_code": 5018,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Express Trains",
-        "Railway Halts"
       ]
     }
   ],

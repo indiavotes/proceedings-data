@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 7,
+      "db_slno": 4965,
+      "title": "Statement regarding status of implementation of recommendations contained in the 7<sup>th</sup>\r\nReport of Standing Committee on Consumer Affairs, Food and Public Distribution.",
+      "debate_date": "13/03/2006",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
+          "mp_code": 327,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 7,
       "db_slno": 4964,
       "title": "Presentation of 178<sup>th</sup>Report of the Standing Committee on Industry\r\non “Unlocking of surplus assets of CPSEs to generate resources for revival and\r\nthe status of ancillary units of CPSE”.",
       "debate_date": "13/03/2006",
@@ -66437,24 +66455,6 @@
         {
           "mp_name": "Shri Raja Ram Pal",
           "mp_code": 4105,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 4,
-      "db_slno": 2344,
-      "title": "Regarding need to provide financial assistance for\r\nboulder pitching and<b> </b>repair of dam on Budhi Gandak, Bagmati and Kharsath\r\nrivers in Bihar with a view to strengthening the river embankments.</span><span\r\nstyle='mso-ansi-language:EN-US'>",
-      "debate_date": "11/05/2005",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Alok Kumar Mehta",
-          "mp_code": 4156,
           "mp_part_code": 1
         }
       ],

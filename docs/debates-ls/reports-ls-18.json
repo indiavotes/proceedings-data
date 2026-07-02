@@ -4,6 +4,27 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 3,
+      "db_slno": 1226,
+      "title": "Need to formulate a plan to\r\nprevent erosion caused by river Ganges in Ranaghat Parliamentary Constituency\r\nin West Bengal.",
+      "debate_date": "18/12/2009",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sucharu Ranjan Haldar",
+          "mp_code": 4485,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Erosion Control",
+        "Soil Erosion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 3,
       "db_slno": 1225,
       "title": "Need to open branches of nationalised banks at Pipra Block in Supaul Parliamentary Constituency in\r\nBihar.",
       "debate_date": "18/12/2009",
@@ -68052,78 +68073,6 @@
         "Civil Rights",
         "Law and Order",
         "MP(s)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 13,
-      "db_slno": 10005,
-      "title": "Reported pecision of government to close down the Hyderabad and Bangalore\r\nAirports .",
-      "debate_date": "13/03/2008",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Basudeb Acharia",
-          "mp_code": 4,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Mediyam Babu Rao",
-          "mp_code": 4177,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Prahlad Joshi",
-          "mp_code": 3982,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri  Ananth Kumar",
-          "mp_code": 20,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Sunil Khan",
-          "mp_code": 193,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Amitava Nandy",
-          "mp_code": 4188,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Samik Lahiri",
-          "mp_code": 216,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Mohan Singh",
-          "mp_code": 3604,
-          "mp_part_code": 9
-        },
-        {
-          "mp_name": "Shri Gurudas Dasgupta",
-          "mp_code": 4088,
-          "mp_part_code": 10
-        },
-        {
-          "mp_name": "Shri Ajay Chakraborty",
-          "mp_code": 67,
-          "mp_part_code": 11
-        }
-      ],
-      "keywords": [
-        "Civil Aviation",
-        "Airports Authority Of India",
-        "Privatisation"
       ]
     }
   ],

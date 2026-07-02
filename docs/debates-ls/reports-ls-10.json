@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 11,
+      "db_slno": 10015,
+      "title": "The Speaker made references to the passing away of Shri Rabi Ray, former Speaker, 9th Lok Sabha and member, 4th, 9th and 10th Lok Sabhas; Shri Jambuwant Dhote, member, 5th and 7th Lok Sabhas; Shri P. Shiv Shankar, member, 6th, 7th and 12th Lok Sabhas; and Shri Syed Shahabuddin, member, 8th and 10th Lok Sabhas.",
+      "debate_date": "09/03/2017",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Sumitra Mahajan (Tai)",
+          "mp_code": 220,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 11,
       "db_slno": 10014,
       "title": "Introduction of the Finance Bill, 2017.",
       "debate_date": "01/02/2017",
@@ -73979,24 +73997,6 @@
         "Equality",
         "Right to Expression"
       ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 7,
-      "db_slno": 7155,
-      "title": "Introduction of the Constitution\r\n (Amendment) Bill, 2016. (Amendment of article 1).",
-      "debate_date": "11/03/2016",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
     }
   ],
   "count": 2500,

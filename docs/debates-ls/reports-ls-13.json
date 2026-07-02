@@ -4,6 +4,26 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 3,
+      "db_slno": 2524,
+      "title": "Need to release the funds for reviving the funds-starved Cooperative Societies \r\nin Tamil Nadu.",
+      "debate_date": "22/12/2014",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri PR. Senthilnathan",
+          "mp_code": 4838,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 3,
       "db_slno": 2523,
       "title": "Need to allocate fund for Chennai Peripheral Ring Road (CPRR).",
       "debate_date": "22/12/2014",
@@ -65405,24 +65425,6 @@
       "debate_date": "06/06/2014",
       "debate_type": 33,
       "debate_type_desc": "OBSERVATION BY THE CHAIR",
-      "members": [
-        {
-          "mp_name": "Shri  Kamal Nath",
-          "mp_code": 175,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 1,
-      "db_slno": 10,
-      "title": "Newly elected members of 16<sup>th</sup> Lok Sabha took the oath\r\nor made the affirmation, signed the Roll of members and took their seats in the\r\nHouse.",
-      "debate_date": "06/06/2014",
-      "debate_type": 31,
-      "debate_type_desc": "OATH OR AFFIRMATION",
       "members": [
         {
           "mp_name": "Shri  Kamal Nath",

@@ -4,6 +4,32 @@
       "house": "ls",
       "lok_sabha": 15,
       "session": 12,
+      "db_slno": 8754,
+      "title": "Need to declare \r\nAyurvedic Medicinal System as National Medicinal System.",
+      "debate_date": "13/12/2012",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Rajendra Agarwal",
+          "mp_code": 4267,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Pralhad Venkatesh Joshi",
+          "mp_code": 3982,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Ayurveda",
+        "Medical Treatment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 15,
+      "session": 12,
       "db_slno": 8753,
       "title": "Need to construct \r\nan over-bridge near Tankupa Railway Station under East-central Railway in Gaya \r\nParliamentary Constituency of Bihar.",
       "debate_date": "13/12/2012",
@@ -66503,28 +66529,6 @@
       ],
       "keywords": [
         "Fraudulant Practices"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 15,
-      "session": 9,
-      "db_slno": 6246,
-      "title": "Reported construction of roads, building and airfields\r\nby China along the border areas of Arunachal Pradesh.",
-      "debate_date": "22/12/2011",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. Bijoya Chakravarty",
-          "mp_code": 69,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Indo-China Relation",
-        "Road Construction",
-        "Infrastructure Development"
       ]
     }
   ],

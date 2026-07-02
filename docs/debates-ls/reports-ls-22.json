@@ -4,6 +4,24 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 4,
+      "db_slno": 2344,
+      "title": "Regarding need to provide financial assistance for\r\nboulder pitching and<b> </b>repair of dam on Budhi Gandak, Bagmati and Kharsath\r\nrivers in Bihar with a view to strengthening the river embankments.</span><span\r\nstyle='mso-ansi-language:EN-US'>",
+      "debate_date": "11/05/2005",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Alok Kumar Mehta",
+          "mp_code": 4156,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 4,
       "db_slno": 2343,
       "title": "Regarding need to run local train between Patna\r\nJunction and City Ghat<b> </b>for the benefit of local people.</span><span\r\nstyle='mso-ansi-language:EN-US'>",
       "debate_date": "11/05/2005",
@@ -62875,7 +62893,7 @@
       "keywords": []
     }
   ],
-  "count": 2251,
+  "count": 2252,
   "house": "ls",
   "shard_index": 22
 }
