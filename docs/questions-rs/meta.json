@@ -1,27 +1,62 @@
 {
-  "phase": "extract",
+  "phase": "derive",
   "corpus": "questions-rs",
   "houses": [
     "rs"
   ],
-  "generated_at": "2026-07-10T10:38:27Z",
-  "elapsed_s": 25.7,
-  "ls_walk_stats": {},
-  "rs_walk_stats": {
-    "new": 0,
-    "updated": 0,
-    "kept_legacy": 0
+  "generated_at": "2026-07-10T10:39:57Z",
+  "elapsed_s": 2.7,
+  "totals": {
+    "rs": 2771
   },
-  "ls_extracted": 0,
-  "ls_failed": 0,
-  "ls_candidates": 0,
-  "rs_extracted": 24,
-  "rs_failed": 1,
-  "rs_candidates": 2196,
-  "budget": {
-    "max_ls_extractions": 50,
-    "max_rs_extractions": 25,
-    "max_run_seconds": 1500
+  "search_bundle": {
+    "shard_count": 1,
+    "shards": [
+      "search-bundle-00.json"
+    ],
+    "shard_sizes": {
+      "search-bundle-00.json": 3549906
+    },
+    "total": 599,
+    "truncated": 599,
+    "head_chars": 5000,
+    "size_bytes": 3549906,
+    "max_shard_bytes": 3549906
   },
-  "rate_limited": false
+  "search_index": {
+    "shard_count": 1,
+    "shards": [
+      "search-index-00.json"
+    ],
+    "shard_sizes": {
+      "search-index-00.json": 4583745
+    },
+    "total": 599,
+    "size_bytes": 4583745,
+    "max_shard_bytes": 4583745
+  },
+  "audit": {
+    "ls_records": 0,
+    "ls_with_text": 0,
+    "ls_pypdf_empty_awaiting_ocr": 0,
+    "ls_pypdf_error_retryable": 0,
+    "ls_ocr_failed_permanent": 0,
+    "ls_never_attempted": 0,
+    "rs_records": 2771,
+    "rs_with_text": 599,
+    "rs_pypdf_empty_awaiting_ocr": 0,
+    "rs_pypdf_error_retryable": 0,
+    "rs_ocr_failed_permanent": 0,
+    "rs_never_attempted": 2172
+  },
+  "text_shards": {
+    "records_with_text": 599,
+    "shards": 9,
+    "r2_fallback": 0,
+    "total_text_bytes": 1603548,
+    "missing_files": 0,
+    "skipped_oversize_no_r2": 0,
+    "from_existing_shards": 575,
+    "txt_files_removed": 24
+  }
 }
