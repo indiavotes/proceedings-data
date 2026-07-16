@@ -4,6 +4,430 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 12,
+      "db_slno": 11902,
+      "title": "Presentation of 27th and 28th Reports of Committee on the Welfare of Scheduled Castes and Scheduled Tribes",
+      "debate_date": "01/08/2023",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Dr. (Prof.) Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11901,
+      "title": "Presentation of 20th Report of Committee on Public Undertakings",
+      "debate_date": "01/08/2023",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Santosh Kumar Gangwar",
+          "mp_code": 131,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Public Undertakings"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11900,
+      "title": "Papers laid on the Table by Ministers/Members",
+      "debate_date": "01/08/2023",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Nityanand Rai",
+          "mp_code": 4625,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Sanjeev Kumar Balyan",
+          "mp_code": 4921,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Km. Shobha Karandlaje",
+          "mp_code": 4616,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Kailash Choudhary",
+          "mp_code": 5207,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Ajay (Teni) Misra",
+          "mp_code": 4696,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "SHRI L. MURUGAN",
+          "mp_code": 10017,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Nisith Pramanik",
+          "mp_code": 5041,
+          "mp_part_code": 7
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11899,
+      "title": "Ruling Re: Notices of Adjournment Motion",
+      "debate_date": "01/08/2023",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Adjournment Motions"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11898,
+      "title": "The Speaker made an announcement welcoming Rt. Hon. Ms. Catherine Gotani Hara, Speaker of the National Assembly of the Republic of Malawi and Members of the Parliamentary Delegation from Malawi who were on a visit to India as honoured guests",
+      "debate_date": "31/07/2023",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11897,
+      "title": "The Cinematograph (Amendment) Bill, 2023 - As Passed by Rajya Sabha",
+      "debate_date": "31/07/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. (Prof.) Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Manoj Kumar Tiwari",
+          "mp_code": 4606,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Maddila Gurumoorthy",
+          "mp_code": 5534,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Ram Shiromani Verma",
+          "mp_code": 5164,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Krupal Balaji Tumane",
+          "mp_code": 4734,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Smt Navnit Ravi Rana",
+          "mp_code": 5191,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Shankar Lalwani",
+          "mp_code": 5065,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 9
+        }
+      ],
+      "keywords": [
+        "Cinematograph Act",
+        "Video Piracy",
+        "Piracy"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11896,
+      "title": "Statement Re: Status of implementation of the recommendations contained in the 43 rd Report of the Standing Committee on Labour, Textiles and Skill Development on Demands for Grants (2023-2024) pertaining to the Ministry of Skill Development and Entrepreneurship - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Pralhad Venkatesh Joshi",
+          "mp_code": 3982,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11895,
+      "title": "Papers laid on the Table by Ministers/Members --- contd.",
+      "debate_date": "31/07/2023",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Dr. Bhagwat Karad",
+          "mp_code": 10021,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11894,
+      "title": "The Constitution (Scheduled Tribes) Order (Third Amendment) Bill, 2022 - Amendments Made by Rajya Sabha",
+      "debate_date": "31/07/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Munda",
+          "mp_code": 4327,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. (Prof.) Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Scheduled Tribes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11893,
+      "title": "The Constitution (Scheduled Tribes) Order (Fifth Amendment) Bill, 2022 - Amendments Made by Rajya Sabha",
+      "debate_date": "31/07/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Munda",
+          "mp_code": 4327,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. (Prof.) Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Scheduled Tribes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11892,
+      "title": "Statutory Resolultion Re: Approval for amending the first schedule of Customs Tarrif Act, 1975",
+      "debate_date": "31/07/2023",
+      "debate_type": 51,
+      "debate_type_desc": "STATUTORY RESOLUTIONS",
+      "members": [
+        {
+          "mp_name": "Shri Pankaj Chowdhary",
+          "mp_code": 3479,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. (Prof.) Kirit Premjibhai Solanki",
+          "mp_code": 4444,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Customs Tariiff Act"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11891,
+      "title": "Re: Train services in Eastern UP and Bihar - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Shyam Singh Yadav",
+          "mp_code": 5147,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Senior Citizens",
+        "railwya fares",
+        "Concessional Tariff",
+        "Train Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11890,
+      "title": "Need to lift the ban on export of non-basmati rice - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Basmati Rice",
+        "Export"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11889,
+      "title": "Need to revive Ashok Paper Mill in Darbhanga - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Prince Raj",
+          "mp_code": 5529,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Security Paper Mill",
+        "Industrial Revival"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11888,
+      "title": "Re: Grant of funds and national status to Palamuru Rangareddy Lift Irrigation Scheme - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bheemrao Baswanthrao Patil",
+          "mp_code": 4756,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Irrigation Projects",
+        "Water Shortage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11887,
+      "title": "Re: Enhancement of pension of EPS 95 pensioners of Odisha - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Manjulata Mandal",
+          "mp_code": 4987,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Odisha",
+        "EPS 95 Pensioner"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
+      "db_slno": 11886,
+      "title": "Need to expedite Koshi-Mechi link project - laid",
+      "debate_date": "31/07/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Dulal Chandra Goswami",
+          "mp_code": 5215,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "River Linkages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 12,
       "db_slno": 11885,
       "title": "Need to provide financial assistance to compensate the damage caused to property and crops due to heavy rains in Buldhana Parliamentary Constituency - laid",
       "debate_date": "31/07/2023",
@@ -59095,392 +59519,6 @@
       "keywords": [
         "Water Conservation",
         "Ponds"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9124,
-      "title": "Regarding the formation of village defense team at the Panchayat Level.",
-      "debate_date": "20/07/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Pradeep Kumar Singh",
-          "mp_code": 4459,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Rural Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9123,
-      "title": "INDIAN ANTARCTIC\r\n BILL, 2022 (Consideration and Passing of the Indian \r\nAntarctic Bill, 2022 got postpone due to Absence of Opposition).",
-      "debate_date": "21/07/2022",
-      "debate_type": 14,
-      "debate_type_desc": "GOVERNMENT BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Jitendra Singh",
-          "mp_code": 4718,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhartruhari Mahtab",
-          "mp_code": 225,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri P.P. Chaudhary",
-          "mp_code": 4597,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Dr. Nishikant Dubey",
-          "mp_code": 4324,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Bhartruhari Mahtab",
-          "mp_code": 225,
-          "mp_part_code": 5
-        }
-      ],
-      "keywords": [
-        "Environmental Protection",
-        "Marine Life",
-        "Antarctic Treaty"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9122,
-      "title": "Regarding Redressal of Electricity\r\n related Grievances of the people in NCT of Delhi.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ramesh Bidhuri",
-          "mp_code": 4854,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Power Plant Load",
-        "Power Theft",
-        "Power Connection"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9121,
-      "title": "Need to Restore the operation of Trains discontinued due to Covid-19 \r\npandemic.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Subhash Chandra Baheria",
-          "mp_code": 3654,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Indian Railways",
-        "Passenger Train",
-        "Train Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9120,
-      "title": "Regarding Provision in Law pertaining to Cheque Bouncing problems faced by\r\n people.",
-      "debate_date": "21/07/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Subhash Chandra Baheria",
-          "mp_code": 3654,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Dishonoured Cheque"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9119,
-      "title": "Unemployment among Educated Youth.",
-      "debate_date": "21/07/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ritesh Pandey",
-          "mp_code": 5132,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Retrenchment",
-        "Job Security",
-        "Start Up India",
-        "Job Guarantee"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9118,
-      "title": "Need to restore Old Pension \r\nScheme to Teachers and Employees of Navodaya Vidyalaya Schools.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Dileshwar Kamait",
-          "mp_code": 5222,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Social Security",
-        "Teacher Welfare",
-        "Staff Welfare",
-        "Central Civil Services (Pension) Rules"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9117,
-      "title": "Regarding approval of City Water \r\nAction Plan under AMRUT 2.0 Scheme (CWAP).",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Rajendra Dhedya Gavit",
-          "mp_code": 4949,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Water Supply",
-        "Sewerage System",
-        "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9116,
-      "title": "Regarding inclusion of Natural Fibers in Textile PLI Scheme.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Smt. Vanga Geethaviswanath",
-          "mp_code": 5093,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Manufacturing",
-        "Textile Industry",
-        "Production-Linked Incentive (PLI)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9115,
-      "title": "Regarding Construction\r\nof National Highways in Rajsamand Parliamentary Constituency, Rajasthan.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Smt. Kumari Diya",
-          "mp_code": 5209,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Network",
-        "Road Connectivity"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9114,
-      "title": "Regarding Expeditious Disinvestment of\r\n CCIL Kurkunta.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Umesh G. Jadhav",
-          "mp_code": 5178,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Financial Crisis",
-        "Clinker Process",
-        " Cement Corporation of India Limited"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9113,
-      "title": "Regarding Corporate Social \r\nResponsibility initiative in Panipat Refinery and NDRI, Karnal in Haryana.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sanjay Bhatia",
-          "mp_code": 5029,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Health and Hygiene",
-        "Skill Development",
-        "National Dairy Research Institute (NDRI)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9112,
-      "title": "Need to include Banjara community of Uttar Pradesh in the list of Scheduled\r\n Tribes.",
-      "debate_date": "21/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Subrata Pathak",
-          "mp_code": 5150,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        " Social Welfare",
-        "National Commission for Scheduled Tribes"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9076,
-      "title": "Regarding sanctioning of a Central Agriculture\r\n University in Tamil Nadu.-Laid",
-      "debate_date": "20/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri P. Ravindhranath",
-          "mp_code": 4964,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Farmer Training",
-        "Higher Education Institutions"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9075,
-      "title": "Regarding merger of schools in Andhra Pradesh.-Laid",
-      "debate_date": "20/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Kinjarapu Ram Mohan Naidu",
-          "mp_code": 4771,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Primary Schools",
-        "Quality Education"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9074,
-      "title": "Regarding payment of arrears of honorarium to Madrasa teachers and also \r\nincrease the amount of honorarium being paid to them.-Laid",
-      "debate_date": "20/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Danish Ali Kunwar",
-          "mp_code": 5134,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Teachers' Grievances",
-        "SPEMM"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 9,
-      "db_slno": 9073,
-      "title": "Regarding need to develop sports infrastructure and facilities under ‘Khelo\r\nIndia Yojana'' in Goplaganj district, Bihar.-Laid",
-      "debate_date": "20/07/2022",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Alok Kumar Suman",
-          "mp_code": 5211,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Sports Promotion",
-        "Sports Development"
       ]
     }
   ],

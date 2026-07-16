@@ -4,6 +4,380 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 1,
+      "db_slno": 1854,
+      "title": "Regarding \r\nimplementation of Union Government's development schemes by State Governments -laid.",
+      "debate_date": "04/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Gopal Chinayya Shetty",
+          "mp_code": 4661,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Welfare Schemes",
+        "Scheme Implementation",
+        "Government Schemes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1853,
+      "title": "Need \r\nto establish a Kendriya Vidyalaya in Barwadih in Latehar district of Jharkhand -laid.",
+      "debate_date": "04/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Education",
+        "Central Schools"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1852,
+      "title": "Need\r\n to set up a Mega Food Park in Bettiah in Paschim Champaran Parliamentary Constituency,\r\nBihar.",
+      "debate_date": "04/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Sanjay Jaiswal",
+          "mp_code": 4455,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Food Processing Industry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1851,
+      "title": "Need to set up rural branches of nationalised\r\n banks in Sheohar Parliamentary Constituency, Bihar -laid.",
+      "debate_date": "04/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Rama Devi",
+          "mp_code": 3901,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Bank Branches",
+        "Rural Areas",
+        "Banking Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1850,
+      "title": "Need \r\nto run Nauchandi Express, Sangam Express and shuttle trains running between\r\nMeerut and Delhi as per scheduled time-table -laid.",
+      "debate_date": "04/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Service",
+        "Railway Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1849,
+      "title": "Regarding battle of Pathorighat in Assam.",
+      "debate_date": "04/07/2019",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Dilip Saikia",
+          "mp_code": 5107,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Farmers",
+        "Freedom Fighters",
+        "Memorial"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1848,
+      "title": "Issue regarding vicious \r\nattacks on doctors, especially in the Government Hospitals in the country.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Smt.  Hema Malini",
+          "mp_code": 4619,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri B. Y. Raghavendra",
+          "mp_code": 4570,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Medical Doctors",
+        "Physical Attack"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1847,
+      "title": "The Speaker nominated Dr.\r\nKakoli Ghosh Dastidar as the Member of the Panel of Chairpersons.",
+      "debate_date": "04/07/2019",
+      "debate_type": 61,
+      "debate_type_desc": "PANEL OF CHAIRMEN",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1846,
+      "title": "Issue regarding financial situation of Autonomous District Councils in Assam.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Horen Sing Bey",
+          "mp_code": 5025,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Revenue Deficiet"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1845,
+      "title": "Need to include work in\r\n agricultural farms under National Rural Employment Guarantee Scheme (NREGS) and\r\n implement Right to Education in Rural Areas.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Kuruva Gorantla Madhav",
+          "mp_code": 5092,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Andhra Pradesh",
+        "Education",
+        "Employment",
+        "Agrarian Crisis"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1844,
+      "title": "Need to complete construction work of NH-95 \r\nfrom Ludhiana to Talwandi in Punjab.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Mohammad Sadique",
+          "mp_code": 5168,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Highways",
+        "Road Construction"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1843,
+      "title": "Need to take steps to \r\nimport maize to save poultry farmers in the country.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri A.K.P. Chinraj",
+          "mp_code": 4979,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Import Promotion",
+        "Tamil Nadu",
+        "Poultry Industry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1842,
+      "title": "Issue regarding erosion \r\ncaused by rivers in many parts of West Bengal.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Khalilur Rahaman",
+          "mp_code": 5046,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Land Erosion",
+        "Rehabilitation",
+        "Compensations"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1841,
+      "title": "Demand to transfer the\r\n amount of subsidies directly to the farmer's account.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Mitesh Rameshbhai (Bakabhai) Patel",
+          "mp_code": 5018,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "Farmers' Welfare"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1840,
+      "title": "Need to provide necessary \r\nfacilities on National Highway No. 55 from Cuttack to Naugaon.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Smt. Rajashree Mallick",
+          "mp_code": 4990,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Overbridges"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1839,
+      "title": "Need to take steps to \r\nsolve Land Transfer Regulations (LTR 1/70) demarcation issue in the state of Telangana.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Venkatesh Netha Borlakunta",
+          "mp_code": 5083,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Scheduled Tribes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 1838,
+      "title": "Demand to open a steel plant \r\nin Bayyaram in Mahabubabad Parliamentary Constituency, Telangana.",
+      "debate_date": "04/07/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Smt. Kavitha Malothu",
+          "mp_code": 5077,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Employment Opportunities",
+        "Industrial Development",
+        "Steel Industry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
       "db_slno": 1837,
       "title": "Need to revive Motipur and \r\nGoraul sugar mils in Vaishali Parliamentary Constituency, Bihar.",
       "debate_date": "04/07/2019",
@@ -72523,363 +72897,6 @@
       "keywords": [
         "Government Policy",
         "Air Quality"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15029,
-      "title": "Introduction of the Population (Stabilization & Planning) Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Anurag Singh Thakur",
-          "mp_code": 4249,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Family Planning",
-        "Population Control"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15028,
-      "title": "Introduction \r\nof the Single-Use Plastic (Regulation) Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Anurag Singh Thakur",
-          "mp_code": 4249,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Ecosystems",
-        "Environmental Pollution"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15027,
-      "title": "Introduction of the Suicide Prevention in Youth Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Anurag Singh Thakur",
-          "mp_code": 4249,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Mental Health",
-        "Mental Disorder"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15026,
-      "title": "Introduction of the Constitution (Amendment)\r\n Bill, 2018  <i>(Amendment of article 309)</i>.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Service Conditions",
-        "Recruitment Rules"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15025,
-      "title": "Introduction of the Compulsory Teaching of \r\nIndian Spiritual and Human Service  Philosophy Education in Educational\r\nInstitutions Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Compulsory Education",
-        "Spirituality"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15024,
-      "title": "Introduction of the Constitution (Amendment)\r\nBill, 2018 <i>(Amendment of article 51A)</i>.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Domestic Violence",
-        "Sexual Violence"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15023,
-      "title": "Introduction of the High Court at Allahabad \r\n(Establishment of a Permanent Bench at Mahoba) Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Court Benches"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15022,
-      "title": "Introduction of the Contempt of Courts \r\n(Amendment) Bill, 2018 <i>(Amendment of section 2)</i>.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Judicial System",
-        "Pending Cases"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15021,
-      "title": "Introduction of the Companies (Amendment)\r\nBill, 2018 <i>(Amendment of section 135)</i>.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Economic and Social Development",
-        "Infrastructure Development",
-        "Economic Backwardness"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15020,
-      "title": "Introduction of the Juvenile Justice (Care\r\nand Protection of Children) (Amendment) Bill, 2018 <i>(Amendment of section 56,\r\netc.)</i>.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Bhanu Pratap Singh Verma",
-          "mp_code": 3824,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Child Care",
-        "Child Protection"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15019,
-      "title": "Introduction of the Population Control Bill, \r\n2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Vishnu Dayal Ram",
-          "mp_code": 4731,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Family Planning",
-        "Sterilisation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15018,
-      "title": "Introduction of the Water (Accessibility and Conservation) Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Anurag Singh Thakur",
-          "mp_code": 4249,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Drinking Water",
-        "Water Conservation",
-        "Water Security"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15017,
-      "title": "Introduction of the National Agricultural \r\nPolicy Commission Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Nihal Chand Chauhan",
-          "mp_code": 95,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agricultural Sector",
-        "Farmers' Suicide",
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15016,
-      "title": "Introduction of the Urban Areas (Equitable Development and Regulation) Bill, \r\n2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Slum Dwellers",
-        "Basic Amenities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15015,
-      "title": "Introduction of the Women (Empowerment and Welfare) Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Women Empowerment",
-        "Women Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15014,
-      "title": "Introduction of the Prevention of Violence\r\n against Doctors, Medical Professionals and Medical Institutions Bill, 2018.",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Shrikant Eknath Shinde",
-          "mp_code": 4659,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 16,
-      "db_slno": 15013,
-      "title": "Introduction of the Constitution (Scheduled \r\nCastes) and (Scheduled Tribes) Orders (Amendment) Bill, 2018 (Amendment of the\r\nSchedules) .",
-      "debate_date": "28/12/2018",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Faggan Singh Kulaste",
-          "mp_code": 207,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Reservation Policy",
-        "Scheduled Castes",
-        "Uttar Pradesh"
       ]
     }
   ],
