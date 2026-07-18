@@ -4,37 +4,13 @@
   "houses": [
     "rs"
   ],
-  "generated_at": "2026-07-18T08:27:03Z",
-  "elapsed_s": 3.0,
+  "generated_at": "2026-07-18T09:06:45Z",
+  "elapsed_s": 0.6,
   "totals": {
     "rs": 2781
   },
-  "search_bundle": {
-    "shard_count": 1,
-    "shards": [
-      "search-bundle-00.json"
-    ],
-    "shard_sizes": {
-      "search-bundle-00.json": 3940828
-    },
-    "total": 671,
-    "truncated": 671,
-    "head_chars": 5000,
-    "size_bytes": 3940828,
-    "max_shard_bytes": 3940828
-  },
-  "search_index": {
-    "shard_count": 1,
-    "shards": [
-      "search-index-00.json"
-    ],
-    "shard_sizes": {
-      "search-index-00.json": 5102616
-    },
-    "total": 671,
-    "size_bytes": 5102616,
-    "max_shard_bytes": 5102616
-  },
+  "search_bundle": null,
+  "search_index": null,
   "audit": {
     "ls_records": 0,
     "ls_with_text": 0,
@@ -53,10 +29,10 @@
     "records_with_text": 671,
     "shards": 10,
     "r2_fallback": 0,
-    "total_text_bytes": 1294956,
+    "total_text_bytes": 0,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 647,
-    "txt_files_removed": 24
+    "from_existing_shards": 671,
+    "txt_files_removed": 0
   }
 }
