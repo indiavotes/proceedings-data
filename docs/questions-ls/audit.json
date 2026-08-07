@@ -1,12 +1,12 @@
 {
-  "audited_at": "2026-08-06T11:45:41Z",
+  "audited_at": "2026-08-07T08:34:08Z",
   "totals": {
-    "ls_records": 246775,
+    "ls_records": 247025,
     "ls_with_text": 0,
     "ls_pypdf_empty_awaiting_ocr": 0,
     "ls_pypdf_error_retryable": 0,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 246775,
+    "ls_never_attempted": 247025,
     "rs_records": 0,
     "rs_with_text": 0,
     "rs_pypdf_empty_awaiting_ocr": 0,
