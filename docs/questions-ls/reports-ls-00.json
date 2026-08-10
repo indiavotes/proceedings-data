@@ -4916,6 +4916,331 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "question_no": 301,
+      "type": "STARRED",
+      "subject": "Utilisation of Funds under Sarva Shiksha Abhiyan and Samagra Shiksha in Telangana",
+      "members": [
+        "Shri Madhavaneni Raghunandan Rao"
+      ],
+      "ministry": "EDUCATION",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS301_IFFBtJ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS301_IFFBtJ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 302,
+      "type": "STARRED",
+      "subject": "Development of Tourism Circuits and Destinations in Karnataka",
+      "members": [
+        "Dr. Prabha Mallikarjun"
+      ],
+      "ministry": "TOURISM",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS302_PgdOzD.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS302_PgdOzD.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 303,
+      "type": "STARRED",
+      "subject": "Special Credit Package for MSMEs",
+      "members": [
+        "Shri Zia Ur Rehman"
+      ],
+      "ministry": "FINANCE",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS303_j9hFka.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS303_j9hFka.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 304,
+      "type": "STARRED",
+      "subject": "Pollution caused by Sugar Mills",
+      "members": [
+        "Shri Sunil Kumar"
+      ],
+      "ministry": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS304_usPaNz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS304_usPaNz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 305,
+      "type": "STARRED",
+      "subject": "Special Financial Scheme for Easy Loan in Bihar",
+      "members": [
+        "Shri Janardan Singh Sigriwal"
+      ],
+      "ministry": "FINANCE",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS305_Y2D5xQ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS305_Y2D5xQ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 306,
+      "type": "STARRED",
+      "subject": "Cycling League of India under the Fit India Movement",
+      "members": [
+        "Shri Yaduveer Wadiyar",
+        "Shri Mahesh Kashyap"
+      ],
+      "ministry": "YOUTH AFFAIRS AND SPORTS",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS306_kCVAgi.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS306_kCVAgi.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 307,
+      "type": "STARRED",
+      "subject": "Promotion of Cultural and Agro-Tourism in Vellore",
+      "members": [
+        "Thiru D M Kathir Anand"
+      ],
+      "ministry": "TOURISM",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS307_J3vOuR.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS307_J3vOuR.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 308,
+      "type": "STARRED",
+      "subject": "Development of Tourism in the North-Eastern Region",
+      "members": [
+        "Shri Kamakhya Prasad Tasa"
+      ],
+      "ministry": "TOURISM",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS308_3OVnkq.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS308_3OVnkq.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 309,
+      "type": "STARRED",
+      "subject": "Independent Performance Evaluation of NCAP",
+      "members": [
+        "Adv Priya Saroj"
+      ],
+      "ministry": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS309_HLoI8a.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS309_HLoI8a.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 310,
+      "type": "STARRED",
+      "subject": "Allocation of Funds for Primary Education",
+      "members": [
+        "Dr. Shivaji Bandappa Kalge",
+        "Shri Nilesh Dnyandev Lanke"
+      ],
+      "ministry": "EDUCATION",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS310_Qpaawv.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS310_Qpaawv.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 311,
+      "type": "STARRED",
+      "subject": "Sanctioning of New Jan Shiksha Sansthans",
+      "members": [
+        "Shri Appalanaidu Kalisetti"
+      ],
+      "ministry": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS311_suCEua.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS311_suCEua.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 312,
+      "type": "STARRED",
+      "subject": "Status of Employment Generation Schemes",
+      "members": [
+        "Shri Manickam Tagore B"
+      ],
+      "ministry": "LABOUR AND EMPLOYMENT",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS312_LchjmD.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS312_LchjmD.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 313,
+      "type": "STARRED",
+      "subject": "Tourism Development Projects in West Bengal",
+      "members": [
+        "Dr. Sharmila Sarkar"
+      ],
+      "ministry": "TOURISM",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS313_adHWbF.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS313_adHWbF.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 314,
+      "type": "STARRED",
+      "subject": "Establishment of Jawahar  Navodaya Vidyalaya in Tirupati",
+      "members": [
+        "Shri Maddila Gurumoorthy"
+      ],
+      "ministry": "EDUCATION",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS314_xh4129.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS314_xh4129.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 315,
+      "type": "STARRED",
+      "subject": "Development of Iconic Tourist Centres to Global Scale Initiative",
+      "members": [
+        "Shri Bhartruhari Mahtab",
+        "Shri Chandra Prakash Choudhary"
+      ],
+      "ministry": "TOURISM",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS315_gUpurq.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS315_gUpurq.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 316,
+      "type": "STARRED",
+      "subject": "Tiger Population in Mudumalai Wildlife Sanctuary",
+      "members": [
+        "Shri Matheswaran V S"
+      ],
+      "ministry": "ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS316_DON0a2.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS316_DON0a2.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 317,
+      "type": "STARRED",
+      "subject": "NCS Infrastructure in Andhra Pradesh",
+      "members": [
+        "Shri Y S Avinash Reddy"
+      ],
+      "ministry": "LABOUR AND EMPLOYMENT",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS317_F6emcb.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS317_F6emcb.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 318,
+      "type": "STARRED",
+      "subject": "Dekho Apna Desh Initiative",
+      "members": [
+        "Smt. Shambhavi",
+        "Shri Rajesh Verma"
+      ],
+      "ministry": "TOURISM",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS318_iRGI13.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS318_iRGI13.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 319,
+      "type": "STARRED",
+      "subject": "Decentralised Skill Planning through DSDPs",
+      "members": [
+        "Shri Khagen Murmu",
+        "Smt. Shobhanaben Mahendrasinh Baraiya"
+      ],
+      "ministry": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS319_WI1aQ0.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS319_WI1aQ0.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 320,
+      "type": "STARRED",
+      "subject": "District-Specific Skill Development Plan",
+      "members": [
+        "Shri Brijendra Singh Ola"
+      ],
+      "ministry": "SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "date": "10.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS320_APDsHG.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS320_APDsHG.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "question_no": 1,
       "type": "UNSTARRED",
       "subject": "Central Assistance for Restoration of Heritage Temple at Amalner",
@@ -41506,335 +41831,6 @@
       "date": "31.07.2026",
       "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2180_Baecfg.pdf?source=lsapps",
       "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2180_Baecfg.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2181,
-      "type": "UNSTARRED",
-      "subject": "Ayurveda Day",
-      "members": [
-        "Shri Balya Mama Suresh Gopinath Mhatre"
-      ],
-      "ministry": "AYUSH",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2181_w11kcC.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2181_w11kcC.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2182,
-      "type": "UNSTARRED",
-      "subject": "Uninterrupted Availability of Fertilizers",
-      "members": [
-        "Shri Sanjay Haribhau Jadhav"
-      ],
-      "ministry": "CHEMICALS AND FERTILIZERS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2182_5hO1fD.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2182_5hO1fD.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2183,
-      "type": "UNSTARRED",
-      "subject": "Integration of AYUSH Systems",
-      "members": [
-        "Shri Nilesh Dnyandev Lanke"
-      ],
-      "ministry": "AYUSH",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2183_2YiDCT.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2183_2YiDCT.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2184,
-      "type": "UNSTARRED",
-      "subject": "Promotion of Organic Fertilizers",
-      "members": [
-        "Shri Rajeev Rai"
-      ],
-      "ministry": "CHEMICALS AND FERTILIZERS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2184_yj7Rd4.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2184_yj7Rd4.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2185,
-      "type": "UNSTARRED",
-      "subject": "Survey on Imbalance Sex Ratio",
-      "members": [
-        "Shri Gopal Jee Thakur"
-      ],
-      "ministry": "HEALTH AND FAMILY WELFARE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2185_5AmoB8.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2185_5AmoB8.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2186,
-      "type": "UNSTARRED",
-      "subject": "Strengthening Drug Safety and Regulation",
-      "members": [
-        "Thiru D M Kathir Anand"
-      ],
-      "ministry": "HEALTH AND FAMILY WELFARE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2186_7bn9iE.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2186_7bn9iE.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2187,
-      "type": "UNSTARRED",
-      "subject": "Judicial Infrastructure in Chandigarh",
-      "members": [
-        "Shri Manish Tewari"
-      ],
-      "ministry": "LAW AND JUSTICE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2187_kFkq80.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2187_kFkq80.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2188,
-      "type": "UNSTARRED",
-      "subject": "Geopolitical Disruptions and Inland Economic Corridors",
-      "members": [
-        "Shri Ummeda Ram Beniwal"
-      ],
-      "ministry": "PORTS, SHIPPING AND WATERWAYS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2188_jgbUWW.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2188_jgbUWW.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2189,
-      "type": "UNSTARRED",
-      "subject": "Increase in C-Section Deliveries",
-      "members": [
-        "Shri Murari Lal Meena",
-        "Shri Eswarasamy K"
-      ],
-      "ministry": "HEALTH AND FAMILY WELFARE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2189_V123eA.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2189_V123eA.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2190,
-      "type": "UNSTARRED",
-      "subject": "Regulation of Overseas Recruitment Agents",
-      "members": [
-        "Shri Azad Kirti Jha"
-      ],
-      "ministry": "EXTERNAL AFFAIRS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2190_NjP8nJ.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2190_NjP8nJ.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2191,
-      "type": "UNSTARRED",
-      "subject": "Judicial Proceedings against Public Officials",
-      "members": [
-        "Shri Neeraj Maurya",
-        "Shri Sunil Bose"
-      ],
-      "ministry": "LAW AND JUSTICE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2191_FwhMf9.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2191_FwhMf9.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2192,
-      "type": "UNSTARRED",
-      "subject": "Allocation of Funds under POSHAN 2.0",
-      "members": [
-        "Shri Lalji Verma",
-        "Shri Babu Singh Kushwaha",
-        "Ms Iqra Choudhary",
-        "Shri Neeraj Maurya",
-        "Shri Devesh Shakya"
-      ],
-      "ministry": "WOMEN AND CHILD DEVELOPMENT",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2192_6r47cf.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2192_6r47cf.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2193,
-      "type": "UNSTARRED",
-      "subject": "Fertilizer Capacity Expansion in Odisha",
-      "members": [
-        "Smt. Sangeeta Kumari Singh Deo"
-      ],
-      "ministry": "CHEMICALS AND FERTILIZERS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2193_GwcCo0.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2193_GwcCo0.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2194,
-      "type": "UNSTARRED",
-      "subject": "National Digital Registry for Legal Profession",
-      "members": [
-        "Shri Chandan Chauhan"
-      ],
-      "ministry": "LAW AND JUSTICE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2194_w7L5dF.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2194_w7L5dF.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2195,
-      "type": "UNSTARRED",
-      "subject": "Growth in AYUSH and Herbal Products Exports",
-      "members": [
-        "Shri Ganesh Singh"
-      ],
-      "ministry": "AYUSH",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2195_etABxb.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2195_etABxb.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2196,
-      "type": "UNSTARRED",
-      "subject": "Use of Biometric Attendance System in PHCs",
-      "members": [
-        "Shri Arvind Ganpat Sawant"
-      ],
-      "ministry": "HEALTH AND FAMILY WELFARE",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2196_DtPiK1.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2196_DtPiK1.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2197,
-      "type": "UNSTARRED",
-      "subject": "Mini Multi-Purpose Port in Mayiladuthurai",
-      "members": [
-        "Km. Sudha R"
-      ],
-      "ministry": "PORTS, SHIPPING AND WATERWAYS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2197_PA3nsr.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2197_PA3nsr.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2198,
-      "type": "UNSTARRED",
-      "subject": "Availability and Pricing of Essential Medicines",
-      "members": [
-        "Shri Pushpendra Saroj",
-        "Adv Priya Saroj"
-      ],
-      "ministry": "CHEMICALS AND FERTILIZERS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2198_V4dEtr.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2198_V4dEtr.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2199,
-      "type": "UNSTARRED",
-      "subject": "Monitoring of Essential Medicines in Hospitals",
-      "members": [
-        "Shri Selvam G",
-        "Shri C N Annadurai",
-        "Dr. Rani Srikumar"
-      ],
-      "ministry": "CHEMICALS AND FERTILIZERS",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2199_4Ldn13.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2199_4Ldn13.pdf?source=lsapps",
-      "supplementary": false
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 8,
-      "question_no": 2200,
-      "type": "UNSTARRED",
-      "subject": "Assessment of AYUSH Wellness Centres",
-      "members": [
-        "Shri Ramasahayam Raghuram Reddy"
-      ],
-      "ministry": "AYUSH",
-      "date": "31.07.2026",
-      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2200_uviA8A.pdf?source=lsapps",
-      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2200_uviA8A.pdf?source=lsapps",
       "supplementary": false
     }
   ],
