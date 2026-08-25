@@ -47,5 +47,14 @@ jobs:
           git add docs/debates-ls/
           git diff --cached --quiet && echo "no derived changes" && exit 0
           git commit -m "Auto-rebuild debates-ls derived files [$(date -u +%Y-%m-%dT%H:%MZ)]"
-          git pull --rebase origin main
-          git push
+          # Robust push: rebase onto latest main (prefer our freshly-built files), retry on races
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase -X theirs origin/main; then
+              if git push origin HEAD:main; then echo "pushed on attempt $attempt"; exit 0; fi
+            else
+              git rebase --abort 2>/dev/null || true
+            fi
+            echo "push attempt $attempt failed (race); retrying"; sleep $((RANDOM % 5 + 3))
+          done
+          echo "::error::failed to push after 5 attempts"; exit 1
