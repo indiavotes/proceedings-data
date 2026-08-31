@@ -1,38 +1,27 @@
 {
-  "phase": "derive",
+  "phase": "extract",
   "corpus": "questions-rs",
   "houses": [
     "rs"
   ],
-  "generated_at": "2026-08-31T00:41:08Z",
-  "elapsed_s": 0.8,
-  "totals": {
-    "rs": 2809
+  "generated_at": "2026-08-31T00:48:34Z",
+  "elapsed_s": 21.1,
+  "ls_walk_stats": {},
+  "rs_walk_stats": {
+    "new": 0,
+    "updated": 0,
+    "kept_legacy": 0
   },
-  "search_bundle": null,
-  "search_index": null,
-  "audit": {
-    "ls_records": 0,
-    "ls_with_text": 0,
-    "ls_pypdf_empty_awaiting_ocr": 0,
-    "ls_pypdf_error_retryable": 0,
-    "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 0,
-    "rs_records": 2809,
-    "rs_with_text": 1033,
-    "rs_pypdf_empty_awaiting_ocr": 0,
-    "rs_pypdf_error_retryable": 0,
-    "rs_ocr_failed_permanent": 0,
-    "rs_never_attempted": 1776
+  "ls_extracted": 0,
+  "ls_failed": 0,
+  "ls_candidates": 0,
+  "rs_extracted": 21,
+  "rs_failed": 4,
+  "rs_candidates": 1776,
+  "budget": {
+    "max_ls_extractions": 50,
+    "max_rs_extractions": 25,
+    "max_run_seconds": 1500
   },
-  "text_shards": {
-    "records_with_text": 1033,
-    "shards": 14,
-    "r2_fallback": 0,
-    "total_text_bytes": 0,
-    "missing_files": 0,
-    "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 1033,
-    "txt_files_removed": 0
-  }
+  "rate_limited": false
 }
