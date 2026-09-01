@@ -4,12 +4,10 @@
   "houses": [
     "ls"
   ],
-  "generated_at": "2026-09-01T17:25:36Z",
-  "elapsed_s": 3016.7,
-  "ls_walk_stats": {
-    "new": 0,
-    "updated": 0,
-    "kept_legacy": 0
+  "generated_at": "2026-09-01T17:26:39Z",
+  "elapsed_s": 12.1,
+  "totals": {
+    "ls": 247775
   },
   "rs_walk_stats": {},
   "ls_extracted": 0,
