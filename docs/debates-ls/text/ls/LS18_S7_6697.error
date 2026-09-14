@@ -1,0 +1,1 @@
+fetch error for LS18_S7_6697: HTTPSConnectionPool(host='sansad.in', port=443): Max retries exceeded with url: /api_ls/debate/debate-details?loksabha=18&sessionNumber=7&dbSlNo=6697 (Caused by ConnectTimeoutError(<HTTPSConnection(host='sansad.in', port=443) at 0x7f73a009f920>, 'Connection to sansad.in timed out. (connect timeout=30)'))
