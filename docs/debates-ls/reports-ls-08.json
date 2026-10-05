@@ -4,6 +4,975 @@
       "house": "ls",
       "lok_sabha": 17,
       "session": 1,
+      "db_slno": 221,
+      "title": "Regarding cold storage facility of\r\n Onion and water shortage in Bellary district of Karnataka.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Y. Devendrappa",
+          "mp_code": 5171,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Food Storage",
+        "Irrigation Facilities",
+        "Drinking Water Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 220,
+      "title": "Regarding financial \r\npackage for comprehensive reconstruction of Kuttanad and Chengannur region in \r\nKerala.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Suresh Kodikunnil",
+          "mp_code": 477,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Assistance",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 219,
+      "title": "Need to upgrade Ganesh \r\nShankar Vidyarthi Smarak Chikitsa Mahavidyalaya, Kanpur to AIIMS.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Devendra (Alias) Bhole Singh",
+          "mp_code": 4664,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 218,
+      "title": "Regarding setting up of \r\na common Assembly for both Daman and Diu and Dadra Nagar Haweli.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Mohanbhai Delkar",
+          "mp_code": 107,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Kuldeep Rai Sharma",
+          "mp_code": 5119,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Legislative Assembly",
+        "Union Territories"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 217,
+      "title": "Regarding \r\nnon-participation of Sree Chitra Thirunal Institute of Medical Sciences &Technology \r\nin Ayushman Bharat PMJAY Insurance scheme in kerala.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri K. Muraleedharan",
+          "mp_code": 262,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Adv. Adoor Prakash",
+          "mp_code": 5123,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Adv. A. M. Arif",
+          "mp_code": 5121,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 216,
+      "title": "Regarding Chinese\r\n objection to World Bank financial assistance to Arunachal Pradesh.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Tapir Gao",
+          "mp_code": 3973,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 215,
+      "title": "Regarding setting up of \r\nPediatric Intensive Care Unit in Primary Health Centres of North Bihar.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Dr. Sanjay Jaiswal",
+          "mp_code": 4455,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri C.  P. Joshi",
+          "mp_code": 4671,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Encephalities",
+        "Medical Tests",
+        "Medical Facilites"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 214,
+      "title": "Regarding water scarcity \r\nin south Tamil Nadu.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Manicka Tagore",
+          "mp_code": 4552,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Water Storage",
+        "Water Crisis"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 213,
+      "title": "Regarding advertisements \r\nto Media House.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Ms. Mahua Moitra",
+          "mp_code": 5049,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Publicity",
+        "Electronic Media",
+        "Government Expenditures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 212,
+      "title": "Regarding condition of\r\nNational Highway No. 730 in Lakhimpur, U.P.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Ajay (Teni) Misra",
+          "mp_code": 4696,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Maintenance and Repair",
+        "Road Construction",
+        "Clearance"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 211,
+      "title": "Regarding sealing in\r\n Delhi",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Smt. Meenakashi Lekhi",
+          "mp_code": 4717,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri C.  P. Joshi",
+          "mp_code": 4671,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Delhi",
+        "Master Plans",
+        "Unauthorised Construction"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 210,
+      "title": "Regarding new overnight \r\ntrains from Badaun to Lucknow and Delhi.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Dr. Sanghamitra Maurya",
+          "mp_code": 5135,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Halts",
+        "New Railway Line"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 209,
+      "title": "Need to check\r\n deforestation and prtoect trees in Betal, Madhya Pradesh.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Durga Das Uikey",
+          "mp_code": 5057,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Forest Conservation",
+        "Tribals"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 208,
+      "title": "Regarding deaths of \r\nchildren in Kalawati  Saran Hospital in Delhi and take steps to improve medical facilities.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Smt. Supriya Sadanand Sule",
+          "mp_code": 4392,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Medical Facilities",
+        "Child Mortality"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 207,
+      "title": "Need to take action\r\n against instituions withholding certificates of students and employees.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Anto Antony",
+          "mp_code": 4571,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Kuldeep Rai Sharma",
+          "mp_code": 5119,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Sanjay Jaiswal",
+          "mp_code": 4455,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Adv. A. M. Arif",
+          "mp_code": 5121,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": [
+        "Educational Institution",
+        "Educational Loan",
+        "Educational Malpractices"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 206,
+      "title": "Need to set up a Bench\r\n of Patna High Court in Purnia, Bihar.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Santosh Kumar",
+          "mp_code": 4792,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Rajiv Pratap Rudy",
+          "mp_code": 385,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Janardan Singh Sigriwal",
+          "mp_code": 4638,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Bihar",
+        "Court Benches"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 205,
+      "title": "Regarding smooth running \r\nof Mumbai local trains during Monsson.",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Dr. Shrikant Eknath Shinde",
+          "mp_code": 4659,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Maintenance and Repair",
+        "Railway Time Table",
+        "Railway Tracks"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 204,
+      "title": "Regarding soil erosion \r\nduring floods and to implement Mahananda River Basin Project",
+      "debate_date": "27/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Dr. Mohammad Jawed",
+          "mp_code": 5216,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Flood Damage",
+        "Flood Check Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 203,
+      "title": "Laid an explanatory statement showing \r\nreasons for immediate Legislation by promulgation of the Indian Medical Council.",
+      "debate_date": "27/06/2019",
+      "debate_type": 49,
+      "debate_type_desc": "STATEMENT REGARDING ORDINANCE",
+      "members": [
+        {
+          "mp_name": "Shri Ashwini Kumar Choubey",
+          "mp_code": 4650,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 202,
+      "title": "Introduction of the Indian Medical Council (Amendment) Bill, 2019.",
+      "debate_date": "27/06/2019",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Ashwini Kumar Choubey",
+          "mp_code": 4650,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Medical Council of India",
+        "Accountability",
+        "Medical Practice"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 201,
+      "title": "Introduction of the Central Educational \r\nInstitutions (Reservation in Teachers' Cadre) Bill, 2019.",
+      "debate_date": "27/06/2019",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sanjay Shamrao Dhotre",
+          "mp_code": 3992,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Teaching Personnel",
+        "Universities",
+        "Scheduled Castes and Scheduled Tribes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 200,
+      "title": "Presentation of the 1st report of Business\r\nAdvisory Committee.",
+      "debate_date": "27/06/2019",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 199,
+      "title": "Papers laid on the\r\nTable of the House by Ministers/Members.",
+      "debate_date": "27/06/2019",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Rattan Lal Kataria",
+          "mp_code": 183,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 198,
+      "title": "Ruling regarding notices of Adjournment \r\nMotion.",
+      "debate_date": "27/06/2019",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 197,
+      "title": "The Speaker made \r\nreference to the passing away of Shri S. Rajendran, member of the Sixteenth Lok\r\nSabha; Shri Vishwa Nath Shastri, member of the Tenth Lok Sabha; Shri\r\nParipoornanand Painuli, member of the Fifth Lok Sabha; Shri K.J.K. Ritheesh\r\nSivakumar, member of the Fifteenth Lok Sabha; Shri S.P.Y. Reddy, member of the\r\nFourteenth to Sixteenth Lok Sabhas; Shri V. Viswanatha Menon, member of the\r\nFourth Lok Sabha; Shri R.N. Rakesh, member of the Sixth, Seventh and Ninth Lok\r\nSabhas; Shri Hariom Singh Rathore, member of the Sixteenth Lok Sabha; Shri M.K.\r\nSubba, member of the Twelfth to Fourteenth Lok Sabhas; Shri Kamlesh Balmiki,\r\nmember of the Fifteenth Lok Sabha and; Smt. Sheela Gautam, member of the Tenth\r\nto Thirteenth Lok Sabhas.",
+      "debate_date": "27/06/2019",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 196,
+      "title": "Introduction of the Stray Cows (Protection and\r\nControl) Board Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Animal Protection",
+        "Smuggling"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 195,
+      "title": "Need to set up a \r\nKendriya Vidyalaya in Amreli, Gujrat.",
+      "debate_date": "21/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Naranbhai Bhikhabhai Kachhadiya",
+          "mp_code": 4448,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "School Education",
+        "Central Schools"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 194,
+      "title": "Regarding \r\nsurgical strike and air strike by NDA government.",
+      "debate_date": "21/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Shri Devji Mansingram Patel",
+          "mp_code": 4411,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Sanjay Jaiswal",
+          "mp_code": 4455,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 193,
+      "title": "Introduction of Emblems and \r\nNames (Prevention of Improper Use) Amendment Bill, 2019 (Amendment of the \r\nSchedule)",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Parvesh Sahib Singh",
+          "mp_code": 4758,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Emblem",
+        "Religious Sanctity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 192,
+      "title": "Introduction of the Official Government Meetings and Functions (Prohibition on Serving\r\n Non-Vegetarian Food) Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Parvesh Sahib Singh",
+          "mp_code": 4758,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Animal Protection",
+        "Meat Products",
+        "Climate Change"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 191,
+      "title": "Introduction of the River (Conservation and Elimination of \r\nPollution) Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "River Pollution",
+        "Water Resources",
+        "River Cleaning"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 190,
+      "title": "Introduction of Victims of \r\nNatural Calamities (Rehabilitation and Financial Assistance) Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Disaster Management",
+        "Calamity Relief"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 189,
+      "title": "Introduction of the Population (Stabilization and \r\nPlanning) Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Family Welfare",
+        "Population Control",
+        "Population Policy",
+        "Women Welfare"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 188,
+      "title": "Introduction of the Mega Projects (Timely \r\nCompletion) Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Project Implementation",
+        "Project Delays",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 187,
+      "title": "Introduction of The Central Sanskrit\r\n University Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Language Promotion",
+        "Language Teaching",
+        "Sanskrit Language",
+        "Social Research"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 186,
+      "title": "Introduction of the Bundelkhand \r\nRegiment Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Military",
+        "Defence Forces"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 185,
+      "title": "Introduction of\r\n the Promotion and Protection of Intangible Cultural Heritage Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Bundelkhand",
+        "Folk Art",
+        "Folklore"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 184,
+      "title": "Introduction of the Compulsory Physical Fitness of Children \r\nthrough Sports in Schools and Development of Sports Infrastructure Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Shrirang Appa Barne",
+          "mp_code": 4781,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Sports Facilities",
+        "Sports Promotion",
+        "Physical Standards",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 183,
+      "title": "Introduction of the Tribal Children and\r\n Lactating Women in Jharkhand and Other States (Removal of Hunger, Malnutrition\r\n and Prevention of Starvation Deaths) Bill, 2019.",
+      "debate_date": "21/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Malnutrition",
+        "Women Welfare",
+        "Prevention",
+        "Hunger"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 182,
+      "title": "Introduction of the Right of Children to Free\r\n and Compulsory Education (Amendment) Bill, 2019 (Amendment of Section 2, ).",
+      "debate_date": "21/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Minimum Age",
+        "School Admission",
+        "Child Education"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 181,
+      "title": "Regarding prevalence \r\nof malnutrition in Melghat in Vidarbha, Maharastra.",
+      "debate_date": "21/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Smt Navnit Ravi Rana",
+          "mp_code": 5191,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drinking Water"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
+      "db_slno": 180,
+      "title": "Regarding \r\nboycotting of meeting called by by the Prime Minister on 'One Nation, One Election.\"",
+      "debate_date": "21/06/2019",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
+      "members": [
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Electoral Reforms"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 1,
       "db_slno": 179,
       "title": "Need to send representatives from Home Ministry to assess\r\n the law and order situation in  West Bengal.",
       "debate_date": "21/06/2019",
@@ -69790,997 +70759,6 @@
         "Law and Order",
         "Violence"
       ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13497,
-      "title": "Presentation of the 54th Report of the Business Advisory Committee.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri  Ananth Kumar",
-          "mp_code": 20,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13496,
-      "title": "Laid 97th Report of the Standing Committee on Personnel, Public Grievances, Law \r\nand Justice.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Pralhad Venkatesh Joshi",
-          "mp_code": 3982,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13495,
-      "title": "Presentation of 212th and 213th Reports of the Standing Committee on Home\r\n Affairs.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Adhir Ranjan Chowdhury",
-          "mp_code": 97,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13494,
-      "title": "Laid Action Taken statements by the Government on the recommendations of the Standing Committee on Rural Development.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Dr. Ponnusamy Venugopal",
-          "mp_code": 4532,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13493,
-      "title": "Presentation of the 49th, 50th and 51st Reports of the Standing Committee on Rural \r\nDevelopment.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Dr. Ponnusamy Venugopal",
-          "mp_code": 4532,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13492,
-      "title": "Presentation of the 46th, 47th and 48th Reports of the Standing Committee on \r\nChemicals and Fertilizers.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Anandrao Adsul",
-          "mp_code": 8,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13491,
-      "title": "Presentation of the 103rd, 104th, 105th and 106th Reports of Public Accounts Committee.",
-      "debate_date": "19/07/2018",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Shri Mallikarjun Kharge",
-          "mp_code": 4315,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13490,
-      "title": "Secretary-General laid the bills passed by the Houses of Parliament during \r\nthe 14th Session of 16th Lok Sabha and assented to by the President of India.",
-      "debate_date": "19/07/2018",
-      "debate_type": 3,
-      "debate_type_desc": "ASSENT TO BILLS",
-      "members": [
-        {
-          "mp_name": "Secretary-General",
-          "mp_code": 1002,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13489,
-      "title": "Papers laid on the Table of the House by Ministers/Members.",
-      "debate_date": "19/07/2018",
-      "debate_type": 34,
-      "debate_type_desc": "PAPERS LAID ON THE TABLE",
-      "members": [
-        {
-          "mp_name": "Shri Raj Kumar Singh",
-          "mp_code": 4653,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Pon Radhakrishnan",
-          "mp_code": 341,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Jayant Sinha",
-          "mp_code": 4768,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "SHRI MANSUKH L. MANDAVIYA",
-          "mp_code": 10019,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13488,
-      "title": "Consequent on his election to the Rajya Sabha, Shri Jose K. Mani, an elected \r\nMember from the Kottayam Parliamentary Constituency of Kerala ceased to be\r\nmember of the Lok Sabha with effect from 14 June 2018.",
-      "debate_date": "19/07/2018",
-      "debate_type": 44,
-      "debate_type_desc": "RESIGNATION AND VACATION OF SEAT BY  MEMBERS",
-      "members": [
-        {
-          "mp_name": "Sumitra Mahajan (Tai)",
-          "mp_code": 220,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13487,
-      "title": "Shri Baijayant Jay Panda, an elected member from the Kendrapara\r\nParliamentary Constituency of Odisha resigned from the membership of Lok Sabha\r\n w.e.f. 18 July 2018.",
-      "debate_date": "19/07/2018",
-      "debate_type": 44,
-      "debate_type_desc": "RESIGNATION AND VACATION OF SEAT BY  MEMBERS",
-      "members": [
-        {
-          "mp_name": "Sumitra Mahajan (Tai)",
-          "mp_code": 220,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13486,
-      "title": "Ruling regarding notices of adjournment motion.",
-      "debate_date": "19/07/2018",
-      "debate_type": 63,
-      "debate_type_desc": "RULING BY THE SPEAKER",
-      "members": [
-        {
-          "mp_name": "Sumitra Mahajan (Tai)",
-          "mp_code": 220,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13485,
-      "title": "Regarding false allegations against Chief\r\nMinister of West Bengal by a Member of the House.",
-      "debate_date": "24/07/2018",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Idris Ali",
-          "mp_code": 4848,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13484,
-      "title": "Discussion on the motion \r\nfor consideration of the Prevention of Corruption (Amendment) Bill, 2018, as \r\npassed by the Rajya Sabha.",
-      "debate_date": "24/07/2018",
-      "debate_type": 14,
-      "debate_type_desc": "GOVERNMENT BILLS",
-      "members": [
-        {
-          "mp_name": "DR. Jitendra Singh",
-          "mp_code": 4718,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Adhir Ranjan Chowdhury",
-          "mp_code": 97,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Pralhad Venkatesh Joshi",
-          "mp_code": 3982,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri S.Selvakumara Chinnayan",
-          "mp_code": 4861,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Smt. Aparupa Poddar",
-          "mp_code": 4844,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Tathagata Satpathy",
-          "mp_code": 3918,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri N.K. Premachandran",
-          "mp_code": 3754,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Arvind Ganpat Sawant",
-          "mp_code": 4713,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Kristappa Nimmala",
-          "mp_code": 4529,
-          "mp_part_code": 9
-        },
-        {
-          "mp_name": "Shri A.P. Jithender Reddy",
-          "mp_code": 380,
-          "mp_part_code": 10
-        },
-        {
-          "mp_name": "Shri Md. Badaruddoza Khan",
-          "mp_code": 4824,
-          "mp_part_code": 11
-        },
-        {
-          "mp_name": "Smt. Geetha Kothapalli",
-          "mp_code": 4679,
-          "mp_part_code": 12
-        },
-        {
-          "mp_name": "Shri Rajesh Ranjan  (Pappu  Yadav)",
-          "mp_code": 554,
-          "mp_part_code": 13
-        },
-        {
-          "mp_name": "Shri Parvesh Sahib Singh",
-          "mp_code": 4758,
-          "mp_part_code": 14
-        },
-        {
-          "mp_name": "Shri Prem Singh Chandumajra",
-          "mp_code": 3667,
-          "mp_part_code": 15
-        },
-        {
-          "mp_name": "Shri Bhagwant Mann",
-          "mp_code": 4635,
-          "mp_part_code": 16
-        },
-        {
-          "mp_name": "Shri E. T. Mohammed Basheer",
-          "mp_code": 4561,
-          "mp_part_code": 17
-        },
-        {
-          "mp_name": "Dr. Boora Narsaiah Goud",
-          "mp_code": 4803,
-          "mp_part_code": 18
-        },
-        {
-          "mp_name": "Smt. Poonam Mahajan",
-          "mp_code": 4660,
-          "mp_part_code": 19
-        },
-        {
-          "mp_name": "Prof. Kuruppassery Varkey Thomas",
-          "mp_code": 3209,
-          "mp_part_code": 20
-        },
-        {
-          "mp_name": "Shri Ram Kumar Sharma Kushwaha",
-          "mp_code": 4714,
-          "mp_part_code": 21
-        },
-        {
-          "mp_name": "Shri Kaushalendra Kumar",
-          "mp_code": 4467,
-          "mp_part_code": 22
-        },
-        {
-          "mp_name": "Dr. Ramesh Pokhriyal Nishank",
-          "mp_code": 4761,
-          "mp_part_code": 23
-        },
-        {
-          "mp_name": "DR. Jitendra Singh",
-          "mp_code": 4718,
-          "mp_part_code": 24
-        },
-        {
-          "mp_name": "Shri K.H. Muniyappa",
-          "mp_code": 261,
-          "mp_part_code": 25
-        }
-      ],
-      "keywords": [
-        "Banking Systems",
-        "Electoral Reforms",
-        "Law Commission",
-        "Law Enforcement",
-        "Loans",
-        "Subsidies",
-        "Transparency",
-        "Prosecution",
-        "Corruption",
-        "Appointment",
-        "Non-Performing Assets",
-        "Scams",
-        "Imprisonment",
-        "Enquiry",
-        "Punishments",
-        "Goods and Services Tax (GST)",
-        "Bribe",
-        "Red Tapism",
-        "Enforcement Directorate",
-        "Direct Benefit Transfer",
-        "Fraudulent Practice",
-        "Demonetisation",
-        "Digital India"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13483,
-      "title": "Need to construct subway at Mudicade\r\nand a vehicular underpass of Mullakkara Centre-Mulayam Road Junction on\r\nNational Highway-47 -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri C. N. Jayadevan",
-          "mp_code": 4827,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Accidents",
-        "Road Construction"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13482,
-      "title": "Need to review the order of ESIC regarding\r\nSuper Speciality Medical treatment -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri N.K. Premachandran",
-          "mp_code": 3754,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Medical Facilities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13481,
-      "title": "Need to make Punjabi language as an official\r\n language of Chandigarh -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Dharam Vira Gandhi",
-          "mp_code": 4676,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Language Promotion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13480,
-      "title": "Regarding reversal of reservation roster for \r\nrecruitment in Universities and Colleges -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Rajesh Ranjan  (Pappu  Yadav)",
-          "mp_code": 554,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Reservation Policy",
-        "Teachers",
-        "Appointment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13479,
-      "title": "Regarding \r\nconstruction work along Indo-Bangladesh border -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Md. Badaruddoza Khan",
-          "mp_code": 4824,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Cultivable Land"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13478,
-      "title": "Need to continue existing arrangement of\r\n catering system on railway platforms -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Arvind Ganpat Sawant",
-          "mp_code": 4713,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Catering",
-        "Vendors"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13477,
-      "title": "Need for relaxation of norms under Pradhan\r\nMantri Gram Sadak Yojana -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "SMT. PRATYUSHA RAJESHWARI SINGH",
-          "mp_code": 4929,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Development",
-        "Prime Minister Gram Sadak Yojana (PMGSY)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13476,
-      "title": "Regarding \r\nunemployment situation in the country -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Prof. Saugata Roy",
-          "mp_code": 2554,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Employment Generation",
-        "Unemployed Youth"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13475,
-      "title": "Regarding inclusion of fishermen community \r\nof Tamil Nadu in the list of Scheduled Tribes -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Jayakumar Jayavardhan",
-          "mp_code": 4873,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "ST",
-        "Fishermen Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13474,
-      "title": "Regarding release of pending funds to Tamil \r\nNadu relating to education sector -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Gopalakrishnan Chinnaraj",
-          "mp_code": 4860,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Educational Development",
-        "Fund Allocation",
-        "Sarva Shiksha Abhiyan"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13473,
-      "title": "Need to provide basic needs to 24 Tribal\r\ncolonies of Chamarajanagar district, Karnataka -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Rangaswamy Dhruvanarayana",
-          "mp_code": 4342,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Tribal Welfare",
-        "Basic Amenities",
-        "Forest Rights"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13472,
-      "title": "Need to increase the frequency of Bikaner - Dadar Superfast train -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Devji Mansingram Patel",
-          "mp_code": 4411,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Facilities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13471,
-      "title": "Need to resume operation of Korba-Raipur Intercity Express -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Banshilal Mahto",
-          "mp_code": 4882,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Facilities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13470,
-      "title": "Need to check release of untreated water by\r\nurban and semi-urban local bodies into rivers -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sharad Tripathi",
-          "mp_code": 4712,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Water Pollution",
-        "Water Treatment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13469,
-      "title": "Regarding 'Sugamya \r\nPustakalaya' and differently-abled friendly airport facilities in Satna Parliamentary\r\n Constituency, Madhya Pradesh -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ganesh Singh",
-          "mp_code": 3986,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Facilities",
-        "Physically Challenged"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13468,
-      "title": "Regarding CBI inquiry into gang rape and\r\nmurder of a engineering student in Ranchi, Jharkhand -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ram Tahal Choudhary",
-          "mp_code": 78,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Security Measures",
-        "CBI Inquiry"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13467,
-      "title": "Need to run train no. 14021/22 between Sikar and Delhi on daily basis -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sumedhanand Saraswati",
-          "mp_code": 4709,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Projects",
-        "Railway Service"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13466,
-      "title": "Regarding\r\n reopening of two paper mills in Assam -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Rameswar Teli",
-          "mp_code": 4745,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Employment",
-        "Industrial Revival"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13465,
-      "title": "Need\r\n to allocate funds for 'Rashtriya Janjati Sangrahalaya' at Mangarh Dham in\r\n Banswara district, Rajasthan -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Arjunlal Meena",
-          "mp_code": 4755,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Allocation",
-        "Museums"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13464,
-      "title": "Need to facilitate free treatment of people \r\nbelonging to economically weaker section and residing outside Delhi in\r\nhospitals of Delhi -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Raghav Lakhanpal",
-          "mp_code": 4785,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Medical Facilities",
-        "Medical Treatment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13463,
-      "title": "Need to \r\nundertake fresh Socio-Economic Caste Census -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ravindra Kumar Pandey",
-          "mp_code": 285,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Welfare Schemes",
-        "Below Poverty Line"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13462,
-      "title": "Need to provide funds for\r\nJaisalmer-Barmer-Bhabhar railway line project in Rajasthan -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Col. (Retd) Sona Ram Choudhary",
-          "mp_code": 89,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Allocation",
-        "Railway Projects"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13461,
-      "title": "Need to ensure payment of pension to\r\nold-aged, widows, differently-abled etc. at their place of residence and also\r\nenhance the pension amount -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Prahlad Singh Patel",
-          "mp_code": 306,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Pension Schemes",
-        "Social Security"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13460,
-      "title": "Need to undertake construction of link roads \r\ninter-connecting National Highways and State Highways particularly in Bihar and\r\nJharkhand -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sushil Kumar Singh",
-          "mp_code": 3928,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Construction",
-        "Road Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13459,
-      "title": "Crash of \r\nprivate plane in the residential area of Mumbai -laid.",
-      "debate_date": "24/07/2018",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Kirit Somaiya",
-          "mp_code": 467,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Compensations"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13458,
-      "title": "Need to \r\nintroduce additional Express Train from Chennai to Trichy via Virudhachalam.",
-      "debate_date": "24/07/2018",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri A. Arunmozhithevan",
-          "mp_code": 4849,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Over Bridge"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13457,
-      "title": "Need to expedite \r\nthe construction of over bridges near Mamadi Railway Station in Bardhman, \r\nDurgapur Parliamentary Constituency, West Bengal.",
-      "debate_date": "24/07/2018",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr.(Smt.) Mamtaz Sanghamita",
-          "mp_code": 4899,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 15,
-      "db_slno": 13456,
-      "title": "Need to release \r\nto the urban local bodies of Tamil Nadu the second instalment of Basic Grants\r\nand Performance Grants for 2018-19.",
-      "debate_date": "24/07/2018",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Jayakumar Jayavardhan",
-          "mp_code": 4873,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
     }
   ],
   "count": 2500,
