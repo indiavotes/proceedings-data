@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 482,
+    "records_with_text": 485,
     "shards": 176,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 853349,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 482,
-    "txt_files_removed": 0
+    "txt_files_removed": 3
   },
   "shards": [
     {
@@ -890,8 +890,8 @@
     },
     {
       "file": "texts-175.json",
-      "count": 8,
-      "bytes": 3126128
+      "count": 11,
+      "bytes": 3990321
     }
   ],
   "record_to_shard": {
@@ -1376,6 +1376,9 @@
     "rs|RS270_2026-02-10|floor": 175,
     "rs|RS270_2026-02-12|floor": 175,
     "rs|RS270_2026-02-13|floor": 175,
-    "rs|RS270_2026-03-09|floor": 175
+    "rs|RS270_2026-03-09|floor": 175,
+    "rs|RS270_2026-03-13|floor": 175,
+    "rs|RS270_2026-03-16|floor": 175,
+    "rs|RS270_2026-03-18|floor": 175
   }
 }
