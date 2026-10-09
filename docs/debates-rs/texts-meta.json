@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 485,
-    "shards": 176,
+    "records_with_text": 486,
+    "shards": 177,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 2749275,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 485,
-    "txt_files_removed": 0
+    "txt_files_removed": 1
   },
   "shards": [
     {
@@ -616,280 +616,285 @@
     {
       "file": "texts-120.json",
       "count": 1,
-      "bytes": 2337307
+      "bytes": 2840127
     },
     {
       "file": "texts-121.json",
+      "count": 1,
+      "bytes": 2337307
+    },
+    {
+      "file": "texts-122.json",
       "count": 4,
       "bytes": 3412039
     },
     {
-      "file": "texts-122.json",
+      "file": "texts-123.json",
       "count": 2,
       "bytes": 3607666
     },
     {
-      "file": "texts-123.json",
+      "file": "texts-124.json",
       "count": 2,
       "bytes": 3425615
     },
     {
-      "file": "texts-124.json",
+      "file": "texts-125.json",
       "count": 2,
       "bytes": 2981984
     },
     {
-      "file": "texts-125.json",
+      "file": "texts-126.json",
       "count": 2,
       "bytes": 3077402
     },
     {
-      "file": "texts-126.json",
+      "file": "texts-127.json",
       "count": 2,
       "bytes": 3296211
     },
     {
-      "file": "texts-127.json",
+      "file": "texts-128.json",
       "count": 2,
       "bytes": 3126168
     },
     {
-      "file": "texts-128.json",
+      "file": "texts-129.json",
       "count": 2,
       "bytes": 2996377
     },
     {
-      "file": "texts-129.json",
+      "file": "texts-130.json",
       "count": 4,
       "bytes": 4461740
     },
     {
-      "file": "texts-130.json",
+      "file": "texts-131.json",
       "count": 1,
       "bytes": 4832079
     },
     {
-      "file": "texts-131.json",
+      "file": "texts-132.json",
       "count": 3,
       "bytes": 3599152
     },
     {
-      "file": "texts-132.json",
+      "file": "texts-133.json",
       "count": 2,
       "bytes": 2639311
     },
     {
-      "file": "texts-133.json",
+      "file": "texts-134.json",
       "count": 2,
       "bytes": 3774155
     },
     {
-      "file": "texts-134.json",
+      "file": "texts-135.json",
       "count": 2,
       "bytes": 2297720
     },
     {
-      "file": "texts-135.json",
+      "file": "texts-136.json",
       "count": 2,
       "bytes": 2912677
     },
     {
-      "file": "texts-136.json",
+      "file": "texts-137.json",
       "count": 2,
       "bytes": 3271518
     },
     {
-      "file": "texts-137.json",
+      "file": "texts-138.json",
       "count": 2,
       "bytes": 3237779
     },
     {
-      "file": "texts-138.json",
+      "file": "texts-139.json",
       "count": 3,
       "bytes": 3758101
     },
     {
-      "file": "texts-139.json",
+      "file": "texts-140.json",
       "count": 2,
       "bytes": 3298476
     },
     {
-      "file": "texts-140.json",
+      "file": "texts-141.json",
       "count": 1,
       "bytes": 3020845
     },
     {
-      "file": "texts-141.json",
+      "file": "texts-142.json",
       "count": 2,
       "bytes": 2408802
     },
     {
-      "file": "texts-142.json",
+      "file": "texts-143.json",
       "count": 2,
       "bytes": 3018119
     },
     {
-      "file": "texts-143.json",
+      "file": "texts-144.json",
       "count": 2,
       "bytes": 2244604
     },
     {
-      "file": "texts-144.json",
+      "file": "texts-145.json",
       "count": 2,
       "bytes": 2530923
     },
     {
-      "file": "texts-145.json",
+      "file": "texts-146.json",
       "count": 2,
       "bytes": 3254979
     },
     {
-      "file": "texts-146.json",
+      "file": "texts-147.json",
       "count": 2,
       "bytes": 2491248
     },
     {
-      "file": "texts-147.json",
+      "file": "texts-148.json",
       "count": 2,
       "bytes": 2896749
     },
     {
-      "file": "texts-148.json",
+      "file": "texts-149.json",
       "count": 2,
       "bytes": 3356813
     },
     {
-      "file": "texts-149.json",
+      "file": "texts-150.json",
       "count": 3,
       "bytes": 3990022
     },
     {
-      "file": "texts-150.json",
+      "file": "texts-151.json",
       "count": 2,
       "bytes": 3041672
     },
     {
-      "file": "texts-151.json",
+      "file": "texts-152.json",
       "count": 3,
       "bytes": 2804496
     },
     {
-      "file": "texts-152.json",
+      "file": "texts-153.json",
       "count": 1,
       "bytes": 5368958
     },
     {
-      "file": "texts-153.json",
+      "file": "texts-154.json",
       "count": 3,
       "bytes": 2850005
     },
     {
-      "file": "texts-154.json",
+      "file": "texts-155.json",
       "count": 3,
       "bytes": 2904700
     },
     {
-      "file": "texts-155.json",
+      "file": "texts-156.json",
       "count": 2,
       "bytes": 2821085
     },
     {
-      "file": "texts-156.json",
+      "file": "texts-157.json",
       "count": 2,
       "bytes": 2602360
     },
     {
-      "file": "texts-157.json",
+      "file": "texts-158.json",
       "count": 2,
       "bytes": 2814226
     },
     {
-      "file": "texts-158.json",
+      "file": "texts-159.json",
       "count": 2,
       "bytes": 2542867
     },
     {
-      "file": "texts-159.json",
+      "file": "texts-160.json",
       "count": 2,
       "bytes": 3447891
     },
     {
-      "file": "texts-160.json",
+      "file": "texts-161.json",
       "count": 2,
       "bytes": 2987709
     },
     {
-      "file": "texts-161.json",
+      "file": "texts-162.json",
       "count": 2,
       "bytes": 2360832
     },
     {
-      "file": "texts-162.json",
+      "file": "texts-163.json",
       "count": 2,
       "bytes": 3179183
     },
     {
-      "file": "texts-163.json",
+      "file": "texts-164.json",
       "count": 2,
       "bytes": 3664935
     },
     {
-      "file": "texts-164.json",
+      "file": "texts-165.json",
       "count": 2,
       "bytes": 2945679
     },
     {
-      "file": "texts-165.json",
+      "file": "texts-166.json",
       "count": 2,
       "bytes": 3664848
     },
     {
-      "file": "texts-166.json",
+      "file": "texts-167.json",
       "count": 1,
       "bytes": 2251679
     },
     {
-      "file": "texts-167.json",
+      "file": "texts-168.json",
       "count": 1,
       "bytes": 2622790
     },
     {
-      "file": "texts-168.json",
+      "file": "texts-169.json",
       "count": 2,
       "bytes": 3551767
     },
     {
-      "file": "texts-169.json",
+      "file": "texts-170.json",
       "count": 2,
       "bytes": 3144054
     },
     {
-      "file": "texts-170.json",
+      "file": "texts-171.json",
       "count": 2,
       "bytes": 3616936
     },
     {
-      "file": "texts-171.json",
+      "file": "texts-172.json",
       "count": 2,
       "bytes": 3239069
     },
     {
-      "file": "texts-172.json",
+      "file": "texts-173.json",
       "count": 1,
       "bytes": 2625077
     },
     {
-      "file": "texts-173.json",
+      "file": "texts-174.json",
       "count": 2,
       "bytes": 2889458
     },
     {
-      "file": "texts-174.json",
+      "file": "texts-175.json",
       "count": 6,
       "bytes": 4332929
     },
     {
-      "file": "texts-175.json",
+      "file": "texts-176.json",
       "count": 11,
       "bytes": 3990321
     }
@@ -1252,133 +1257,134 @@
     "rs|RS266_2024-12-16|part1": 118,
     "rs|RS266_2024-12-17|part1": 119,
     "rs|RS266_2024-12-18|floor": 119,
-    "rs|RS266_2024-12-19|part1": 120,
-    "rs|RS266_2024-12-20|part1": 121,
-    "rs|RS267_2025-01-31|floor": 121,
-    "rs|RS267_2025-02-01|floor": 121,
-    "rs|RS267_2025-02-03|floor": 121,
-    "rs|RS267_2025-02-03|part1": 122,
-    "rs|RS267_2025-02-04|floor": 122,
-    "rs|RS267_2025-02-04|part1": 123,
-    "rs|RS267_2025-02-06|floor": 123,
-    "rs|RS267_2025-02-06|part1": 124,
-    "rs|RS267_2025-02-07|floor": 124,
-    "rs|RS267_2025-02-07|part1": 125,
-    "rs|RS267_2025-02-10|floor": 125,
-    "rs|RS267_2025-02-10|part1": 126,
-    "rs|RS267_2025-02-11|floor": 126,
-    "rs|RS267_2025-02-11|part1": 127,
-    "rs|RS267_2025-02-13|floor": 127,
-    "rs|RS267_2025-02-13|part1": 128,
-    "rs|RS267_2025-03-10|floor": 128,
-    "rs|RS267_2025-03-10|part1": 129,
-    "rs|RS267_2025-03-11|floor": 129,
-    "rs|RS267_2025-03-12|floor": 129,
-    "rs|RS267_2025-03-17|floor": 129,
-    "rs|RS267_2025-03-17|part1": 130,
-    "rs|RS267_2025-03-18|floor": 131,
-    "rs|RS267_2025-03-18|part1": 131,
-    "rs|RS267_2025-03-19|floor": 131,
-    "rs|RS267_2025-03-19|part1": 132,
-    "rs|RS267_2025-03-20|floor": 132,
-    "rs|RS267_2025-03-20|part1": 133,
-    "rs|RS267_2025-03-21|floor": 133,
-    "rs|RS267_2025-03-21|part1": 134,
-    "rs|RS267_2025-03-24|floor": 134,
-    "rs|RS267_2025-03-24|part1": 135,
-    "rs|RS267_2025-03-25|floor": 135,
-    "rs|RS267_2025-03-25|part1": 136,
-    "rs|RS267_2025-03-26|floor": 136,
-    "rs|RS267_2025-03-26|part1": 137,
-    "rs|RS267_2025-03-27|floor": 137,
-    "rs|RS267_2025-03-27|part1": 138,
-    "rs|RS267_2025-03-28|floor": 138,
-    "rs|RS267_2025-04-01|floor": 138,
-    "rs|RS267_2025-04-01|part1": 139,
-    "rs|RS267_2025-04-02|floor": 139,
-    "rs|RS267_2025-04-02|part1": 140,
-    "rs|RS267_2025-04-03|part1": 141,
-    "rs|RS267_2025-04-04|floor": 141,
-    "rs|RS267_2025-04-04|part1": 142,
-    "rs|RS268_2025-07-21|floor": 142,
-    "rs|RS268_2025-07-21|part1": 143,
-    "rs|RS268_2025-07-22|floor": 143,
-    "rs|RS268_2025-07-22|part1": 144,
-    "rs|RS268_2025-07-23|floor": 144,
-    "rs|RS268_2025-07-23|part1": 145,
-    "rs|RS268_2025-07-24|floor": 145,
-    "rs|RS268_2025-07-24|part1": 146,
-    "rs|RS268_2025-07-25|floor": 146,
-    "rs|RS268_2025-07-25|part1": 147,
-    "rs|RS268_2025-07-28|floor": 147,
-    "rs|RS268_2025-07-28|part1": 148,
-    "rs|RS268_2025-07-29|floor": 148,
-    "rs|RS268_2025-07-29|part1": 149,
-    "rs|RS268_2025-07-30|floor": 149,
-    "rs|RS268_2025-07-31|floor": 149,
-    "rs|RS268_2025-07-31|part1": 150,
-    "rs|RS268_2025-08-01|floor": 150,
-    "rs|RS268_2025-08-01|part1": 151,
-    "rs|RS268_2025-08-04|floor": 151,
-    "rs|RS268_2025-08-05|floor": 151,
-    "rs|RS268_2025-08-05|part1": 152,
-    "rs|RS268_2025-08-06|floor": 153,
-    "rs|RS268_2025-08-06|part1": 153,
-    "rs|RS268_2025-08-07|floor": 153,
-    "rs|RS268_2025-08-07|part1": 154,
-    "rs|RS268_2025-08-08|floor": 154,
-    "rs|RS268_2025-08-11|floor": 154,
-    "rs|RS268_2025-08-11|part1": 155,
-    "rs|RS268_2025-08-12|floor": 155,
-    "rs|RS268_2025-08-12|part1": 156,
-    "rs|RS268_2025-08-18|floor": 156,
-    "rs|RS268_2025-08-18|part1": 157,
-    "rs|RS268_2025-08-19|floor": 157,
-    "rs|RS268_2025-08-19|part1": 158,
-    "rs|RS268_2025-08-20|floor": 158,
-    "rs|RS268_2025-08-20|part1": 159,
-    "rs|RS268_2025-08-21|floor": 159,
-    "rs|RS268_2025-08-21|part1": 160,
-    "rs|RS269_2025-12-01|floor": 160,
-    "rs|RS269_2025-12-01|part1": 161,
-    "rs|RS269_2025-12-02|floor": 161,
-    "rs|RS269_2025-12-02|part1": 162,
-    "rs|RS269_2025-12-03|floor": 162,
-    "rs|RS269_2025-12-03|part1": 163,
-    "rs|RS269_2025-12-04|floor": 163,
-    "rs|RS269_2025-12-04|part1": 164,
-    "rs|RS269_2025-12-05|floor": 164,
-    "rs|RS269_2025-12-05|part1": 165,
-    "rs|RS269_2025-12-08|floor": 165,
-    "rs|RS269_2025-12-08|part1": 166,
-    "rs|RS269_2025-12-09|part1": 167,
-    "rs|RS269_2025-12-10|part1": 168,
-    "rs|RS269_2025-12-11|floor": 168,
-    "rs|RS269_2025-12-11|part1": 169,
-    "rs|RS269_2025-12-12|floor": 169,
-    "rs|RS269_2025-12-12|part1": 170,
-    "rs|RS269_2025-12-15|floor": 170,
-    "rs|RS269_2025-12-15|part1": 171,
-    "rs|RS269_2025-12-16|floor": 171,
-    "rs|RS269_2025-12-16|part1": 172,
-    "rs|RS269_2025-12-18|part1": 173,
-    "rs|RS269_2025-12-19|floor": 173,
-    "rs|RS269_2025-12-19|part1": 174,
-    "rs|RS270_2026-01-28|floor": 174,
-    "rs|RS270_2026-01-29|floor": 174,
-    "rs|RS270_2026-02-01|floor": 174,
-    "rs|RS270_2026-02-02|floor": 174,
-    "rs|RS270_2026-02-03|floor": 174,
-    "rs|RS270_2026-02-04|floor": 175,
-    "rs|RS270_2026-02-05|floor": 175,
-    "rs|RS270_2026-02-06|floor": 175,
-    "rs|RS270_2026-02-09|floor": 175,
-    "rs|RS270_2026-02-10|floor": 175,
-    "rs|RS270_2026-02-12|floor": 175,
-    "rs|RS270_2026-02-13|floor": 175,
-    "rs|RS270_2026-03-09|floor": 175,
-    "rs|RS270_2026-03-13|floor": 175,
-    "rs|RS270_2026-03-16|floor": 175,
-    "rs|RS270_2026-03-18|floor": 175
+    "rs|RS266_2024-12-18|part1": 120,
+    "rs|RS266_2024-12-19|part1": 121,
+    "rs|RS266_2024-12-20|part1": 122,
+    "rs|RS267_2025-01-31|floor": 122,
+    "rs|RS267_2025-02-01|floor": 122,
+    "rs|RS267_2025-02-03|floor": 122,
+    "rs|RS267_2025-02-03|part1": 123,
+    "rs|RS267_2025-02-04|floor": 123,
+    "rs|RS267_2025-02-04|part1": 124,
+    "rs|RS267_2025-02-06|floor": 124,
+    "rs|RS267_2025-02-06|part1": 125,
+    "rs|RS267_2025-02-07|floor": 125,
+    "rs|RS267_2025-02-07|part1": 126,
+    "rs|RS267_2025-02-10|floor": 126,
+    "rs|RS267_2025-02-10|part1": 127,
+    "rs|RS267_2025-02-11|floor": 127,
+    "rs|RS267_2025-02-11|part1": 128,
+    "rs|RS267_2025-02-13|floor": 128,
+    "rs|RS267_2025-02-13|part1": 129,
+    "rs|RS267_2025-03-10|floor": 129,
+    "rs|RS267_2025-03-10|part1": 130,
+    "rs|RS267_2025-03-11|floor": 130,
+    "rs|RS267_2025-03-12|floor": 130,
+    "rs|RS267_2025-03-17|floor": 130,
+    "rs|RS267_2025-03-17|part1": 131,
+    "rs|RS267_2025-03-18|floor": 132,
+    "rs|RS267_2025-03-18|part1": 132,
+    "rs|RS267_2025-03-19|floor": 132,
+    "rs|RS267_2025-03-19|part1": 133,
+    "rs|RS267_2025-03-20|floor": 133,
+    "rs|RS267_2025-03-20|part1": 134,
+    "rs|RS267_2025-03-21|floor": 134,
+    "rs|RS267_2025-03-21|part1": 135,
+    "rs|RS267_2025-03-24|floor": 135,
+    "rs|RS267_2025-03-24|part1": 136,
+    "rs|RS267_2025-03-25|floor": 136,
+    "rs|RS267_2025-03-25|part1": 137,
+    "rs|RS267_2025-03-26|floor": 137,
+    "rs|RS267_2025-03-26|part1": 138,
+    "rs|RS267_2025-03-27|floor": 138,
+    "rs|RS267_2025-03-27|part1": 139,
+    "rs|RS267_2025-03-28|floor": 139,
+    "rs|RS267_2025-04-01|floor": 139,
+    "rs|RS267_2025-04-01|part1": 140,
+    "rs|RS267_2025-04-02|floor": 140,
+    "rs|RS267_2025-04-02|part1": 141,
+    "rs|RS267_2025-04-03|part1": 142,
+    "rs|RS267_2025-04-04|floor": 142,
+    "rs|RS267_2025-04-04|part1": 143,
+    "rs|RS268_2025-07-21|floor": 143,
+    "rs|RS268_2025-07-21|part1": 144,
+    "rs|RS268_2025-07-22|floor": 144,
+    "rs|RS268_2025-07-22|part1": 145,
+    "rs|RS268_2025-07-23|floor": 145,
+    "rs|RS268_2025-07-23|part1": 146,
+    "rs|RS268_2025-07-24|floor": 146,
+    "rs|RS268_2025-07-24|part1": 147,
+    "rs|RS268_2025-07-25|floor": 147,
+    "rs|RS268_2025-07-25|part1": 148,
+    "rs|RS268_2025-07-28|floor": 148,
+    "rs|RS268_2025-07-28|part1": 149,
+    "rs|RS268_2025-07-29|floor": 149,
+    "rs|RS268_2025-07-29|part1": 150,
+    "rs|RS268_2025-07-30|floor": 150,
+    "rs|RS268_2025-07-31|floor": 150,
+    "rs|RS268_2025-07-31|part1": 151,
+    "rs|RS268_2025-08-01|floor": 151,
+    "rs|RS268_2025-08-01|part1": 152,
+    "rs|RS268_2025-08-04|floor": 152,
+    "rs|RS268_2025-08-05|floor": 152,
+    "rs|RS268_2025-08-05|part1": 153,
+    "rs|RS268_2025-08-06|floor": 154,
+    "rs|RS268_2025-08-06|part1": 154,
+    "rs|RS268_2025-08-07|floor": 154,
+    "rs|RS268_2025-08-07|part1": 155,
+    "rs|RS268_2025-08-08|floor": 155,
+    "rs|RS268_2025-08-11|floor": 155,
+    "rs|RS268_2025-08-11|part1": 156,
+    "rs|RS268_2025-08-12|floor": 156,
+    "rs|RS268_2025-08-12|part1": 157,
+    "rs|RS268_2025-08-18|floor": 157,
+    "rs|RS268_2025-08-18|part1": 158,
+    "rs|RS268_2025-08-19|floor": 158,
+    "rs|RS268_2025-08-19|part1": 159,
+    "rs|RS268_2025-08-20|floor": 159,
+    "rs|RS268_2025-08-20|part1": 160,
+    "rs|RS268_2025-08-21|floor": 160,
+    "rs|RS268_2025-08-21|part1": 161,
+    "rs|RS269_2025-12-01|floor": 161,
+    "rs|RS269_2025-12-01|part1": 162,
+    "rs|RS269_2025-12-02|floor": 162,
+    "rs|RS269_2025-12-02|part1": 163,
+    "rs|RS269_2025-12-03|floor": 163,
+    "rs|RS269_2025-12-03|part1": 164,
+    "rs|RS269_2025-12-04|floor": 164,
+    "rs|RS269_2025-12-04|part1": 165,
+    "rs|RS269_2025-12-05|floor": 165,
+    "rs|RS269_2025-12-05|part1": 166,
+    "rs|RS269_2025-12-08|floor": 166,
+    "rs|RS269_2025-12-08|part1": 167,
+    "rs|RS269_2025-12-09|part1": 168,
+    "rs|RS269_2025-12-10|part1": 169,
+    "rs|RS269_2025-12-11|floor": 169,
+    "rs|RS269_2025-12-11|part1": 170,
+    "rs|RS269_2025-12-12|floor": 170,
+    "rs|RS269_2025-12-12|part1": 171,
+    "rs|RS269_2025-12-15|floor": 171,
+    "rs|RS269_2025-12-15|part1": 172,
+    "rs|RS269_2025-12-16|floor": 172,
+    "rs|RS269_2025-12-16|part1": 173,
+    "rs|RS269_2025-12-18|part1": 174,
+    "rs|RS269_2025-12-19|floor": 174,
+    "rs|RS269_2025-12-19|part1": 175,
+    "rs|RS270_2026-01-28|floor": 175,
+    "rs|RS270_2026-01-29|floor": 175,
+    "rs|RS270_2026-02-01|floor": 175,
+    "rs|RS270_2026-02-02|floor": 175,
+    "rs|RS270_2026-02-03|floor": 175,
+    "rs|RS270_2026-02-04|floor": 176,
+    "rs|RS270_2026-02-05|floor": 176,
+    "rs|RS270_2026-02-06|floor": 176,
+    "rs|RS270_2026-02-09|floor": 176,
+    "rs|RS270_2026-02-10|floor": 176,
+    "rs|RS270_2026-02-12|floor": 176,
+    "rs|RS270_2026-02-13|floor": 176,
+    "rs|RS270_2026-03-09|floor": 176,
+    "rs|RS270_2026-03-13|floor": 176,
+    "rs|RS270_2026-03-16|floor": 176,
+    "rs|RS270_2026-03-18|floor": 176
   }
 }
