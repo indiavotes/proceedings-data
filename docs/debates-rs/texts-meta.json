@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 492,
-    "shards": 178,
+    "records_with_text": 495,
+    "shards": 179,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 5778424,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 492,
-    "txt_files_removed": 0
+    "txt_files_removed": 3
   },
   "shards": [
     {
@@ -895,13 +895,18 @@
     },
     {
       "file": "texts-176.json",
-      "count": 13,
-      "bytes": 4589294
+      "count": 4,
+      "bytes": 4270558
     },
     {
       "file": "texts-177.json",
-      "count": 4,
-      "bytes": 957614
+      "count": 6,
+      "bytes": 4264434
+    },
+    {
+      "file": "texts-178.json",
+      "count": 10,
+      "bytes": 2955825
     }
   ],
   "record_to_shard": {
@@ -1382,20 +1387,23 @@
     "rs|RS270_2026-02-03|floor": 175,
     "rs|RS270_2026-02-04|floor": 176,
     "rs|RS270_2026-02-05|floor": 176,
+    "rs|RS270_2026-02-05|part1": 176,
     "rs|RS270_2026-02-06|floor": 176,
-    "rs|RS270_2026-02-09|floor": 176,
-    "rs|RS270_2026-02-10|floor": 176,
-    "rs|RS270_2026-02-12|floor": 176,
-    "rs|RS270_2026-02-13|floor": 176,
-    "rs|RS270_2026-03-09|floor": 176,
-    "rs|RS270_2026-03-11|floor": 176,
-    "rs|RS270_2026-03-13|floor": 176,
-    "rs|RS270_2026-03-16|floor": 176,
-    "rs|RS270_2026-03-17|floor": 176,
-    "rs|RS270_2026-03-18|floor": 176,
-    "rs|RS270_2026-03-24|floor": 177,
-    "rs|RS270_2026-04-16|floor": 177,
-    "rs|RS270_2026-04-17|floor": 177,
-    "rs|RS270_2026-04-18|floor": 177
+    "rs|RS270_2026-02-09|floor": 177,
+    "rs|RS270_2026-02-10|floor": 177,
+    "rs|RS270_2026-02-10|part1": 177,
+    "rs|RS270_2026-02-11|floor": 177,
+    "rs|RS270_2026-02-12|floor": 177,
+    "rs|RS270_2026-02-13|floor": 177,
+    "rs|RS270_2026-03-09|floor": 178,
+    "rs|RS270_2026-03-11|floor": 178,
+    "rs|RS270_2026-03-13|floor": 178,
+    "rs|RS270_2026-03-16|floor": 178,
+    "rs|RS270_2026-03-17|floor": 178,
+    "rs|RS270_2026-03-18|floor": 178,
+    "rs|RS270_2026-03-24|floor": 178,
+    "rs|RS270_2026-04-16|floor": 178,
+    "rs|RS270_2026-04-17|floor": 178,
+    "rs|RS270_2026-04-18|floor": 178
   }
 }
