@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 495,
-    "shards": 179,
+    "records_with_text": 497,
+    "shards": 181,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 6288202,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 495,
-    "txt_files_removed": 0
+    "txt_files_removed": 2
   },
   "shards": [
     {
@@ -895,18 +895,28 @@
     },
     {
       "file": "texts-176.json",
-      "count": 4,
-      "bytes": 4270558
+      "count": 3,
+      "bytes": 3897906
     },
     {
       "file": "texts-177.json",
-      "count": 6,
-      "bytes": 4264434
+      "count": 4,
+      "bytes": 4126663
     },
     {
       "file": "texts-178.json",
-      "count": 10,
-      "bytes": 2955825
+      "count": 4,
+      "bytes": 3322812
+    },
+    {
+      "file": "texts-179.json",
+      "count": 2,
+      "bytes": 4102347
+    },
+    {
+      "file": "texts-180.json",
+      "count": 9,
+      "bytes": 2420780
     }
   ],
   "record_to_shard": {
@@ -1385,25 +1395,27 @@
     "rs|RS270_2026-02-01|floor": 175,
     "rs|RS270_2026-02-02|floor": 175,
     "rs|RS270_2026-02-03|floor": 175,
+    "rs|RS270_2026-02-03|part1": 176,
     "rs|RS270_2026-02-04|floor": 176,
     "rs|RS270_2026-02-05|floor": 176,
-    "rs|RS270_2026-02-05|part1": 176,
-    "rs|RS270_2026-02-06|floor": 176,
+    "rs|RS270_2026-02-05|part1": 177,
+    "rs|RS270_2026-02-06|floor": 177,
     "rs|RS270_2026-02-09|floor": 177,
     "rs|RS270_2026-02-10|floor": 177,
-    "rs|RS270_2026-02-10|part1": 177,
-    "rs|RS270_2026-02-11|floor": 177,
-    "rs|RS270_2026-02-12|floor": 177,
-    "rs|RS270_2026-02-13|floor": 177,
-    "rs|RS270_2026-03-09|floor": 178,
-    "rs|RS270_2026-03-11|floor": 178,
-    "rs|RS270_2026-03-13|floor": 178,
-    "rs|RS270_2026-03-16|floor": 178,
-    "rs|RS270_2026-03-17|floor": 178,
-    "rs|RS270_2026-03-18|floor": 178,
-    "rs|RS270_2026-03-24|floor": 178,
-    "rs|RS270_2026-04-16|floor": 178,
-    "rs|RS270_2026-04-17|floor": 178,
-    "rs|RS270_2026-04-18|floor": 178
+    "rs|RS270_2026-02-10|part1": 178,
+    "rs|RS270_2026-02-11|floor": 178,
+    "rs|RS270_2026-02-12|floor": 178,
+    "rs|RS270_2026-02-13|floor": 178,
+    "rs|RS270_2026-02-13|part1": 179,
+    "rs|RS270_2026-03-09|floor": 179,
+    "rs|RS270_2026-03-11|floor": 180,
+    "rs|RS270_2026-03-13|floor": 180,
+    "rs|RS270_2026-03-16|floor": 180,
+    "rs|RS270_2026-03-17|floor": 180,
+    "rs|RS270_2026-03-18|floor": 180,
+    "rs|RS270_2026-03-24|floor": 180,
+    "rs|RS270_2026-04-16|floor": 180,
+    "rs|RS270_2026-04-17|floor": 180,
+    "rs|RS270_2026-04-18|floor": 180
   }
 }
