@@ -3,6 +3,1710 @@
     {
       "house": "ls",
       "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13039,
+      "title": "The Speaker made an Observation regarding Construction of Shri Ram Temple in Ayodhya",
+      "debate_date": "10/02/2024",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Ram Temple"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13038,
+      "title": "Discussion regarding Construction of Historic Shri Ram Temple and Pran Pratishtha of Shri Ramlala",
+      "debate_date": "10/02/2024",
+      "debate_type": 45,
+      "debate_type_desc": "SHORT DURATION DISCUSSIONS (RULE-193)",
+      "members": [
+        {
+          "mp_name": "Dr. Satya Pal Singh",
+          "mp_code": 4600,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Satya Pal Singh",
+          "mp_code": 4600,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Maddila Gurumoorthy",
+          "mp_code": 5534,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri Rampreet Mandal",
+          "mp_code": 5214,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Shri Rampreet Mandal",
+          "mp_code": 5214,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri Pratap Chandra Sarangi",
+          "mp_code": 4985,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Dr. Shrikant Eknath Shinde",
+          "mp_code": 4659,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Shri   Malook Nagar",
+          "mp_code": 5139,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 34
+        },
+        {
+          "mp_name": "Shri   Malook Nagar",
+          "mp_code": 5139,
+          "mp_part_code": 35
+        },
+        {
+          "mp_name": "Shri Raj Hans Hans",
+          "mp_code": 5033,
+          "mp_part_code": 36
+        },
+        {
+          "mp_name": "Shri Arvind Ganpat Sawant",
+          "mp_code": 4713,
+          "mp_part_code": 37
+        },
+        {
+          "mp_name": "Dr. Amol Ramsing Kolhe",
+          "mp_code": 5185,
+          "mp_part_code": 38
+        },
+        {
+          "mp_name": "Shri Sunil Kumar (Pintu)",
+          "mp_code": 5220,
+          "mp_part_code": 39
+        },
+        {
+          "mp_name": "Shri Rahul Ramesh Shewale",
+          "mp_code": 4903,
+          "mp_part_code": 40
+        },
+        {
+          "mp_name": "Dr. Umesh G. Jadhav",
+          "mp_code": 5178,
+          "mp_part_code": 41
+        },
+        {
+          "mp_name": "Shri Kinjarapu Ram Mohan Naidu",
+          "mp_code": 4771,
+          "mp_part_code": 42
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 43
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 44
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 45
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 46
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 47
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 48
+        },
+        {
+          "mp_name": "Shri Bheemrao Baswanthrao Patil",
+          "mp_code": 4756,
+          "mp_part_code": 49
+        },
+        {
+          "mp_name": "Shri Naba (Hira) Kumar Sarania",
+          "mp_code": 4774,
+          "mp_part_code": 50
+        },
+        {
+          "mp_name": "Shri Sambhajirao Mane Dhairyasheel",
+          "mp_code": 5187,
+          "mp_part_code": 51
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 52
+        },
+        {
+          "mp_name": "Shri Girish Chandra",
+          "mp_code": 5156,
+          "mp_part_code": 53
+        },
+        {
+          "mp_name": "Shri Anubhav Mohanty",
+          "mp_code": 4994,
+          "mp_part_code": 54
+        },
+        {
+          "mp_name": "Smt Navnit Ravi Rana",
+          "mp_code": 5191,
+          "mp_part_code": 55
+        },
+        {
+          "mp_name": "Smt. Sangeeta Azad",
+          "mp_code": 5152,
+          "mp_part_code": 56
+        },
+        {
+          "mp_name": "Smt. Anupriya Patel",
+          "mp_code": 4662,
+          "mp_part_code": 57
+        },
+        {
+          "mp_name": "Shri Mohan Mandavi",
+          "mp_code": 5010,
+          "mp_part_code": 58
+        }
+      ],
+      "keywords": [
+        "Ram Temple"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13037,
+      "title": "Messages from Rajya Sabha",
+      "debate_date": "10/02/2024",
+      "debate_type": 24,
+      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1002,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13036,
+      "title": "Papers Laid on the Table of the House by Ministers/Members",
+      "debate_date": "10/02/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Rao Inderjit Singh",
+          "mp_code": 3904,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13035,
+      "title": "Financial Bill, 2024",
+      "debate_date": "01/02/2024",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Nirmala Sitharaman",
+          "mp_code": 10005,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Income Tax"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13034,
+      "title": "Laid the statements regarding (i) Medium-Term Fiscal Policy cum Fiscal Policy Strategy and (ii) Macro-Economic Framework",
+      "debate_date": "01/02/2024",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Smt. Nirmala Sitharaman",
+          "mp_code": 10005,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13033,
+      "title": "Interim Budget (2024-2025)",
+      "debate_date": "01/02/2024",
+      "debate_type": 4,
+      "debate_type_desc": "BUDGET (GENERAL)",
+      "members": [
+        {
+          "mp_name": "Smt. Nirmala Sitharaman",
+          "mp_code": 10005,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agriculture",
+        "Budget",
+        "Development Policy",
+        "Ecosystems",
+        "Food Processing",
+        "Metro Railways",
+        "Railways",
+        "Research and Development",
+        "Social Justice",
+        "Solar Energy",
+        "Tourism",
+        "Health Care",
+        "Infrastructure Development",
+        "General Budget",
+        "Farmers' Welfare",
+        "Prime Minister's Awas Yojana",
+        "Triple Talaq",
+        "Pradhan Mantri Matsya Sampada Yojana",
+        "Electric Vehicles"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 15,
+      "db_slno": 13032,
+      "title": "Announcement regarding availability of Copies of Budget Speech on Member`s Portal",
+      "debate_date": "01/02/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13427,
+      "title": "Supplementary Demands for Grants and Demands for Excess Grants",
+      "debate_date": "11/12/2023",
+      "debate_type": 4,
+      "debate_type_desc": "BUDGET (GENERAL)",
+      "members": [
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Durai Murugan Kathir Anand",
+          "mp_code": 5528,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Shrirang Appa Barne",
+          "mp_code": 4781,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+          "mp_code": 5096,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Dinesh Chandra Yadav",
+          "mp_code": 527,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Pinaki Misra",
+          "mp_code": 3724,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Bheemrao Baswanthrao Patil",
+          "mp_code": 4756,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Smt. Supriya Sadanand Sule",
+          "mp_code": 4392,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Dr. Mohammad Jawed",
+          "mp_code": 5216,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Jayant Sinha",
+          "mp_code": 4768,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Jayant Sinha",
+          "mp_code": 4768,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri Ritesh Pandey",
+          "mp_code": 5132,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Jayadev Galla",
+          "mp_code": 4770,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Adv. A. M. Arif",
+          "mp_code": 5121,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Dr. M P Abdussamad Samadani",
+          "mp_code": 5532,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Rahul Ramesh Shewale",
+          "mp_code": 4903,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri K. Subbarayan",
+          "mp_code": 4086,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Khan Saumitra",
+          "mp_code": 4875,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri Hanuman Beniwal",
+          "mp_code": 5205,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Imitiaz Jaleel Syed",
+          "mp_code": 5200,
+          "mp_part_code": 27
+        }
+      ],
+      "keywords": [
+        "Budget",
+        "Disability Benefits",
+        "Educational Institutions",
+        "Fertilizers",
+        "Income Distribution",
+        "Inflation",
+        "National Highways",
+        "Pension",
+        "Sainik Schools",
+        "Taxes",
+        "Textile Industry",
+        "Employment Generation Programmes",
+        "Organic Farming",
+        "Infrastructure Development",
+        "North Eastern States",
+        "Centrally Sponsored Schemes",
+        "Subsidy",
+        "Disaster Managment",
+        "Natural Disaster Relief",
+        "Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA)",
+        "Goods and Services Tax (GST)",
+        "Textile Parks",
+        "Swachh Bharat Abhiyan",
+        "Public Sector Banks",
+        "Micro Small and Medium Interprises (MSME)",
+        "Manual Scavengers",
+        "Drones",
+        "Agniveer"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13422,
+      "title": "Discussion on the Motion for consideration of Post Office Bill, 2023 (Motion adopted and Bill passed)",
+      "debate_date": "18/12/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Beesetti Venkata Satyavathi",
+          "mp_code": 5086,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhola Singh",
+          "mp_code": 4605,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Prataprao Jadhav",
+          "mp_code": 4373,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Ram Shiromani Verma",
+          "mp_code": 5164,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Devusinh Jesingbhai Chauhan",
+          "mp_code": 4858,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 6
+        }
+      ],
+      "keywords": [
+        "Post Offices",
+        "Postal Services",
+        "Smuggling"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13421,
+      "title": "Papers Laid on the Table of the House by Members/Ministers",
+      "debate_date": "18/12/2023",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Rao Inderjit Singh",
+          "mp_code": 3904,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Shripad Yesso Naik",
+          "mp_code": 273,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Vijay Kumar Singh  (Retd.) General (Dr.)",
+          "mp_code": 4598,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Krishan Pal Gurjar",
+          "mp_code": 4629,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Pankaj Chowdhary",
+          "mp_code": 3479,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "SHRI RAJEEV CHANDRASEKHAR",
+          "mp_code": 10020,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Bhanu Pratap Singh Verma",
+          "mp_code": 3824,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Ms. Annpurna Devi",
+          "mp_code": 5116,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Kaushal Kishore",
+          "mp_code": 4710,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Ajay Bhatt",
+          "mp_code": 5003,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "SHRI B. L. VERMA",
+          "mp_code": 10018,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Bhagwanth Khuba",
+          "mp_code": 4632,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Dr. Subhas Sarkar",
+          "mp_code": 5037,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Dr. Bhagwat Karad",
+          "mp_code": 10021,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Dr. Rajkumar Ranjan Singh",
+          "mp_code": 5000,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Dr. Bharti Pravin Pawar",
+          "mp_code": 5201,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Bishweswar Tudu",
+          "mp_code": 4997,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Dr. Mahendrabhai Munjapara",
+          "mp_code": 5027,
+          "mp_part_code": 20
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13420,
+      "title": "Discussion on the Motion for consideration of the Post Office Bill, 2023",
+      "debate_date": "13/12/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "SHRI ASHWINI VAISHNAW",
+          "mp_code": 10019,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Shashi Tharoor",
+          "mp_code": 4569,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Tapir Gao",
+          "mp_code": 3973,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": [
+        "Post Offices",
+        "Government Bills"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13419,
+      "title": "Papers laid on the Table of the House by Ministers/Members",
+      "debate_date": "13/12/2023",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Jitendra Singh",
+          "mp_code": 4718,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Raosaheb Patil Danve",
+          "mp_code": 316,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Sadhvi Niranjan Jyoti",
+          "mp_code": 4622,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Smt. Anupriya Patel",
+          "mp_code": 4662,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Smt. Darshana Vikram Jardosh",
+          "mp_code": 4451,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Som Prakash",
+          "mp_code": 5166,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Devusinh Jesingbhai Chauhan",
+          "mp_code": 4858,
+          "mp_part_code": 11
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13418,
+      "title": "Laid the Statement correcting answer given to Unstarred Question No. 980 Dated 08.12.2023 regarding declaration of Hamas as terrorist organization",
+      "debate_date": "11/12/2023",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "SHRI V. MURALEEDHARAN",
+          "mp_code": 10013,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Terrorism"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13417,
+      "title": "The Central Universities Amendment Bill, 2023 (Passed)",
+      "debate_date": "07/12/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajiv Pratap Rudy",
+          "mp_code": 385,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Rajiv Pratap Rudy",
+          "mp_code": 385,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Suresh Kodikunnil",
+          "mp_code": 477,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Rahul Ramesh Shewale",
+          "mp_code": 4903,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Imitiaz Jaleel Syed",
+          "mp_code": 5200,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Tapir Gao",
+          "mp_code": 3973,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Dr. M P Abdussamad Samadani",
+          "mp_code": 5532,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Jamyang Tsering Namgyal",
+          "mp_code": 5006,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Dr. S.T. Hasan",
+          "mp_code": 5155,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Dr. Satya Pal Singh",
+          "mp_code": 4600,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Adv. Dean Kuriakose",
+          "mp_code": 5126,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Kaushalendra Kumar",
+          "mp_code": 4467,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Arvind Ganpat Sawant",
+          "mp_code": 4713,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Gautham Sigamani Pon",
+          "mp_code": 4975,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Dr. Sanjeev Kumar Singari",
+          "mp_code": 5094,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Girish Chandra",
+          "mp_code": 5156,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Dr. Mohammad Jawed",
+          "mp_code": 5216,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Gajendra Umrao Singh Patel",
+          "mp_code": 5067,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Ram Shiromani Verma",
+          "mp_code": 5164,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Raju Bista",
+          "mp_code": 5042,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Kanumuru Raghu Rama Krishna Raju",
+          "mp_code": 5097,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Kinjarapu Ram Mohan Naidu",
+          "mp_code": 4771,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri Ve. Vaithilingam",
+          "mp_code": 5120,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Adv. A. M. Arif",
+          "mp_code": 5121,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri Ritesh Pandey",
+          "mp_code": 5132,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Shri Dharmendra Pradhan",
+          "mp_code": 10001,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 34
+        },
+        {
+          "mp_name": "Shri Dharmendra Pradhan",
+          "mp_code": 10001,
+          "mp_part_code": 35
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 36
+        },
+        {
+          "mp_name": "Shri Dharmendra Pradhan",
+          "mp_code": 10001,
+          "mp_part_code": 37
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 38
+        },
+        {
+          "mp_name": "Shri Dharmendra Pradhan",
+          "mp_code": 10001,
+          "mp_part_code": 39
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 40
+        },
+        {
+          "mp_name": "Dr. Alok Kumar Suman",
+          "mp_code": 5211,
+          "mp_part_code": 41
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 42
+        },
+        {
+          "mp_name": "Dr. Alok Kumar Suman",
+          "mp_code": 5211,
+          "mp_part_code": 43
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 44
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 45
+        },
+        {
+          "mp_name": "Adv. Dean Kuriakose",
+          "mp_code": 5126,
+          "mp_part_code": 46
+        },
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 47
+        },
+        {
+          "mp_name": "Adv. Dean Kuriakose",
+          "mp_code": 5126,
+          "mp_part_code": 48
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 49
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 50
+        }
+      ],
+      "keywords": [
+        "Central Universities",
+        "Colleges",
+        "Dropping Out",
+        "Higher Education",
+        "Quality Education",
+        "Tribal Culture",
+        "Curriculum",
+        "Education Policy",
+        "Skill Development",
+        "Government Bills"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13416,
+      "title": "Jammu and Kashmir Reservation (Amendment) Bill, 2023 and the Jammu and Kashmir Reorganisation (Amendment) Bill, 2023",
+      "debate_date": "06/12/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Nama Nageswara Rao",
+          "mp_code": 4323,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Vinayak Bhaurao Raut",
+          "mp_code": 4765,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri K. Navaskani",
+          "mp_code": 4962,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Smt. Pratima Mondal",
+          "mp_code": 4871,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Smt. Pratima Mondal",
+          "mp_code": 4871,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Dr. Sanjeev Kumar Singari",
+          "mp_code": 5094,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri P.P. Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Dr. K. Jayakumar",
+          "mp_code": 4957,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Ravi Shankar Prasad",
+          "mp_code": 5219,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Dr. Farooq Abdullah",
+          "mp_code": 2654,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Manoj Kumar Tiwari",
+          "mp_code": 4606,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 34
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 35
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 36
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 37
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 38
+        },
+        {
+          "mp_name": "Shri Andimuthu Raja",
+          "mp_code": 344,
+          "mp_part_code": 39
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 40
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 41
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 42
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 43
+        },
+        {
+          "mp_name": "Dr. Farooq Abdullah",
+          "mp_code": 2654,
+          "mp_part_code": 44
+        },
+        {
+          "mp_name": "Prof. Saugata Roy",
+          "mp_code": 2554,
+          "mp_part_code": 45
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 46
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 47
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 48
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 49
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 50
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 51
+        }
+      ],
+      "keywords": [
+        "Jammu & Kashmir",
+        "State Reorganisation",
+        "Reservation Bill"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13415,
+      "title": "Regarding establishment of a Kendriya Vidyalaya in Bilara and Bhopalgarh in Pali Parliamentary Constituency-laid",
+      "debate_date": "05/12/2023",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri P.P. Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Kendriya Vidyalayas",
+        "Central Schools"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13414,
+      "title": "Statement correcting reply to Unstarred Question No. 3112 dated 08.08.2023 asked by Shri Sushil Kumar Singh, MP, regarding  ‘Vibrant Village Programme’ along with reasons for delay in correcting the reply",
+      "debate_date": "05/12/2023",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Nisith Pramanik",
+          "mp_code": 5041,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Parliamentary Questions Corrections",
+        "Vibrant Village Programme"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13413,
+      "title": "Papers laid on the Table of the House by Ministers/Members",
+      "debate_date": "05/12/2023",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Krishan Pal Gurjar",
+          "mp_code": 4629,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Sanjeev Kumar Balyan",
+          "mp_code": 4921,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Nityanand Rai",
+          "mp_code": 4625,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Km. Shobha Karandlaje",
+          "mp_code": 4616,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Kailash Choudhary",
+          "mp_code": 5207,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Ajay (Teni) Misra",
+          "mp_code": 4696,
+          "mp_part_code": 6
+        }
+      ],
+      "keywords": [
+        "Bharat Heavy Electricals Ltd",
+        "Bharat Pumps & Compressors",
+        "National Dairy Development Board"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
+      "session": 14,
+      "db_slno": 13412,
+      "title": "Advocates (Amendment) Bill, 2023",
+      "debate_date": "04/12/2023",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Karti P. Chidambaram",
+          "mp_code": 4967,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Andimuthu Raja",
+          "mp_code": 344,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Kalyan Banerjee",
+          "mp_code": 4498,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri N. Reddeppa",
+          "mp_code": 5090,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Smt. Supriya Sadanand Sule",
+          "mp_code": 4392,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Suresh Kodikunnil",
+          "mp_code": 477,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri P.P. Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri   Malook Nagar",
+          "mp_code": 5139,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Hasnain Masoodi",
+          "mp_code": 5004,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri E. T. Mohammed Basheer",
+          "mp_code": 4561,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Janardan Singh Sigriwal",
+          "mp_code": 4638,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Dr. Sanjeev Kumar Singari",
+          "mp_code": 5094,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Imitiaz Jaleel Syed",
+          "mp_code": 5200,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Giridhari Yadav",
+          "mp_code": 3830,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Smt. Aparupa Poddar",
+          "mp_code": 4844,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Smt Navnit Ravi Rana",
+          "mp_code": 5191,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Santosh Pandey",
+          "mp_code": 5015,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri N.K. Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 27
+        }
+      ],
+      "keywords": [
+        "Administrative Reforms",
+        "Advocates(Amendment) Bill",
+        "Indian Bar Council Act",
+        "Highcourt Act,1861"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 17,
       "session": 14,
       "db_slno": 13031,
       "title": "Regarding improving service conditions of Anganwadi ASHA and Auxiliary Nurse Midwife health workers-laid",
@@ -60197,420 +61901,6 @@
       "keywords": [
         "International Airports",
         "Ports"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10419,
-      "title": "Regarding Flood and Erosion in Malda and \r\nMarshidabad Districts in West Bengal.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Abu Hasem Khan Choudhury",
-          "mp_code": 4212,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Homeless",
-        "Natural Calamities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10418,
-      "title": "Regarding request\r\n for Central Bureau of Investigation (CBI) inquiring into Liquor Tragedy in\r\nBihar.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Chirag Paswan",
-          "mp_code": 4777,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Spurious Liquour"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10417,
-      "title": "Regarding Liquor Tragedy in Bihar.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Janardan Singh Sigriwal",
-          "mp_code": 4638,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Spurious Liquour"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10416,
-      "title": "Regarding Problems of  tabacco farmers in Andhra Pradesh.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Magunta Sreenivasulu Reddy",
-          "mp_code": 3907,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Flue Cured Virginia (FCV) ",
-        "Tabacco Crop"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10415,
-      "title": "Need to strenghten the\r\n implemenation of Har Ghar Nal-Jal, Scheme in Jharkhand.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Sudarshan Bhagat",
-          "mp_code": 4329,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Drinking Water",
-        "Water Supply"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10414,
-      "title": "Regarding grant\r\n of permission by the government to fill up essential posts in Coffee Board",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Smt. Goddeti Madhavi",
-          "mp_code": 5088,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Employment",
-        "Job Opportunities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10413,
-      "title": "Regarding alleged Relligious \r\nConversion in Jharkhand.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Sanjay Seth",
-          "mp_code": 5117,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Minorities Protection",
-        "Tribal Community",
-        "Tribal Women"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10412,
-      "title": "Regarding need\r\n to explore rare earth materials",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Adhir Ranjan Chowdhury",
-          "mp_code": 97,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Cadmium",
-        "Import Subsititution",
-        "Import"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10411,
-      "title": "Regarding share of Punjab in the common capital of Chandigarh \r\nvis-a-vis Haryana.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ravneet Singh",
-          "mp_code": 4429,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Shared Capital City"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10410,
-      "title": "Regarding\r\n alleged portrayal of high grade iron ore as low grade by private miners in \r\nOdisha",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Smt. Aparajita Sarangi",
-          "mp_code": 4988,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Mineral Based Industry",
-        "Mineral Deposits",
-        "Mining Policy"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10409,
-      "title": "Regarding \r\ninclusion of Gond Community in the ST category in certain districts of Uttar \r\nPradesh",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Jagdambika Pal",
-          "mp_code": 4295,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Scheduled Tribes"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10408,
-      "title": "Regarding extension of 4G/5G facility to State owned BSNL to hold on to the Customer Base",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ve. Vaithilingam",
-          "mp_code": 5120,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Communication Industry",
-        "Telecommunication Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10407,
-      "title": "Regarding the stoppage of Bundelkhand Express, Kshipra Express, Kashi Express \r\nand Kamayani Express in Dabhaura Railway Station",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Janardan Mishra",
-          "mp_code": 4728,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Indian Railways"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10406,
-      "title": "Regarding increase in Salary of ASHA Workers.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Rajmohan Unnithan",
-          "mp_code": 5127,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Accredited Social Health Activist (ASHA)",
-        "Community Health Workers"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10405,
-      "title": "Regarding\r\n establishment of a Sainik School in Kaimur or Rohtas District in Bihar",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Chhedi Paswan",
-          "mp_code": 3361,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Defence",
-        "Schools"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10404,
-      "title": "Regarding Need to protect  the interest of\r\n Agents working for the Life Insuarance.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Hibi Eden",
-          "mp_code": 5125,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Insurance Regulatory and Development Authority (IRDA "
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10403,
-      "title": "Regarding release of Fund allocated to Assam \r\nunder the Flood Management Programme.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Abdul Khaleque",
-          "mp_code": 5103,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "National Disaster Response Force (NDRF)",
-        "Flood-led Eroision"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10402,
-      "title": "Regarding Construction of a\r\n Railway Overbridge in Salempur and also construction of underpass on the North\r\n of the Pivcole Railway Station",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ravindra Kushawaha",
-          "mp_code": 4879,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Indian Railways"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10401,
-      "title": "Regarding \r\ncompletion of four ROBs in lieu of Railway Level Crossings",
-      "debate_date": "16/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Thomas Chazhikadan",
-          "mp_code": 5130,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Indian Railways"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 17,
-      "session": 10,
-      "db_slno": 10400,
-      "title": "Need to accord ''Navratna'' status to\r\n Numaligarh Refinery Limited in Assam.",
-      "debate_date": "20/12/2022",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Gaurav Gogoi",
-          "mp_code": 4788,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Oil Refineries"
       ]
     }
   ],

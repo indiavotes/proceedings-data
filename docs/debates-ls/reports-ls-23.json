@@ -4,6 +4,511 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 3,
+      "db_slno": 1002,
+      "title": "Presentation of the 3<sup>rd</sup> Report of\r\nCommittee on Private Members’ Bills and Resolution.",
+      "debate_date": "10/12/2004",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Dahya Bhai V. Patel",
+          "mp_code": 308,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1001,
+      "title": "Introduction of the Special Tribunals (Supplementary\r\nProvisions) Repeal Bill, 2004.",
+      "debate_date": "10/12/2004",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Ghulam Nabi Azad",
+          "mp_code": 10009,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Public Servants",
+        "Punishment",
+        "Corruption"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1000,
+      "title": "Introduction of the State Emblem of India (Prohibition\r\nof Improper Use) Bill, 2004.",
+      "debate_date": "10/12/2004",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Manikrao Hodlya Gavit",
+          "mp_code": 133,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Official Documents",
+        "Misuse"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 999,
+      "title": "Shri Chandrakant Khaire called the attention\r\nof the Minister of Finance to the situation arising out of implementation\r\nof various rules by the LIC and GIC adversely affecting the income, service\r\nconditions and interests of Development officers and Field staff of the\r\nCorporations and steps taken by the Government in regard thereto.",
+      "debate_date": "10/12/2004",
+      "debate_type": 8,
+      "debate_type_desc": "CALLING ATTENTION (RULE-197)",
+      "members": [
+        {
+          "mp_name": "Shri Chandrakant Bhaurao Khaire",
+          "mp_code": 189,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Basudeb Acharia",
+          "mp_code": 4,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Pushpdan Shambhudan Gadhavi",
+          "mp_code": 124,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri P.K. Vasudevan Nair",
+          "mp_code": 1278,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Ratilal Kalidas Varma",
+          "mp_code": 500,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Mohan Singh",
+          "mp_code": 3604,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Harisingh Nasaru Rathod",
+          "mp_code": 3995,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Annasaheb Patil",
+          "mp_code": 312,
+          "mp_part_code": 9
+        }
+      ],
+      "keywords": [
+        "Agents",
+        "Employees",
+        "Insurance",
+        "Loans",
+        "Premium",
+        "Productivity",
+        "Public Sector",
+        "Travelling Allowance",
+        "Job Protection",
+        "Allowances",
+        "Recuritment",
+        "Private Companies",
+        "Incentives"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 998,
+      "title": "Shri Dushyant Singh called the attention of the\r\nMinister of Finance regarding hardship faced by opium cultivators.",
+      "debate_date": "10/12/2004",
+      "debate_type": 8,
+      "debate_type_desc": "CALLING ATTENTION (RULE-197)",
+      "members": [
+        {
+          "mp_name": "Shri Dushyant Singh",
+          "mp_code": 4005,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Srichand Kripalani",
+          "mp_code": 200,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Shailendra Kumar",
+          "mp_code": 3870,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": [
+        "Adulteration",
+        "Drought",
+        "Exploitation",
+        "Exports",
+        "Farmers",
+        "Insurance",
+        "Licensing",
+        "Narcotics",
+        "Pharmaceutical Industry",
+        "Policy",
+        "Prices",
+        "Smuggling",
+        "Cultivation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 997,
+      "title": "Need to ensure proper remunerative prices for\r\nonion and cotton cultivators in Rajasthan.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Dr. Karan Singh Yadav",
+          "mp_code": 4059,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Support Prices"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 996,
+      "title": "Need to bring in a legislation providing the\r\nreservation of one-third seats for women in Parliament and State Legislatures.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Ms. Susmita Bauri",
+          "mp_code": 4193,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Women's Reservation Bill"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 995,
+      "title": "Need to provide financial assitance to the Government\r\nof Rajasthan to complete various \"Ropeway\" projects in Jaipur city.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Girdhari Lal Bhargav",
+          "mp_code": 55,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Grants"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 994,
+      "title": "Need to implement the Eighth Pay Agreement to\r\nsolve the problems of Regional Rural Banks.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Santosh Kumar Gangwar",
+          "mp_code": 131,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Banking",
+        "Employees",
+        "Wages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 993,
+      "title": "Need to accord Central University status to Dr.\r\nSir HariSingh Gaur University, Sagar, Madhya Pradesh.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri  Virendra Kumar",
+          "mp_code": 515,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 992,
+      "title": "Issue of denial of basic Human Rights and Fundamental\r\nRights to the accused in various cases.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Dr. K.S. Manoj",
+          "mp_code": 4182,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Prisoners",
+        "States",
+        "Undertrials"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 991,
+      "title": "Need to check the exorbitant rates charged for\r\nfertilizers by the traders in Bihar.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Sukdeo Paswan",
+          "mp_code": 298,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Black Market",
+        "Chemical Fertilizers",
+        "Farmers",
+        "Urea"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 990,
+      "title": "Regarding non-payment of salaries to employees\r\nof Andaman Forest Development Corporation.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Manoranjan Bhakta",
+          "mp_code": 2326,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Andaman & N Islands",
+        "Unemployment",
+        "Wages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 989,
+      "title": "Reported suicide by a Scheduled Caste employee\r\nof LIC alongwith his family members, due to harassment by his seniors.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ratilal Kalidas Varma",
+          "mp_code": 500,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compensation",
+        "Exploitation",
+        "Dalits"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 988,
+      "title": "Need to investigate the procurement of rice by\r\nFood Corporation of India and the department concerned of Uttar Prdesh\r\nGovernment.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Iliyas Azmi",
+          "mp_code": 3650,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Investigation",
+        "Corruption",
+        "Foodgrains"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 987,
+      "title": "Need to construct a national memorial in honour\r\nof Dr. Babasaheb Ambedkar at Mumbai and Delhi.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ramdas Athawale",
+          "mp_code": 24,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Development Programmes",
+        "Fund Allocation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 986,
+      "title": "Need to extend immediate relief measures in the\r\nseverely drought affected areas of Rajasthan.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Prof. Rasa Singh Rawat",
+          "mp_code": 368,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Jaswant Singh Bishnoi",
+          "mp_code": 59,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Calamity Relief Fund",
+        "Food For Work Programme",
+        "Crop Failure"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 985,
+      "title": "Request for conversion of special purpose loans\r\ntaken by the Government of Gujarat into Grants.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Smt. Jayaben B. Thakkar",
+          "mp_code": 481,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Asian Development Bank",
+        "Bank Credit",
+        "Natural Calamities",
+        "World Bank"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 984,
+      "title": "Urgent need to improve basic telephone services\r\nin Jammu &amp; Kashmir.",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Madan Lal Sharma",
+          "mp_code": 4047,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Mobile Telephones",
+        "Telecommunication Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 983,
+      "title": "Need to ensure employment opportunities for women\r\nunder the proposed \"National Rural Employment Guarantee Programme\".",
+      "debate_date": "10/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Smt.  C.S. Sujatha",
+          "mp_code": 4183,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Wages",
+        "Centrally Sponsored Schemes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
       "db_slno": 982,
       "title": "Need to review the decision of reducing troops from Jammu\r\n&amp; Kashmir in view of ever increasing terrorist activities.",
       "debate_date": "10/12/2004",
@@ -26470,7 +26975,7 @@
       "keywords": []
     }
   ],
-  "count": 946,
+  "count": 966,
   "house": "ls",
   "shard_index": 23
 }
