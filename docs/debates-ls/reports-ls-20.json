@@ -3,6 +3,1288 @@
     {
       "house": "ls",
       "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8777,
+      "title": "Motion for election of one member to Committee on Estimates (Motion Adopted).",
+      "debate_date": "21/11/2007",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri C. Kuppusami",
+          "mp_code": 212,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8776,
+      "title": "The Minister of\r\nState in the Ministry of Coal laid a statement correcting answer given to\r\nUnstarred Question No. 4745 dated 09.05.07 regarding retrentchment of Adivasis\r\nand Dalit Persons.",
+      "debate_date": "21/11/2007",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. Dasari Narayan Rao",
+          "mp_code": 10013,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8775,
+      "title": "The Minister of\r\nHealth and Family Welfare laid a statement regarding correcting the reply given to\r\n Unstarred Question No. 2186 Dated 29.08.07 regarding financial assistance to\r\npoor and needy patients.",
+      "debate_date": "21/11/2007",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. Anbumani Ramdoss",
+          "mp_code": 10008,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8774,
+      "title": "The Minister of\r\nOverseas Indian Affairs laid a statement regarding status of implementation of the recommendations \r\ncontained in 14<sup>th</sup> and 16<sup>th</sup> Reports of Standing Committee\r\non External Affairs, pertaining to the Ministry of Overseas Indian Affairs.",
+      "debate_date": "21/11/2007",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Vayalar Ravi",
+          "mp_code": 10019,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8773,
+      "title": "Presentation of\r\nthe 42nd Report of the Business Advisory Committee.",
+      "debate_date": "21/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Rupchand Pal",
+          "mp_code": 283,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8772,
+      "title": "Presentation of\r\nthe 18<sup>th</sup> Report of the Standing Committee on Petroleum and Natural\r\nGas (2007-08) on ‘The Rajiv Gandhi Institute of Petroleum Technology Bill,\r\n2007'.",
+      "debate_date": "21/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri  Nedurumalli Janardhana Reddy",
+          "mp_code": 376,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8771,
+      "title": "Presentation of\r\nthe 31<sup>st</sup> Report of the Committee on Private Members’ Bills and\r\nResolutions.",
+      "debate_date": "21/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Charnjit Singh Atwal",
+          "mp_code": 4127,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8770,
+      "title": "Papers laid on\r\nthe Table of the House by members/Ministers.",
+      "debate_date": "21/11/2007",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri T.R. Baalu",
+          "mp_code": 26,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Suresh Pachauri",
+          "mp_code": 10014,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Anbumani Ramdoss",
+          "mp_code": 10008,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Dasari Narayan Rao",
+          "mp_code": 10013,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri K.H. Muniyappa",
+          "mp_code": 261,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri S. Regupathy",
+          "mp_code": 4149,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Namo Narain Meena",
+          "mp_code": 4060,
+          "mp_part_code": 7
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8769,
+      "title": "Presented a statement showing the Demands for Excess Grants in respect of\r\nthe Budget (General) for 2005-06.",
+      "debate_date": "20/11/2007",
+      "debate_type": 4,
+      "debate_type_desc": "BUDGET (GENERAL)",
+      "members": [
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8768,
+      "title": "Presented a statement showing the Supplementary Demands for Grants in\r\nrespect of the Budget (General) for 2007-08.",
+      "debate_date": "20/11/2007",
+      "debate_type": 4,
+      "debate_type_desc": "BUDGET (GENERAL)",
+      "members": [
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8767,
+      "title": "Presentation of 124<sup>th</sup>, 125<sup>th</sup> and 126<sup>th</sup>\r\nReports of Standing Committee on Transport, Tourism and Culture.",
+      "debate_date": "20/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Anandrao Vithoba Adsul",
+          "mp_code": 8,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8766,
+      "title": "Presentation of the 17<sup>th</sup>\r\nto 19<sup>th</sup> Reports of the Standing Committee on External Affairs.",
+      "debate_date": "20/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Dr. Laxminarayan Pandey",
+          "mp_code": 286,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8765,
+      "title": "Presentation of 21<sup>st</sup> to\r\n24<sup>th</sup><span style=\"mso-spacerun: yes\">  </span>Reports of Standing\r\nCommittee on Chemicals and Fertilizers.",
+      "debate_date": "20/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Khan",
+          "mp_code": 193,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8764,
+      "title": "Papers laid on the Table of the House by members/Ministers.",
+      "debate_date": "20/11/2007",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Shriprakash Jaiswal",
+          "mp_code": 164,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Moh. Ali Ashraf Fatmi",
+          "mp_code": 4155,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Smt. Daggubati Purandareswari",
+          "mp_code": 4022,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Smt. V.  Radhika Selvi",
+          "mp_code": 4151,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8763,
+      "title": "Need to expedite the completion of Konar Canal Irrigation Project in\r\nDistrict Koderma, Jharkhand.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bhubneshwar Prasad Mehta",
+          "mp_code": 3540,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Irrigation Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8762,
+      "title": "Need for fixation of royalty on coal and other minerals at 20% of sale\r\nprice on ad valorem basis.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Coal Mining",
+        "Cess"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8761,
+      "title": "Need to accord approval to the\r\namendments made by the Maharashtra Legislative Assembly to the Prevention of\r\nFood Adulteration Act, 1954.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Anandrao Vithoba Adsul",
+          "mp_code": 8,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Act Amendment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8760,
+      "title": "Need to extend the enhanced productivity linked bonus to\r\nall the employees of the Central Government.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri C. Kuppusami",
+          "mp_code": 212,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8759,
+      "title": "Need to open an I.I.T in Patna, Bihar from\r\nthe academic session 2008-09.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ram Kripal Yadav",
+          "mp_code": 3832,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Technical Education",
+        "Indian Institute of Technology"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8758,
+      "title": "Need to upgrade the existing State Highway No.26 linking\r\nBareilley-Pillibhit-Basti in Uttar Pradesh to the level of National Highway.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ravi Prakash Verma",
+          "mp_code": 511,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8757,
+      "title": "Need to ensure regular supply of\r\npower from NTPC Diviapur to the farmers of District Auriya, Uttar Pradesh.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Raghuraj Singh Shakya",
+          "mp_code": 415,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Power Distribution",
+        "Power Supply"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8756,
+      "title": "Need to evolve proper mechanism to provide relief to the coconut growers in Kerala distressed due to adverse market situations.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt.  C.S. Sujatha",
+          "mp_code": 4183,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Farmers' Welfare"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8755,
+      "title": "Need to provide road connectivity from Thuravoor on N.H.47 to Main Central Road in Kerala under Central Road Fund  Project.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. K.S. Manoj",
+          "mp_code": 4182,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Construction",
+        "Road Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8754,
+      "title": "Need to cover more villages under ‘Rajiv\r\nGandhi Gramin Vidyutikaran Scheme’ in Rajasthan.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Prof. Rasa Singh Rawat",
+          "mp_code": 368,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rural Electrification"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8753,
+      "title": "Need to include ‘Bhojpuri’ Language in the Eighth Schedule to the Constitution.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri  Aditya Nath",
+          "mp_code": 7,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Language Promotion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8752,
+      "title": "Need to provide adequate compensation to the\r\nfarmers of Nagpur whose land is being acquired for setting up of Special\r\nEconomic Zone.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Maha Deo Rao Shiwankar",
+          "mp_code": 3418,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Land Acquisition",
+        "One Family-one Job Scheme",
+        "agriculture compensation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8751,
+      "title": "Need to check the further spread of\r\n‘Leppropyrocis’ in Andaman and Nicobar Islands.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Manoranjan Bhakta",
+          "mp_code": 2326,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Disease Control",
+        "Epidemic Diseases"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8750,
+      "title": "Need to convert the Bharuch-Jambusar\r\nrailway line into broad-guage and restart the railway line between Netra and\r\nAnkleshwar extending it upto Nandurbar.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mansukhbhai D. Vasava",
+          "mp_code": 501,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Gauge Conversion",
+        "Railway Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8749,
+      "title": "Need to implement ‘Swajaldhara’\r\nScheme in Mehsana Parliamentary Constituency, Gujarat.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jivabhai Ambalal Patel",
+          "mp_code": 4037,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drinking Water",
+        "Project Implementation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8748,
+      "title": "Need to\r\nexpedite the Darjeeling Drinking Water Project of Balasan in West Bengal.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Dawa Narbula",
+          "mp_code": 4068,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "Maintenance and Repair",
+        "Project Implementation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8747,
+      "title": "Need to fix\r\na higher Minimum Support Price for paddy.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Salarapatty Kuppusamy Kharventhan",
+          "mp_code": 3695,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Farmers' Welfare"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8746,
+      "title": "Need to conduct a special\r\nrecruitment drive in Akhnoor, Jammu and Kashmir for recruitment of youths in\r\nDefence &amp; Para Military Forces.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Madan Lal Sharma",
+          "mp_code": 4047,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Employment Opportunities",
+        "Unemployment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8745,
+      "title": "Need to enhance annual allocation of funds for doubling of railway line between Ramangaram-Mysore.",
+      "debate_date": "19/11/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Iqbal Ahmed Saradgi",
+          "mp_code": 400,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "Railway Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8744,
+      "title": "The Minister of Parliamentary Affairs made a statement regarding\r\nGovernment Business for the week commencing the 19<sup>th</sup> November, 2007\r\nand submissions made by members.",
+      "debate_date": "19/11/2007",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Priya Ranjan Dasmunsi",
+          "mp_code": 104,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. K.S. Manoj",
+          "mp_code": 4182,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Kunwar Rewati Raman Singh",
+          "mp_code": 4172,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Girdhari Lal Bhargav",
+          "mp_code": 55,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Dr. Satyanarayan Jatiya",
+          "mp_code": 166,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8743,
+      "title": "Presentation of 199<sup>th</sup> Report on ‘North – Eastern Hill\r\nUniversity, Shillong’ and 200<sup>th</sup> Report on ‘The Indira Gandhi National\r\nTribal University Bill, 2007' of Standing Committee on Human Resource\r\nDevelopment.",
+      "debate_date": "19/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Ravi Prakash Verma",
+          "mp_code": 511,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8742,
+      "title": "Presentation of 32<sup>nd</sup> Report on ‘Performance of New Railway\r\nZones'; 33<sup>rd</sup> Report on ‘Industrial Relations and Staff Welfare in\r\nRailways’ and 34<sup>th</sup> Report on ‘Suburban and Metro Railways' of\r\n the Standing Committee on Railways.",
+      "debate_date": "19/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Basudeb Acharia",
+          "mp_code": 4,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8741,
+      "title": "Presentation of 15<sup>th</sup>, 16<sup>th</sup> and 17<sup>th</sup> Reports of\r\nStanding Committee on Petroleum and Natural Gas (2007-2008).",
+      "debate_date": "19/11/2007",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Kirip Chaliha",
+          "mp_code": 3478,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8740,
+      "title": "Resignation of Major Gen (Retd.)\r\nB.C. Khanduri, AVSM an elected member from Garhwal Parliamentary Constituency\r\nof Uttarakhand w.e.f. 13<sup>th</sup> September, 2007.",
+      "debate_date": "19/11/2007",
+      "debate_type": 44,
+      "debate_type_desc": "RESIGNATION AND VACATION OF SEAT BY  MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8739,
+      "title": "Secretary\r\nGeneral laid bills passed by the Houses of Parliament during the 11<sup>th</sup>Session of 14<sup>th</sup> Lok Sabha and assented to by the President.",
+      "debate_date": "19/11/2007",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1100,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8738,
+      "title": "Papers laid on the Table of the House by \r\nmembers/Ministers.",
+      "debate_date": "19/11/2007",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Shivraj V. Patil",
+          "mp_code": 10002,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Oscar Fernandes",
+          "mp_code": 10015,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Bijoy Krishna Handique",
+          "mp_code": 149,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri E.V.K.S. Elangovan",
+          "mp_code": 4062,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8737,
+      "title": "The Minister of External Affairs\r\nmade a statement regarding recent cyclone and the devastation caused in\r\nBangladesh.",
+      "debate_date": "19/11/2007",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Pranab Mukherjee",
+          "mp_code": 4195,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Natural Calamities",
+        "Relief Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8736,
+      "title": "Reference made to the several\r\nthousands of lives and large scale damage to property caused by severe cyclone\r\n‘Sidr’, that struck the coastal areas of Bangladesh.",
+      "debate_date": "19/11/2007",
+      "debate_type": 42,
+      "debate_type_desc": "REFERENCES IN THE HOUSE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Natural Calamities",
+        "Cyclone Damages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8735,
+      "title": "Reference regarding congratulating Indian Cricket Team on winning one-day\r\nseries against Pakistan.",
+      "debate_date": "19/11/2007",
+      "debate_type": 42,
+      "debate_type_desc": "REFERENCES IN THE HOUSE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Felicitation",
+        "Sports Promotion"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8734,
+      "title": "References regarding passing away of Shri\r\nVijay Kumar Khandelwal, a sitting member of Lok Sabha, member 11th, 12th and\r\n13th Lok Sabhas; Shri Manjay Lal, member 9th, 10th and 13th Lok Sabhas; Shri\r\nYashwant Borole, member 6th Lok Sabha; Shri Lala Ram Ken, member 7th and 8th\r\nLok Sabhas and Dr. L.M.Singhvi, member 3rd Lok Sabha on 13.11.2007, 29.04.2007,\r\n16.09.2007, 05.10.2007 and 06.10.2007 respectively.",
+      "debate_date": "15/11/2007",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 12,
+      "db_slno": 8733,
+      "title": "Shri Francisco Sardinha took Oath in English, signed the Roll of Members\r\nand took his seat in the House.",
+      "debate_date": "15/11/2007",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Francisco Sardinha",
+          "mp_code": 3914,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8732,
+      "title": "Mr. Speaker made valedictory reference on the conclusion of\r\n11<sup>th</sup> Session of the 14<sup>th</sup> Lok Sabha.",
+      "debate_date": "10/09/2007",
+      "debate_type": 53,
+      "debate_type_desc": "VALEDICTORY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8731,
+      "title": "Introduction and\r\n Passing of the Carraige by Road Bill, 2007.",
+      "debate_date": "10/09/2007",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri T.R. Baalu",
+          "mp_code": 26,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8730,
+      "title": "Introduction and Passing of Aircraft (Amendment) Bill,\r\n2006.",
+      "debate_date": "10/09/2007",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Praful Patel",
+          "mp_code": 10016,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8729,
+      "title": "Need to improve and augment telecommunication services in\r\nLadakh, J &amp; K.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Thupstan Chhewang",
+          "mp_code": 4089,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Telecommunication Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8728,
+      "title": "Need to expedite rural electrification schemes in Santhal\r\nParganas, Jharkhand, under Rajeev Gandhi Gramin Vidyutikaran Yojana.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Hemlal Murmu",
+          "mp_code": 4117,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Project Implementation",
+        "Rural Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8727,
+      "title": "Need to set up a Food Processing Industry in Krishanagiri\r\ndistrict, Tamil Nadu.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri E.G. Sugavanam",
+          "mp_code": 4146,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Food Storage",
+        "Mangoes",
+        "Export"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8726,
+      "title": "Need to sanction the construction of a dam on river Ghaghra,\r\nin Faizabad Parliamentary Constituency, Uttar Pradesh.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mitrasen Yadav",
+          "mp_code": 3455,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Flood Control",
+        "Flood Damage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8725,
+      "title": "Need to develop Thabe in district Gopalganj, Bihar as a\r\ntourist place.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Anirudh Prasad (Sadhu) Yadav",
+          "mp_code": 4153,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Tourism Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8724,
+      "title": "Need to install India Mark Hand-pumps in Chail Parliamentary\r\nConstituency under Rashtriya Swajaldhara Scheme.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Shailendra Kumar",
+          "mp_code": 3870,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drinking Water",
+        "Hand Pumps",
+        "Water level"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8723,
+      "title": "Need to address the problem of contaminated groundwater under\r\ncentrally sponsored scheme in Kheeri Parliamentary Constituency, Uttar\r\nPradesh.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ravi Prakash Verma",
+          "mp_code": 511,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drinking Water",
+        "Health Hazards",
+        "Water Contamination"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8722,
+      "title": "Need to provide uniform welfare package to all the soldiers\r\nwho laid their lives for the Country.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Hannan Mollah",
+          "mp_code": 255,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Martyrs",
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8721,
+      "title": "Need to implement the recommendation of Task Force for\r\nKeleghai Kopaleswari-Baghal Basin drainage and Tamluk Drainage, District\r\nMidnapur, West Bengal.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Lakshman Chandra Seth",
+          "mp_code": 410,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Desiltation",
+        "Drainage System"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8720,
+      "title": "Need to provide broad-gauge railway link to minor ports of\r\nGujarat.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Jayaben B. Thakkar",
+          "mp_code": 481,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Gauge Conversion",
+        "Railway Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8719,
+      "title": "Need to enhance the quota of power from Central Pool to\r\nRajasthan.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Girdhari Lal Bhargav",
+          "mp_code": 55,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Power Distribution",
+        "Power Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8718,
+      "title": "Need to enhance the special financial package for over all\r\ndevelopment of Scheduled Castes and Scheduled Tribes Communities in the\r\n Country.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Punnulal Mohale",
+          "mp_code": 251,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Development Plans",
+        "SCs & STs"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 11,
+      "db_slno": 8717,
+      "title": "Need to set up more Primary Health Centres under Rural\r\nHealth Mission in the remote and far-flung areas of the Country.",
+      "debate_date": "10/09/2007",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Laxminarayan Pandey",
+          "mp_code": 286,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Health Facilities",
+        "Health Care"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
       "session": 11,
       "db_slno": 8716,
       "title": "Need to provide a rail link between Ajmer and Pushkar in Rajasthan.",
@@ -65850,1695 +67132,6 @@
       "keywords": [
         "Technology Transfer"
       ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6245,
-      "title": "Regarding resentment among the people on account of state\r\nhonour not given at the time of cremation of Late Shri Suraj Bhan, Ex-Governor and\r\nChairman of National SC/ST Commission.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Kishan Singh Sangwan",
-          "mp_code": 396,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Ashok Kumar Pradhan",
-          "mp_code": 333,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Somnath Chatterjee",
-          "mp_code": 73,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6244,
-      "title": "Need to expedite\r\nthe ongoing work on Bina Refinery in Sagar Parliamentary Constituency, Madhya\r\nPradesh.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri  Virendra Kumar",
-          "mp_code": 515,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Project Implementation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6243,
-      "title": "Need to grant\r\nsecurity clearance to Vizhinjam Harbour Project.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Varkala Radhakrishnan",
-          "mp_code": 342,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Dr. K.S. Manoj",
-          "mp_code": 4182,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Dr. P. Pookunhikoya",
-          "mp_code": 4135,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Project Delays"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6242,
-      "title": "Recent intrusions\r\nby Bangladesh Rifles in Barak Valley, Assam.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Arun Kumar Sarma",
-          "mp_code": 3779,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Lalit Mohan Suklabaidya",
-          "mp_code": 4029,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Border Disputes",
-        "Border Fencing",
-        "Firing"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6241,
-      "title": "Reported\r\nretrenchment of permanent employees of Botanical Survey of India.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Santasri Chatterjee",
-          "mp_code": 4191,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agitation",
-        "Job Termination"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6240,
-      "title": "Procurement of\r\nmustard and payment of dues to farmers.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Jaswant Singh Bishnoi",
-          "mp_code": 59,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Procurement",
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6239,
-      "title": "Reported trapping\r\n of illegal miners in a coal mine in Purulia, West Bengal.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Adhir Ranjan Chowdhury",
-          "mp_code": 97,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Coal Mining",
-        "Rescue Operation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6238,
-      "title": "Spread of Anthrax disease in cows in Kerala.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri P.C. Thomas",
-          "mp_code": 486,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Disease Control",
-        "Financial Aid"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6237,
-      "title": "Regarding order given by the Judiciary on the issue of demolition in\r\nresidential areas in Delhi.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Kunwar Rewati Raman Singh",
-          "mp_code": 4172,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Supreme Court",
-        "Court Judgements"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6236,
-      "title": "Need to release funds for providing relief to the flood\r\naffected regions of Karnataka.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Prahlad Joshi",
-          "mp_code": 3982,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri M Shivanna",
-          "mp_code": 4081,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri  Ananth Kumar",
-          "mp_code": 20,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Kunnur Manjunath Channappa",
-          "mp_code": 3981,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": [
-        "Financial Aid",
-        "Flood Damage",
-        "Dams",
-        "Relief Measures"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6235,
-      "title": "Need to provide financial assistance to the flood affected areas of\r\nMaharashtra.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Ramdas Athawale",
-          "mp_code": 24,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Financial Aid"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6234,
-      "title": "Rains and cyclonic floods in Andhra Pradesh.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Kinjarapu Yerrannaidu",
-          "mp_code": 533,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Suravaram Sudhakar Reddy",
-          "mp_code": 3908,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Natural Calamities",
-        "Rehabilitation",
-        "Relief Measures"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6233,
-      "title": "Loss of lives and damage to properties in Ladakh, Jammu and Kashmir due to\r\nheavy rain.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Thupstan Chhewang",
-          "mp_code": 4089,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Financial Aid",
-        "Natural Calamities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6232,
-      "title": "Flood situation in Gujarat.",
-      "debate_date": "11/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Madhusudan Devram Mistry",
-          "mp_code": 570,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Harin Pathak",
-          "mp_code": 310,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Dr. Vallabhbhai Kathiria",
-          "mp_code": 184,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Flood Damage",
-        "Natural Calamities",
-        "Rehabilitation",
-        "Relief Measures"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6231,
-      "title": "Hon’ble Leader of the House and Minister of Defence (Shri Pranab Mukherjee)\r\nmade a statement regarding conduct of Business of the House and also made a statement on the letter dated 8 August, 2006 from the Chairman, NDA addressed to Speaker regarding the functioning of the House.",
-      "debate_date": "11/08/2006",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Lal Krishna Advani",
-          "mp_code": 9,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Parliamentary Business",
-        "Parliamentary Proceedings"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6230,
-      "title": "Statement regarding Government Business for the week\r\ncommencing the 14<sup>th</sup> August, 2006 and submission made by members.",
-      "debate_date": "11/08/2006",
-      "debate_type": 7,
-      "debate_type_desc": "BUSINESS OF HOUSE",
-      "members": [
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Prof. Rasa Singh Rawat",
-          "mp_code": 368,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Girdhari Lal Bhargav",
-          "mp_code": 55,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri  Virendra Kumar",
-          "mp_code": 515,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Dr. K.S. Manoj",
-          "mp_code": 4182,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Hari Kewal Prasad",
-          "mp_code": 3367,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Ravi Prakash Verma",
-          "mp_code": 511,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri P.C. Thomas",
-          "mp_code": 486,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Virjibhai Thummar",
-          "mp_code": 4036,
-          "mp_part_code": 9
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6229,
-      "title": "The Minister of Parliamentary Affairs made a statement regarding status of\r\nimplementation of recommendations contained in the 149<sup>th</sup> Report of\r\nStanding Committee on Science and Technology, Environment and Forest pertaining\r\nto the Department of Science and Technology.",
-      "debate_date": "11/08/2006",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6228,
-      "title": "Presentation of the Report of Indian Parliamentary Participation at 18<sup>th</sup>\r\nCommonwealth Speakers and Presiding Officers Conference held at Nairobi in\r\nJanuary, 2006.",
-      "debate_date": "11/08/2006",
-      "debate_type": 34,
-      "debate_type_desc": "PAPERS LAID ON THE TABLE",
-      "members": [
-        {
-          "mp_name": "Secretary-General",
-          "mp_code": 1100,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6227,
-      "title": "Presentation of 8<sup>th</sup> Report of the Committee on Empowerment of Women\r\n(2005-06) on the action taken by the Government on the  recommendations contained in the 2nd Report of the Committee on the 'Scheme of Rehabilitating Women in Difficult Circumstances - SWADHAR'.",
-      "debate_date": "11/08/2006",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Smt. Krishna Tirath",
-          "mp_code": 4078,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6226,
-      "title": "Presentation of 29<sup>th</sup> Report of the Public Accounts Committee\r\n(2006-07) on “Status of improvement of efficiency through the ‘Restructuring’\r\nof the Income Tax Department.\"",
-      "debate_date": "11/08/2006",
-      "debate_type": 35,
-      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
-      "members": [
-        {
-          "mp_name": "Prof. Vijay Kumar Malhotra",
-          "mp_code": 230,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6225,
-      "title": "Papers laid on the\r\nTable of the House by members/Ministers.",
-      "debate_date": "11/08/2006",
-      "debate_type": 34,
-      "debate_type_desc": "PAPERS LAID ON THE TABLE",
-      "members": [
-        {
-          "mp_name": "Sh. Sushil Kumar Shinde",
-          "mp_code": 10018,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Ajay Maken",
-          "mp_code": 4075,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri P. Chidambaram",
-          "mp_code": 3000,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Prem Chand Gupta",
-          "mp_code": 10012,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Kumari  Selja",
-          "mp_code": 3589,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri S.S. Palanimanickam",
-          "mp_code": 284,
-          "mp_part_code": 6
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6224,
-      "title": "Observation regarding Question of Privilege consequent upon alleged leakage of\r\nReport of Justice Pathak Inquiry Authority on Volcker Committee Disclosures\r\nbefore it was laid on the Table of the House.",
-      "debate_date": "11/08/2006",
-      "debate_type": 33,
-      "debate_type_desc": "OBSERVATION BY THE CHAIR",
-      "members": [
-        {
-          "mp_name": "Shri Somnath Chatterjee",
-          "mp_code": 73,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Contempt of House",
-        "Privilege Question",
-        "Investigation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6223,
-      "title": "Discussion on the\r\n motion for consideration of the Abolition of Capital Punishment Bill, 2004.\r\n(Discussion not concluded).",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri C.K. Chandrappan",
-          "mp_code": 2052,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6222,
-      "title": "Discussion on the motion for consideration\r\nof the Safai Karamcharis Insurance Scheme Bill, 2005 (Bill Withdrawn).",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Smt. Krishna Tirath",
-          "mp_code": 4078,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Prof. Rasa Singh Rawat",
-          "mp_code": 368,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri K. Chandra Shekhar Rao",
-          "mp_code": 4083,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Shailendra Kumar",
-          "mp_code": 3870,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri C.K. Chandrappan",
-          "mp_code": 2052,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Prof. M. Ramadass",
-          "mp_code": 4125,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Bhanu Pratap Singh Verma",
-          "mp_code": 3824,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Salarapatty Kuppusamy Kharventhan",
-          "mp_code": 3695,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Surendra Prakash Goyal",
-          "mp_code": 4067,
-          "mp_part_code": 9
-        },
-        {
-          "mp_name": "Shri Kiren Rijiju",
-          "mp_code": 3972,
-          "mp_part_code": 10
-        },
-        {
-          "mp_name": "Smt. Subbulakshmi Jagadeesan",
-          "mp_code": 4147,
-          "mp_part_code": 11
-        },
-        {
-          "mp_name": "Prof. Rasa Singh Rawat",
-          "mp_code": 368,
-          "mp_part_code": 12
-        },
-        {
-          "mp_name": "Shri Shailendra Kumar",
-          "mp_code": 3870,
-          "mp_part_code": 13
-        },
-        {
-          "mp_name": "Smt. Subbulakshmi Jagadeesan",
-          "mp_code": 4147,
-          "mp_part_code": 14
-        },
-        {
-          "mp_name": "Smt. Krishna Tirath",
-          "mp_code": 4078,
-          "mp_part_code": 15
-        }
-      ],
-      "keywords": [
-        "Economic And Social Development",
-        "Education",
-        "Sanitation",
-        "Social Security",
-        "Wage Payment Systems",
-        "Welfare Schemes",
-        "Medical Services",
-        "Unorganised Sector",
-        "Basic Amenities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6221,
-      "title": "Introduction of\r\nthe Constitution (Amendment) Bill, 2006 (Amendment of article 117, etc.)",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Anandrao Vithoba Adsul",
-          "mp_code": 8,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Democracy"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6220,
-      "title": "Further discussion\r\non the motion for consideration of the Crop Insurance Bill, 2005 by Shri Iqbal\r\nAhmed Saradgi on the 12<sup>th</sup> May, 2006 ( Bill Withdrawn).",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
-          "mp_code": 327,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Prof. Rasa Singh Rawat",
-          "mp_code": 368,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
-          "mp_code": 327,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Iqbal Ahmed Saradgi",
-          "mp_code": 400,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": [
-        "Loans",
-        "NABARD",
-        "Natural Calamities",
-        "Panchayats",
-        "Plan Implementation",
-        "Premium",
-        "Compensations",
-        "Crop Failure",
-        "Crop Damages",
-        "Small and Marginal Farmers"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6219,
-      "title": "Introduction of the Girl Child (Welfare)\r\nBill, 2006.",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Child Welfare",
-        "Infanticide"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6218,
-      "title": "Introduction of the Rights of Persons\r\nsuffering from Acquired Immuno Deficiency Syndrome Bill, 2006.",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "AIDS",
-        "Disease Control",
-        "Rehabilitation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6217,
-      "title": "Introduction of National Commission for\r\nExploitation of Natural Resources Bill, 2006.",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Economic Development",
-        "Resources Exploitation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6216,
-      "title": "Introduction of the Promotion of Self –\r\nEmployment Bill, 2006.",
-      "debate_date": "14/08/2006",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Employment Opportunities",
-        "Unemployed Youth"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6215,
-      "title": "Discussion on the\r\nmotion for consideration of the Cantonments Bill, 2006, as passed by Rajya Sabha.",
-      "debate_date": "14/08/2006",
-      "debate_type": 14,
-      "debate_type_desc": "GOVERNMENT BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Pranab Mukherjee",
-          "mp_code": 4195,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bachi Singh Rawat",
-          "mp_code": 29,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Balasaheb Vikhe Patil",
-          "mp_code": 313,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Mediyam Babu Rao",
-          "mp_code": 4177,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": [
-        "Cantonment Board",
-        "Constitutional Amendment",
-        "Democratization",
-        "Development Programmes",
-        "Economic And Social Development",
-        "Land Acquisition",
-        "Legislation",
-        "Corruption",
-        "Basic Amenities",
-        "Urbanisation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6214,
-      "title": "Need to provide a special economic package\r\nfor infrastructural development in Bihar.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Raghunath Jha",
-          "mp_code": 169,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6213,
-      "title": "Need to include Kaushambi in Uttar Pradesh\r\nin the Tourism Map of India for its all-round development.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Shailendra Kumar",
-          "mp_code": 3870,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Area Development",
-        "Tourism Promotion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6212,
-      "title": "Need for widening\r\nof NH-47 and NH-17 in the Angamaly-Mannuthy and Mannuthy-Valayar sectors in\r\nKerala.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Lonappan Nambadan",
-          "mp_code": 4181,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Maintenance and Repair",
-        "Road Construction",
-        "Road Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6211,
-      "title": "Need to accord clearance to the proposal for\r\ngeneration of electricity from Gas at C.I.L. near Mirapur, Rajasthan.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Bhanwar Singh Dangawas",
-          "mp_code": 4010,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Power Generation",
-        "Project Implementation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6210,
-      "title": "Need to expedite the grant of subsidy on\r\nSolar Energy project proposals sent by the Government of Madhya Pradesh and\r\nRajasthan.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Laxminarayan Pandey",
-          "mp_code": 286,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Power Generation",
-        "Project Implementation",
-        "Subsidies"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6209,
-      "title": "Need to remove the ban on low cost diesel\r\nused by farmers in Amreli Parliamentary Constituency, Gujarat.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Virjibhai Thummar",
-          "mp_code": 4036,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Irrigation Development",
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6208,
-      "title": "Need to provide better Railway passenger\r\nservices and amenities in Palanpur, Bansakantha Parliamentary Constituency,\r\nGujarat.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Harisinh Chavda",
-          "mp_code": 3483,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities",
-        "Railway Service"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6207,
-      "title": "Need to open a Railway Ticket Booking\r\nCounter in Kandi Municipality area of Murshidabad district, West Bengal.",
-      "debate_date": "14/08/2006",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Adhir Ranjan Chowdhury",
-          "mp_code": 97,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities",
-        "Railway Facilities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6206,
-      "title": "Flood situation in Andhra Pradesh.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Rajagopal Lagadapati",
-          "mp_code": 4020,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Financial Aid",
-        "Flood Damage",
-        "Natural Calamities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6205,
-      "title": "Resentment among farmers over the declared \r\nminimum support price of sugarcane.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Santosh Kumar Gangwar",
-          "mp_code": 131,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6204,
-      "title": "Need to take stringent measures for the\r\nsafety of women in the country.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. Archana Nayak",
-          "mp_code": 4136,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Atrocities",
-        "Safety Measures",
-        "Women Welfare",
-        "Human Trafficking"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6203,
-      "title": "Need to redress\r\nthe grievances of rural postal services employees in the country.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Prof. Rasa Singh Rawat",
-          "mp_code": 368,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Girdhari Lal Bhargav",
-          "mp_code": 55,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Braja Kishore Tripathy",
-          "mp_code": 494,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Social Security"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6202,
-      "title": "Need to regulate\r\nand register the global pharmaceutical companies conducting clinical trail\r\nresearch in India.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Bhartruhari Mahtab",
-          "mp_code": 225,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Exploitation",
-        "Medical Research",
-        "Pharmaceutical Industry"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6201,
-      "title": "Reported blast in Jalaun-Garautha\r\nParliamentary Constituency resulting in heavy causalities.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Bhanu Pratap Singh Verma",
-          "mp_code": 3824,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Ashok Kumar Pradhan",
-          "mp_code": 333,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Bomb Blasts",
-        "Explosives",
-        "CBI Inquiry"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6200,
-      "title": "Need to lift ban on ‘mining’ activity in\r\nRajasthan.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Girdhari Lal Bhargav",
-          "mp_code": 55,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Dr. Karan Singh Yadav",
-          "mp_code": 4059,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Unemployment",
-        "Mining Industries"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6199,
-      "title": "Need to include Rajasthan in the list of\r\nStates being given rehabilitation package due to anti-Sikh riots.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Karan Singh Yadav",
-          "mp_code": 4059,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Compensations",
-        "Victims"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6198,
-      "title": "Need to include six tribes of Assam into the\r\nlist of Scheduled Tribes.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Sarbananda Sonowal",
-          "mp_code": 4163,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Dr. Arun Kumar Sarma",
-          "mp_code": 3779,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Scheduled Tribes (STs)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6197,
-      "title": "Drought situation in North Eastern Region\r\nparticularly in Assam.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Arun Kumar Sarma",
-          "mp_code": 3779,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Sarbananda Sonowal",
-          "mp_code": 4163,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Financial Aid"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6196,
-      "title": "Need to streamline the process of admission\r\nfrom primary to higher educational institutions in the country.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Shailendra Kumar",
-          "mp_code": 3870,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Education"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6195,
-      "title": "Problems being faced by the unorganized\r\nlabourers in the country.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Madhusudan Devram Mistry",
-          "mp_code": 570,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Social Security",
-        "Wage Payment Systems",
-        "Unorganised Sector"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6194,
-      "title": "Alleged fear \r\namongst the minorities on their travel abroad.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Basudeb Acharia",
-          "mp_code": 4,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Asaduddin Owaisi",
-          "mp_code": 4091,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Muslims",
-        "Harassment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6193,
-      "title": "Need to hand over the case of alleged murder\r\nof a Christian Priest in Kerala to CBI.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Lonappan Nambadan",
-          "mp_code": 4181,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri K. Francis George",
-          "mp_code": 138,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "CBI Inquiry"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6192,
-      "title": "Need to provide 27  per cent reservation to Other Backward Classes in all educational\r\ninstitutions in the country.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Devendra Prasad Yadav",
-          "mp_code": 525,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Ramji Lal Suman",
-          "mp_code": 475,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Basudeb Acharia",
-          "mp_code": 4,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Bhanu Pratap Singh Verma",
-          "mp_code": 3824,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Prof. Rasa Singh Rawat",
-          "mp_code": 368,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Ashok Kumar Pradhan",
-          "mp_code": 333,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Shailendra Kumar",
-          "mp_code": 3870,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Anirudh Prasad (Sadhu) Yadav",
-          "mp_code": 4153,
-          "mp_part_code": 8
-        }
-      ],
-      "keywords": [
-        "Reservation Policy"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6191,
-      "title": "Rising naxalite activities in the country.",
-      "debate_date": "14/08/2006",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Ramji Lal Suman",
-          "mp_code": 475,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Police Atrocities",
-        "Naxalism"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6190,
-      "title": "Prof. Vijay Kumar Malhotra called the\r\nattention of the Minister of Urban Development regarding applicability of the\r\nDelhi Laws (Special Provisions) Act, 2006 in the context of observations made\r\nby Judicial Authorities.",
-      "debate_date": "14/08/2006",
-      "debate_type": 8,
-      "debate_type_desc": "CALLING ATTENTION (RULE-197)",
-      "members": [
-        {
-          "mp_name": "Shri Sudini Jaipal Reddy",
-          "mp_code": 378,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Prof. Vijay Kumar Malhotra",
-          "mp_code": 230,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Sandeep Dikshit",
-          "mp_code": 4076,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Smt. Krishna Tirath",
-          "mp_code": 4078,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri  Nikhil Kumar",
-          "mp_code": 4033,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Devendra Prasad Yadav",
-          "mp_code": 525,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Shailendra Kumar",
-          "mp_code": 3870,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Sudini Jaipal Reddy",
-          "mp_code": 378,
-          "mp_part_code": 8
-        }
-      ],
-      "keywords": [
-        "Amendments",
-        "Land Ceiling",
-        "Law Violation",
-        "Legislation",
-        "Master Plans",
-        "Supreme Court",
-        "Unauthorised Construction",
-        "Judicial System",
-        "Land Encroachment",
-        "Demolition",
-        "Public Interest Litigation (PIL)",
-        "Judicial Power"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6189,
-      "title": "Regarding reported telephonic\r\nconversation by Minister of State in the Ministry of Home Affairs with a jail\r\ninmate in Bulandshahar jail, Uttar Pradesh.",
-      "debate_date": "14/08/2006",
-      "debate_type": 52,
-      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
-      "members": [
-        {
-          "mp_name": "Prof. Vijay Kumar Malhotra",
-          "mp_code": 230,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Mohan Singh",
-          "mp_code": 3604,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Iliyas Azmi",
-          "mp_code": 3650,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Somnath Chatterjee",
-          "mp_code": 73,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Braja Kishore Tripathy",
-          "mp_code": 494,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Lal Krishna Advani",
-          "mp_code": 9,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Manikrao Hodlya Gavit",
-          "mp_code": 133,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri Rajiv Ranjan Singh",
-          "mp_code": 4134,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Pranab Mukherjee",
-          "mp_code": 4195,
-          "mp_part_code": 9
-        }
-      ],
-      "keywords": [
-        "Defamation",
-        "Inquiry",
-        "Sting Operations"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6188,
-      "title": "The Minister of Parliamentary Affairs and Minister of Information & Broadcasting made a statement regarding status of\r\nimplementation of recommendations contained in the 21<sup>st</sup> Report of\r\nthe Standing Committee on Information Technology pertaining to the Ministry of\r\nInformation and Broadcasting on Conditional Access System (CAS).",
-      "debate_date": "14/08/2006",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6187,
-      "title": "Statement regarding launching of Doordarshan’s Urdu Channel by Prasar Bharati.",
-      "debate_date": "14/08/2006",
-      "debate_type": 47,
-      "debate_type_desc": "STATEMENT BY MINISTER",
-      "members": [
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Language Promotion",
-        "TV Channels"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6186,
-      "title": "Rajya Sabha at its sitting held on the 10<sup>th</sup> August, 2006 agreed\r\nwithout any amendment to the Actuaries Bill, 2006, passed by Lok Sabha on 2<sup>nd</sup>\r\nAugust, 2006.",
-      "debate_date": "14/08/2006",
-      "debate_type": 24,
-      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
-      "members": [
-        {
-          "mp_name": "Secretary-General",
-          "mp_code": 1100,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 14,
-      "session": 8,
-      "db_slno": 6185,
-      "title": "Papers laid on the\r\nTable of the House by members/Ministers.",
-      "debate_date": "14/08/2006",
-      "debate_type": 34,
-      "debate_type_desc": "PAPERS LAID ON THE TABLE",
-      "members": [
-        {
-          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
-          "mp_code": 327,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Priya Ranjan Dasmunsi",
-          "mp_code": 104,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Chandra Sekhar Sahu",
-          "mp_code": 4056,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Shri Ram Vilas Paswan",
-          "mp_code": 296,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
-          "mp_code": 327,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri  Taslimuddin",
-          "mp_code": 3439,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Namo Narain Meena",
-          "mp_code": 4060,
-          "mp_part_code": 7
-        }
-      ],
-      "keywords": []
     }
   ],
   "count": 2500,
