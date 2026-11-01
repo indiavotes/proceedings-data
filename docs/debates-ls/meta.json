@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "corpus": "debates-ls",
-  "generated_at": "2026-11-01T08:45:06Z",
-  "total_records": 58569,
+  "generated_at": "2026-11-01T15:59:16Z",
+  "total_records": 58625,
   "total_with_text": 0,
   "houses": [
     "ls"
