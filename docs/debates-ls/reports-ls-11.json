@@ -4,6 +4,1182 @@
       "house": "ls",
       "lok_sabha": 16,
       "session": 9,
+      "db_slno": 8273,
+      "title": "Introduction of the Constitution (Amendment)\r\n Bill, 2016 </span><i>(Amendment of Article 15)</i>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rahul Ramesh Shewale",
+          "mp_code": 4903,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Religious Places",
+        "Gender Discrimination"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8272,
+      "title": "Introduction of the Old Age Pension Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sukhbir Singh Jaunpuria",
+          "mp_code": 4669,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Old Age Benefits",
+        "Pension Schemes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8271,
+      "title": "Introduction of the Dalit, Backward and\r\nOppressed Youth (Development and Welfare) Bill<span style=''color:#404040''>,\r\n2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Udit Raj",
+          "mp_code": 4764,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "SC & ST Welfare",
+        "Youth Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8270,
+      "title": "Introduction of the Freedom Fighters and their Families (Welfare) Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Manoj Rajoria",
+          "mp_code": 4667,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Freedom Movement",
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8269,
+      "title": "Introduction of the High Court of \r\nRajasthan (Establishment of a Permanent Bench at Karauli) Bill<span\r\nstyle=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Manoj Rajoria",
+          "mp_code": 4667,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Court Benches",
+        "Pending Cases"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8268,
+      "title": "Introduction of the Sculptors and Artists of Rural Areas Welfare Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8267,
+      "title": "Introduction of the<b> </b> Constitution\r\n(Amendment) Bill, 2016 (Amendment of Article\r\n72).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Kumar Singh",
+          "mp_code": 4750,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Supreme Court"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8266,
+      "title": "Introduction of the Promotion of Cycling \r\nand Provision of  compulsory Dedicated Cycle Corridor along Major Roads and\r\nHighways Bill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajesh Ranjan  (Pappu  Yadav)",
+          "mp_code": 554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Subsidies"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8265,
+      "title": "Introduction of the Agricultural and Other\r\nWorkers in Rural Areas (Protection, Incentives and Welfare)\r\nBill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajesh Ranjan  (Pappu  Yadav)",
+          "mp_code": 554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Minimum Wage",
+        "Provident Fund"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8264,
+      "title": "Introduction of the Special Financial Assistance to the National Capital\r\n Region Bill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajendra Agrawal",
+          "mp_code": 4267,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8263,
+      "title": "Introduction of the  Constitution\r\n(Amendment) Bill, 2016 </span>(Amendment of Article\r\n325).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Voting Rights"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8262,
+      "title": "Introduction of the Prevention of \r\nCorruption (Amendment) Bill, 2016 (Amendment of Section 5,\r\netc.).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rabindra Kumar Jena",
+          "mp_code": 4795,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8261,
+      "title": "Introduction of the Powerloom Sector (Welfare) Bill<span style=''color:#404040''>,\r\n2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Om Prakash Yadav",
+          "mp_code": 4462,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Weavers Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8260,
+      "title": "Introduction of the Jute\r\n Growers (Remunerative Price and Welfare) Bill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Om Prakash Yadav",
+          "mp_code": 4462,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Jute Industry",
+        "Remunerative Prices"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8259,
+      "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2016 </span><span style=''font-size:13.0pt;font-family:Aryan2Unicode;\r\ncolor:black''>(Amendment of Article 80).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8258,
+      "title": "Introduction of the Constitution\r\n(Amendment) Bill, 2016 (Amendment of Articles 72 and 161).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rangaswamy Dhruvanarayana",
+          "mp_code": 4342,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Punishments"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8257,
+      "title": "Introduction of the High Court of Uttarakhand (Establishment of a Permanent\r\n Bench at Haridwar) Bill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Ramesh Pokhriyal Nishank",
+          "mp_code": 4761,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Court Benches",
+        "Pending Cases"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8256,
+      "title": "Introduction of the Welfare of Homeless Persons Living Near Railway Tracks,\r\nRailway Yards and Railway Land Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Ajay (Teni) Misra",
+          "mp_code": 4696,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rehabilitation",
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8255,
+      "title": "Introduction of the Right of Children to \r\nFree and Compulsory Education (Amendment) Bill, 2016 (Substitutions of new\r\nSection for Section 16).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8254,
+      "title": "Introduction of the Code of Criminal \r\nProcedure (Amendment) Bill<span style=''color:#404040''>, 2016 </span><i>(Amendment\r\nof Section 196)</i>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "communal violence"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8253,
+      "title": "Introduction of the Child Development Programmes Coordination Agency Bill<span\r\nstyle=''color:#404040''>, 2016</span>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8252,
+      "title": "Introduction of the Constitution \r\n(Amendment) Bill<span style=''color:#404040''>, 2016 </span>(Substitution of new\r\nArticle for Article 343, etc.).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Hindi Language",
+        "Official Languages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8251,
+      "title": "Introduction of the Gymnasiums\r\n and Fitness Centres (Regulation) Bill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri A.T. (Nana) Patil",
+          "mp_code": 4370,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Quality Standards"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8250,
+      "title": "Introduction of the Private Coaching Centres Regulatory Board Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Devji Mansingram Patel",
+          "mp_code": 4411,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8249,
+      "title": "Introduction of the Indigenous Cow Protection Board Bill<span\r\nstyle=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Devji Mansingram Patel",
+          "mp_code": 4411,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Cow Protection"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8248,
+      "title": "Introduction of the Free and Compulsory\r\n Primary, Secondary, High and Technical Education Bill<span style=''color:#404040''>,\r\n2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajesh Ranjan  (Pappu  Yadav)",
+          "mp_code": 554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compulsory Education",
+        "Free Education"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8247,
+      "title": "Introduction of the Basic and Primary \r\nEducation (Compulsory Teaching in Mother Tongue) Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri A.T. (Nana) Patil",
+          "mp_code": 4370,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Mother Language"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8246,
+      "title": "Introduction of the Prohibition of Child \r\nMarriage (Amendment) Bill<span style=''color:#404040''>, 2016 </span>(Amendment\r\nof Section 2, etc.).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Sanjay Jaiswal",
+          "mp_code": 4455,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8245,
+      "title": "Introduction of the State of Arunachal \r\nPradesh (Amendment) Bill<span style=''color:#404040''>, 2016 </span>(Insertion of\r\nnew Sections 29A to 29L).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Ninong Ering",
+          "mp_code": 4367,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Judicial Delay",
+        "High Court"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8244,
+      "title": "Introduction of the Prohibition and Eradication of Ragging Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8243,
+      "title": "Introduction of \r\nthe Compulsory Teaching of Agricultural Education in Educational Institutions\r\nBill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajeev Shankarrao Satav",
+          "mp_code": 4798,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Curriculum Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8242,
+      "title": "Introduction of the Reservation for the Other Backward Classes in Private\r\nSector Bill<span style=''color:#404040''>, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajeev Shankarrao Satav",
+          "mp_code": 4798,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Reservation Policy"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8241,
+      "title": "Introduction of the Special Financial Assistance to the Backward  and Drought\r\nAffected Regions of Vidarbha and  Marathwada Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajeev Shankarrao Satav",
+          "mp_code": 4798,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Economic Backwardness",
+        "Unemployed Youth"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8240,
+      "title": "Introduction of the Domestic Workers Welfare Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Shashi Tharoor",
+          "mp_code": 4569,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Minimum Wage",
+        "Social Security"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8239,
+      "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2016 <i>(Amendment of Article 243Q, etc.)</i>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Shashi Tharoor",
+          "mp_code": 4569,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "State Legislatures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8238,
+      "title": "Introduction of the Supreme Court of India (Establishment of Circuit Benches at\r\nMumbai, Chennai and Kolkata) Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rajeev Shankarrao Satav",
+          "mp_code": 4798,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Judicial Delay",
+        "Court Benches"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8237,
+      "title": "Introduction of the <b>Supreme\r\nCourt of India (Establishment of a Permanent  Bench at  Hamirpur) Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Court Benches"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8236,
+      "title": "Introduction of the Assam Reorganisation (Karbi Dimanchal) Bill, 2016.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Biren Singh Engti",
+          "mp_code": 2084,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Development Programmes",
+        "State Reorganisation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8235,
+      "title": "Introduction of the\r\n Representation of the People (Amendment) Bill, 2016</span><i><span\r\nstyle=''font-size:13.0pt;font-family:Aryan2Unicode''> (Insertion of new Section\r\n70A)</span></i><span style=''font-size:13.0pt;font-family:Aryan2Unicode''>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Pralhad Venkatesh Joshi",
+          "mp_code": 3982,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8234,
+      "title": "Introduction of the Copyright (Amendment)\r\n Bill, 2015 <i>(Amendment of Section 52)</i>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Pralhad Venkatesh Joshi",
+          "mp_code": 3982,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8233,
+      "title": "Introduction of the Prohibition of Spitting in Public Places Bill, 2015.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Pralhad Venkatesh Joshi",
+          "mp_code": 3982,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Sanitation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8232,
+      "title": "Introduction\r\n of the Representation of the People (Amendment) Bill, 2015</span><i><span\r\nstyle=''font-size:13.0pt;font-family:Aryan2Unicode''> </span></i><span\r\nstyle=''font-size:13.0pt;font-family:Aryan2Unicode''>(Amendment of Section 62).",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Pralhad Venkatesh Joshi",
+          "mp_code": 3982,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Criminalisation of Politics",
+        "Right to Vote"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8231,
+      "title": "Introduction\r\n of the Prevention of Cruelty to Animals (Amendment) Bill, 2016 <i>(Amendment of\r\nSection 11, etc.)</i>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Poonam Mahajan",
+          "mp_code": 4660,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8230,
+      "title": "Introduction of \r\nthe Maintenance and Welfare of Parents and Senior \r\nCitizens (Amendment) Bill, 2016 <i>(Amendment of Section 2, etc.)</i>.",
+      "debate_date": "05/08/2016",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Smt. Poonam Mahajan",
+          "mp_code": 4660,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Old Age Benefits",
+        "Welfare Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8229,
+      "title": "Motion regarding 25th Report of Committee\r\non Private Members’ Bills And Resolutions.",
+      "debate_date": "05/08/2016",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Rattan Lal Kataria",
+          "mp_code": 183,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8228,
+      "title": "Further discussion on Sustainable Development Goals raised by Kunwar\r\nBharatendra Singh on 3rd August, 2016 (Discussion not concluded).",
+      "debate_date": "05/08/2016",
+      "debate_type": 45,
+      "debate_type_desc": "SHORT DURATION DISCUSSIONS (RULE-193)",
+      "members": [
+        {
+          "mp_name": "Shri Virendra Singh",
+          "mp_code": 3608,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Abhijit Mukherjee",
+          "mp_code": 4581,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Idris Ali",
+          "mp_code": 4848,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Parasuraman K.",
+          "mp_code": 4885,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Prem Das Rai",
+          "mp_code": 4347,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": [
+        "Agricultural Development",
+        "Agricultural Sector",
+        "Chemical Fertilizers",
+        "Development Programmes",
+        "Economic Growth",
+        "Educational Institutions",
+        "Fund Allocation",
+        "Irrigation Development",
+        "Irrigation Projects",
+        "Malnutrition",
+        "Solar Energy",
+        "Welfare Schemes",
+        "Remunerative Prices",
+        "MPLADS",
+        "Prime Minister Gram Sadak Yojana (PMGSY)",
+        "Pradhan Mantri Sichayeen Yojana",
+        "Sustainable Development Goal (SDG)"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8227,
+      "title": "Issue regarding Hirakaud Project in Sambalpur.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Nagendra Kumar Pradhan",
+          "mp_code": 4813,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8226,
+      "title": "Issue regarding construction of dams, over the tributaries of Mahanadi by the\r\nGovernment of Chattisgarh.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8225,
+      "title": "Regarding shortage of teachers and non-teaching staff at Kendriya Vidyalayas\r\n across the country.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Rangaswamy Dhruvanarayana",
+          "mp_code": 4342,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Recruitment",
+        "Central Schools"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8224,
+      "title": "Need to run train between Mahua and Surat on daily basis.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Naranbhai Kachhadia",
+          "mp_code": 4448,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Service",
+        "Railway Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8223,
+      "title": "Need to increase the remuneration of National Literacy Mission Staff.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ravindra Kumar Pandey",
+          "mp_code": 285,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8222,
+      "title": "Issue regarding problems of APWD workers in Andaman.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bishnu Pada Ray",
+          "mp_code": 371,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8221,
+      "title": "Need to remove the chairman of NBCC for the alleged involvement in the\r\ncorruption.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Kaushal Kishore",
+          "mp_code": 4710,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8220,
+      "title": "Need to regularise the services of employees involved in National Health\r\nMission.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Rajeev Shankarrao Satav",
+          "mp_code": 4798,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8219,
+      "title": "Issue regarding problems caused due to call droping and poor mobile network in\r\nBalrampur and Shravasti Parliamentary Constituency.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Daddan Mishra",
+          "mp_code": 4592,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Bhairon Prasad Mishra",
+          "mp_code": 4626,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Telecommunication Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
+      "db_slno": 8218,
+      "title": "Need to take steps to absorb 500 wait listed candidates in the Central Railway.",
+      "debate_date": "05/08/2016",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Gajanan Chandrakant Kirtikar",
+          "mp_code": 4922,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Heena Vijaykumar Gavit",
+          "mp_code": 4787,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Kunwar Pushpendra Singh Chandel",
+          "mp_code": 4665,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 16,
+      "session": 9,
       "db_slno": 8217,
       "title": "Demand for modernization of postal services in rural areas.",
       "debate_date": "05/08/2016",
@@ -74941,1228 +76117,6 @@
         }
       ],
       "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6485,
-      "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2015 (Amendment Of Article 16)",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri P.P. Chaudhary",
-          "mp_code": 4597,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6484,
-      "title": "Introdution of the Constitutuion\r\n (Amdnement) Bill, 2015 (Amendment Of Articles 338 And 340).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri P.P. Chaudhary",
-          "mp_code": 4597,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6483,
-      "title": "Introduction of the Persons belonging to Economically Weaker Section \r\n(Reservation of Vacancies in Posts And Services) Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Rahul Ramesh Shewale",
-          "mp_code": 4903,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6482,
-      "title": "Introduction\r\n of the Right Of Children to Free And Compulsory Education (Amendment) Bill,\r\n2015 (Amendment Of Section 2, etc.).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Rahul Ramesh Shewale",
-          "mp_code": 4903,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6481,
-      "title": "Introduction of the Representation of the \r\nPeople (Amendment) Bill, 2015 (Amendment of Section 30).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Rahul Ramesh Shewale",
-          "mp_code": 4903,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6480,
-      "title": "Introduction of the Anganwadi Workers (Regularization Of Service And Other\r\n Benefits) Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri A.T. (Nana) Patil",
-          "mp_code": 4370,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6479,
-      "title": "Introduction of the Supreme Court of India \r\n(Establishment of a Permanent Bench at Aurangabad) Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Chandrakant Bhaurao Khaire",
-          "mp_code": 189,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6478,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015 (Amendment of \r\narticles 124 and 216).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Udit Raj",
-          "mp_code": 4764,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6477,
-      "title": "Introduction of the Free Eduational \r\nAnd Hostel Facilities To Students Belonging to Scheduled Castes, Scheduled \r\nTribes And Economically Weaker Class Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6476,
-      "title": "Introduction of the Savita Ambedkar National University For Women Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Udit Raj",
-          "mp_code": 4764,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6475,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015. (Substitution \r\nof new section for section 21A)",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Jayadev Galla",
-          "mp_code": 4770,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6474,
-      "title": "Introduction of the Bureau of Accountability Bill, 2015",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Gopal Chinayya Shetty",
-          "mp_code": 4661,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6473,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015. (Insertion of new\r\n article 300B).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Gopal Chinayya Shetty",
-          "mp_code": 4661,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6472,
-      "title": "Introduction of the Destitute And Neglected Women (Welfare) Bill, \r\n2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Gopal Chinayya Shetty",
-          "mp_code": 4661,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6471,
-      "title": "Introduction \r\nof The Scheduled Tribes And Other Traditional Forest Dwellers (Recognition Of \r\nForest Rights) Amendment Bill, 2015 (Amendment of Section 2).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Raju alias Devappa Anna Shetti",
-          "mp_code": 4397,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6470,
-      "title": "Introduction of the Transgender Persons \r\n(Welfare) Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. (Smt.) Kakoli Ghosh Dastidar",
-          "mp_code": 4489,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6469,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015 (Insertion of \r\nnew articles 77A, etc.).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri A.P. Jithender Reddy",
-          "mp_code": 380,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6468,
-      "title": "Introduction of the Clinical Establishments (Registration And \r\nRegulation) Amendment Bill, 2015 (Amendment of section 2, etc.).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri A.P. Jithender Reddy",
-          "mp_code": 380,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6467,
-      "title": "Introduction of the Indian Penal Code (Amendment) Bill. 2015 (Substitution\r\n of new Section for Section 377).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Shashi Tharoor",
-          "mp_code": 4569,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6466,
-      "title": "Introduction of the Asylum Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Shashi Tharoor",
-          "mp_code": 4569,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6465,
-      "title": "Introduction of the Indian Penal Code (Amendment) Bill, 2015 (Substitution \r\nof new Section for Section 124A).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Dr. Shashi Tharoor",
-          "mp_code": 4569,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6464,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015>(Substitution\r\nof new Article for Article 130).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Vinod Kumar Boianapalli",
-          "mp_code": 4084,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6463,
-      "title": "Introductin of the Andhra Pradesh Reorganisation (Amendment) Bill, 2015 (Amendment\r\nof Section 31)",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Vinod Kumar Boianapalli",
-          "mp_code": 4084,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6462,
-      "title": "Introduction of the Andhra Pradesh Reorganisation (Amendment) Bill,\r\n2015 (Amendment of Section 26).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Vinod Kumar Boianapalli",
-          "mp_code": 4084,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6461,
-      "title": "Introduction of the Constitution \r\n(Amendment) Bill, 2015 (Substitution Of New Article For Article 331).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Smt. Poonam Mahajan",
-          "mp_code": 4660,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6460,
-      "title": "Introduction of the Constitution (Amendment) Bill, 2015 (Insertion Of New\r\n Articles 16A and 16AA).",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Om Prakash Yadav",
-          "mp_code": 4462,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6459,
-      "title": "Introduction of the Mentally Retarded Children \r\n(Welfare) Bill, 2015.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6458,
-      "title": "Motion Regarding 17th Report of Committee on Private Members \r\nBills And Resolutions.",
-      "debate_date": "18/12/2015",
-      "debate_type": 39,
-      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
-      "members": [
-        {
-          "mp_name": "Shri Rattan Lal Kataria",
-          "mp_code": 183,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6457,
-      "title": "Regarding raising an issue on the powers of Governor.",
-      "debate_date": "18/12/2015",
-      "debate_type": 52,
-      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
-      "members": [
-        {
-          "mp_name": "Shri P. Kumar",
-          "mp_code": 4546,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Rajiv Pratap Rudy",
-          "mp_code": 385,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Prof. Saugata Roy",
-          "mp_code": 2554,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Dr. K. Gopal",
-          "mp_code": 4829,
-          "mp_part_code": 4
-        },
-        {
-          "mp_name": "Shri T.G. Venkatesh Babu",
-          "mp_code": 4916,
-          "mp_part_code": 5
-        },
-        {
-          "mp_name": "Shri Sidhant Mohapatra",
-          "mp_code": 4425,
-          "mp_part_code": 6
-        },
-        {
-          "mp_name": "Shri Prasanna Kumar Patasani",
-          "mp_code": 299,
-          "mp_part_code": 7
-        },
-        {
-          "mp_name": "Shri PR. Senthilnathan",
-          "mp_code": 4838,
-          "mp_part_code": 8
-        },
-        {
-          "mp_name": "Shri Kaushalendra Kumar",
-          "mp_code": 4467,
-          "mp_part_code": 9
-        },
-        {
-          "mp_name": "Smt. R. Vanaroja",
-          "mp_code": 4913,
-          "mp_part_code": 10
-        },
-        {
-          "mp_name": "Shri K. Ashok Kumar",
-          "mp_code": 4850,
-          "mp_part_code": 11
-        },
-        {
-          "mp_name": "Shri Nagarajan P.",
-          "mp_code": 4883,
-          "mp_part_code": 12
-        },
-        {
-          "mp_name": "Shri R.K. Bharathi Mohan",
-          "mp_code": 4852,
-          "mp_part_code": 13
-        },
-        {
-          "mp_name": "Dr. K. Kamaraaj",
-          "mp_code": 4836,
-          "mp_part_code": 14
-        },
-        {
-          "mp_name": "Shri Elumalai Vellaigounder",
-          "mp_code": 4841,
-          "mp_part_code": 15
-        },
-        {
-          "mp_name": "Shri Dushyant Chautala",
-          "mp_code": 4624,
-          "mp_part_code": 16
-        },
-        {
-          "mp_name": "Shri Bhartruhari Mahtab",
-          "mp_code": 225,
-          "mp_part_code": 17
-        }
-      ],
-      "keywords": [
-        "Government Policy",
-        "Political Interest"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6456,
-      "title": "Need to pay Rs. 2000/ honorarium to the motivational teachers in Bihar due\r\n from past two years and increase their honorarium by Rs. 10,000/-.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Om Prakash Yadav",
-          "mp_code": 4462,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Dr. Sanjay Jaiswal",
-          "mp_code": 4455,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Teachers",
-        "salaries"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6455,
-      "title": "Need to construct a foot overbridge at Jahirabad Railway Station and \r\ncomplete Beetar Railway Line.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Bheemrao Baswanthrao Patil",
-          "mp_code": 4756,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Development",
-        "New Railway Line"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6454,
-      "title": "Regarding converting the stretch from 0/0 - 4/450 and 16/0-103/4 as \r\nNational Highway.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri K. Ashok Kumar",
-          "mp_code": 4850,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Development Plans"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6453,
-      "title": "Need to open an Ayush hospital in each state.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Banshilal Mahto",
-          "mp_code": 4882,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Dr. Ramesh Pokhriyal Nishank",
-          "mp_code": 4761,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Medical Facilities",
-        "Traditional Medicine"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6452,
-      "title": "Regarding exempting farmers from paying toll charges.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri  Chhotelal",
-          "mp_code": 4859,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6451,
-      "title": "Need to make a new Railway station between Titwal and Kharamli.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Kapil Moreshwar Patil",
-          "mp_code": 4658,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities",
-        "Railway Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6450,
-      "title": "Need to construct a level crossing at Pealy Railway station.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. Pratima Mondal",
-          "mp_code": 4871,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities",
-        "Railway Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6449,
-      "title": "Need to control Neonatal deaths by adopting proven and cost effective measures \r\nand coordinating with the global health partners such as WHO, UNICEF, UNFPA, World Bank, UNAIDS.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. (Smt.) Ratna De(Nag)",
-          "mp_code": 4499,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Maternal And Child Health",
-        "Child Mortality"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6448,
-      "title": "Regarding disbursing of educational loan to poors by the nationalized banks and \r\nrecovery of the loans.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri (Adv.) Joice George",
-          "mp_code": 4686,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Parayamparanbil Kuttappan Biju",
-          "mp_code": 4563,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Educational Expenditures",
-        "Higher Education"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6447,
-      "title": "Need to open an agricultural university at Maharajganj.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Janardan Singh Sigriwal",
-          "mp_code": 4638,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Agricultural Development",
-        "Higher Education Institutions"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6446,
-      "title": "Need to construct railway overbridge at Belagavi and also develop a airport.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Suresh Chanabasappa Angadi",
-          "mp_code": 3983,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities",
-        "Air Services"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6445,
-      "title": "Need to repair Ganga Ghats in Dumdum Parliamentary constituency, West\r\n Bengal.",
-      "debate_date": "18/12/2015",
-      "debate_type": 52,
-      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
-      "members": [
-        {
-          "mp_name": "Prof. Saugata Roy",
-          "mp_code": 2554,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Rajiv Pratap Rudy",
-          "mp_code": 385,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Sushree Uma  Bharati",
-          "mp_code": 496,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "River Embankments",
-        "River Cleaning"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6444,
-      "title": "Need to pass a law from the Parliament and provide reservation to dalits.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Rattan Lal Kataria",
-          "mp_code": 183,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Reservation Policy"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6443,
-      "title": "Need to open a Central Wildlife Park in Farrukabad.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Mukesh Rajput",
-          "mp_code": 4666,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Wildlife Conservation",
-        "Wildlife Sanctuary"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6442,
-      "title": "Need to open Bogapani Railway station.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Rameswar Teli",
-          "mp_code": 4745,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Service",
-        "Railway Station"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6441,
-      "title": "Regarding laying of a new railway line between Delhi to Bulandshahr.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Dr. Bhola Singh",
-          "mp_code": 4475,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6440,
-      "title": "Need to raise the labour wages of Tea labourers of Assam.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Kamakhya Prasad Tasa",
-          "mp_code": 4739,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Bhairon Prasad Mishra",
-          "mp_code": 4626,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 3
-        }
-      ],
-      "keywords": [
-        "Labour Welfare",
-        "Wage Incentives"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6439,
-      "title": "Need to provide better facilities in Seemanchal Express.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Santosh Kumar",
-          "mp_code": 4792,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6438,
-      "title": "Need to construct a Panchnad Project in\r\n Bundelkhand region to solve the problem of drought in Uttar Pradesh and Madhya \r\nPradesh.",
-      "debate_date": "18/12/2015",
-      "debate_type": 52,
-      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
-      "members": [
-        {
-          "mp_name": "Shri Ashok Kumar Dohrey",
-          "mp_code": 4697,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        },
-        {
-          "mp_name": "Shri Rajiv Pratap Rudy",
-          "mp_code": 385,
-          "mp_part_code": 3
-        },
-        {
-          "mp_name": "Sushree Uma  Bharati",
-          "mp_code": 496,
-          "mp_part_code": 4
-        }
-      ],
-      "keywords": [
-        "Drought Areas",
-        "Water Supply"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6437,
-      "title": "Need to complete the construction work of the road on NH 75.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Vishnu Dayal Ram",
-          "mp_code": 4731,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Maintenance and Repair",
-        "Road Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6436,
-      "title": "Regarding sanctioning of budget in the financial year 2016-2017 for comleting \r\nthe new railway line survey undertaken between Hamirpur Road to Urai Railway\r\n line and Maroba to Bhind.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Budget Allocation",
-        "New Railway Line"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6435,
-      "title": "Need to increase the MSP of cotton to Rs. 5000.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Vinod Kumar Boianapalli",
-          "mp_code": 4084,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Jute Industry",
-        "Minimum Support  Prices (MSP)"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6434,
-      "title": "Need to expedite the construction work of Ghorghat Bridge connecting Bihar \r\nand Uttar Pradesh in Bhagalpur under the Sansad Adarsh Gram Yojana.",
-      "debate_date": "18/12/2015",
-      "debate_type": 52,
-      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
-      "members": [
-        {
-          "mp_name": "Smt. Veena Devi",
-          "mp_code": 4684,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Rajiv Pratap Rudy",
-          "mp_code": 385,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Bridges",
-        "Maintenance and Repair"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6433,
-      "title": "Regarding completion of the New Railway line between Biharsharif to Sheikhpura.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Kaushalendra Kumar",
-          "mp_code": 4467,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Passenger Amenities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6432,
-      "title": "Regarding granting permission to farmers to install tubewells in their fields.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Ramesh Bidhuri",
-          "mp_code": 4854,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Water Supply",
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6431,
-      "title": "Regarding issuing caste certificate to women from Haryana married in Rajasthan \r\neither from Haryana or Rajasthan.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Smt. Santosh Ahlawat",
-          "mp_code": 4628,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Kunwar Pushpendra Singh Chandel",
-          "mp_code": 4665,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Reservation Policy"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 16,
-      "session": 6,
-      "db_slno": 6430,
-      "title": "Regarding setting up a Science Park sub-regional centre near Pathani Samanta \r\nInterpretation Centre, Khandpara by the Central Government.",
-      "debate_date": "18/12/2015",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION",
-      "members": [
-        {
-          "mp_name": "Shri Bhartruhari Mahtab",
-          "mp_code": 225,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Science Institutes"
-      ]
     }
   ],
   "count": 2500,
