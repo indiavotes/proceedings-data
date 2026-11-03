@@ -3,25 +3,25 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 1522,
+    "records_with_text": 1531,
     "shards": 19,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 104278,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 1522,
-    "txt_files_removed": 0
+    "txt_files_removed": 9
   },
   "shards": [
     {
       "file": "texts-00.json",
-      "count": 121,
-      "bytes": 4559817
+      "count": 128,
+      "bytes": 4642171
     },
     {
       "file": "texts-01.json",
-      "count": 95,
-      "bytes": 4591889
+      "count": 97,
+      "bytes": 4617386
     },
     {
       "file": "texts-02.json",
@@ -110,7 +110,16 @@
     }
   ],
   "record_to_shard": {
+    "rs|RS226_2012-09-05_S": 0,
+    "rs|RS226_2012-09-05_U": 0,
+    "rs|RS226_2012-09-06_S": 0,
+    "rs|RS226_2012-09-06_U": 0,
+    "rs|RS226_2012-09-07_S": 0,
+    "rs|RS226_2012-09-07_U": 0,
+    "rs|RS227_2012-11-22_S": 0,
+    "rs|RS227_2012-11-22_U": 0,
     "rs|RS227_2012-11-26_S": 0,
+    "rs|RS227_2012-11-26_U": 0,
     "rs|RS227_2012-11-27_S": 0,
     "rs|RS227_2012-11-27_U": 0,
     "rs|RS227_2012-11-29_S": 0,
@@ -229,8 +238,8 @@
     "rs|RS230_2013-12-05_U": 0,
     "rs|RS230_2013-12-06_S": 0,
     "rs|RS230_2013-12-06_U": 0,
-    "rs|RS230_2013-12-09_S": 0,
-    "rs|RS230_2013-12-10_S": 0,
+    "rs|RS230_2013-12-09_S": 1,
+    "rs|RS230_2013-12-10_S": 1,
     "rs|RS230_2013-12-10_U": 1,
     "rs|RS230_2013-12-11_S": 1,
     "rs|RS230_2013-12-11_U": 1,
