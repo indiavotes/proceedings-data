@@ -4,6 +4,944 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 6,
+      "db_slno": 4978,
+      "title": "The Scheduled Tribe Component (Planning, Allocation and Utilization of Financial Resources) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Adv Gowaal Kagada Padavi",
+          "mp_code": 5760,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4977,
+      "title": "The Higher Education School, Graduate School and University (Freedom of Speech) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Adv Gowaal Kagada Padavi",
+          "mp_code": 5760,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4976,
+      "title": "The Wildlife (Protection) Amendment Bill, 2024 (Amendment of Section 2, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Vishaldada Prakashbapu Patil",
+          "mp_code": 5756,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4975,
+      "title": "The Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Amendment Bill, 2024 (Amendment of Section 5, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Vishaldada Prakashbapu Patil",
+          "mp_code": 5756,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4974,
+      "title": "The Journalist (Prevention of Violence and Protection) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Vishaldada Prakashbapu Patil",
+          "mp_code": 5756,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4973,
+      "title": "The Advocates (Amendment) Bill, 2024 (Amendment of Section 2 etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
+          "mp_code": 5189,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Advocates(Amendment) Bill"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4972,
+      "title": "The Constitution (Amendment) Bill, 2025 (Amendment of Eighth Schedule)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4971,
+      "title": "The Digital Personal Data Protection (Amendment) Bill, 2024 (Amendment of Section 9, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4970,
+      "title": "The Infrastructure Project (Monitoring and Management) Board Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4969,
+      "title": "The Constitution (Amendment) Bill, 2025 (Amendment of The Eighth Schedule)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Bidyut Baran Mahato",
+          "mp_code": 4705,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4968,
+      "title": "The Bhagwan Birsa Munda Birthplace Ulihatu National Memorial Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Bidyut Baran Mahato",
+          "mp_code": 4705,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4967,
+      "title": "The Vegetable Products (Remunerative Support Price and Insurance) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Bidyut Baran Mahato",
+          "mp_code": 4705,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4966,
+      "title": "The Rights of Tenant Farmers Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+          "mp_code": 5096,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4965,
+      "title": "The Prohibition of Child Marriage (Amendment) Bill, 2025 (Amendment of Section 2, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+          "mp_code": 5096,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4964,
+      "title": "The Dairy Farmers (Welfare) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. K Sudhakar",
+          "mp_code": 5602,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4963,
+      "title": "The National Floriculture Board Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. K Sudhakar",
+          "mp_code": 5602,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4962,
+      "title": "The Unemployment Allowance Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Anand Bhadauria",
+          "mp_code": 5815,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4961,
+      "title": "The Stray Animals Control Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Anand Bhadauria",
+          "mp_code": 5815,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4960,
+      "title": "The Prevention of Torture Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri E T Mohammed Basheer",
+          "mp_code": 4561,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4959,
+      "title": "The Aligarh Muslim University (Amendment) Bill, 2024 (Amendment of Section 12)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri E T Mohammed Basheer",
+          "mp_code": 4561,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4958,
+      "title": "The Scheduled Tribes and other Traditional Forest Dwellers (Recognition of Forest Rights) (Amendment) Bill, 2025 (Amendment of Section 3)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Vishnu Dayal Ram",
+          "mp_code": 4731,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4957,
+      "title": "The Scheduled Castes and The Scheduled Tribes (Prevention of Atrocities) Amendment Bill, 2024 (Amendment of Sections 2 and 3)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Vishnu Dayal Ram",
+          "mp_code": 4731,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4956,
+      "title": "The Narcotic Drugs and Psychotropic Substances (Amendment) Bill, 2024  (Amendment of Section 31A)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Vishnu Dayal Ram",
+          "mp_code": 4731,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4955,
+      "title": "The Abandoned Widows and Single Women (Protection, Rehabilitation and Welfare) Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Kadiyam Kavya",
+          "mp_code": 5783,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4954,
+      "title": "The Menstrual Benefits Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Kadiyam Kavya",
+          "mp_code": 5783,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4953,
+      "title": "The Welfare and Protection of Cow Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Shrikant Eknath Shinde",
+          "mp_code": 4659,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4952,
+      "title": "The National Board for Combating Natural Calamity and Welfare of Natural Calamity Victims Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Shrikant Eknath Shinde",
+          "mp_code": 4659,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4951,
+      "title": "The Regulation of Deepfake Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Shrikant Eknath Shinde",
+          "mp_code": 4659,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4950,
+      "title": "The Specially Abled Children (Welfare) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4949,
+      "title": "The Prevention of Slaughter and Preservation of Cattle Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4948,
+      "title": "The Legitimate Asylum to Refugees Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4947,
+      "title": "The Special Financial Assistance for Ancient Monuments and Archaeological Sites and Remains in the State of Rajasthan Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Damodar Agrawal",
+          "mp_code": 5620,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4946,
+      "title": "The Hindu Religious Places of Worship Prohibition of Marketing, Slaughtering, Trading, Cooking, Serving and Consumption of Meat and other than Non-Vegetarian Food) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Damodar Agrawal",
+          "mp_code": 5620,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4945,
+      "title": "Special Financial Assistance for Geo-Mapping of Trees in the State of Rajasthan Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Damodar Agrawal",
+          "mp_code": 5620,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4944,
+      "title": "The Narcotic Drugs and Psychotropic Substances (Amendment) Bill, 2024 (Amendment of Section 1, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Dharamvira Gandhi",
+          "mp_code": 4676,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4943,
+      "title": "The Sikh Marriage Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Dharamvira Gandhi",
+          "mp_code": 4676,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4942,
+      "title": "The Constitution (Scheduled Tribes) Order (Amendment) Bill, 2025 (Amendment of the Schedule)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Byreddy Shabari",
+          "mp_code": 5687,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4941,
+      "title": "The Central Institute for Cancer Detection and Prevention Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Byreddy Shabari",
+          "mp_code": 5687,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4940,
+      "title": "The National Medical Commission (Amendment) Bill, 2024 (Amendment of Section 14, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Ms. S Jothimani",
+          "mp_code": 4981,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4939,
+      "title": "The Constitution (Amendment) Bill, 2025 (Amendment of Article 15, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Ms. S Jothimani",
+          "mp_code": 4981,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4938,
+      "title": "The Constitution (Amendment) Bill, 2025 (Amendment of Articles 15 and 16)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Ms. S Jothimani",
+          "mp_code": 4981,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4937,
+      "title": "The Milk and Milk Products (Remunerative Support Price) Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Lumbaram Choudhary",
+          "mp_code": 5621,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4936,
+      "title": "The Fodder Warehouse Board Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Lumbaram Choudhary",
+          "mp_code": 5621,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4935,
+      "title": "The Indigenous Cow and Cow Progeny Protection Board Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Lumbaram Choudhary",
+          "mp_code": 5621,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4934,
+      "title": "The Domestic Workers (Regulation of Employment and Conditions at Work) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. T Sumathy Alias Thamizhachi Thangapandian",
+          "mp_code": 4961,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4933,
+      "title": "The Digital Personal Data Protection (Amendment) Bill, 2024 (Amendment of Section 2, etc.)-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. T Sumathy Alias Thamizhachi Thangapandian",
+          "mp_code": 4961,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4932,
+      "title": "The Breast Cancer (Awareness) Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. T Sumathy Alias Thamizhachi Thangapandian",
+          "mp_code": 4961,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4931,
+      "title": "The Salt Workers (Welfare) Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Kanimozhi Karunanidhi",
+          "mp_code": 4960,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4930,
+      "title": "The Climate Change (Mitigation and Adaptation) Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Kanimozhi Karunanidhi",
+          "mp_code": 4960,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4929,
+      "title": "The Death Penalty (Abolition) Bill, 2025-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Kanimozhi Karunanidhi",
+          "mp_code": 4960,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4928,
+      "title": "The Special Financial Assistance for Development and Conservation of Water Bodies in the State of Maharashtra Bill, 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Hemant Vishnu Savara",
+          "mp_code": 5669,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
+      "db_slno": 4927,
+      "title": "The Coastal Tourism Development Board Bill , 2024-Introduced",
+      "debate_date": "05/12/2025",
+      "debate_type": 39,
+      "debate_type_desc": "PRIVATE MEMBERS' BILLS",
+      "members": [
+        {
+          "mp_name": "Dr. Hemant Vishnu Savara",
+          "mp_code": 5669,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 6,
       "db_slno": 4926,
       "title": "The Maharashtra Central Sports University Bill, 2024-Introduced",
       "debate_date": "05/12/2025",
@@ -59421,1089 +60359,6 @@
       "keywords": [
         "Employment",
         "Job Opportunities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2476,
-      "title": "Regarding need to undertake research to explore medicinal potential of the marine seagrass plant found along Rameswaram Coast, Tamil Nadu-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Navaskani K",
-          "mp_code": 4962,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Research Projects",
-        "Life Saving Drugs"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2475,
-      "title": "Regarding need to expedite establishment of Integrated Steel Plant in YSR Kadapa district, Andhra Pradesh-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Y S Avinash Reddy",
-          "mp_code": 4816,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Steel Industry",
-        "Environmental Clearance"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2474,
-      "title": "Regarding wild animal menace in Yavatmal and Washim districts in Maharashtra-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Sanjay Uttamrao Deshmukh",
-          "mp_code": 5725,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Wildlife",
-        "Animal Cruelty"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2473,
-      "title": "Regarding exemption of toll tax for persons residing near Toll Plaza on National Highway in Bhagan Bigha in Nalanda district, Bihar-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Kaushalendra Kumar",
-          "mp_code": 4467,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Tax Collection"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2472,
-      "title": "Regarding need to explore comprehensive credit assessment mechanisms to accurately reflect the financial health of MSMEs in order to address the problems faced by the sector-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Kesineni Sivanath",
-          "mp_code": 5667,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Loans",
-        "Public Sector Banks"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2471,
-      "title": "Regarding need to set up an airport at Melchengam near Tiruvannamalai in Tamil Nadu under UDAN-RCS Scheme-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri C N Annadurai",
-          "mp_code": 4969,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Airports",
-        "Pilgrims",
-        "Religious Sites"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2470,
-      "title": "Regarding need to release pending funds for West Bengal under various welfare and development schemes-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Prof. Sougata Ray",
-          "mp_code": 2554,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fund Allocation",
-        "Rural Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2469,
-      "title": "Regarding need to print the question paper of NET and UPSC Examinations for 'Santhali' language in OI Chiki Script-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Kalipada Saren Kherwal",
-          "mp_code": 5825,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Literature",
-        "Sahitya Akademi"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2468,
-      "title": "Regarding information related to number of employees under SC/ST/OBC categories working in PSUs, Educational Institutions and Research Centres-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Dharmendra Yadav",
-          "mp_code": 4206,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Employment",
-        "Recruitment"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2467,
-      "title": "Regarding need to establish ECHS Polyclinics and CSD canteens in Mavelikkara Parliamentary Constituency, Kerala-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Kodikunnil Suresh",
-          "mp_code": 477,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "ex-Servicemen Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2466,
-      "title": "Regarding need to take strict action against production and smuggling of drugs in Barmer Parliamentary Constituency , Rajasthan-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri Ummeda Ram Beniwal",
-          "mp_code": 5762,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Drug Peddling"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2465,
-      "title": "Regarding need to expedite completion of restoration work of Shri Markandeshwar Devsthan in Chamorshi tehsil, Gadchiroli district, Maharashtra-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Dr. Kirsan Namdeo",
-          "mp_code": 5727,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Pilgrim Centres",
-        "Pilgrimage"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2464,
-      "title": "Regarding need to set up a separate High Court for Nagaland-Laid",
-      "debate_date": "17/03/2025",
-      "debate_type": 21,
-      "debate_type_desc": "MATTERS UNDER RULE-377",
-      "members": [
-        {
-          "mp_name": "Shri S Supongmeren Jamir",
-          "mp_code": 5567,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Judiciary",
-        "North Eastern Region"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2463,
-      "title": "List Of Members Who Have Associated Themselves With The Issues Raised Under Matters Of Urgent Public Importance",
-      "debate_date": "12/03/2025",
-      "debate_type": 2,
-      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
-      "members": [
-        {
-          "mp_name": "Shri Jagdambika Pal",
-          "mp_code": 4295,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": []
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2462,
-      "title": "Regarding atrocities on religious community",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Manoj Tigga",
-          "mp_code": 5596,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Communal Tension"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2461,
-      "title": "Regarding migration of labour from Nagarkurnool",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Mallu Ravi",
-          "mp_code": 3534,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Labour Migrants"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2460,
-      "title": "Regarding delimitation of Parliamentary Constituency",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Kalanidhi Veeraswamy",
-          "mp_code": 4959,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Delimitation Commission"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2459,
-      "title": "Regarding railway line",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Chandan Chauhan",
-          "mp_code": 5547,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Line"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2458,
-      "title": "Regarding Eklavya Model Residential School",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Kalipada Saren Kherwal",
-          "mp_code": 5825,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Education",
-        "Quality Education"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2457,
-      "title": "Regarding implementation of OPS",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Pushpendra Saroj",
-          "mp_code": 5804,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Pension Schemes"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2456,
-      "title": "Regarding Railway container",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Haribhai Patel",
-          "mp_code": 5560,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2455,
-      "title": "Regarding health facilities in rural area",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Hemant Vishnu Savara",
-          "mp_code": 5669,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Medical Institutions",
-        "Health Care Facilities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2454,
-      "title": "Regarding EPS-95 and waiver of farmers loan",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Smt. Supriya Sule",
-          "mp_code": 4392,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Loan Waiving",
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2453,
-      "title": "Regarding forest fire",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Manna Lal Rawat",
-          "mp_code": 5622,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Forest Conservation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2452,
-      "title": "Regarding displacement due to NTPC and CCL",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Manish Jaiswal",
-          "mp_code": 5673,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Land Acquisiotion"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2451,
-      "title": "Regarding alleged irregularities in Panchayat elections",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Neeraj Maurya",
-          "mp_code": 5637,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Elections"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2450,
-      "title": "Regarding Medical education",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ummeda Ram Beniwal",
-          "mp_code": 5762,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Medical Education",
-        "Medical Students"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2449,
-      "title": "Regarding railway issues",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Rabindra Narayan Behera",
-          "mp_code": 5595,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Railway Projects",
-        "Railway Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2445,
-      "title": "Regarding problem of drinking water in Hathras",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Anoop Pradhan Valmiki",
-          "mp_code": 5576,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Potable Water"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2444,
-      "title": "Regarding human-animal conflict in Kerala",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Adv K. Francis George",
-          "mp_code": 138,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Death",
-        "Wild Animals"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2443,
-      "title": "Regarding Gramin roads",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Laxmikant Pappu Nishad",
-          "mp_code": 5813,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Maintenance and Repair",
-        "Road Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2442,
-      "title": "Regarding construction of National Highway in Sidhi Parliamentary Constituency",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Rajesh Mishra",
-          "mp_code": 5579,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Road Accidents"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2441,
-      "title": "Regarding tendering process mentioned in DISHA meeting",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri  Chhotelal",
-          "mp_code": 4859,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Jagdambika Pal",
-          "mp_code": 4295,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Corruption"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2440,
-      "title": "Regarding Ayushman Card",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Janardan Mishra",
-          "mp_code": 4728,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Pradhan Mantri Jan Arogya Yojana"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2439,
-      "title": "Regarding increase in remuneration of labourers",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Kuldeep Indora",
-          "mp_code": 5730,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Jagdambika Pal",
-          "mp_code": 4295,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Wages"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2438,
-      "title": "Regarding Kendriya Vidyalaya in Sambhal, UP",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Zia Ur Rehman",
-          "mp_code": 5822,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Education"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2437,
-      "title": "Regarding issues pertaining to farmers",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Abhay Kumar Sinha",
-          "mp_code": 5646,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Jagdambika Pal",
-          "mp_code": 4295,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2436,
-      "title": "Regarding setting up of Medical College",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Nilesh Dnyandev Lanke",
-          "mp_code": 5821,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Health Facilities"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2435,
-      "title": "Regarding Master Plan for Film City",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ravindra Dattaram Waikar",
-          "mp_code": 5701,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Fire Stations"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2434,
-      "title": "Regarding Madurai Airport connectivity",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Manickam Tagore B",
-          "mp_code": 4552,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Tourism",
-        "Air Flights"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2433,
-      "title": "Regarding memorial for Shabeed Mangal Pandey",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Sanatan Pandey",
-          "mp_code": 5580,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Martyrs",
-        "Bharat Ratna"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2432,
-      "title": "Regarding water shortage in Latur Parliamentary Constituency",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Dr. Shivaji Bandappa Kalge",
-          "mp_code": 5746,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Water Supply",
-        "Potable Water"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2431,
-      "title": "Regarding problem of sugarcane farmers in UP",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Anand Bhadauria",
-          "mp_code": 5815,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Farmers' Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2430,
-      "title": "Regarding funds for development of border areas",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Joyanta Basumatary",
-          "mp_code": 5548,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Border Area Development Programme"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2429,
-      "title": "Regarding bad condition of roads in Murshidabad",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Md Abu Taher Khan",
-          "mp_code": 5052,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Border Area Development Programme",
-        "Fund Allocation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2428,
-      "title": "Regarding development of religious sites in Sheohar",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Smt. Lovely Anand",
-          "mp_code": 3464,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Tourism",
-        "Tourism Development"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2427,
-      "title": "Regarding restoration of Cricket Stadium in Kanpur",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ramesh Awasthi",
-          "mp_code": 5608,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Modernisation",
-        "Sports Infrastructure"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2426,
-      "title": "Regarding allotment of land in eco-sensitive areas",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Hanuman Beniwal",
-          "mp_code": 5205,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Wildlife Conservation",
-        "Environment Conservation"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2425,
-      "title": "Regarding inclusion of certain community in SC category",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Bidyut Baran Mahato",
-          "mp_code": 4705,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Social Welfare"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2424,
-      "title": "Regarding shifting of bus stand in Etah",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Devesh Shakya",
-          "mp_code": 5656,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Passengers"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2423,
-      "title": "Regarding restoration of OPS",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Shri Ram Shiromani Verma",
-          "mp_code": 5164,
-          "mp_part_code": 1
-        },
-        {
-          "mp_name": "Shri Om Birla",
-          "mp_code": 4716,
-          "mp_part_code": 2
-        }
-      ],
-      "keywords": [
-        "Pension Schemes"
-      ]
-    },
-    {
-      "house": "ls",
-      "lok_sabha": 18,
-      "session": 4,
-      "db_slno": 2422,
-      "title": "Regarding noise pollution in Karol Bagh area",
-      "debate_date": "12/03/2025",
-      "debate_type": 46,
-      "debate_type_desc": "SPECIAL MENTION (ZERO HOUR)",
-      "members": [
-        {
-          "mp_name": "Ms. Bansuri Swaraj",
-          "mp_code": 5588,
-          "mp_part_code": 1
-        }
-      ],
-      "keywords": [
-        "Environmental Impact"
       ]
     }
   ],

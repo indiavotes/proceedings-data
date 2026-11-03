@@ -4,6 +4,1424 @@
       "house": "ls",
       "lok_sabha": 14,
       "session": 3,
+      "db_slno": 1609,
+      "title": "Reported thefts in the houses of Members of Parliament and law and order situation in Delhi.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Srichand Kripalani",
+          "mp_code": 200,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1608,
+      "title": "Reported move of the railways to discontinue some train services.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Chandra Bhushan Singh",
+          "mp_code": 440,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Public Grievances",
+        "Railway Service"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1607,
+      "title": "Regarding plight of cotton growers.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ratilal Kalidas Varma",
+          "mp_code": 500,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Mahesh Kumar Kanodia",
+          "mp_code": 3517,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": [
+        "Farmers",
+        "Gujarat",
+        "Import Duty"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1606,
+      "title": "Need to review the prices of petroleum products due to fall in the prices of crude oil in the international market.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri P.K. Vasudevan Nair",
+          "mp_code": 1278,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Diesel Oil",
+        "Petrol",
+        "Price Control"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1605,
+      "title": "Need to allocate 22.5% of Budgetary funds for the welfare of Scheduled Castes and Scheduled Tribes.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ramdas Athawale",
+          "mp_code": 24,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "SC & ST Welfare",
+        "Poverty Alleviation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1604,
+      "title": "Reported illegal practices adopted by ‘Assisted Reproductive Technology Clinics’ causing danger to Society.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Hannan Mollah",
+          "mp_code": 255,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Regulations",
+        "Corruption",
+        "Illegal Activities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1603,
+      "title": "Need to bring the interest rate on Central Government Employees Provident Fund on par with the EPF interest rate.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bachi Singh Rawat",
+          "mp_code": 29,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1602,
+      "title": "Need to ensure 7.19% share to Himachal Government in respect of all projects being run in the state by the Central Government and other state Governments.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri  Chander Kumar",
+          "mp_code": 4045,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1601,
+      "title": "Need to ensure basic telephone services in rural areas.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Prof. Rasa Singh Rawat",
+          "mp_code": 368,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Telephone Connections",
+        "Telecommunication Services",
+        "Telecommunication Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1600,
+      "title": "Need to upgrade the sanitorium in Bhawali, Nainital, Uttranchal to an Institute for chest diseases.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri K.C. Singh Baba",
+          "mp_code": 4073,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Financial Aid",
+        "Medical Treatment",
+        "Tuberculosis",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1599,
+      "title": "Regarding problems being faced by Ex-Servicemen.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Jual Oram",
+          "mp_code": 279,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Recruitment",
+        "Job Protection"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1598,
+      "title": "Alleged frequent incidents of robbery in trains by offering intoxicating food to passengers.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Santasri Chatterjee",
+          "mp_code": 4191,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Passenger Amenities",
+        "Railway Security",
+        "Railway Safety"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1597,
+      "title": "Issues relating to Patent Laws for products.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri P.C. Thomas",
+          "mp_code": 486,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Essential Drugs",
+        "Legislation",
+        "Prices"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1596,
+      "title": "Issues regarding India’s permanent seat in the United Nations Security Council with ‘Veto Right’.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Adhir Ranjan Chowdhury",
+          "mp_code": 97,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "UN General Assembly",
+        "UN Security Council"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1595,
+      "title": "Need to provide for haltage of train nos. 8204-8203 and 2448-2447 at Ragol and Mahoba railway stations respectively in Uttar Pradesh.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Rajnarayan Budholiya",
+          "mp_code": 4174,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Lines",
+        "Stoppage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1594,
+      "title": "Reported move to privatise the Weights and Measures Evaluation System in the country.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Alakesh Das",
+          "mp_code": 3970,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Bureau Of Indian Standards",
+        "Measurement Systems",
+        "Privatization"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1593,
+      "title": "Need for ensuring early opening of the Railway Zonal Office in Jaipur and include Kota city under its jurisdiction.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Girdhari Lal Bhargav",
+          "mp_code": 55,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Colonies",
+        "Land Allotment",
+        "Railway Service",
+        "Zonal Offices"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1592,
+      "title": "Need to look into the problems of the people of the border areas of Jammu and Kashmir, whose lands have been used by the Defence forces for laying mines, building bunkers and setting up camps.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Madan Lal Sharma",
+          "mp_code": 4047,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Prof. Vijay Kumar Malhotra",
+          "mp_code": 230,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Shivraj V. Patil",
+          "mp_code": 10002,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Compensation",
+        "Land Allotment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1591,
+      "title": "Alleged illegal eviction of tribal setlters in Pandalur Taluk of Gudalur district in Tamil Nadu.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri A.P. Abdullakutty",
+          "mp_code": 3,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Farmers",
+        "Tribal Areas"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1590,
+      "title": "Need to check erosion of agricultural land in Aligarh and Mathura districts of Uttar Pradesh.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Bijendra Singh",
+          "mp_code": 4194,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agriculture",
+        "Soil Erosion",
+        "Welfare Programmes",
+        "Public Interest"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1589,
+      "title": "Need to accommodate the Village Health Guides in the proposed ‘Village Health Mission’ owing to the reported move to discontinue the Village Health Guides Schemes.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Maha Deo Rao Shiwankar",
+          "mp_code": 3418,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Public Health",
+        "Rural Health Care Programme"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1588,
+      "title": "Issues regarding ‘Right to Strike’ by Government and Public Sector employees.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Varkala Radhakrishnan",
+          "mp_code": 342,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri A.K.S. Vijayan",
+          "mp_code": 514,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Ajay Chakraborty",
+          "mp_code": 67,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Fundamental Rights",
+        "Legislation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1587,
+      "title": "Reported deaths due to starvation at Basti, Kushinagar and Sant Kabir Nagar districts of Uttar Pradesh.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri  Aditya Nath",
+          "mp_code": 7,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drought",
+        "Programme Implementation",
+        "Local Administration"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1586,
+      "title": "Reported change in the telecast timings of Tamil News bulletin and Tamil feature films on Doordarshan (DD-I Channel).",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri A. Ravichandran",
+          "mp_code": 4115,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Television Programmes",
+        "Television Transmission"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1585,
+      "title": "Need to modernise the Netaji Subas International Airport at Kolkata.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ajay Chakraborty",
+          "mp_code": 67,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Airports",
+        "Modernization",
+        "Infrastructure Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1584,
+      "title": "Need to provide reservation to the Madiga Dandura community of Karnataka in proportion to their population.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri S. Mallikarjunaiah",
+          "mp_code": 3533,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Scheduled Castes",
+        "SC & ST"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1583,
+      "title": "Issues relating to refugees of ‘Pakistan Occupied Kashmir (POK)’.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Ch. Lal Singh",
+          "mp_code": 4046,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Commission",
+        "Compensation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1582,
+      "title": "Need to bring forth stringent penal provisions to check the operations of unrecognised private universities.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Ramji Lal Suman",
+          "mp_code": 475,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Education",
+        "University Grants Commission",
+        "Punishments",
+        "Foreign Degrees"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1581,
+      "title": "Alleged violation of Election Commission’s Code of Conduct in Bihar.",
+      "debate_date": "20/12/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Prof. Vijay Kumar Malhotra",
+          "mp_code": 230,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Allegations",
+        "Corruption"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1580,
+      "title": "Regarding postponment of Calling Attention.",
+      "debate_date": "20/12/2004",
+      "debate_type": 7,
+      "debate_type_desc": "BUSINESS OF HOUSE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1579,
+      "title": "Statement regarding status of implementation of recommendations contained in the 1st Report of Committee on Water Resources",
+      "debate_date": "20/12/2004",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Priya Ranjan Dasmunsi",
+          "mp_code": 104,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Prof. Vijay Kumar Malhotra",
+          "mp_code": 230,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Demands For Grants",
+        "Irrigation Development",
+        "Water Management"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1578,
+      "title": "Presentation of the 1<SUP>st</SUP>, 2<SUP>nd</SUP> , 3<SUP>rd</SUP> and 4<SUP>th</SUP> Reports of the Committee on Petitions.</FONT><FONT FACE=\"DV_Divyae\" SIZE=4> </FONT><FONT SIZE=4>",
+      "debate_date": "20/12/2004",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Dr. M. Jagannath",
+          "mp_code": 156,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1577,
+      "title": "Regarding passing the Securities Laws (Amendment) Bill, 2004, without any amendment on 16<SUP>th</SUP> December, 2004; passing of the Enforcement of Security Interest and Recovery of Debts Laws (Amendment) Bill, 2004 without any amendment on 16<SUP>th</SUP> December, 2004 and returning of the Central Excise Tariff (Amendment) Bill, 2004 without any recommendations.",
+      "debate_date": "20/12/2004",
+      "debate_type": 24,
+      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1100,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1576,
+      "title": "Papers laid on the Table by members/Ministers.",
+      "debate_date": "20/12/2004",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
+          "mp_code": 327,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Priya Ranjan Dasmunsi",
+          "mp_code": 104,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Sunil Dutt",
+          "mp_code": 476,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
+          "mp_code": 327,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Namo Narain Meena",
+          "mp_code": 4060,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
+          "mp_code": 327,
+          "mp_part_code": 6
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1575,
+      "title": "Welcome to the Parliamentary delegation under His Excellency Chaudhary Amir Hussain, Speaker of the National Assembly of the Islamic Republic of Pakistan and the members.",
+      "debate_date": "20/12/2004",
+      "debate_type": 56,
+      "debate_type_desc": "INTRODUCTION OF PARLIAMENTARY DELEGATIONS",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Foreign Relations"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1574,
+      "title": "Discussion on the points arising out of the answer given by the Minister of State (Independent Charge) of the Ministry of Civil Aviation on 09.12.2004 to Starred Question No.122 regarding ‘Proposals for New Airports’.",
+      "debate_date": "21/12/2004",
+      "debate_type": 17,
+      "debate_type_desc": "HALF-AN-HOUR DISCUSSIONS (RULE-55)",
+      "members": [
+        {
+          "mp_name": "Shri Virjibhai Thummar",
+          "mp_code": 4036,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri C.K. Chandrappan",
+          "mp_code": 2052,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Shailendra Kumar",
+          "mp_code": 3870,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr.  Chinta Mohan",
+          "mp_code": 3001,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Varkala Radhakrishnan",
+          "mp_code": 342,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Churchill Alemao",
+          "mp_code": 3643,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Dushyant Singh",
+          "mp_code": 4005,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Madhusudan Devram Mistry",
+          "mp_code": 570,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri A.P. Abdullakutty",
+          "mp_code": 3,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Chandrakant Bhaurao Khaire",
+          "mp_code": 189,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Vijayendra Pal Singh Badnore",
+          "mp_code": 30,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Salarapatty Kuppusamy Kharventhan",
+          "mp_code": 3695,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Harisingh Nasaru Rathod",
+          "mp_code": 3995,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Pawan Kumar Bansal",
+          "mp_code": 42,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Kunnur Manjunath Channappa",
+          "mp_code": 3981,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri C. Kuppusami",
+          "mp_code": 212,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Mohammad Salim",
+          "mp_code": 4190,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri Dhanuskodi Athithan",
+          "mp_code": 2974,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Jivabhai Ambalal Patel",
+          "mp_code": 4037,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri P. Rajendran",
+          "mp_code": 347,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Santasri Chatterjee",
+          "mp_code": 4191,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Praful Patel",
+          "mp_code": 10016,
+          "mp_part_code": 23
+        }
+      ],
+      "keywords": [
+        "Civil Aviation",
+        "Facilities",
+        "Indian Airlines",
+        "International Airports",
+        "Private Sector",
+        "Rehabilitation",
+        "Tourism",
+        "Tourism Industry",
+        "Training Centres",
+        "Airports Authority Of India",
+        "Modernisation",
+        "Air-strip",
+        "Basic Amenities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1573,
+      "title": "Maj. Gen.(Retd.) B.C. Khanduri, AVSM called the attention of the Minister of Health and Family Welfare on the status of implementation of the decision taken to set up Medical Institutes on the lines of AIIMS, Delhi, in six states.",
+      "debate_date": "21/12/2004",
+      "debate_type": 8,
+      "debate_type_desc": "CALLING ATTENTION (RULE-197)",
+      "members": [
+        {
+          "mp_name": "Dr. Anbumani Ramdoss",
+          "mp_code": 10008,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "AVSM,Maj.G Bhuwan Chandra Khanduri",
+          "mp_code": 196,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri M.A. Kharabela Swain",
+          "mp_code": 478,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Pawan Kumar Bansal",
+          "mp_code": 42,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Raghunath Jha",
+          "mp_code": 169,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Ch. Lal Singh",
+          "mp_code": 4046,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Dr.(Prof.) Prasanna Kumar Patasani",
+          "mp_code": 299,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Sansuma Khunggur Bwiswmuthiary",
+          "mp_code": 66,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Dr. Anbumani Ramdoss",
+          "mp_code": 10008,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "AVSM,Maj.G Bhuwan Chandra Khanduri",
+          "mp_code": 196,
+          "mp_part_code": 11
+        }
+      ],
+      "keywords": [
+        "Fund Allocation",
+        "Hospitals",
+        "Medical Care",
+        "Medical Colleges",
+        "Medical Education",
+        "Medical Facilities",
+        "Medical Institutions",
+        "Medical Treatment",
+        "Medicine",
+        "Patients",
+        "Road Accidents",
+        "Trauma Centres",
+        "Tribal Areas",
+        "Overloading"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1572,
+      "title": "Need to declare Jalaun district in U.P. as a dacoit prone area and deploy adequate Central Police Forces in the region.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bhanu Pratap Singh Verma",
+          "mp_code": 3824,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Kidnapping",
+        "Public Grievances",
+        "Police Protection"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1571,
+      "title": "Introduction and passing of the Appropriation (No.4) Bill, 2004 (Bill passed).",
+      "debate_date": "21/12/2004",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Expenditure",
+        "Consolidated Fund of India"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1570,
+      "title": "Further discussion on Demands for Supplementary Grants in respect of the Budget (General) for the year 2004-2005.",
+      "debate_date": "21/12/2004",
+      "debate_type": 4,
+      "debate_type_desc": "BUDGET (GENERAL)",
+      "members": [
+        {
+          "mp_name": "Shri Dushyant Singh",
+          "mp_code": 4005,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P. Rajendran",
+          "mp_code": 347,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Kirip Chaliha",
+          "mp_code": 3478,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Brajesh Pathak",
+          "mp_code": 4097,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Faggan Singh Kulaste",
+          "mp_code": 207,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Dr. (Col.) Dhani Ram Shandil",
+          "mp_code": 416,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Shailendra Kumar",
+          "mp_code": 3870,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Bikram Keshari Deo",
+          "mp_code": 108,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Prof. M. Ramadass",
+          "mp_code": 4125,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 10
+        }
+      ],
+      "keywords": [
+        "Agriculture",
+        "AIIMS",
+        "Chemical Fertilizers",
+        "Development Programmes",
+        "Drinking Water",
+        "Education",
+        "Food For Work Programme",
+        "Foreign Exchange",
+        "Gross Domestic Product",
+        "Handicrafts",
+        "Indira Awaas Yojana",
+        "Industrial Sector",
+        "Loans",
+        "Regional Imbalances",
+        "Suicide",
+        "Textile Industry",
+        "Tourism",
+        "Tourists",
+        "Unemployment",
+        "Telecommunication Services",
+        "Globalisation",
+        "Mid-Day-Meal Scheme",
+        "Non-Governmental Organisation",
+        "MPLADS",
+        "Minimum Support  Prices (MSP)",
+        "Infrastructure Development",
+        "Cess",
+        "Crop Insurance ",
+        "Privatization",
+        "Kisan Credit Card",
+        "Gadgil Formula",
+        "Basic Amenities",
+        "Foreign Direct Investment (FDI)",
+        "Golden Quadrilateral Project",
+        "Subsidy"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1569,
+      "title": "Need to construct rail overbridge on the track near residential areas in Adilabad, Andhra Pradesh.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Public Grievances",
+        "Railway Station",
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1568,
+      "title": "Need for a special financial package for the development of Bodoland Territorial Areas Districts in Assam.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sansuma Khunggur Bwiswmuthiary",
+          "mp_code": 66,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Development Projects",
+        "Financial Aid",
+        "Tribal Areas"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1567,
+      "title": "Need to address the problem of shortage of power supply in Maharashtra.</FONT><B><FONT FACE=\"DV_Divyae\" SIZE=4> </B></FONT><FONT SIZE=4>",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Kalpana Ramesh Narhire",
+          "mp_code": 4142,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Power Cuts",
+        "Public Grievances",
+        "Electricity Shortage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1566,
+      "title": "Need to set up the required infrastructural facilities at Karur, Tamil Nadu for enabling promotion of handloom exports from the region.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri K.C. Palanisamy",
+          "mp_code": 3355,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Foreign Exchange",
+        "Telecommunication Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1565,
+      "title": "Need to provide financial assistance for building a proper drainage system in Unnao city, U.P.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Brajesh Pathak",
+          "mp_code": 4097,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Disease Control",
+        "Fund Allocation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1564,
+      "title": "Need to provide stoppage of important trains at Roorkee railway station, Uttaranchal.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri  Rajendra Kumar",
+          "mp_code": 4176,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Passenger Amenities",
+        "Railway Service",
+        "Railway Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1563,
+      "title": "Need to construct Rail Overbridges at Ranichak, Bhogpur and Panskura railway stations in West Bengal and review the guidelines for construction of ROB’s.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Lakshman Chandra Seth",
+          "mp_code": 410,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Construction",
+        "Railway Crossings",
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1562,
+      "title": "Need to relax the laws relating to Environment and Forests with a view to provide irrigation facilities to tribals in Bharuch Parliamentary Constituency, Gujarat.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mansukhbhai D. Vasava",
+          "mp_code": 501,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Farmers",
+        "Tribal Areas",
+        "Dams"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1561,
+      "title": "Need to provide funds for early completion of Gosikhurd Irrigation Project in Nagpur Zone of Maharashtra.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Maha Deo Rao Shiwankar",
+          "mp_code": 3418,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compensation",
+        "Fund Allocation",
+        "Project Implementation",
+        "Irrigation Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1560,
+      "title": "Need to augment the power supply to Chhattisgarh.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Karuna Shukla",
+          "mp_code": 4012,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Power Cuts",
+        "Power Shortage",
+        "Public Grievances",
+        "Electricity Shortage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1558,
+      "title": "Need to grant recognition to the Super Specialty Hospital in Goa for the benefit of CGHS subscribers.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Churchill Alemao",
+          "mp_code": 3643,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Central Govt Health Scheme",
+        "Medical Facilities",
+        "Medical Treatment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
+      "db_slno": 1557,
+      "title": "Need to give relaxation to fishing folk engaged in domestic shell collection by increasing Shell Fishing Zone in Andaman and Nicobar Islands.",
+      "debate_date": "21/12/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Manoranjan Bhakta",
+          "mp_code": 2326,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Coastal Areas",
+        "Handicraft Promotion",
+        "Employment Generation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 3,
       "db_slno": 1556,
       "title": "Need for proper repair and maintenance of Ranchi-Gumla-Chhatisgarh and Kuddu-Gumla National Highways.",
       "debate_date": "21/12/2004",
@@ -33827,7 +35245,7 @@
       "keywords": []
     }
   ],
-  "count": 1216,
+  "count": 1268,
   "house": "ls",
   "shard_index": 23
 }
